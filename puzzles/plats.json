@@ -1,0 +1,33 @@
+{
+  "pivot": "plats",
+  "categories": [
+    {
+      "title": "Område med ett bestämt läge",
+      "words": [
+        "region",
+        "fläck"
+      ]
+    },
+    {
+      "title": "Ledigt utrymme",
+      "words": [
+        "rum",
+        "yta"
+      ]
+    },
+    {
+      "title": "Anställning",
+      "words": [
+        "jobb",
+        "tjänst"
+      ]
+    },
+    {
+      "title": "Placering i tävling",
+      "words": [
+        "ställning",
+        "rangordning"
+      ]
+    }
+  ]
+}

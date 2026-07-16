@@ -1,0 +1,33 @@
+{
+  "pivot": "bryter",
+  "categories": [
+    {
+      "title": "Kommer i konflikt med lagen, uppfyller inte, kränker",
+      "words": [
+        "överträda",
+        "kränka"
+      ]
+    },
+    {
+      "title": "Får att ändra riktning",
+      "words": [
+        "vända",
+        "kantra"
+      ]
+    },
+    {
+      "title": "Slås till skum",
+      "words": [
+        "skumma",
+        "vispa"
+      ]
+    },
+    {
+      "title": "Får att spricka sönder i två delar (ofta genom kraftig böjning)",
+      "words": [
+        "spräcka",
+        "krossa"
+      ]
+    }
+  ]
+}

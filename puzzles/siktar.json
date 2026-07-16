@@ -1,0 +1,33 @@
+{
+  "pivot": "siktar",
+  "categories": [
+    {
+      "title": "Riktar ett vapen e.d. mot ett mål",
+      "words": [
+        "rikta",
+        "måtta"
+      ]
+    },
+    {
+      "title": "Inriktar sig på, har som sitt mål",
+      "words": [
+        "avse",
+        "sträva"
+      ]
+    },
+    {
+      "title": "Får syn på",
+      "words": [
+        "upptäcka",
+        "iaktta"
+      ]
+    },
+    {
+      "title": "Låter passera genom en sikt",
+      "words": [
+        "sila",
+        "filtrera"
+      ]
+    }
+  ]
+}

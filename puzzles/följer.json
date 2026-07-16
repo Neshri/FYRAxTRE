@@ -1,0 +1,33 @@
+{
+  "pivot": "följer",
+  "categories": [
+    {
+      "title": "Efterträder",
+      "words": [
+        "ersätta",
+        "avlösa"
+      ]
+    },
+    {
+      "title": "Gör sällskap med",
+      "words": [
+        "ledsaga",
+        "sällskapa"
+      ]
+    },
+    {
+      "title": "Rättar sig efter, lyder (1)",
+      "words": [
+        "hörsamma",
+        "lyda"
+      ]
+    },
+    {
+      "title": "Observerar, hänger med i",
+      "words": [
+        "iaktta",
+        "uppmärksamma"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pivot": "drar",
+  "categories": [
+    {
+      "title": "Ritar, tecknar (2)",
+      "words": [
+        "teckna",
+        "skissa"
+      ]
+    },
+    {
+      "title": "Förbrukar, behöver",
+      "words": [
+        "konsumera",
+        "behöva"
+      ]
+    },
+    {
+      "title": "Blåser, fläktar",
+      "words": [
+        "blåsa",
+        "fläkta"
+      ]
+    },
+    {
+      "title": "Släpar, bogserar",
+      "words": [
+        "bogsera",
+        "hasa"
+      ]
+    }
+  ]
+}

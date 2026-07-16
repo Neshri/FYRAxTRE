@@ -1,0 +1,33 @@
+{
+  "pivot": "fin",
+  "categories": [
+    {
+      "title": "Snygg, vacker",
+      "words": [
+        "tjusig",
+        "stilig"
+      ]
+    },
+    {
+      "title": "Tunn, smal",
+      "words": [
+        "slank",
+        "spenslig"
+      ]
+    },
+    {
+      "title": "Som är i små korn eller bitar",
+      "words": [
+        "pulveriserad",
+        "mald"
+      ]
+    },
+    {
+      "title": "Diskret, subtil",
+      "words": [
+        "sober",
+        "lågmäld"
+      ]
+    }
+  ]
+}

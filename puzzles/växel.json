@@ -1,0 +1,33 @@
+{
+  "pivot": "växel",
+  "categories": [
+    {
+      "title": "Ställe där något kopplas om",
+      "words": [
+        "förgrening",
+        "korsning"
+      ]
+    },
+    {
+      "title": "Anordning som reglerar hjulens varvtal i förhållande till motorns",
+      "words": [
+        "koppling",
+        "kardan"
+      ]
+    },
+    {
+      "title": "Pengar i mindre valörer, växelpengar",
+      "words": [
+        "fickpengar",
+        "mynt"
+      ]
+    },
+    {
+      "title": "En sorts skuldförbindelse (särskilt i äldre tid)",
+      "words": [
+        "obligation",
+        "revers"
+      ]
+    }
+  ]
+}

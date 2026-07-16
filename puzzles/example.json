@@ -1,0 +1,22 @@
+{
+  "date": "2026-07-16",
+  "pivot": "rörelse",
+  "categories": [
+    {
+      "title": "Förflyttning",
+      "words": ["transport", "förskjutning"]
+    },
+    {
+      "title": "Företag",
+      "words": ["firma", "bolag"]
+    },
+    {
+      "title": "Ideell grupp",
+      "words": ["kollektiv", "organisation"]
+    },
+    {
+      "title": "Känsla",
+      "words": ["gripenhet", "patos"]
+    }
+  ]
+}

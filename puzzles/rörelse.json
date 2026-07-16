@@ -1,0 +1,33 @@
+{
+  "pivot": "rörelse",
+  "categories": [
+    {
+      "title": "Förflyttning",
+      "words": [
+        "transport",
+        "förskjutning"
+      ]
+    },
+    {
+      "title": "Företag (1)",
+      "words": [
+        "firma",
+        "bolag"
+      ]
+    },
+    {
+      "title": "Grupp människor som samarbetar för ett (ideellt) mål",
+      "words": [
+        "kollektiv",
+        "organisation"
+      ]
+    },
+    {
+      "title": "Stark känsla av ömhet, gripenhet",
+      "words": [
+        "gripenhet",
+        "patos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>fyra&nbsp;i&nbsp;tre — automatic-doodle</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Mono:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="wrap">
+    <header class="page-head">
+      <h1>fyra <span class="cross">×</span> tre</h1>
+      <p class="tagline">Fyra kategorier. Tre ord vardera. Ett ord finns i alla fyra.</p>
+    </header>
+
+    <section class="board" id="board" aria-live="polite">
+      <div class="grid" id="grid"></div>
+
+      <div class="controls" id="controls">
+        <button class="btn btn-outline" id="shuffleBtn" type="button">Blanda</button>
+        <button class="btn btn-outline" id="deselectBtn" type="button">Avmarkera</button>
+        <button class="btn btn-solid" id="submitBtn" type="button" disabled>Skicka in</button>
+        <button class="btn btn-solid hidden" id="resultsBtn" type="button">Resultat</button>
+      </div>
+
+      <p class="mistakes">
+        Fel: <span id="mistakeDots" class="dots"></span>
+      </p>
+
+      <section class="legend hidden" id="legend">
+        <ol id="legendList" class="legend-list"></ol>
+        <button class="btn btn-outline" id="backBtn" type="button">← Tillbaka</button>
+      </section>
+    </section>
+
+    <p class="status" id="status" aria-live="polite"></p>
+  </main>
+
+  <script src="game.js"></script>
+</body>
+</html>

@@ -1,0 +1,33 @@
+{
+  "pivot": "stark",
+  "categories": [
+    {
+      "title": "Som har stor styrka, kraftfull (om levande varelser)",
+      "words": [
+        "kraftig",
+        "robust"
+      ]
+    },
+    {
+      "title": "Mäktig; handlingskraftig",
+      "words": [
+        "mäktig",
+        "inflytelserik"
+      ]
+    },
+    {
+      "title": "Som intensivt påverkar sinnena",
+      "words": [
+        "skarp",
+        "intensiv"
+      ]
+    },
+    {
+      "title": "Slitstark, hållbar",
+      "words": [
+        "tålig",
+        "hållfast"
+      ]
+    }
+  ]
+}

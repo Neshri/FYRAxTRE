@@ -1,0 +1,33 @@
+{
+  "pivot": "öppen",
+  "categories": [
+    {
+      "title": "Inte stängd eller låst eller täckt",
+      "words": [
+        "bar",
+        "naken"
+      ]
+    },
+    {
+      "title": "Tillgänglig eller synlig för alla, allmän, offentlig",
+      "words": [
+        "offentlig",
+        "allmän"
+      ]
+    },
+    {
+      "title": "Inte avgjord",
+      "words": [
+        "oavgjord",
+        "olöst"
+      ]
+    },
+    {
+      "title": "Uppriktig",
+      "words": [
+        "frank",
+        "rättfram"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pivot": "mål",
+  "categories": [
+    {
+      "title": "Ändamål, syfte",
+      "words": [
+        "syfte",
+        "avsikt"
+      ]
+    },
+    {
+      "title": "Den mängd mat man äter vid ett visst tillfälle, måltid",
+      "words": [
+        "portion",
+        "mat"
+      ]
+    },
+    {
+      "title": "Rättegång, process",
+      "words": [
+        "process",
+        "rättegång"
+      ]
+    },
+    {
+      "title": "Förmåga att tala; språk",
+      "words": [
+        "tal",
+        "språk"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pivot": "bas",
+  "categories": [
+    {
+      "title": "Fundament som något vilar på",
+      "words": [
+        "sockel",
+        "hörnsten"
+      ]
+    },
+    {
+      "title": "Något grundläggande, utgångspunkt",
+      "words": [
+        "utgångspunkt",
+        "rot"
+      ]
+    },
+    {
+      "title": "Militär anläggning (ofta utanför det egna landet)",
+      "words": [
+        "garnison",
+        "kasern"
+      ]
+    },
+    {
+      "title": "Kemiskt ämne som kan ta upp vätejoner",
+      "words": [
+        "soda",
+        "kalk"
+      ]
+    }
+  ]
+}

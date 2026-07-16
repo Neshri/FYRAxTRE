@@ -1,0 +1,33 @@
+{
+  "pivot": "linje",
+  "categories": [
+    {
+      "title": "Figur med utsträckning åt bara ett håll",
+      "words": [
+        "diagonal",
+        "stråle"
+      ]
+    },
+    {
+      "title": "Sträcka som trafikeras med allmänna kommunikationer",
+      "words": [
+        "led",
+        "rutt"
+      ]
+    },
+    {
+      "title": "Kurs (1), inriktning",
+      "words": [
+        "inriktning",
+        "orientering"
+      ]
+    },
+    {
+      "title": "Uppställning i en rad (på bredden)",
+      "words": [
+        "rad",
+        "fil"
+      ]
+    }
+  ]
+}

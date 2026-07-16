@@ -1,0 +1,33 @@
+{
+  "pivot": "dryg",
+  "categories": [
+    {
+      "title": "Riklig, rundlig (om tid, mått och vikt)",
+      "words": [
+        "ymnig",
+        "rikhaltig"
+      ]
+    },
+    {
+      "title": "Som räcker länge",
+      "words": [
+        "långvarig",
+        "ihållande"
+      ]
+    },
+    {
+      "title": "Besvärlig, betungande",
+      "words": [
+        "jobbig",
+        "knivig"
+      ]
+    },
+    {
+      "title": "Högfärdig, mallig",
+      "words": [
+        "uppblåst",
+        "kaxig"
+      ]
+    }
+  ]
+}

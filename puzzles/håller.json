@@ -1,0 +1,33 @@
+{
+  "pivot": "håller",
+  "categories": [
+    {
+      "title": "Utför; anordnar",
+      "words": [
+        "arrangera",
+        "organisera"
+      ]
+    },
+    {
+      "title": "Har i handen, griper, fattar",
+      "words": [
+        "gripa",
+        "fatta"
+      ]
+    },
+    {
+      "title": "Hindrar från att röra sig",
+      "words": [
+        "blockera",
+        "hejda"
+      ]
+    },
+    {
+      "title": "Bibehåller, bevarar",
+      "words": [
+        "bevara",
+        "konservera"
+      ]
+    }
+  ]
+}

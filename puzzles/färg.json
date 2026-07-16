@@ -1,0 +1,33 @@
+{
+  "pivot": "färg",
+  "categories": [
+    {
+      "title": "Ett slags synintryck (rött, grönt etc.); kulör, nyans",
+      "words": [
+        "nyans",
+        "kulör"
+      ]
+    },
+    {
+      "title": "Åsiktsriktning",
+      "words": [
+        "strömning",
+        "syn"
+      ]
+    },
+    {
+      "title": "Positiv stämning",
+      "words": [
+        "drag",
+        "anda"
+      ]
+    },
+    {
+      "title": "En av serierna hjärter, spader, ruter och klöver i en kortlek",
+      "words": [
+        "hjärter",
+        "spader"
+      ]
+    }
+  ]
+}

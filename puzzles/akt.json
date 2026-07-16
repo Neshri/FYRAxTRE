@@ -1,0 +1,33 @@
+{
+  "pivot": "akt",
+  "categories": [
+    {
+      "title": "Ceremoni",
+      "words": [
+        "ritual",
+        "invigning"
+      ]
+    },
+    {
+      "title": "Handling, process",
+      "words": [
+        "dåd",
+        "gärning"
+      ]
+    },
+    {
+      "title": "Del av en teaterpjäs",
+      "words": [
+        "scen",
+        "tablå"
+      ]
+    },
+    {
+      "title": "Dokument",
+      "words": [
+        "urkund",
+        "dossier"
+      ]
+    }
+  ]
+}

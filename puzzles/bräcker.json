@@ -1,0 +1,33 @@
+{
+  "pivot": "bräcker",
+  "categories": [
+    {
+      "title": "Knäcker, bryter",
+      "words": [
+        "knäcka",
+        "bända"
+      ]
+    },
+    {
+      "title": "Överträffar, stukar",
+      "words": [
+        "övergå",
+        "slå"
+      ]
+    },
+    {
+      "title": "Steker lätt",
+      "words": [
+        "fräsa",
+        "bryna"
+      ]
+    },
+    {
+      "title": "Gryr",
+      "words": [
+        "dagas",
+        "ljusna"
+      ]
+    }
+  ]
+}

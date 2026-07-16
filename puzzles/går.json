@@ -1,0 +1,33 @@
+{
+  "pivot": "går",
+  "categories": [
+    {
+      "title": "Förflyttar sig till fots (utan att springa)",
+      "words": [
+        "vandra",
+        "promenera"
+      ]
+    },
+    {
+      "title": "Avlägsnar sig",
+      "words": [
+        "lämna",
+        "smita"
+      ]
+    },
+    {
+      "title": "Spelas",
+      "words": [
+        "visas",
+        "uppförs"
+      ]
+    },
+    {
+      "title": "Får plats, ryms",
+      "words": [
+        "ryms",
+        "passar"
+      ]
+    }
+  ]
+}

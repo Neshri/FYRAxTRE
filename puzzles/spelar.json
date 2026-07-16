@@ -1,0 +1,33 @@
+{
+  "pivot": "spelar",
+  "categories": [
+    {
+      "title": "Ägnar sig åt spel (sport/spel)",
+      "words": [
+        "sporta",
+        "idrotta"
+      ]
+    },
+    {
+      "title": "Uppför en viss teaterpjäs, agerar i en teaterpjäs eller film",
+      "words": [
+        "uppföra",
+        "agera"
+      ]
+    },
+    {
+      "title": "Låtsas",
+      "words": [
+        "låtsa",
+        "simulera"
+      ]
+    },
+    {
+      "title": "Framför musik på instrument, musicerar",
+      "words": [
+        "musicera",
+        "traktera"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pivot": "jämn",
+  "categories": [
+    {
+      "title": "Plan, slät",
+      "words": [
+        "platt",
+        "flack"
+      ]
+    },
+    {
+      "title": "Som fördelar sig regelbundet; hela tiden lika stor",
+      "words": [
+        "regelbunden",
+        "konstant"
+      ]
+    },
+    {
+      "title": "Som inte domineras av någon part; som väger lika",
+      "words": [
+        "likvärdig",
+        "balanserad"
+      ]
+    },
+    {
+      "title": "Exakt, precis",
+      "words": [
+        "precis",
+        "exakt"
+      ]
+    }
+  ]
+}

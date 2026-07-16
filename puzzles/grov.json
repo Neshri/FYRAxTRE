@@ -1,0 +1,33 @@
+{
+  "pivot": "grov",
+  "categories": [
+    {
+      "title": "Tjock, kraftig, bastant",
+      "words": [
+        "mastig",
+        "bastant"
+      ]
+    },
+    {
+      "title": "Ojämn, skrovlig; inte bearbetad (i detalj)",
+      "words": [
+        "skrovlig",
+        "sträv"
+      ]
+    },
+    {
+      "title": "Ohyfsad, rå",
+      "words": [
+        "plump",
+        "oborstad"
+      ]
+    },
+    {
+      "title": "Svår (2), allvarlig (2)",
+      "words": [
+        "grav",
+        "svår"
+      ]
+    }
+  ]
+}

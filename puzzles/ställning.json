@@ -1,0 +1,33 @@
+{
+  "pivot": "ställning",
+  "categories": [
+    {
+      "title": "Sätt att stå eller sitta eller ligga",
+      "words": [
+        "pose",
+        "hållning"
+      ]
+    },
+    {
+      "title": "Ståndpunkt",
+      "words": [
+        "synpunkt",
+        "åsikt"
+      ]
+    },
+    {
+      "title": "Social position",
+      "words": [
+        "status",
+        "rang"
+      ]
+    },
+    {
+      "title": "Konstruktion",
+      "words": [
+        "uppbyggnad",
+        "stomme"
+      ]
+    }
+  ]
+}

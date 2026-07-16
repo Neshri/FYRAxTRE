@@ -1,0 +1,33 @@
+{
+  "pivot": "hård",
+  "categories": [
+    {
+      "title": "Som inte ger efter för tryck eller böjning",
+      "words": [
+        "fast",
+        "stel"
+      ]
+    },
+    {
+      "title": "Okänslig, sträng",
+      "words": [
+        "kall",
+        "strikt"
+      ]
+    },
+    {
+      "title": "Intensiv, påfrestande",
+      "words": [
+        "pressande",
+        "mödosam"
+      ]
+    },
+    {
+      "title": "Kraftig",
+      "words": [
+        "massiv",
+        "rejäl"
+      ]
+    }
+  ]
+}

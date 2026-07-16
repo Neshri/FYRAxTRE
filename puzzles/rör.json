@@ -1,0 +1,33 @@
+{
+  "pivot": "rör",
+  "categories": [
+    {
+      "title": "Berör, nuddar",
+      "words": [
+        "nudda",
+        "tangera"
+      ]
+    },
+    {
+      "title": "Vispar",
+      "words": [
+        "vispa",
+        "blanda"
+      ]
+    },
+    {
+      "title": "Berör känslomässigt, griper",
+      "words": [
+        "gripa",
+        "frappera"
+      ]
+    },
+    {
+      "title": "Handlar om, gäller",
+      "words": [
+        "gälla",
+        "omfatta"
+      ]
+    }
+  ]
+}

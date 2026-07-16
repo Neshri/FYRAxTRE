@@ -1,0 +1,33 @@
+{
+  "pivot": "pjäs",
+  "categories": [
+    {
+      "title": "Föremål som är uppställt som prydnad",
+      "words": [
+        "dekoration",
+        "ornament"
+      ]
+    },
+    {
+      "title": "Teaterstycke, skådespel",
+      "words": [
+        "drama",
+        "komedi"
+      ]
+    },
+    {
+      "title": "Figur (2) som man flyttar på ett spelbräde (särskilt i schack)",
+      "words": [
+        "figur",
+        "bricka"
+      ]
+    },
+    {
+      "title": "Tyngre eldvapen",
+      "words": [
+        "artilleri",
+        "kanon"
+      ]
+    }
+  ]
+}

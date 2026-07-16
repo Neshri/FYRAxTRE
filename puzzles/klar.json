@@ -1,0 +1,33 @@
+{
+  "pivot": "klar",
+  "categories": [
+    {
+      "title": "Ljus, lysande, genomskinlig",
+      "words": [
+        "transparent",
+        "ljus"
+      ]
+    },
+    {
+      "title": "Lätt att förstå, tydlig",
+      "words": [
+        "åskådlig",
+        "begriplig"
+      ]
+    },
+    {
+      "title": "Tydlig, stor",
+      "words": [
+        "enorm",
+        "rejäl"
+      ]
+    },
+    {
+      "title": "Färdig (1)",
+      "words": [
+        "redo",
+        "fullbordad"
+      ]
+    }
+  ]
+}

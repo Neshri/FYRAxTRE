@@ -1,0 +1,33 @@
+{
+  "pivot": "post",
+  "categories": [
+    {
+      "title": "Belopp (i räkenskap e.d.)",
+      "words": [
+        "saldo",
+        "kredit"
+      ]
+    },
+    {
+      "title": "Lodrät del av karm (till dörr eller fönster)",
+      "words": [
+        "regel",
+        "stolpe"
+      ]
+    },
+    {
+      "title": "(högre) tjänst (1)",
+      "words": [
+        "befattning",
+        "ämbete"
+      ]
+    },
+    {
+      "title": "Vakt (1)",
+      "words": [
+        "plit",
+        "garde"
+      ]
+    }
+  ]
+}

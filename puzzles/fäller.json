@@ -1,0 +1,33 @@
+{
+  "pivot": "fäller",
+  "categories": [
+    {
+      "title": "Slår omkull, får något att falla",
+      "words": [
+        "välta",
+        "stjälpa"
+      ]
+    },
+    {
+      "title": "Tvingar att avgå",
+      "words": [
+        "störta",
+        "avsätta"
+      ]
+    },
+    {
+      "title": "Dödar",
+      "words": [
+        "dräpa",
+        "likvidera"
+      ]
+    },
+    {
+      "title": "Yttrar, säger",
+      "words": [
+        "yttra",
+        "säga"
+      ]
+    }
+  ]
+}

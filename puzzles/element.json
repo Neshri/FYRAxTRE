@@ -1,0 +1,33 @@
+{
+  "pivot": "element",
+  "categories": [
+    {
+      "title": "Omgivning",
+      "words": [
+        "miljö",
+        "omvärld"
+      ]
+    },
+    {
+      "title": "Apparat som ger värme (särskilt inomhus)",
+      "words": [
+        "radiator",
+        "värmare"
+      ]
+    },
+    {
+      "title": "Del, beståndsdel",
+      "words": [
+        "ingrediens",
+        "inslag"
+      ]
+    },
+    {
+      "title": "Person med vissa (ofta negativa) egenskaper",
+      "words": [
+        "karaktär",
+        "figur"
+      ]
+    }
+  ]
+}

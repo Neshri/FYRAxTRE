@@ -1,0 +1,33 @@
+{
+  "pivot": "falsk",
+  "categories": [
+    {
+      "title": "Inte sann, oriktig",
+      "words": [
+        "osann",
+        "felaktig"
+      ]
+    },
+    {
+      "title": "Inte ärlig, opålitlig",
+      "words": [
+        "lömsk",
+        "oärlig"
+      ]
+    },
+    {
+      "title": "Inte äkta, förfalskad",
+      "words": [
+        "oäkta",
+        "artificiell"
+      ]
+    },
+    {
+      "title": "Med felaktig ton",
+      "words": [
+        "sur",
+        "disharmonisk"
+      ]
+    }
+  ]
+}

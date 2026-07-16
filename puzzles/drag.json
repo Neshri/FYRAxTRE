@@ -1,0 +1,33 @@
+{
+  "pivot": "drag",
+  "categories": [
+    {
+      "title": "Teckning, linje",
+      "words": [
+        "streck",
+        "skiss"
+      ]
+    },
+    {
+      "title": "Ansiktsuttryck; utseende",
+      "words": [
+        "uppsyn",
+        "anlete"
+      ]
+    },
+    {
+      "title": "Inre egenskap",
+      "words": [
+        "egenhet",
+        "dygd"
+      ]
+    },
+    {
+      "title": "(kall) luftström",
+      "words": [
+        "pust",
+        "fläkt"
+      ]
+    }
+  ]
+}

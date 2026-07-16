@@ -1,0 +1,33 @@
+{
+  "pivot": "leder",
+  "categories": [
+    {
+      "title": "Är ledare (1) eller chef för; sköter, styr (2)",
+      "words": [
+        "styra",
+        "basa"
+      ]
+    },
+    {
+      "title": "Släpper fram, överför",
+      "words": [
+        "transmitterar",
+        "kanaliserar"
+      ]
+    },
+    {
+      "title": "För (till ett mål)",
+      "words": [
+        "resulterar",
+        "bidrar"
+      ]
+    },
+    {
+      "title": "Ligger främst",
+      "words": [
+        "toppar",
+        "dominerar"
+      ]
+    }
+  ]
+}

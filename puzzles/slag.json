@@ -1,0 +1,33 @@
+{
+  "pivot": "slag",
+  "categories": [
+    {
+      "title": "Sort, typ",
+      "words": [
+        "sort",
+        "typ"
+      ]
+    },
+    {
+      "title": "Kort stund",
+      "words": [
+        "ögonblick",
+        "stund"
+      ]
+    },
+    {
+      "title": "Större strid, drabbning",
+      "words": [
+        "batalj",
+        "dust"
+      ]
+    },
+    {
+      "title": "Hård träff på ett föremål, stöt",
+      "words": [
+        "hugg",
+        "törn"
+      ]
+    }
+  ]
+}

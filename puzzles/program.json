@@ -1,0 +1,33 @@
+{
+  "pivot": "program",
+  "categories": [
+    {
+      "title": "Instruktion för en dator",
+      "words": [
+        "mjukvara",
+        "applikation"
+      ]
+    },
+    {
+      "title": "Inriktning av utbildning (särskilt på gymnasiet och universitetet)",
+      "words": [
+        "linje",
+        "inriktning"
+      ]
+    },
+    {
+      "title": "Enskild sändning i radio eller tv",
+      "words": [
+        "utsändning",
+        "magasin"
+      ]
+    },
+    {
+      "title": "Tidsplan, schema",
+      "words": [
+        "schema",
+        "tidtabell"
+      ]
+    }
+  ]
+}

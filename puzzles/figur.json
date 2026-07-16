@@ -1,0 +1,33 @@
+{
+  "pivot": "figur",
+  "categories": [
+    {
+      "title": "Gestalt, kroppsform",
+      "words": [
+        "fysik",
+        "kroppsbyggnad"
+      ]
+    },
+    {
+      "title": "Personlighet, karaktär (3)",
+      "words": [
+        "personlighet",
+        "kynne"
+      ]
+    },
+    {
+      "title": "Pjäs (t.ex. i schack)",
+      "words": [
+        "bonde",
+        "löpare"
+      ]
+    },
+    {
+      "title": "Grafisk illustration, bild (i text)",
+      "words": [
+        "illustration",
+        "diagram"
+      ]
+    }
+  ]
+}

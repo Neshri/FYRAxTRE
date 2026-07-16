@@ -1,0 +1,33 @@
+{
+  "pivot": "modell",
+  "categories": [
+    {
+      "title": "Förebild, exempel",
+      "words": [
+        "ideal",
+        "mönster"
+      ]
+    },
+    {
+      "title": "Kopia i liten skala",
+      "words": [
+        "avbild",
+        "miniatyr"
+      ]
+    },
+    {
+      "title": "(vanligt) utförande av en viss vara (t.ex. bilar, maskiner, kläder)",
+      "words": [
+        "version",
+        "typ"
+      ]
+    },
+    {
+      "title": "Person (särskilt kvinna) som poserar eller gör reklam för något",
+      "words": [
+        "mannekäng",
+        "posör"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "pivot": "sats",
+  "categories": [
+    {
+      "title": "Större del av en mening (som ofta själv kan utgöra en mening)",
+      "words": [
+        "fras",
+        "ord"
+      ]
+    },
+    {
+      "title": "Uppsättning av något, omgång (2)",
+      "words": [
+        "set",
+        "batteri"
+      ]
+    },
+    {
+      "title": "Bestämd andel",
+      "words": [
+        "kvot",
+        "tilldelning"
+      ]
+    },
+    {
+      "title": "Del av ett större musikverk",
+      "words": [
+        "final",
+        "preludium"
+      ]
+    }
+  ]
+}

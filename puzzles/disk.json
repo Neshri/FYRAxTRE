@@ -1,0 +1,33 @@
+{
+  "pivot": "disk",
+  "categories": [
+    {
+      "title": "Smalt och högt bord (i butik, bank etc.) där kunderna betjänas",
+      "words": [
+        "kassa",
+        "bar"
+      ]
+    },
+    {
+      "title": "Bestick, tallrikar o.d. som diskas (1)",
+      "words": [
+        "porslin",
+        "bestick"
+      ]
+    },
+    {
+      "title": "Skiva där man lagrar data",
+      "words": [
+        "minne",
+        "band"
+      ]
+    },
+    {
+      "title": "En sorts platta mellan ryggradens kotor",
+      "words": [
+        "kota",
+        "ryggmärg"
+      ]
+    }
+  ]
+}
