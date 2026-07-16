@@ -64,6 +64,46 @@ body {
   margin: 0;
 }
 
+.picker {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 16px;
+  padding: 10px 14px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  font-size: 0.82rem;
+}
+
+.picker-label {
+  color: var(--ink-dim);
+}
+
+.picker-label span {
+  color: var(--ink);
+  font-weight: 700;
+}
+
+.picker-controls {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.picker-controls input[type="number"] {
+  width: 64px;
+  padding: 7px 8px;
+  border-radius: 8px;
+  border: 1.5px solid var(--line);
+  background: var(--tile);
+  color: var(--ink);
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+}
+
 .board {
   background: var(--panel);
   border: 1px solid var(--line);

@@ -1,5 +1,5 @@
 const MAX_MISTAKES = 3;
-const PUZZLE_PATH = "puzzles/example.json"; // swap for date-based lookup later
+const PUZZLE_DIR = "puzzles_deploy"; // numbered, shuffled -- see anonymize_puzzles.py
 
 // 3x3 slot layout, index -> compass position
 // 0 NW  1 N  2 NE
@@ -39,18 +39,72 @@ const els = {
   legend: document.getElementById("legend"),
   legendList: document.getElementById("legendList"),
   status: document.getElementById("status"),
+  puzzleIndex: document.getElementById("puzzleIndex"),
+  puzzleTotal: document.getElementById("puzzleTotal"),
+  puzzleJumpInput: document.getElementById("puzzleJumpInput"),
+  puzzleJumpBtn: document.getElementById("puzzleJumpBtn"),
+  puzzleNextBtn: document.getElementById("puzzleNextBtn"),
 };
 
 let state = null;
+let puzzleIds = null; // e.g. [1, 2, 3, 5, 7] -- may have gaps if words were ever removed
+let currentPos = null; // 1-based position within puzzleIds, i.e. what the picker displays
 
-async function loadPuzzle() {
+async function loadManifest() {
+  const res = await fetch(`${PUZZLE_DIR}/manifest.json`);
+  if (!res.ok) throw new Error(`Could not load manifest (${res.status})`);
+  const manifest = await res.json();
+  puzzleIds = manifest.ids;
+  els.puzzleTotal.textContent = puzzleIds.length;
+  els.puzzleJumpInput.max = puzzleIds.length;
+}
+
+async function loadPuzzleByPosition(pos) {
   try {
-    const res = await fetch(PUZZLE_PATH);
-    if (!res.ok) throw new Error(`Could not load puzzle (${res.status})`);
+    const id = puzzleIds[pos - 1];
+    const res = await fetch(`${PUZZLE_DIR}/${id}.json`);
+    if (!res.ok) throw new Error(`Could not load puzzle ${id} (${res.status})`);
     const puzzle = await res.json();
+    currentPos = pos;
+    els.puzzleIndex.textContent = pos;
+    els.puzzleJumpInput.value = pos;
+    resetUIForNewPuzzle();
     initGame(puzzle);
   } catch (err) {
     els.status.textContent = "Kunde inte ladda pusslet. " + err.message;
+  }
+}
+
+function resetUIForNewPuzzle() {
+  els.controls.querySelectorAll(".btn-outline, #submitBtn").forEach((b) => b.classList.remove("hidden"));
+  els.resultsBtn.classList.add("hidden");
+  els.legend.classList.add("hidden");
+  els.status.textContent = "";
+}
+
+function bindPicker() {
+  els.puzzleNextBtn.onclick = () => {
+    const next = currentPos >= puzzleIds.length ? 1 : currentPos + 1;
+    loadPuzzleByPosition(next);
+  };
+
+  els.puzzleJumpBtn.onclick = () => {
+    const raw = parseInt(els.puzzleJumpInput.value, 10);
+    if (!raw || raw < 1 || raw > puzzleIds.length) {
+      els.status.textContent = `Ange ett nummer mellan 1 och ${puzzleIds.length}.`;
+      return;
+    }
+    loadPuzzleByPosition(raw);
+  };
+}
+
+async function start() {
+  try {
+    await loadManifest();
+    bindPicker();
+    await loadPuzzleByPosition(1);
+  } catch (err) {
+    els.status.textContent = "Kunde inte ladda pusslistan. " + err.message;
   }
 }
 
@@ -367,4 +421,4 @@ function buildLegend() {
   });
 }
 
-loadPuzzle();
+start();

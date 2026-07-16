@@ -1,20 +1,33 @@
 <!DOCTYPE html>
 <html lang="sv">
+
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>fyra&nbsp;i&nbsp;tre — automatic-doodle</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Mono:wght@500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>fyra&nbsp;i&nbsp;tre — FYRAxTRE</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Mono:wght@500;600;700&display=swap"
+    rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
 </head>
+
 <body>
   <main class="wrap">
     <header class="page-head">
       <h1>fyra <span class="cross">×</span> tre</h1>
       <p class="tagline">Fyra kategorier. Tre ord vardera. Ett ord finns i alla fyra.</p>
     </header>
+
+    <section class="picker">
+      <span class="picker-label">Pussel <span id="puzzleIndex">–</span> av <span id="puzzleTotal">–</span></span>
+      <div class="picker-controls">
+        <input type="number" id="puzzleJumpInput" min="1" step="1" aria-label="Pusselnummer">
+        <button class="btn btn-outline" id="puzzleJumpBtn" type="button">Hoppa</button>
+        <button class="btn btn-outline" id="puzzleNextBtn" type="button">Nästa →</button>
+      </div>
+    </section>
 
     <section class="board" id="board" aria-live="polite">
       <div class="grid" id="grid"></div>
@@ -41,4 +54,5 @@
 
   <script src="game.js"></script>
 </body>
+
 </html>
