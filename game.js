@@ -146,15 +146,26 @@ function shuffle(arr) {
 
 // Tiles are created once and kept in the DOM so left/top changes animate
 // via CSS transition, instead of re-rendering innerHTML on every update.
-// Swedish compounds can run long ("transmittera", "kunskapsöverföring") --
-// these thresholds were picked by eye against the 3-per-row grid, not
-// measured, so nudge them if something still looks tight.
-function sizeTierFor(word) {
-  const len = word.length;
-  if (len >= 15) return "word-xl";
-  if (len >= 12) return "word-lg";
-  if (len >= 9) return "word-md";
-  return "";
+const MIN_FONT_PX = 9; // floor before we give up shrinking and let it wrap instead
+const FONT_STEP_PX = 1;
+
+// Measures the tile's actual rendered width (not just word.length -- box
+// width varies by viewport, and uppercase/letter-spacing make character
+// count an unreliable proxy) and shrinks the font until the word fits on
+// one line, or gives up at MIN_FONT_PX and lets it wrap to a second line.
+function fitTileText(btn) {
+  btn.style.whiteSpace = "nowrap";
+  btn.style.fontSize = ""; // reset to the CSS default before measuring
+  let size = parseFloat(getComputedStyle(btn).fontSize);
+  while (btn.scrollWidth > btn.clientWidth && size > MIN_FONT_PX) {
+    size -= FONT_STEP_PX;
+    btn.style.fontSize = size + "px";
+  }
+  if (btn.scrollWidth > btn.clientWidth) {
+    btn.style.whiteSpace = "normal"; // still doesn't fit at the floor -- wrap it
+  } else {
+    btn.style.whiteSpace = "";
+  }
 }
 
 function buildTileEls() {
@@ -163,14 +174,19 @@ function buildTileEls() {
     const btn = document.createElement("button");
     btn.type = "button";
     btn.className = "tile";
-    tile.sizeTier = sizeTierFor(tile.word);
-    if (tile.sizeTier) btn.classList.add(tile.sizeTier);
     btn.textContent = tile.word;
     btn.addEventListener("click", () => toggleTile(idx));
     els.grid.appendChild(btn);
+    fitTileText(btn);
     return btn;
   });
 }
+
+// Tile box width changes on orientation change / window resize, so words
+// that fit before may not after -- refit whenever that happens.
+window.addEventListener("resize", () => {
+  if (state) state.tileEls.forEach(fitTileText);
+});
 
 function toggleTile(idx) {
   if (state.over) return;
@@ -332,7 +348,6 @@ function render() {
     btn.style.top = pos.top;
 
     btn.className = "tile"; // reset, then reapply state classes
-    if (tile.sizeTier) btn.classList.add(tile.sizeTier);
     btn.style.background = ""; // clear any inline pivot gradient from a prior render
     if (state.selected.has(idx)) btn.classList.add("selected");
 

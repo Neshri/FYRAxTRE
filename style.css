@@ -144,24 +144,6 @@ body {
   line-height: 1.15;
 }
 
-/* length-tier sizing, set via JS in buildTileEls() based on word.length --
-   keeps short words big and legible, shrinks longer ones. overflow-wrap
-   above lets anything still too wide at word-xl wrap to a second line
-   instead of getting clipped by overflow: hidden. */
-.tile.word-md {
-  font-size: 0.8rem;
-}
-
-.tile.word-lg {
-  font-size: 0.68rem;
-  letter-spacing: 0.01em;
-}
-
-.tile.word-xl {
-  font-size: 0.58rem;
-  letter-spacing: 0;
-}
-
 .tile:hover:not(.locked):not(.solved) {
   background: var(--tile-hover);
 }
@@ -384,18 +366,6 @@ body {
 @media (max-width: 420px) {
   .tile {
     font-size: 0.8rem;
-  }
-
-  .tile.word-md {
-    font-size: 0.7rem;
-  }
-
-  .tile.word-lg {
-    font-size: 0.6rem;
-  }
-
-  .tile.word-xl {
-    font-size: 0.52rem;
   }
 
   .page-head h1 {
