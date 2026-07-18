@@ -1,4 +1,3 @@
-const MAX_MISTAKES = 3;
 const PUZZLE_DIR = "puzzles_deploy"; // numbered, shuffled -- see anonymize_puzzles.py
 
 // 3x3 slot layout, index -> compass position
@@ -33,8 +32,6 @@ const els = {
   shuffleBtn: document.getElementById("shuffleBtn"),
   deselectBtn: document.getElementById("deselectBtn"),
   submitBtn: document.getElementById("submitBtn"),
-  resultsBtn: document.getElementById("resultsBtn"),
-  backBtn: document.getElementById("backBtn"),
   mistakeDots: document.getElementById("mistakeDots"),
   legend: document.getElementById("legend"),
   legendList: document.getElementById("legendList"),
@@ -77,8 +74,8 @@ async function loadPuzzleByPosition(pos) {
 
 function resetUIForNewPuzzle() {
   els.controls.querySelectorAll(".btn-outline, #submitBtn").forEach((b) => b.classList.remove("hidden"));
-  els.resultsBtn.classList.add("hidden");
   els.legend.classList.add("hidden");
+  els.legendList.innerHTML = "";
   els.status.textContent = "";
 }
 
@@ -149,12 +146,25 @@ function shuffle(arr) {
 
 // Tiles are created once and kept in the DOM so left/top changes animate
 // via CSS transition, instead of re-rendering innerHTML on every update.
+// Swedish compounds can run long ("transmittera", "kunskapsöverföring") --
+// these thresholds were picked by eye against the 3-per-row grid, not
+// measured, so nudge them if something still looks tight.
+function sizeTierFor(word) {
+  const len = word.length;
+  if (len >= 15) return "word-xl";
+  if (len >= 12) return "word-lg";
+  if (len >= 9) return "word-md";
+  return "";
+}
+
 function buildTileEls() {
   els.grid.innerHTML = "";
   state.tileEls = state.tiles.map((tile, idx) => {
     const btn = document.createElement("button");
     btn.type = "button";
     btn.className = "tile";
+    tile.sizeTier = sizeTierFor(tile.word);
+    if (tile.sizeTier) btn.classList.add(tile.sizeTier);
     btn.textContent = tile.word;
     btn.addEventListener("click", () => toggleTile(idx));
     els.grid.appendChild(btn);
@@ -193,14 +203,6 @@ function bindControls() {
   };
 
   els.submitBtn.onclick = submitGuess;
-
-  els.resultsBtn.onclick = () => {
-    els.legend.classList.toggle("hidden");
-  };
-
-  els.backBtn.onclick = () => {
-    els.legend.classList.add("hidden");
-  };
 }
 
 function isFixed(tile) {
@@ -233,15 +235,11 @@ function submitGuess() {
     renderMistakes();
     shakeSelected();
     els.status.textContent = "Fel grupp — försök igen.";
-    if (state.mistakes >= MAX_MISTAKES) {
-      endGame(false);
-    } else {
-      setTimeout(() => {
-        state.selected.clear();
-        els.submitBtn.disabled = true;
-        render();
-      }, 500);
-    }
+    setTimeout(() => {
+      state.selected.clear();
+      els.submitBtn.disabled = true;
+      render();
+    }, 500);
   }
 }
 
@@ -285,6 +283,11 @@ function lockCategory(catIndex) {
   }
 
   relayout();
+
+  // reveal this category's panel immediately, rather than waiting for
+  // the puzzle to end
+  els.legendList.appendChild(legendItemFor(catIndex));
+  els.legend.classList.remove("hidden");
 }
 
 // Recomputes every tile's slot: fixed tiles (pivot + solved-category words)
@@ -329,6 +332,7 @@ function render() {
     btn.style.top = pos.top;
 
     btn.className = "tile"; // reset, then reapply state classes
+    if (tile.sizeTier) btn.classList.add(tile.sizeTier);
     btn.style.background = ""; // clear any inline pivot gradient from a prior render
     if (state.selected.has(idx)) btn.classList.add("selected");
 
@@ -368,57 +372,43 @@ function shakeSelected() {
 }
 
 function renderMistakes() {
-  els.mistakeDots.innerHTML = "";
-  for (let i = 0; i < MAX_MISTAKES; i++) {
-    const dot = document.createElement("span");
-    dot.className = "dot" + (i < state.mistakes ? " spent" : "");
-    els.mistakeDots.appendChild(dot);
-  }
+  els.mistakeDots.textContent = state.mistakes;
 }
 
 function checkWin() {
   if (state.solvedCats.size === state.puzzle.categories.length) {
-    endGame(true);
+    endGame();
   }
 }
 
-function endGame(won) {
+function endGame() {
   state.over = true;
   els.controls.querySelectorAll(".btn-outline, #submitBtn").forEach((b) => b.classList.add("hidden"));
-  els.resultsBtn.classList.remove("hidden");
-  els.status.textContent = won ? "Klart! Alla fyra kategorier lösta." : "Slut på försök — här är svaren.";
+  els.status.textContent = "Klart! Alla fyra kategorier lösta.";
   render();
-  buildLegend();
-  els.legend.classList.remove("hidden");
 }
 
-function buildLegend() {
-  els.legendList.innerHTML = "";
-  // list in solve order; any never-guessed categories (loss case) appended after
-  const order = [...state.solveOrder, ...state.puzzle.categories.map((_, i) => i).filter((i) => !state.solveOrder.includes(i))];
+function legendItemFor(catIndex) {
+  const cat = state.puzzle.categories[catIndex];
+  const colorNum = state.solveOrder.includes(catIndex) ? state.solveOrder.indexOf(catIndex) + 1 : 0;
 
-  order.forEach((catIndex) => {
-    const cat = state.puzzle.categories[catIndex];
-    const colorNum = state.solveOrder.includes(catIndex) ? state.solveOrder.indexOf(catIndex) + 1 : 0;
+  const li = document.createElement("li");
+  li.className = `legend-item${colorNum ? ` cat-${colorNum}` : " cat-unsolved"}`;
 
-    const li = document.createElement("li");
-    li.className = `legend-item${colorNum ? ` cat-${colorNum}` : " cat-unsolved"}`;
+  const title = document.createElement("span");
+  title.className = "cat-title";
+  title.textContent = cat.title;
 
-    const title = document.createElement("span");
-    title.className = "cat-title";
-    title.textContent = cat.title;
+  const words = document.createElement("span");
+  words.className = "cat-words";
+  const all = [state.puzzle.pivot, ...cat.words];
+  words.innerHTML = all
+    .map((w) => (w === state.puzzle.pivot ? `<span class="pivot-word">${w.toUpperCase()}</span>` : w.toUpperCase()))
+    .join(" · ");
 
-    const words = document.createElement("span");
-    words.className = "cat-words";
-    const all = [state.puzzle.pivot, ...cat.words];
-    words.innerHTML = all
-      .map((w) => (w === state.puzzle.pivot ? `<span class="pivot-word">${w.toUpperCase()}</span>` : w.toUpperCase()))
-      .join(" · ");
-
-    li.appendChild(title);
-    li.appendChild(words);
-    els.legendList.appendChild(li);
-  });
+  li.appendChild(title);
+  li.appendChild(words);
+  return li;
 }
 
 start();
