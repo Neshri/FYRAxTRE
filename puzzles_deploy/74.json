@@ -1,0 +1,53 @@
+{
+  "pivot": "kors",
+  "categories": [
+    {
+      "title": "GEOMETRISKA FORMER",
+      "words": [
+        "triangel",
+        "kvadrat"
+      ],
+      "definition": "geometrisk figur (form) bestående av två streck eller linjer som skär varandra vinkelrätt, den ena går horisontellt och den andra vertikalt",
+      "word_definitions": [
+        "geometrisk figur med tre sidor, trekant",
+        "en geometrisk figur med fyra lika långa sidor och räta vinklar"
+      ]
+    },
+    {
+      "title": "RELIGIÖSA SYMBOLER",
+      "words": [
+        "sinnebild",
+        "ikon"
+      ],
+      "definition": "kristen symbol för lidandet",
+      "word_definitions": [
+        "symbol",
+        "person eller företeelse som har stort värde som samlande symbol, idol"
+      ]
+    },
+    {
+      "title": "TORTYRREKVISITA",
+      "words": [
+        "giljotin",
+        "stock"
+      ],
+      "definition": "historiskt tortyrredskap i form av ett kors",
+      "word_definitions": [
+        "ett redskap som man förr halshögg dödsdömda personer med",
+        "stam av ett träd som fällts"
+      ]
+    },
+    {
+      "title": "UTROP AV FÖRVÅNING",
+      "words": [
+        "oj",
+        "hoppsan"
+      ],
+      "definition": "uttrycker förvåning",
+      "word_definitions": [
+        "uttrycker förvåning",
+        "uttrycker att något inte gick som planerat, även viss förvåning"
+      ]
+    }
+  ]
+}

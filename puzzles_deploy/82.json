@@ -1,0 +1,53 @@
+{
+  "pivot": "linje",
+  "categories": [
+    {
+      "title": "GEOMETRISK FIGUR",
+      "words": [
+        "diagonal",
+        "kurva"
+      ],
+      "definition": "figur med utsträckning åt bara ett håll",
+      "word_definitions": [
+        "sträcka som går från hörn till hörn i en geometrisk figur",
+        "krökt linje, båge"
+      ]
+    },
+    {
+      "title": "TRAFIKSTRÄCKA",
+      "words": [
+        "led",
+        "rutt"
+      ],
+      "definition": "sträcka som trafikeras med allmänna kommunikationer",
+      "word_definitions": [
+        "sträcka där man kan vandra eller färdas",
+        "resväg"
+      ]
+    },
+    {
+      "title": "STRATEGISK RIKTNING",
+      "words": [
+        "inriktning",
+        "orientering"
+      ],
+      "definition": "kurs, inriktning",
+      "word_definitions": [
+        "mål för ett arbete; kurs, orientering",
+        "inriktning (efter väderstreck)"
+      ]
+    },
+    {
+      "title": "UPPSTÄLLNING I RAD",
+      "words": [
+        "rad",
+        "fil"
+      ],
+      "definition": "uppställning i en rad (på bredden)",
+      "word_definitions": [
+        "uppställning av saker bredvid (eller bakom) varandra",
+        "rad"
+      ]
+    }
+  ]
+}

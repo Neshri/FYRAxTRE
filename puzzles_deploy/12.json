@@ -1,32 +1,52 @@
 {
-  "pivot": "figur",
+  "pivot": "bock",
   "categories": [
     {
-      "title": "Gestalt, kroppsform",
+      "title": "HANAR AV TAMDJUR",
       "words": [
-        "fysik",
-        "kroppsbyggnad"
+        "bagge",
+        "galt"
+      ],
+      "definition": "hane av get",
+      "word_definitions": [
+        "hane av får",
+        "hane av gris"
       ]
     },
     {
-      "title": "Personlighet, karaktär (3)",
+      "title": "SEXUELLT AKTIV MAN",
       "words": [
-        "personlighet",
-        "kynne"
+        "playboy",
+        "kvinnotjusare"
+      ],
+      "definition": "sexuellt (alltför) aktiv man",
+      "word_definitions": [
+        "(rik) man som ägnar sig enbart åt nöjen (särskilt kärleksaffärer)",
+        "person som tjusar kvinnor"
       ]
     },
     {
-      "title": "Pjäs (t.ex. i schack)",
+      "title": "STÖDANORDNINGAR",
       "words": [
-        "bonde",
-        "löpare"
+        "ställ",
+        "konsol"
+      ],
+      "definition": "stöd (med fyra ben) under t.ex. en bordsskiva",
+      "word_definitions": [
+        "plats där man ställer något, stöd",
+        "vågrätt stöd som är fäst i vägg"
       ]
     },
     {
-      "title": "Grafisk illustration, bild (i text)",
+      "title": "GYMNASTIKREDSKAP",
       "words": [
-        "illustration",
-        "diagram"
+        "barr",
+        "ribbstol"
+      ],
+      "definition": "ett gymnastikredskap",
+      "word_definitions": [
+        "ett redskap i gymnastiken",
+        "ett gymnastikredskap som liknar en stege"
       ]
     }
   ]

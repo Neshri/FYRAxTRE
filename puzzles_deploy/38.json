@@ -1,32 +1,52 @@
 {
-  "pivot": "ställning",
+  "pivot": "fälla",
   "categories": [
     {
-      "title": "Sätt att stå eller sitta eller ligga",
+      "title": "FÅNGSTREDSKAP",
       "words": [
-        "pose",
-        "hållning"
+        "håv",
+        "lasso"
+      ],
+      "definition": "redskap som man fångar djur i",
+      "word_definitions": [
+        "ett slags nät med skaft som man fångar vissa djur med",
+        "rep med snara som man kastar för att fånga djur"
       ]
     },
     {
-      "title": "Ståndpunkt",
+      "title": "SÄTT ATT LURA",
       "words": [
-        "synpunkt",
-        "åsikt"
+        "list",
+        "bedrägeri"
+      ],
+      "definition": "försåt",
+      "word_definitions": [
+        "knep, slughet",
+        "handlingen att lura någon så att man vinner på det själv, svek"
       ]
     },
     {
-      "title": "Social position",
+      "title": "ÖPPNINGAR I SKOGEN",
       "words": [
-        "status",
-        "rang"
+        "hygge",
+        "glänta"
+      ],
+      "definition": "litet hygge, litet fall, litet område där skogen har fällts",
+      "word_definitions": [
+        "område där man huggit ner nästan all skog",
+        "liten öppning i skogen"
       ]
     },
     {
-      "title": "Konstruktion",
+      "title": "FÅ NÅGOT ATT FALLA",
       "words": [
-        "uppbyggnad",
-        "stomme"
+        "knuffa",
+        "välta"
+      ],
+      "definition": "få att falla genom att använda fysisk kraft",
+      "word_definitions": [
+        "ger en knuff, stöter till",
+        "gör så att något faller omkull; stjälper"
       ]
     }
   ]

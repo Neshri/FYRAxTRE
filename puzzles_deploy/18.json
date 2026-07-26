@@ -1,32 +1,52 @@
 {
-  "pivot": "går",
+  "pivot": "disk",
   "categories": [
     {
-      "title": "Förflyttar sig till fots (utan att springa)",
+      "title": "SERVICEKONTOR",
       "words": [
-        "vandra",
-        "promenera"
+        "kassa",
+        "reception"
+      ],
+      "definition": "smalt och högt bord (i butik, bank etc.) där kunderna betjänas",
+      "word_definitions": [
+        "avdelning (i affär eller bank) där man betalar eller tar emot pengar",
+        "plats på hotell e.d. (innanför entrén) där gäster tas emot"
       ]
     },
     {
-      "title": "Avlägsnar sig",
+      "title": "MATSERVIS",
       "words": [
-        "lämna",
-        "smita"
+        "porslin",
+        "matsilver"
+      ],
+      "definition": "bestick, tallrikar o.d. som diskas",
+      "word_definitions": [
+        "material (i koppar, tallrikar etc.) av tunn hård keramik",
+        "bestick i silver"
       ]
     },
     {
-      "title": "Spelas",
+      "title": "DATALAGRING",
       "words": [
-        "visas",
-        "uppförs"
+        "minne",
+        "cd"
+      ],
+      "definition": "skiva där man lagrar data",
+      "word_definitions": [
+        "ställe för lagring av data i en dator",
+        "skiva som används för digital lagring av musik, bilder och text"
       ]
     },
     {
-      "title": "Får plats, ryms",
+      "title": "RYGGENS DELAR",
       "words": [
-        "ryms",
-        "passar"
+        "kota",
+        "ryggmärg"
+      ],
+      "definition": "en sorts platta mellan ryggradens kotor",
+      "word_definitions": [
+        "ben i ryggraden",
+        "del av centrala nervsystemet i ryggradens översta del"
       ]
     }
   ]

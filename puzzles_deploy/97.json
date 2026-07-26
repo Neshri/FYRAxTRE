@@ -1,0 +1,53 @@
+{
+  "pivot": "om",
+  "categories": [
+    {
+      "title": "UPPÅ NYT",
+      "words": [
+        "återigen",
+        "ånyo"
+      ],
+      "definition": "på nytt, ännu en gång, om igen",
+      "word_definitions": [
+        "ännu en gång, åter, igen",
+        "på nytt, igen"
+      ]
+    },
+    {
+      "title": "VILLKORLIGT ORD",
+      "words": [
+        "ifall",
+        "såvitt"
+      ],
+      "definition": "ifall, såvida",
+      "word_definitions": [
+        "om, såvida",
+        "såvida, om"
+      ]
+    },
+    {
+      "title": "TIDSPUNKT I FRAMTIDEN",
+      "words": [
+        "inom",
+        "efter"
+      ],
+      "definition": "på; inom en tid av",
+      "word_definitions": [
+        "innanför",
+        "senare än; senare"
+      ]
+    },
+    {
+      "title": "GÄLLANDE ÄMNE",
+      "words": [
+        "angående",
+        "beträffande"
+      ],
+      "definition": "angående, beträffande",
+      "word_definitions": [
+        "om, beträffande",
+        "i fråga om, angående"
+      ]
+    }
+  ]
+}

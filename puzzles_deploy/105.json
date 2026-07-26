@@ -1,0 +1,53 @@
+{
+  "pivot": "plan",
+  "categories": [
+    {
+      "title": "ARBETSPLANERING",
+      "words": [
+        "program",
+        "instruktion"
+      ],
+      "definition": "anvisningar eller tankar om utformning av verksamhet",
+      "word_definitions": [
+        "plan eller översikt över hur något ska genomföras",
+        "anvisning om hur man ska göra något"
+      ]
+    },
+    {
+      "title": "OMRÅDESBILD",
+      "words": [
+        "karta",
+        "illustration"
+      ],
+      "definition": "bild över ett område",
+      "word_definitions": [
+        "starkt förminskad bild (med speciella symboler) av jordytan eller annat område",
+        "bild"
+      ]
+    },
+    {
+      "title": "HUSVÅNING",
+      "words": [
+        "lägenhet",
+        "etage"
+      ],
+      "definition": "våning",
+      "word_definitions": [
+        "bostad (i större hus), våning",
+        "våning, plan"
+      ]
+    },
+    {
+      "title": "LUFTFARTYG",
+      "words": [
+        "flygmaskin",
+        "jumbojet"
+      ],
+      "definition": "flygplan",
+      "word_definitions": [
+        "flygplan",
+        "ett slags stort flygplan"
+      ]
+    }
+  ]
+}

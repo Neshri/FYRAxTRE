@@ -1,0 +1,53 @@
+{
+  "pivot": "led",
+  "categories": [
+    {
+      "title": "KÄNSLA AV TRÖTTHET",
+      "words": [
+        "trött",
+        "sliten"
+      ],
+      "definition": "uttråkad, trött",
+      "word_definitions": [
+        "utled, uttråkad",
+        "trött"
+      ]
+    },
+    {
+      "title": "ELAK KARAKTÄR",
+      "words": [
+        "stygg",
+        "nedrig"
+      ],
+      "definition": "otäck, elak",
+      "word_definitions": [
+        "ful, otäck",
+        "elak"
+      ]
+    },
+    {
+      "title": "FÄRDVÄG I NATUREN",
+      "words": [
+        "väg",
+        "stig"
+      ],
+      "definition": "sträcka där man kan vandra eller färdas",
+      "word_definitions": [
+        "färdriktning, färdväg",
+        "smal gångväg (ofta i skogen)"
+      ]
+    },
+    {
+      "title": "MÄNNISKOR PÅ RAD",
+      "words": [
+        "fil",
+        "kö"
+      ],
+      "definition": "rad (av personer)",
+      "word_definitions": [
+        "rad",
+        "rad av väntande personer"
+      ]
+    }
+  ]
+}

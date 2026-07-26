@@ -1,32 +1,52 @@
 {
-  "pivot": "fäller",
+  "pivot": "bryter",
   "categories": [
     {
-      "title": "Slår omkull, får något att falla",
+      "title": "AVBRYTA NÅGOT",
       "words": [
-        "välta",
-        "stjälpa"
+        "stoppa",
+        "avsluta"
+      ],
+      "definition": "avbryter; avbryter kontakt",
+      "word_definitions": [
+        "lagar hål i kläder",
+        "slutar, fullbordar"
       ]
     },
     {
-      "title": "Tvingar att avgå",
+      "title": "ÖVERVINNA MOTSTÅND",
       "words": [
-        "störta",
-        "avsätta"
+        "tränga",
+        "trotsa"
+      ],
+      "definition": "forcerar ett motstånd",
+      "word_definitions": [
+        "banar sig väg trots motstånd",
+        "gör öppet motstånd mot, sätter sig upp mot"
       ]
     },
     {
-      "title": "Dödar",
+      "title": "UTVINNA MATERIAL",
       "words": [
-        "dräpa",
-        "likvidera"
+        "extrahera",
+        "dra"
+      ],
+      "definition": "får att gå i bitar; utvinner",
+      "word_definitions": [
+        "utvinner, drar",
+        "utvinner, extraherar"
       ]
     },
     {
-      "title": "Yttrar, säger",
+      "title": "ÄNDRA RIKTNING",
       "words": [
-        "yttra",
-        "säga"
+        "kantra",
+        "vända"
+      ],
+      "definition": "får att ändra riktning",
+      "word_definitions": [
+        "ändrar riktning",
+        "ändrar läge eller riktning"
       ]
     }
   ]

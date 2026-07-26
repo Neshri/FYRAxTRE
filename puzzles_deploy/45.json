@@ -1,0 +1,53 @@
+{
+  "pivot": "få",
+  "categories": [
+    {
+      "title": "LÅGT ANTAL",
+      "words": [
+        "knapp",
+        "obegränsad"
+      ],
+      "definition": "inte många men fler än två; bara några; ett litet antal",
+      "word_definitions": [
+        "otillräcklig, begränsad, liten",
+        "som saknar gräns; mycket riklig"
+      ]
+    },
+    {
+      "title": "GÖRA SÅ ATT",
+      "words": [
+        "föranleda",
+        "låta"
+      ],
+      "definition": "orsaka; göra så att eller se till att någon utför en handling eller att något händer",
+      "word_definitions": [
+        "leder till, orsakar",
+        "ser till att något blir gjort"
+      ]
+    },
+    {
+      "title": "FÅNGA BYTE",
+      "words": [
+        "gripa",
+        "snärja"
+      ],
+      "definition": "fånga (fisk, byte, brottslingar)",
+      "word_definitions": [
+        "tar fast, fångar, häktar",
+        "fångar djur (i snara)"
+      ]
+    },
+    {
+      "title": "HINNA MED",
+      "words": [
+        "hinna",
+        "räcka"
+      ],
+      "definition": "hinna med",
+      "word_definitions": [
+        "kommer i tid, når fram",
+        "når"
+      ]
+    }
+  ]
+}

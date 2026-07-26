@@ -1,32 +1,52 @@
 {
-  "pivot": "modell",
+  "pivot": "driva",
   "categories": [
     {
-      "title": "Förebild, exempel",
+      "title": "NATURLIG HÖG",
       "words": [
-        "ideal",
-        "mönster"
+        "sanddyn",
+        "vall"
+      ],
+      "definition": "hög av snö (eller sand)",
+      "word_definitions": [
+        "kulle av sand",
+        "långsträckt upphöjning (ofta av jord eller sand)"
       ]
     },
     {
-      "title": "Kopia i liten skala",
+      "title": "DRIVANDE RÖRELSE",
       "words": [
-        "avbild",
-        "miniatyr"
+        "rinna",
+        "flyta"
+      ],
+      "definition": "förflyttas långsamt med vind, vågor, vattenström eller dylikt",
+      "word_definitions": [
+        "flyter, strömmar",
+        "rinner"
       ]
     },
     {
-      "title": "(vanligt) utförande av en viss vara (t.ex. bilar, maskiner, kläder)",
+      "title": "SKÄMTA MED",
       "words": [
-        "version",
-        "typ"
+        "skoja",
+        "raljera"
+      ],
+      "definition": "skoja, skämta (med)",
+      "word_definitions": [
+        "skämtar",
+        "skämtar på ett retsamt sätt"
       ]
     },
     {
-      "title": "Person (särskilt kvinna) som poserar eller gör reklam för något",
+      "title": "ANSVARA FÖR",
       "words": [
-        "mannekäng",
-        "posör"
+        "sköta",
+        "förvalta"
+      ],
+      "definition": "sköta; ta hand om; leda",
+      "word_definitions": [
+        "vårdar, ger tillsyn; ansvarar för, tar hand om",
+        "sköter eller tar hand om någons egendom, administrerar"
       ]
     }
   ]

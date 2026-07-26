@@ -1,0 +1,53 @@
+{
+  "pivot": "klippa",
+  "categories": [
+    {
+      "title": "FILMPROCESS",
+      "words": [
+        "montera",
+        "redigera"
+      ],
+      "definition": "sammanfoga olika delar av en film eller ett ljudband för att framställa en enhet; speciellt bestämma sig för var en viss scen eller ett visst inslag ska avslutas",
+      "word_definitions": [
+        "sätter ihop (delar till ett helt); installerar",
+        "bearbetar formen i text, film e.d."
+      ]
+    },
+    {
+      "title": "HÅRVÅRD",
+      "words": [
+        "frisera",
+        "färga"
+      ],
+      "definition": "låta någon, såsom en frisör, klippa ens hår",
+      "word_definitions": [
+        "ordna hår på prydligt sätt genom att kamma, (låta) klippa eller permanenta hår",
+        "ger (en viss) färg åt"
+      ]
+    },
+    {
+      "title": "GÖRA OBRUKBART",
+      "words": [
+        "kassera",
+        "förstöra"
+      ],
+      "definition": "förstöra ett kontokort eller dylikt på grund av att tillhörande tjänst avslutats, till exempel genom att med en sax dela kortet i flera små bitar",
+      "word_definitions": [
+        "sorterar bort som obrukbar, kastar, slänger",
+        "gör oduglig, fördärvar"
+      ]
+    },
+    {
+      "title": "KARG NATUR",
+      "words": [
+        "vulkan",
+        "kalfjäll"
+      ],
+      "definition": "berg utan växtlighet",
+      "word_definitions": [
+        "eldsprutande berg",
+        "vegetationszon i fjäll ovanför skogsgränsen"
+      ]
+    }
+  ]
+}

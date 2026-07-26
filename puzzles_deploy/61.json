@@ -1,0 +1,53 @@
+{
+  "pivot": "intresse",
+  "categories": [
+    {
+      "title": "KÄNSLA AV LUST",
+      "words": [
+        "klåda",
+        "håg"
+      ],
+      "definition": "lust att ägna något sin uppmärksamhet",
+      "word_definitions": [
+        "lust att göra något",
+        "lust"
+      ]
+    },
+    {
+      "title": "FRITIDSYSSELSÄTTNING",
+      "words": [
+        "sysselsättning",
+        "hemslöjd"
+      ],
+      "definition": "något man gärna sysslar med, hobby",
+      "word_definitions": [
+        "handlingen att sysselsätta sig med något, arbete",
+        "hantverksmässig tillverkning av praktiska föremål (användbara i hemmet)"
+      ]
+    },
+    {
+      "title": "ATTRAKTIONSKRAFT",
+      "words": [
+        "lockelse",
+        "utstrålning"
+      ],
+      "definition": "förmåga att fånga uppmärksamhet",
+      "word_definitions": [
+        "(något som har) förmåga att dra till sig intresse eller väcka begär",
+        "förmåga (hos en person) att göra ett starkt intryck, karisma"
+      ]
+    },
+    {
+      "title": "PERSONLIG VINNING",
+      "words": [
+        "nytta",
+        "fördel"
+      ],
+      "definition": "något som man kan ha fördel av, engagemang",
+      "word_definitions": [
+        "något som har god effekt, fördel",
+        "det som gynnar någon, positiv egenskap"
+      ]
+    }
+  ]
+}

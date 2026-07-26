@@ -1,0 +1,53 @@
+{
+  "pivot": "mål",
+  "categories": [
+    {
+      "title": "SYFTE OCH AVSIKT",
+      "words": [
+        "syfte",
+        "avsikt"
+      ],
+      "definition": "ändamål, syfte",
+      "word_definitions": [
+        "avsikt, ändamål",
+        "syfte, mening"
+      ]
+    },
+    {
+      "title": "OLIKA MÅLTIDER",
+      "words": [
+        "lunch",
+        "supé"
+      ],
+      "definition": "den mängd mat man äter vid ett visst tillfälle, måltid",
+      "word_definitions": [
+        "(lättare) måltid mitt på dagen",
+        "(finare) måltid på kvällen"
+      ]
+    },
+    {
+      "title": "JURIDISK PROCESS",
+      "words": [
+        "process",
+        "rättegång"
+      ],
+      "definition": "rättegång, process",
+      "word_definitions": [
+        "rättegång, mål",
+        "process inför domstol, mål"
+      ]
+    },
+    {
+      "title": "FÖRMÅGA ATT TALA",
+      "words": [
+        "tal",
+        "språk"
+      ],
+      "definition": "förmåga att tala; språk",
+      "word_definitions": [
+        "det att tala; förmåga att tala",
+        "människans sätt att meddela sig genom tal och skrift"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pivot": "lyder",
+  "categories": [
+    {
+      "title": "LYDA ORDER",
+      "words": [
+        "följa",
+        "underkasta"
+      ],
+      "definition": "gör som man blir tillsagd",
+      "word_definitions": [
+        "går efter",
+        "låta genomgå"
+      ]
+    },
+    {
+      "title": "HÖRA TILL",
+      "words": [
+        "tillhöra",
+        "underordna"
+      ],
+      "definition": "hör till, sorterar (under)",
+      "word_definitions": [
+        "har som ägare, ägs av",
+        "låter bli beroende av"
+      ]
+    },
+    {
+      "title": "TEXTENS UTFORMNING",
+      "words": [
+        "formulera",
+        "skrivas"
+      ],
+      "definition": "har en viss lydelse",
+      "word_definitions": [
+        "uttrycker, utformar",
+        "kommunicera, ofta via brev"
+      ]
+    },
+    {
+      "title": "SUMMAN BLIR",
+      "words": [
+        "utgöra",
+        "vara"
+      ],
+      "definition": "uppgår till, är",
+      "word_definitions": [
+        "fungerar som, är; uppgår till (en viss summa)",
+        "befinner sig, finns"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pivot": "lopp",
+  "categories": [
+    {
+      "title": "LÖPTÄVLINGAR",
+      "words": [
+        "stafett",
+        "heat"
+      ],
+      "definition": "enskild tävling i löpning e.d.",
+      "word_definitions": [
+        "en sorts lagtävling (i t.ex. löpning och simning) där de tävlande inom samma lag avlöser varandra",
+        "tidig omgång av löptävling eller simtävling (där de sämre slås ut)"
+      ]
+    },
+    {
+      "title": "HÄNDELSEFÖLJD",
+      "words": [
+        "process",
+        "utveckling"
+      ],
+      "definition": "(tidens) gång , förlopp",
+      "word_definitions": [
+        "förlopp, utveckling",
+        "handlingen att utveckla något; det att utvecklas, tillväxt"
+      ]
+    },
+    {
+      "title": "GEVÄRSDELAR",
+      "words": [
+        "rör",
+        "pipa"
+      ],
+      "definition": "insidan av gevärspipa",
+      "word_definitions": [
+        "lång ihålig cylinder, pipa",
+        "anordning med behållare för tobak som används vid rökning"
+      ]
+    },
+    {
+      "title": "VATTENSTRÄCKA",
+      "words": [
+        "farled",
+        "sträcka"
+      ],
+      "definition": "utsträckning av vattendrag",
+      "word_definitions": [
+        "(mycket trafikerad) vattenväg",
+        "stycke väg, avstånd"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pivot": "resa",
+  "categories": [
+    {
+      "title": "LEDIGHET PÅ RESA",
+      "words": [
+        "semester",
+        "utflykt"
+      ],
+      "definition": "semester på annan ort",
+      "word_definitions": [
+        "betald ledighet från arbetet",
+        "kort resa för nöjes skull"
+      ]
+    },
+    {
+      "title": "GÖRA UPPRÄTT",
+      "words": [
+        "ställa",
+        "lyfta"
+      ],
+      "definition": "höja upp (från ett liggande) till (mer) upprätt läge",
+      "word_definitions": [
+        "placerar upprätt eller stående; placerar",
+        "för till en högre nivå, för uppåt"
+      ]
+    },
+    {
+      "title": "SKAPA HINDER",
+      "words": [
+        "hindra",
+        "motarbeta"
+      ],
+      "definition": "lägga hinder eller svårigheter i vägen",
+      "word_definitions": [
+        "utgör hinder för",
+        "lägger hinder i vägen för, bekämpar"
+      ]
+    },
+    {
+      "title": "STÄLLA KRAV",
+      "words": [
+        "yrka",
+        "begära"
+      ],
+      "definition": "framföra krav, anspråk e.d.",
+      "word_definitions": [
+        "begär, kräver",
+        "ber om, fordrar, kräver"
+      ]
+    }
+  ]
+}

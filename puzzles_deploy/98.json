@@ -1,0 +1,53 @@
+{
+  "pivot": "operation",
+  "categories": [
+    {
+      "title": "SÄTT ATT ARBETA",
+      "words": [
+        "metod",
+        "strategi"
+      ],
+      "definition": "(komplicerad) procedur för att nå ett visst resultat",
+      "word_definitions": [
+        "(systematiskt) sätt att utföra något",
+        "långsiktig plan för att genomföra något"
+      ]
+    },
+    {
+      "title": "KIRURGISKA INGREPP",
+      "words": [
+        "kejsarsnitt",
+        "ansiktslyftning"
+      ],
+      "definition": "kirurgiskt ingrepp",
+      "word_definitions": [
+        "förlossning genom ett kirurgiskt ingrepp",
+        "kirurgisk operation med avsikt att avlägsna rynkor"
+      ]
+    },
+    {
+      "title": "MILITÄRA AKTIONER",
+      "words": [
+        "marsch",
+        "framryckning"
+      ],
+      "definition": "militär handling för att uppnå ett visst syfte, t.ex. att förflytta en trupp soldater",
+      "word_definitions": [
+        "gång eller förflyttning i takt och i jämn fart (särskilt om truppförflyttning)",
+        "handlingen att rycka fram (särskilt militärt)"
+      ]
+    },
+    {
+      "title": "UPPGIFTER OCH ARBETEN",
+      "words": [
+        "mission",
+        "göromål"
+      ],
+      "definition": "uppgift, arbete",
+      "word_definitions": [
+        "uppgift",
+        "syssla, arbete"
+      ]
+    }
+  ]
+}

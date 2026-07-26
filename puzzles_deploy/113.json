@@ -1,0 +1,53 @@
+{
+  "pivot": "rak",
+  "categories": [
+    {
+      "title": "RÄT LINJE",
+      "words": [
+        "rät",
+        "linjär"
+      ],
+      "definition": "rät",
+      "word_definitions": [
+        "rak",
+        "som rör räta linjer"
+      ]
+    },
+    {
+      "title": "DIREKT OCH ABSOLUT",
+      "words": [
+        "omedelbar",
+        "obetingad"
+      ],
+      "definition": "absolut, direkt",
+      "word_definitions": [
+        "direkt, ögonblicklig",
+        "ovillkorlig, absolut"
+      ]
+    },
+    {
+      "title": "TYDLIG KOMMUNIKATION",
+      "words": [
+        "renhårig",
+        "otvetydig"
+      ],
+      "definition": "ärlig, tydlig",
+      "word_definitions": [
+        "ärlig, rättvis",
+        "klar, tydlig"
+      ]
+    },
+    {
+      "title": "I TURORDNING",
+      "words": [
+        "sedan",
+        "varefter"
+      ],
+      "definition": "i följd, efter varandra",
+      "word_definitions": [
+        "därefter, därpå",
+        "efter vilket, och därefter"
+      ]
+    }
+  ]
+}

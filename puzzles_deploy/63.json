@@ -1,0 +1,53 @@
+{
+  "pivot": "klen",
+  "categories": [
+    {
+      "title": "SPÄD FORM",
+      "words": [
+        "skir",
+        "spenslig"
+      ],
+      "definition": "tunn, späd",
+      "word_definitions": [
+        "späd, tunn",
+        "smal, tunn (om kroppsbyggnad eller person)"
+      ]
+    },
+    {
+      "title": "ÖMTÅLIG HÄLSA",
+      "words": [
+        "sjåpig",
+        "delikat"
+      ],
+      "definition": "sjuk, ömtålig",
+      "word_definitions": [
+        "rädd, ömtålig",
+        "ömtålig, känslig"
+      ]
+    },
+    {
+      "title": "BRIST PÅ KRAFT",
+      "words": [
+        "skraltig",
+        "kraftlös"
+      ],
+      "definition": "svag",
+      "word_definitions": [
+        "svag och dålig",
+        "som saknar kraft, svag"
+      ]
+    },
+    {
+      "title": "OBETYDLIG STORLEK",
+      "words": [
+        "ringa",
+        "blygsam"
+      ],
+      "definition": "svag, obetydlig",
+      "word_definitions": [
+        "liten, obetydlig",
+        "liten, obetydlig"
+      ]
+    }
+  ]
+}

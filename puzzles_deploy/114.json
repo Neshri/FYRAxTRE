@@ -1,0 +1,53 @@
+{
+  "pivot": "ren",
+  "categories": [
+    {
+      "title": "RENHET",
+      "words": [
+        "obefläckad",
+        "hygienisk"
+      ],
+      "definition": "inte smutsig, fläckfri",
+      "word_definitions": [
+        "ren; fläckfri",
+        "som har att göra med hygien; renlig"
+      ]
+    },
+    {
+      "title": "FULLSTÄNDIG",
+      "words": [
+        "absolut",
+        "total"
+      ],
+      "definition": "oförfalskad, äkta; fullständig, total",
+      "word_definitions": [
+        "fullständigt, helt; ovillkorligt",
+        "i sin helhet, fullständig; sammanlagd"
+      ]
+    },
+    {
+      "title": "HJORTDJUR",
+      "words": [
+        "rådjur",
+        "dovhjort"
+      ],
+      "definition": "ett (i viss mån tamt) hjortdjur som lever långt norrut (Rangifer tarandus)",
+      "word_definitions": [
+        "ett hjortdjur med ljusbrun päls (Capreolus capreolus)",
+        "en brun hjort som får vita fläckar på sommaren (Cervus dama)"
+      ]
+    },
+    {
+      "title": "VÄGKANTEN",
+      "words": [
+        "bank",
+        "dike"
+      ],
+      "definition": "kant vid väg eller åker",
+      "word_definitions": [
+        "underlag för väg eller järnväg, vall",
+        "grävd ränna i marken (ofta på båda sidor av en väg)"
+      ]
+    }
+  ]
+}

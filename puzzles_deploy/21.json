@@ -1,32 +1,52 @@
 {
-  "pivot": "jämn",
+  "pivot": "dragning",
   "categories": [
     {
-      "title": "Plan, slät",
+      "title": "SÄTT ATT LOTTA",
       "words": [
-        "platt",
-        "flack"
+        "tombola",
+        "lotteri"
+      ],
+      "definition": "ett sätt att få fram vinnaren i ett lotteri; lottning",
+      "word_definitions": [
+        "ett lotteri med en roterande låda som man drar lotterna ur",
+        "en sorts spel där slumpen avgör vem som vinner"
       ]
     },
     {
-      "title": "Som fördelar sig regelbundet; hela tiden lika stor",
+      "title": "BÖJELSE ELLER ATTRAKTION",
       "words": [
-        "regelbunden",
-        "konstant"
+        "förkärlek",
+        "lockelse"
+      ],
+      "definition": "böjelse, attraktion",
+      "word_definitions": [
+        "särskild böjelse eller smak",
+        "(något som har) förmåga att dra till sig intresse eller väcka begär"
       ]
     },
     {
-      "title": "Som inte domineras av någon part; som väger lika",
+      "title": "FÄRGNYANS",
       "words": [
-        "likvärdig",
-        "balanserad"
+        "schattering",
+        "ton"
+      ],
+      "definition": "nyans, skiftning",
+      "word_definitions": [
+        "färgskiftning",
+        "färgnyans"
       ]
     },
     {
-      "title": "Exakt, precis",
+      "title": "HOCKEYMANÖVER",
       "words": [
-        "precis",
-        "exakt"
+        "dribbling",
+        "fint"
+      ],
+      "definition": "dribbling i ishockey",
+      "word_definitions": [
+        "handlingen att dribbla",
+        "knep, påhitt"
       ]
     }
   ]

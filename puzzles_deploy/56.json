@@ -1,0 +1,53 @@
+{
+  "pivot": "hacka",
+  "categories": [
+    {
+      "title": "OJÄMN MOTORGÅNG",
+      "words": [
+        "strutta",
+        "fuska"
+      ],
+      "definition": "ryckig och ojämn motordrift",
+      "word_definitions": [
+        "går med ryckiga rörelser",
+        "använder otillåtna metoder för att vinna fördelar"
+      ]
+    },
+    {
+      "title": "ANGRIPA MED NÄBB/FINGRAR",
+      "words": [
+        "picka",
+        "knipa"
+      ],
+      "definition": "angripa varandra med näbben, nypas, trakassera",
+      "word_definitions": [
+        "plockar upp föda med näbben",
+        "klämmer, nyper"
+      ]
+    },
+    {
+      "title": "KRITISERA HÅRDT",
+      "words": [
+        "mobba",
+        "dissa"
+      ],
+      "definition": "kritisera, mobba, trakassera",
+      "word_definitions": [
+        "ger sig på, trakasserar",
+        "kritiserar, nedvärderar"
+      ]
+    },
+    {
+      "title": "BEARBETA MED VASST",
+      "words": [
+        "hugga",
+        "skära"
+      ],
+      "definition": "använda sig av en hacka; bearbeta med ett vasst föremål för att sönderdela, göra hål e.d.",
+      "word_definitions": [
+        "slår med vasst föremål (för att sönderdela, skada m.m.)",
+        "bearbetar med kniv (för att dela upp eller skilja ifrån något)"
+      ]
+    }
+  ]
+}

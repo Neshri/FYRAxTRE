@@ -1,0 +1,53 @@
+{
+  "pivot": "rätt",
+  "categories": [
+    {
+      "title": "MATPORTION",
+      "words": [
+        "portion",
+        "matbit"
+      ],
+      "definition": "portion med mat",
+      "word_definitions": [
+        "mängd mat för en person",
+        "(ganska liten) portion mat"
+      ]
+    },
+    {
+      "title": "GRADAVVISANDE ORD",
+      "words": [
+        "tämligen",
+        "någorlunda"
+      ],
+      "definition": "ganska",
+      "word_definitions": [
+        "ganska",
+        "tämligen, ganska"
+      ]
+    },
+    {
+      "title": "RAKT OCH DIREKT",
+      "words": [
+        "tvärs",
+        "direkt"
+      ],
+      "definition": "utan vidare, rakt",
+      "word_definitions": [
+        "på tvären; mitt, rakt",
+        "utan omväg, rak, omedelbar"
+      ]
+    },
+    {
+      "title": "KORREKT OCH SANN",
+      "words": [
+        "sann",
+        "verklig"
+      ],
+      "definition": "riktig, korrekt",
+      "word_definitions": [
+        "riktig, äkta",
+        "sann, riktig"
+      ]
+    }
+  ]
+}

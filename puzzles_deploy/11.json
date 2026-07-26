@@ -1,32 +1,52 @@
 {
-  "pivot": "falsk",
+  "pivot": "blåsa",
   "categories": [
     {
-      "title": "Inte sann, oriktig",
+      "title": "KLÄDESPLAGG",
       "words": [
-        "osann",
-        "felaktig"
+        "dress",
+        "dräkt"
+      ],
+      "definition": "klänning",
+      "word_definitions": [
+        "dräkt",
+        "klädsel, kläder"
       ]
     },
     {
-      "title": "Inte ärlig, opålitlig",
+      "title": "ANDAS UT HÄFTIGT",
       "words": [
-        "lömsk",
-        "oärlig"
+        "frusta",
+        "nysa"
+      ],
+      "definition": "skicka ut en kraftig luftström genom munnen med hjälp av lungorna; andas ut kraftigt",
+      "word_definitions": [
+        "stöter ut luft genom nästan sluten mun",
+        "stöter ut luft häftigt genom näsa och mun (särskilt vid förkylning)"
       ]
     },
     {
-      "title": "Inte äkta, förfalskad",
+      "title": "RADERA DATA",
       "words": [
-        "oäkta",
-        "artificiell"
+        "formatera",
+        "tömma"
+      ],
+      "definition": "radera allt som finns lagrat på hårddisken för att kunna ominstallera operativsystemet",
+      "word_definitions": [
+        "anpassar eller skapar system av filer på en hårddisk e.d. (varvid alla tidigare data raderas)",
+        "avlägsnar hela innehållet ur en behållare, gör tom"
       ]
     },
     {
-      "title": "Med felaktig ton",
+      "title": "INRE ORGANBILDNINGAR",
       "words": [
-        "sur",
-        "disharmonisk"
+        "knöl",
+        "lunga"
+      ],
+      "definition": "inre rundad bildning för vätska eller gas, som självständigt ord ofta om urinblåsan",
+      "word_definitions": [
+        "rund (ibland sjuklig) bildning",
+        "organ att andas med hos människan (och de högre djuren)"
       ]
     }
   ]

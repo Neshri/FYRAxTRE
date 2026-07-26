@@ -1,32 +1,52 @@
 {
-  "pivot": "stark",
+  "pivot": "fräser",
   "categories": [
     {
-      "title": "Som har stor styrka, kraftfull (om levande varelser)",
+      "title": "STEKA MAT",
       "words": [
-        "kraftig",
-        "robust"
+        "steka",
+        "bräcka"
+      ],
+      "definition": "steker snabbt (i het panna)",
+      "word_definitions": [
+        "tillagar med matfett i stark hetta (i stekpanna)",
+        "steker lätt"
       ]
     },
     {
-      "title": "Mäktig; handlingskraftig",
+      "title": "HOTFULLA LJUD",
       "words": [
-        "mäktig",
-        "inflytelserik"
+        "morra",
+        "pysa"
+      ],
+      "definition": "ger ifrån sig ett ilsket s-liknande ljud",
+      "word_definitions": [
+        "ger ifrån sig ett brummande, hotfullt ljud",
+        "strömmar ut med ett väsande ljud"
       ]
     },
     {
-      "title": "Som intensivt påverkar sinnena",
+      "title": "TILLRÄTTAVISA NÅGON",
       "words": [
-        "skarp",
-        "intensiv"
+        "förebrå",
+        "snäsa"
+      ],
+      "definition": "snäser, tillrättavisar",
+      "word_definitions": [
+        "klandrar, tillrättavisar",
+        "tillrättavisar på ett irriterat sätt"
       ]
     },
     {
-      "title": "Slitstark, hållbar",
+      "title": "BEARBETA MATERIAL",
       "words": [
-        "tålig",
-        "hållfast"
+        "borra",
+        "hyvla"
+      ],
+      "definition": "bearbetar (bort) med fräs",
+      "word_definitions": [
+        "gör hål (med borr)",
+        "jämnar till med hyvel"
       ]
     }
   ]

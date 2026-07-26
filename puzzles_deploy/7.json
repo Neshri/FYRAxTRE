@@ -1,32 +1,52 @@
 {
-  "pivot": "drar",
+  "pivot": "bas",
   "categories": [
     {
-      "title": "Ritar, tecknar (2)",
+      "title": "MANLIGA SÅNGRÖSTER",
       "words": [
-        "teckna",
-        "skissa"
+        "baryton",
+        "tenor"
+      ],
+      "definition": "(man med) sångröst i lågt tonläge",
+      "word_definitions": [
+        "(man med) sångröst i läge mellan bas och tenor",
+        "(man med) stämma i högt tonläge"
       ]
     },
     {
-      "title": "Förbrukar, behöver",
+      "title": "PERSON I LEDNING",
       "words": [
-        "konsumera",
-        "behöva"
+        "direktör",
+        "ledare"
+      ],
+      "definition": "förman, chef",
+      "word_definitions": [
+        "chef (för ett företag, en institution e.d.)",
+        "person som leder något; chef"
       ]
     },
     {
-      "title": "Blåser, fläktar",
+      "title": "MILITÄR ANLÄGGNING",
       "words": [
-        "blåsa",
-        "fläkta"
+        "garnison",
+        "kasern"
+      ],
+      "definition": "militär anläggning (ofta utanför det egna landet)",
+      "word_definitions": [
+        "militärförläggning på en ort",
+        "permanent byggnad för militär trupp"
       ]
     },
     {
-      "title": "Släpar, bogserar",
+      "title": "KEMISKA BASER",
       "words": [
-        "bogsera",
-        "hasa"
+        "soda",
+        "kalk"
+      ],
+      "definition": "kemiskt ämne som kan ta upp vätejoner",
+      "word_definitions": [
+        "ett ämne som används bl.a. i tvättmedel",
+        "ett hårt (vitt) ämne som innehåller kalcium"
       ]
     }
   ]

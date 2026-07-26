@@ -1,0 +1,53 @@
+{
+  "pivot": "håller",
+  "categories": [
+    {
+      "title": "GREPPA NÅGOT",
+      "words": [
+        "gripa",
+        "fatta"
+      ],
+      "definition": "har i handen, griper, fattar",
+      "word_definitions": [
+        "hugger tag i, tar, fattar",
+        "tar, griper"
+      ]
+    },
+    {
+      "title": "BEVARA NÅGOT",
+      "words": [
+        "bevara",
+        "konservera"
+      ],
+      "definition": "bibehåller, bevarar",
+      "word_definitions": [
+        "har kvar, sparar, behåller; skyddar",
+        "bevarar i oförändrat skick"
+      ]
+    },
+    {
+      "title": "TÅLA BELASTNING",
+      "words": [
+        "tåla",
+        "bestå"
+      ],
+      "definition": "blir inte förstörd, går inte sönder, är stark nog",
+      "word_definitions": [
+        "står ut med, uthärdar",
+        "står fast, är oförändrad"
+      ]
+    },
+    {
+      "title": "GENOMFÖRA NÅGOT",
+      "words": [
+        "arrangera",
+        "utföra"
+      ],
+      "definition": "utför; anordnar",
+      "word_definitions": [
+        "anordnar, ordnar, planerar",
+        "gör, genomför"
+      ]
+    }
+  ]
+}

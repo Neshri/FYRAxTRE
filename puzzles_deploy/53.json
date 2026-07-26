@@ -1,0 +1,53 @@
+{
+  "pivot": "grund",
+  "categories": [
+    {
+      "title": "LÅGT DJUP",
+      "words": [
+        "ytlig",
+        "flack"
+      ],
+      "definition": "inte djup",
+      "word_definitions": [
+        "som inte går på djupet, flyktig",
+        "plan och öppen, jämn"
+      ]
+    },
+    {
+      "title": "BAS ELLER UNDERLAG",
+      "words": [
+        "fundament",
+        "sockel"
+      ],
+      "definition": "underlag, botten",
+      "word_definitions": [
+        "grund, underlag",
+        "underlag, fundament"
+      ]
+    },
+    {
+      "title": "ORSAK OCH ANLEDNING",
+      "words": [
+        "orsak",
+        "skäl"
+      ],
+      "definition": "orsak, anledning",
+      "word_definitions": [
+        "skäl, anledning",
+        "anledning, orsak"
+      ]
+    },
+    {
+      "title": "GRUNDOMRÅDE I VATTEN",
+      "words": [
+        "rev",
+        "grynna"
+      ],
+      "definition": "skär, rev, grynna",
+      "word_definitions": [
+        "lina för fiske",
+        "litet grund"
+      ]
+    }
+  ]
+}

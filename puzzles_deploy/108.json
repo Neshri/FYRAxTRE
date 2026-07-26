@@ -1,0 +1,53 @@
+{
+  "pivot": "post",
+  "categories": [
+    {
+      "title": "POSTFÖRSÄNDELSER",
+      "words": [
+        "brev",
+        "försändelse"
+      ],
+      "definition": "brev eller paket som sänds till en adressat",
+      "word_definitions": [
+        "skrivet meddelande som läggs i kuvert och skickas med posten",
+        "något som skickas (t.ex. med post)"
+      ]
+    },
+    {
+      "title": "EKONOMISKA BELOPP",
+      "words": [
+        "saldo",
+        "avgift"
+      ],
+      "definition": "belopp (i räkenskap e.d.)",
+      "word_definitions": [
+        "behållning (eller underskott) på ett konto",
+        "ersättning (för en rättighet), betalning, pris"
+      ]
+    },
+    {
+      "title": "LODRÄT KONSTRUKTION",
+      "words": [
+        "regel",
+        "stam"
+      ],
+      "definition": "lodrät del av karm (till dörr eller fönster)",
+      "word_definitions": [
+        "vridbar anordning som stänger till en dörr",
+        "den lodräta delen av ett träd som grenarna utgår från"
+      ]
+    },
+    {
+      "title": "TJÄNSTEPOSITION",
+      "words": [
+        "befattning",
+        "ämbete"
+      ],
+      "definition": "(högre) tjänst",
+      "word_definitions": [
+        "sysselsättning, (högre) tjänst, arbete",
+        "(hög) statlig eller kyrklig tjänst"
+      ]
+    }
+  ]
+}

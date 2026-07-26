@@ -1,0 +1,53 @@
+{
+  "pivot": "punkt",
+  "categories": [
+    {
+      "title": "TECKEN I SKRIFT",
+      "words": [
+        "komma",
+        "parentes"
+      ],
+      "definition": "tecken för slutet på en mening (.)",
+      "word_definitions": [
+        "ett skiljetecken (,)",
+        "tecknet ( ) eller det som står inom det"
+      ]
+    },
+    {
+      "title": "AVSLUTNING PÅ NÅGOT",
+      "words": [
+        "final",
+        "konklusion"
+      ],
+      "definition": "slut",
+      "word_definitions": [
+        "avslutning",
+        "slutsats"
+      ]
+    },
+    {
+      "title": "LÄGE OCH POSITION",
+      "words": [
+        "position",
+        "placering"
+      ],
+      "definition": "plats, läge (i rum eller tid)",
+      "word_definitions": [
+        "ställning, läge",
+        "plats (ofta i någon sorts rangordning)"
+      ]
+    },
+    {
+      "title": "DEL AV HELHET",
+      "words": [
+        "avsnitt",
+        "moment"
+      ],
+      "definition": "avsnitt, del, inslag",
+      "word_definitions": [
+        "del, avdelning, stycke",
+        "beståndsdel; avsnitt"
+      ]
+    }
+  ]
+}

@@ -1,32 +1,52 @@
 {
-  "pivot": "färg",
+  "pivot": "bräcker",
   "categories": [
     {
-      "title": "Ett slags synintryck (rött, grönt etc.); kulör, nyans",
+      "title": "BRYTA MED KRAFT",
       "words": [
-        "nyans",
-        "kulör"
+        "knäcka",
+        "bända"
+      ],
+      "definition": "knäcker, bryter",
+      "word_definitions": [
+        "bryter hårt material genom kraftigt slag eller tryck",
+        "pressar, bryter, bräcker"
       ]
     },
     {
-      "title": "Åsiktsriktning",
+      "title": "ÖVERTRÄFFA NÅGON",
       "words": [
-        "strömning",
-        "syn"
+        "övergå",
+        "slå"
+      ],
+      "definition": "överträffar, stukar",
+      "word_definitions": [
+        "överstiger",
+        "ger ett slag, smäller till"
       ]
     },
     {
-      "title": "Positiv stämning",
+      "title": "LÄTT STEKNING",
       "words": [
-        "drag",
-        "anda"
+        "fräsa",
+        "bryna"
+      ],
+      "definition": "steker lätt",
+      "word_definitions": [
+        "steker snabbt (i het panna)",
+        "steker för att göra brun"
       ]
     },
     {
-      "title": "En av serierna hjärter, spader, ruter och klöver i en kortlek",
+      "title": "NÄR DAGEN GRYR",
       "words": [
-        "hjärter",
-        "spader"
+        "dagas",
+        "ljusna"
+      ],
+      "definition": "gryr",
+      "word_definitions": [
+        "gryr, ljusnar",
+        "blir ljusare"
       ]
     }
   ]

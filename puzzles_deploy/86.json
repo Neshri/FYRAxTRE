@@ -1,0 +1,53 @@
+{
+  "pivot": "lur",
+  "categories": [
+    {
+      "title": "BLÅSINSTRUMENT",
+      "words": [
+        "flöjt",
+        "saxofon"
+      ],
+      "definition": "ett blåsinstrument",
+      "word_definitions": [
+        "ett blåsinstrument",
+        "ett blåsinstrument"
+      ]
+    },
+    {
+      "title": "KORT SÖMN",
+      "words": [
+        "slummer",
+        "dvala"
+      ],
+      "definition": "en stunds sömn",
+      "word_definitions": [
+        "lätt (och kort) sömn, lur",
+        "slummer, sömn"
+      ]
+    },
+    {
+      "title": "VAKTHÅLNING",
+      "words": [
+        "vakt",
+        "bakhåll"
+      ],
+      "definition": "i uttrycket ligga på lur: ligga på vakt, lurpassa",
+      "word_definitions": [
+        "handlingen att vakta, vakthållning",
+        "gömställe där ett anfall förbereds, fälla"
+      ]
+    },
+    {
+      "title": "BEDRÄGERI OCH SKÄMT",
+      "words": [
+        "bluff",
+        "spratt"
+      ],
+      "definition": "i uttrycket det är bara lur: att luras, skämta; lurendrejeri",
+      "word_definitions": [
+        "försök att luras, skoj, bedrägeri",
+        "skämt för att lura någon"
+      ]
+    }
+  ]
+}

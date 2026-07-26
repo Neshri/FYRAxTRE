@@ -1,32 +1,52 @@
 {
-  "pivot": "dryg",
+  "pivot": "bekännelse",
   "categories": [
     {
-      "title": "Riklig, rundlig (om tid, mått och vikt)",
+      "title": "MEDGIVANDE AV BROTT",
       "words": [
-        "ymnig",
-        "rikhaltig"
+        "erkännande",
+        "medgivande"
+      ],
+      "definition": "medgivande (särskilt av brott)",
+      "word_definitions": [
+        "medgivande",
+        "erkännande"
       ]
     },
     {
-      "title": "Som räcker länge",
+      "title": "UTMÄRKELSER OCH HEDER",
       "words": [
-        "långvarig",
-        "ihållande"
+        "heder",
+        "diplom"
+      ],
+      "definition": "erkännande",
+      "word_definitions": [
+        "erkännande av anseende, ära",
+        "intyg om en examen eller utmärkelse"
       ]
     },
     {
-      "title": "Besvärlig, betungande",
+      "title": "TROSUTTRYCK",
       "words": [
-        "jobbig",
-        "knivig"
+        "credo",
+        "konfession"
+      ],
+      "definition": "öppen redovisning av tro",
+      "word_definitions": [
+        "(uttryck för) personlig tro",
+        "tillhörighet till en viss tro, trosbekännelse"
       ]
     },
     {
-      "title": "Högfärdig, mallig",
+      "title": "RELIGIÖSA RIKTNINGAR",
       "words": [
-        "uppblåst",
-        "kaxig"
+        "protestantism",
+        "katolicism"
+      ],
+      "definition": "religiös riktning",
+      "word_definitions": [
+        "en kristen riktning som utgår från luthersk och reformert lära",
+        "en form av kristendom som företräds av den romerska kyrkan (ledd av påven)"
       ]
     }
   ]

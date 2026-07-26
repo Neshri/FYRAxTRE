@@ -1,0 +1,53 @@
+{
+  "pivot": "hacka",
+  "categories": [
+    {
+      "title": "SMÅSUMMA PENGAR",
+      "words": [
+        "struntsumma",
+        "kosing"
+      ],
+      "definition": "mindre summa pengar",
+      "word_definitions": [
+        "obetydlig summa pengar",
+        "pengar"
+      ]
+    },
+    {
+      "title": "LÅGA SPELKORT",
+      "words": [
+        "tvåa",
+        "trea"
+      ],
+      "definition": "kort av låg valör inom kortspel",
+      "word_definitions": [
+        "siffran 2; nummer 2 i ordningen",
+        "siffran 3; nummer 3 i ordningen"
+      ]
+    },
+    {
+      "title": "DATORINTRÅNG",
+      "words": [
+        "knäcka",
+        "intränga"
+      ],
+      "definition": "bryta sig in i olika system",
+      "word_definitions": [
+        "bryter hårt material genom kraftigt slag eller tryck",
+        "obehörig beträda"
+      ]
+    },
+    {
+      "title": "TRÄDGÅRDSREDSKAP",
+      "words": [
+        "kratta",
+        "spade"
+      ],
+      "definition": "ett verktyg som används för att luckra upp jord",
+      "word_definitions": [
+        "ett redskap för att rensa och jämna ut jord",
+        "ett redskap att gräva med"
+      ]
+    }
+  ]
+}

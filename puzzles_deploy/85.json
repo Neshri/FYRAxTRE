@@ -1,0 +1,53 @@
+{
+  "pivot": "lugn",
+  "categories": [
+    {
+      "title": "FRIDFULLA EGENSKAPER",
+      "words": [
+        "stillsam",
+        "fredlig"
+      ],
+      "definition": "som rör sig mycket lite; fridfull",
+      "word_definitions": [
+        "stilla, fridsam, lugn (mest om person)",
+        "lugn, stillsam, fridsam"
+      ]
+    },
+    {
+      "title": "BEHÄRSKADE PERSONLIGHETER",
+      "words": [
+        "samlad",
+        "stoisk"
+      ],
+      "definition": "behärskad",
+      "word_definitions": [
+        "behärskad",
+        "lugn och behärskad"
+      ]
+    },
+    {
+      "title": "TILLSTÅND AV STILLHET",
+      "words": [
+        "frid",
+        "ro"
+      ],
+      "definition": "mycket lite rörelse; fridfullt tillstånd",
+      "word_definitions": [
+        "lugn, ro, fred, stillhet",
+        "lugn och stillhet"
+      ]
+    },
+    {
+      "title": "INRE BEHÄRSKNING",
+      "words": [
+        "behärskning",
+        "besinning"
+      ],
+      "definition": "behärskning av känslor",
+      "word_definitions": [
+        "kontroll över egna känslor, lugn",
+        "eftertanke, självbehärskning"
+      ]
+    }
+  ]
+}

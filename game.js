@@ -413,16 +413,39 @@ function legendItemFor(catIndex) {
   const title = document.createElement("span");
   title.className = "cat-title";
   title.textContent = cat.title;
-
-  const words = document.createElement("span");
-  words.className = "cat-words";
-  const all = [state.puzzle.pivot, ...cat.words];
-  words.innerHTML = all
-    .map((w) => (w === state.puzzle.pivot ? `<span class="pivot-word">${w.toUpperCase()}</span>` : w.toUpperCase()))
-    .join(" · ");
-
   li.appendChild(title);
-  li.appendChild(words);
+
+  // The dictionary sense the category is built from -- this is the actual
+  // comprehension payoff (why these words group together), not decoration.
+  // Tapping any word below swaps this line to THAT word's own definition
+  // instead, so a player can dig into "why kiosk" specifically, not just
+  // the shared category sense.
+  const defEl = document.createElement("span");
+  defEl.className = "cat-definition";
+  li.appendChild(defEl);
+
+  const wordsEl = document.createElement("span");
+  wordsEl.className = "cat-words";
+  li.appendChild(wordsEl);
+
+  const all = [state.puzzle.pivot, ...cat.words];
+  const defs = [cat.definition || "", ...(cat.word_definitions || [])];
+  const wordSpans = all.map((w, i) => {
+    const span = document.createElement("span");
+    span.className = "word-toggle";
+    span.textContent = w.toUpperCase();
+    span.addEventListener("click", () => selectWord(i));
+    wordsEl.appendChild(span);
+    if (i < all.length - 1) wordsEl.appendChild(document.createTextNode(" · "));
+    return span;
+  });
+
+  function selectWord(i) {
+    wordSpans.forEach((s, k) => s.classList.toggle("active-word", k === i));
+    defEl.textContent = defs[i] || "";
+  }
+
+  selectWord(0); // starting state: pivot's definition shown, pivot underlined
   return li;
 }
 

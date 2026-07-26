@@ -1,32 +1,52 @@
 {
-  "pivot": "mål",
+  "pivot": "driva",
   "categories": [
     {
-      "title": "Ändamål, syfte",
+      "title": "STÖRRE HÖG",
       "words": [
-        "syfte",
-        "avsikt"
+        "stack",
+        "stapel"
+      ],
+      "definition": "stor hög",
+      "word_definitions": [
+        "större hög",
+        "hög av staplat material, trave"
       ]
     },
     {
-      "title": "Den mängd mat man äter vid ett visst tillfälle, måltid",
+      "title": "MÄNGD AV NÅGOT",
       "words": [
-        "portion",
-        "mat"
+        "lass",
+        "laddning"
+      ],
+      "definition": "större ansamling av något, t.ex. snö",
+      "word_definitions": [
+        "last (på en kärra e.d.); stor mängd",
+        "(stor) mängd av något"
       ]
     },
     {
-      "title": "Rättegång, process",
+      "title": "VANDRA UTAN MÅL",
       "words": [
-        "process",
-        "rättegång"
+        "strosa",
+        "ströva"
+      ],
+      "definition": "röra sig utan mål",
+      "word_definitions": [
+        "vandrar omkring utan mål",
+        "vandrar omkring utan mål"
       ]
     },
     {
-      "title": "Förmåga att tala; språk",
+      "title": "FÖSA FRAMÅT",
       "words": [
-        "tal",
-        "språk"
+        "putta",
+        "knuffa"
+      ],
+      "definition": "föra; fösa",
+      "word_definitions": [
+        "knuffar lätt",
+        "ger en knuff, stöter till"
       ]
     }
   ]

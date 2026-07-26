@@ -1,0 +1,53 @@
+{
+  "pivot": "hög",
+  "categories": [
+    {
+      "title": "HÖG TON",
+      "words": [
+        "ljus",
+        "gäll"
+      ],
+      "definition": "som ligger långt upp på tonskalan",
+      "word_definitions": [
+        "som ger ifrån sig mycket ljus; upplyst",
+        "skarp, genomträngande"
+      ]
+    },
+    {
+      "title": "INFLYTELSERIK STÄLLNING",
+      "words": [
+        "inflytelserik",
+        "betydelsefull"
+      ],
+      "definition": "som har inflytelserik ställning",
+      "word_definitions": [
+        "som har stort inflytande",
+        "som har stor betydelse, viktig"
+      ]
+    },
+    {
+      "title": "AVANCERAD NIVÅ",
+      "words": [
+        "försigkommen",
+        "sofistikerad"
+      ],
+      "definition": "avancerad",
+      "word_definitions": [
+        "väl utvecklad, avancerad",
+        "förfinad"
+      ]
+    },
+    {
+      "title": "ANHOPNING AV MATERIAL",
+      "words": [
+        "stapel",
+        "trave"
+      ],
+      "definition": "anhopning av material",
+      "word_definitions": [
+        "hög av staplat material, trave",
+        "hög av föremål"
+      ]
+    }
+  ]
+}

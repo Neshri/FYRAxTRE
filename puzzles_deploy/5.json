@@ -1,32 +1,52 @@
 {
-  "pivot": "disk",
+  "pivot": "back",
   "categories": [
     {
-      "title": "Smalt och högt bord (i butik, bank etc.) där kunderna betjänas",
+      "title": "RIKTNING BAKÅT",
       "words": [
-        "kassa",
-        "bar"
+        "omvänt",
+        "åter"
+      ],
+      "definition": "bakåt",
+      "word_definitions": [
+        "tvärtom, åt andra hållet",
+        "än en gång, igen, på nytt"
       ]
     },
     {
-      "title": "Bestick, tallrikar o.d. som diskas (1)",
+      "title": "TYPER AV LÅDOR",
       "words": [
-        "porslin",
-        "bestick"
+        "box",
+        "kista"
+      ],
+      "definition": "en sorts låda (särskilt till flaskor)",
+      "word_definitions": [
+        "låda, ask, fack, bås",
+        "stor låda med lock (ofta gammal och värdefull)"
       ]
     },
     {
-      "title": "Skiva där man lagrar data",
+      "title": "POSITIONER I FOTBOLL",
       "words": [
-        "minne",
-        "band"
+        "målvakt",
+        "ytter"
+      ],
+      "definition": "försvarsspelare (t.ex. i fotbollslag)",
+      "word_definitions": [
+        "spelare i ett lag (t.ex. ett fotbollslag) som vaktar målet",
+        "anfallsspelare på ytterkanten (i fotboll etc.)"
       ]
     },
     {
-      "title": "En sorts platta mellan ryggradens kotor",
+      "title": "VÄXLAR I BIL",
       "words": [
-        "kota",
-        "ryggmärg"
+        "etta",
+        "tvåa"
+      ],
+      "definition": "växel (på en bil eller båt) som används när man vill backa",
+      "word_definitions": [
+        "siffran 1; nummer 1 i ordningen",
+        "siffran 2; nummer 2 i ordningen"
       ]
     }
   ]

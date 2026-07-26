@@ -1,0 +1,53 @@
+{
+  "pivot": "lager",
+  "categories": [
+    {
+      "title": "FÖRVARINGSPLATSER",
+      "words": [
+        "magasin",
+        "depå"
+      ],
+      "definition": "förråd, magasin",
+      "word_definitions": [
+        "förrådshus, förvaringsrum",
+        "förvaringsplats för förråd av ngt"
+      ]
+    },
+    {
+      "title": "YTSKIKT",
+      "words": [
+        "hinna",
+        "hud"
+      ],
+      "definition": "skikt",
+      "word_definitions": [
+        "tunt skikt",
+        "yttersta, skyddande skikt på människor och djur"
+      ]
+    },
+    {
+      "title": "MASKINDELAR",
+      "words": [
+        "axel",
+        "tapp"
+      ],
+      "definition": "del av en maskin som bär upp en roterande axel",
+      "word_definitions": [
+        "stång som ett hjul roterar kring",
+        "utskjutande axel som något vrids omkring"
+      ]
+    },
+    {
+      "title": "VÄLDOFTANDE VÄXTER",
+      "words": [
+        "jasmin",
+        "syren"
+      ],
+      "definition": "ett träd (eller en buske) med blanka, väldoftande blad (Laurus nobilis)",
+      "word_definitions": [
+        "en buske med väldoftande blommor (släktet Jasminum)",
+        "en buske med väldoftande blommor (släktet Syringa)"
+      ]
+    }
+  ]
+}

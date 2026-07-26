@@ -1,0 +1,53 @@
+{
+  "pivot": "man",
+  "categories": [
+    {
+      "title": "VUXEN MAN",
+      "words": [
+        "gubbe",
+        "herre"
+      ],
+      "definition": "vuxen person av hankön",
+      "word_definitions": [
+        "gammal man, gamling",
+        "man (gärna med god position i samhället)"
+      ]
+    },
+    {
+      "title": "GRUPPMEDLEM",
+      "words": [
+        "medlem",
+        "individ"
+      ],
+      "definition": "medlem i en grupp (särskilt en trupp, ett lag etc.)",
+      "word_definitions": [
+        "person som tillhör en organisation eller en förening",
+        "enskild varelse, människa"
+      ]
+    },
+    {
+      "title": "ÄKTENSKAPSPARTNER",
+      "words": [
+        "fru",
+        "partner"
+      ],
+      "definition": "make",
+      "word_definitions": [
+        "gift kvinna, hustru",
+        "person som man samarbetar med"
+      ]
+    },
+    {
+      "title": "DJURS HÅR",
+      "words": [
+        "tagel",
+        "päls"
+      ],
+      "definition": "långt hår i nacken på häst eller lejon",
+      "word_definitions": [
+        "hår från en häst (särskilt från svansen)",
+        "skinn på djur, fäll; kappa av päls"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pivot": "klippa",
+  "categories": [
+    {
+      "title": "STENFORMATIONER",
+      "words": [
+        "berg",
+        "block"
+      ],
+      "definition": "stort stycke av sten eller bergart; del av urberg som går upp i dagen; klipphäll",
+      "word_definitions": [
+        "stor upphöjning av sten i jordytan, kulle; berggrund",
+        "sammanhängande helhet (av hårt material, t.ex. sten)"
+      ]
+    },
+    {
+      "title": "BEUNDRANSVÄRDA PERSONER",
+      "words": [
+        "hjälte",
+        "fenomen"
+      ],
+      "definition": "(överfört) tillförlitlig, orubblig person; person som lyckas trots motgångar",
+      "word_definitions": [
+        "modig person; person som uträttat stora saker",
+        "person med utomordentlig begåvning eller skicklighet"
+      ]
+    },
+    {
+      "title": "DELA MED VERKTYG",
+      "words": [
+        "skära",
+        "dela"
+      ],
+      "definition": "dela eller kapa genom att använda en sax",
+      "word_definitions": [
+        "bearbetar med kniv (för att dela upp eller skilja ifrån något)",
+        "gör delar av; får varsin del av"
+      ]
+    },
+    {
+      "title": "LAGFÖRA BROTTSLINGAR",
+      "words": [
+        "gripa",
+        "häkta"
+      ],
+      "definition": "gripa (kriminell)",
+      "word_definitions": [
+        "hugger tag i, tar, fattar",
+        "sätter (en person som misstänks för brott) i häkte under den tid förundersökningen och domstolens handläggning pågår"
+      ]
+    }
+  ]
+}

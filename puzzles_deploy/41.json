@@ -1,0 +1,53 @@
+{
+  "pivot": "fäller",
+  "categories": [
+    {
+      "title": "FÅ NÅGOT ATT FALLA",
+      "words": [
+        "välta",
+        "stjälpa"
+      ],
+      "definition": "slår omkull, får något att falla",
+      "word_definitions": [
+        "gör så att något faller omkull; stjälper",
+        "lägger (sig) på sidan, välter"
+      ]
+    },
+    {
+      "title": "TA LIVET AV",
+      "words": [
+        "dräpa",
+        "eliminera"
+      ],
+      "definition": "dödar",
+      "word_definitions": [
+        "dödar, slår ihjäl",
+        "dödar"
+      ]
+    },
+    {
+      "title": "UTTRYCKA SIG",
+      "words": [
+        "säga",
+        "påstå"
+      ],
+      "definition": "yttrar, säger",
+      "word_definitions": [
+        "meddelar i ord, uttalar",
+        "yttrar som ett faktum"
+      ]
+    },
+    {
+      "title": "TAPPA I FÄRG",
+      "words": [
+        "vitna",
+        "blekna"
+      ],
+      "definition": "förlorar färg",
+      "word_definitions": [
+        "blir vit",
+        "blir blek (ofta av skräck)"
+      ]
+    }
+  ]
+}

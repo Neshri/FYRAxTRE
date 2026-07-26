@@ -1,0 +1,53 @@
+{
+  "pivot": "föda",
+  "categories": [
+    {
+      "title": "NÄRING OCH MAT",
+      "words": [
+        "mat",
+        "kost"
+      ],
+      "definition": "näring, mat",
+      "word_definitions": [
+        "näringsämnen som man äter, föda",
+        "mat, föda"
+      ]
+    },
+    {
+      "title": "GE UPPHÖV TILL",
+      "words": [
+        "grundlägga",
+        "väcka"
+      ],
+      "definition": "ge upphov till",
+      "word_definitions": [
+        "inrättar; ger upphov till",
+        "ger upphov till, framkallar"
+      ]
+    },
+    {
+      "title": "UTFODRA DJUR",
+      "words": [
+        "fodra",
+        "mata"
+      ],
+      "definition": "utfodra",
+      "word_definitions": [
+        "ger foder",
+        "ger mat eller foder åt"
+      ]
+    },
+    {
+      "title": "FÖRSÖRJA MED MAT",
+      "words": [
+        "försörja",
+        "förse"
+      ],
+      "definition": "(om gårdar, landsändor, länder, och jorden) tillhandahålla mat till",
+      "word_definitions": [
+        "ansvarar för uppehälle för",
+        "utrustar"
+      ]
+    }
+  ]
+}

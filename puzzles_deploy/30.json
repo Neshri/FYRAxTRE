@@ -1,32 +1,52 @@
 {
-  "pivot": "program",
+  "pivot": "fall",
   "categories": [
     {
-      "title": "Instruktion för en dator",
+      "title": "PLUTSLIGT FALL",
       "words": [
-        "mjukvara",
-        "applikation"
+        "haveri",
+        "stöt"
+      ],
+      "definition": "handlingen att störta ner eller ramla",
+      "word_definitions": [
+        "det att ett fartyg går under eller ett flygplan störtar",
+        "slag, knuff; kortvarig elektrisk ström genom kroppen"
       ]
     },
     {
-      "title": "Inriktning av utbildning (särskilt på gymnasiet och universitetet)",
+      "title": "TOTAL UNDERGÅNG",
       "words": [
-        "linje",
-        "inriktning"
+        "ruin",
+        "kollaps"
+      ],
+      "definition": "undergång, undergång",
+      "word_definitions": [
+        "(ekonomisk) undergång; bankrutt",
+        "plötsligt sammanbrott"
       ]
     },
     {
-      "title": "Enskild sändning i radio eller tv",
+      "title": "BRANT SLUTTNING",
       "words": [
-        "utsändning",
-        "magasin"
+        "stup",
+        "avgrund"
+      ],
+      "definition": "fors; stup",
+      "word_definitions": [
+        "något som stupar brant, djup",
+        "stor klyfta, stup"
       ]
     },
     {
-      "title": "Tidsplan, schema",
+      "title": "HÄNDELSE",
       "words": [
-        "schema",
-        "tidtabell"
+        "tilldragelse",
+        "begivenhet"
+      ],
+      "definition": "händelse, tillfälle; exempel",
+      "word_definitions": [
+        "händelse",
+        "stor händelse, evenemang"
       ]
     }
   ]

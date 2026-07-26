@@ -1,0 +1,53 @@
+{
+  "pivot": "land",
+  "categories": [
+    {
+      "title": "FAST MARK",
+      "words": [
+        "kontinent",
+        "jord"
+      ],
+      "definition": "fastland",
+      "word_definitions": [
+        "världsdel, stort fastland (särskilt Europas fastland, till skillnad från t.ex. Norden)",
+        "fast mark"
+      ]
+    },
+    {
+      "title": "LANTLIGA OMRÅDEN",
+      "words": [
+        "bygd",
+        "trakt"
+      ],
+      "definition": "landsbygd",
+      "word_definitions": [
+        "område i landsorten där folk bor, trakt",
+        "geografiskt område (särskilt på landet)"
+      ]
+    },
+    {
+      "title": "POLITISKA ENHETER",
+      "words": [
+        "rike",
+        "välde"
+      ],
+      "definition": "stat, rike",
+      "word_definitions": [
+        "land, stat",
+        "statsmakt, (stort) rike"
+      ]
+    },
+    {
+      "title": "ODLADE MARKER",
+      "words": [
+        "åker",
+        "trädgård"
+      ],
+      "definition": "odlat stycke jord",
+      "word_definitions": [
+        "jord som man odlar på",
+        "område med odlade växter"
+      ]
+    }
+  ]
+}

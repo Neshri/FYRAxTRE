@@ -1,0 +1,53 @@
+{
+  "pivot": "låter",
+  "categories": [
+    {
+      "title": "GE IFRÅN SIG LJUD",
+      "words": [
+        "ljuda",
+        "klinga"
+      ],
+      "definition": "hörs, ljuder",
+      "word_definitions": [
+        "hörs, låter",
+        "ger ifrån sig klara toner"
+      ]
+    },
+    {
+      "title": "FÖREFALLA VARA",
+      "words": [
+        "tyckas",
+        "synas"
+      ],
+      "definition": "verkar vara, förefaller",
+      "word_definitions": [
+        "verkar, synes, förefaller",
+        "tycks, förefaller"
+      ]
+    },
+    {
+      "title": "GE TILLÅTELSE",
+      "words": [
+        "medge",
+        "sanktionera"
+      ],
+      "definition": "går med på, tillåter",
+      "word_definitions": [
+        "ger möjlighet till, tillåter",
+        "tillåter, godtar"
+      ]
+    },
+    {
+      "title": "SÖRJA FÖR ATT",
+      "words": [
+        "tillse",
+        "verkställa"
+      ],
+      "definition": "ser till att något blir gjort",
+      "word_definitions": [
+        "tar på sig ansvaret för, ser till",
+        "ser till att ett beslut blir genomfört"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pivot": "leda",
+  "categories": [
+    {
+      "title": "KÄNSLA AV UTTRÅKNING",
+      "words": [
+        "uttråkning",
+        "träsmak"
+      ],
+      "definition": "känsla av att vara uttråkad",
+      "word_definitions": [
+        "tillståndet att vara uttråkad",
+        "känsla av trötthet eller uttråkning"
+      ]
+    },
+    {
+      "title": "FÖRA NÅGON",
+      "words": [
+        "styra",
+        "lotsa"
+      ],
+      "definition": "hålla i och föra (i viss riktning)",
+      "word_definitions": [
+        "låter ett fordon gå i viss riktning",
+        "styr ett fartyg genom besvärliga farvatten"
+      ]
+    },
+    {
+      "title": "STYRA FLÖDE",
+      "words": [
+        "kanalisera",
+        "dirigera"
+      ],
+      "definition": "föra (i viss riktning)",
+      "word_definitions": [
+        "leder i viss riktning",
+        "leder orkester eller kör"
+      ]
+    },
+    {
+      "title": "BÖJA NÅGOT",
+      "words": [
+        "kröka",
+        "bocka"
+      ],
+      "definition": "böja en led",
+      "word_definitions": [
+        "gör krokig, böjer",
+        "böjer (t.ex. en metallstång)"
+      ]
+    }
+  ]
+}

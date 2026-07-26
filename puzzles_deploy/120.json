@@ -1,0 +1,53 @@
+{
+  "pivot": "röra",
+  "categories": [
+    {
+      "title": "TOTAL OORDNING",
+      "words": [
+        "kaos",
+        "sammelsurium"
+      ],
+      "definition": "oreda, oordning",
+      "word_definitions": [
+        "total förvirring, oreda",
+        "röra, oordning"
+      ]
+    },
+    {
+      "title": "FYSISK KONTAKT",
+      "words": [
+        "känna",
+        "nudda"
+      ],
+      "definition": "ta i/på, vara eller befinna sig på eller i (fysisk) kontakt med",
+      "word_definitions": [
+        "tar (på), rör (vid)",
+        "berör lätt, snuddar"
+      ]
+    },
+    {
+      "title": "ÄNDRA POSITION",
+      "words": [
+        "flytta",
+        "vicka"
+      ],
+      "definition": "låta, i synnerhet en kroppsdel, byta eller ändra position/läge (i rummet)",
+      "word_definitions": [
+        "för till en annan plats",
+        "gör små rörelser"
+      ]
+    },
+    {
+      "title": "BRIST PÅ STRUKTUR",
+      "words": [
+        "anarki",
+        "virrvarr"
+      ],
+      "definition": "brist på ordning, avsaknad av struktur",
+      "word_definitions": [
+        "frånvaro av regering; oordning",
+        "röra, oreda"
+      ]
+    }
+  ]
+}

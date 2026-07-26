@@ -1,0 +1,53 @@
+{
+  "pivot": "kort",
+  "categories": [
+    {
+      "title": "LITEN DIMENSION",
+      "words": [
+        "låg",
+        "tunn"
+      ],
+      "definition": "som har liten längd (i tid eller rum)",
+      "word_definitions": [
+        "som har liten höjd",
+        "som har liten tjocklek, smal"
+      ]
+    },
+    {
+      "title": "BIT AV PAPPER",
+      "words": [
+        "lapp",
+        "kupong"
+      ],
+      "definition": "litet stycke papper eller plast med viss funktion",
+      "word_definitions": [
+        "litet stycke papper",
+        "bit papper som har ett visst värde"
+      ]
+    },
+    {
+      "title": "HÖGA SPELKORT",
+      "words": [
+        "dam",
+        "kung"
+      ],
+      "definition": "spelkort",
+      "word_definitions": [
+        "ett högt spelkort",
+        "ett högt spelkort; den viktigaste pjäsen i schack"
+      ]
+    },
+    {
+      "title": "BILDER",
+      "words": [
+        "foto",
+        "illustration"
+      ],
+      "definition": "foto, bild",
+      "word_definitions": [
+        "fotografi",
+        "bild"
+      ]
+    }
+  ]
+}

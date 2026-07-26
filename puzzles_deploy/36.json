@@ -1,32 +1,52 @@
 {
-  "pivot": "spelar",
+  "pivot": "form",
   "categories": [
     {
-      "title": "Ägnar sig åt spel (sport/spel)",
+      "title": "TYPER AV BEHÅLLARE",
       "words": [
-        "sporta",
-        "idrotta"
+        "kärl",
+        "container"
+      ],
+      "definition": "behållare (för t.ex. gjutning och bakning)",
+      "word_definitions": [
+        "mindre behållare som används i hushållet",
+        "stor behållare, låda"
       ]
     },
     {
-      "title": "Uppför en viss teaterpjäs, agerar i en teaterpjäs eller film",
+      "title": "UTSEENDE OCH STIL",
       "words": [
-        "uppföra",
-        "agera"
+        "yttre",
+        "stil"
+      ],
+      "definition": "sätt på vilket något är ordnat; utseende",
+      "word_definitions": [
+        "utseende",
+        "sätt att utföra eller utforma något"
       ]
     },
     {
-      "title": "Låtsas",
+      "title": "FYSISK KONDITION",
       "words": [
-        "låtsa",
-        "simulera"
+        "hälsa",
+        "kondition"
+      ],
+      "definition": "fysiskt tillstånd, förmåga att nå bra (idrotts)resultat",
+      "word_definitions": [
+        "tillståndet att må bra, friskhet",
+        "fysisk och psykisk hälsa; uthållighet"
       ]
     },
     {
-      "title": "Framför musik på instrument, musicerar",
+      "title": "GRAMMATISKA BEGREPP",
       "words": [
-        "musicera",
-        "traktera"
+        "tempus",
+        "paradigm"
+      ],
+      "definition": "ett ords utseende när det böjs",
+      "word_definitions": [
+        "böjningsform hos verb som har att göra med tiden (presens och imperfekt)",
+        "böjningsmönster för verb, substantiv och adjektiv"
       ]
     }
   ]

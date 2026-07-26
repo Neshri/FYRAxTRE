@@ -1,0 +1,53 @@
+{
+  "pivot": "klubba",
+  "categories": [
+    {
+      "title": "UTRUSTNING FÖR SPORT",
+      "words": [
+        "racket",
+        "paddel"
+      ],
+      "definition": "avlångt redskap avsett att föra eller slå eller skjuta iväg bollen eller pucken inom hockeyliknande sporter (bandy, innebandy, ishockey, landhockey, lacrosse, krocket)",
+      "word_definitions": [
+        "ett redskap att slå på en boll med",
+        "en sorts åra (för kanot) med ett brett blad i ena eller båda ändarna"
+      ]
+    },
+    {
+      "title": "FESTA UTGÅNG",
+      "words": [
+        "festa",
+        "dansa"
+      ],
+      "definition": "festa på nattklubb",
+      "word_definitions": [
+        "håller fest; dricker sprit",
+        "rör sig rytmiskt till musik"
+      ]
+    },
+    {
+      "title": "GÖRA BEHOV",
+      "words": [
+        "skita",
+        "bajsa"
+      ],
+      "definition": "göra sig av med avföring (\"bajsa\")",
+      "word_definitions": [
+        "har avföring",
+        "har avföring, skiter"
+      ]
+    },
+    {
+      "title": "SLÅ MED REDSKAP",
+      "words": [
+        "smälla",
+        "knacka"
+      ],
+      "definition": "slå med klubba",
+      "word_definitions": [
+        "slår",
+        "slår med korta upprepade slag"
+      ]
+    }
+  ]
+}

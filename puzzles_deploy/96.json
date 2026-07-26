@@ -1,0 +1,53 @@
+{
+  "pivot": "nära",
+  "categories": [
+    {
+      "title": "LITET AVSTÅND",
+      "words": [
+        "angränsande",
+        "omedelbar"
+      ],
+      "definition": "på litet avstånd (i tid eller rum)",
+      "word_definitions": [
+        "som ligger intill",
+        "direkt, ögonblicklig"
+      ]
+    },
+    {
+      "title": "NÄSTAN HELT",
+      "words": [
+        "nästan",
+        "uppemot"
+      ],
+      "definition": "så gott som, nästan",
+      "word_definitions": [
+        "så gott som, närapå",
+        "nästan"
+      ]
+    },
+    {
+      "title": "EXAKT PRECIST",
+      "words": [
+        "precis",
+        "just"
+      ],
+      "definition": "(mer) exakt",
+      "word_definitions": [
+        "noggrann, exakt",
+        "precis, exakt"
+      ]
+    },
+    {
+      "title": "GE NÄRING",
+      "words": [
+        "berika",
+        "göda"
+      ],
+      "definition": "ge näring",
+      "word_definitions": [
+        "tillför näring",
+        "gör fet; tillför växter näringsämnen"
+      ]
+    }
+  ]
+}

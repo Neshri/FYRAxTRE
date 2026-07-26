@@ -1,0 +1,53 @@
+{
+  "pivot": "minne",
+  "categories": [
+    {
+      "title": "MENTAL FÖRMÅGA",
+      "words": [
+        "lokalsinne",
+        "intelligens"
+      ],
+      "definition": "förmåga att komma ihåg, (tänkt) plats för det man kommer ihåg",
+      "word_definitions": [
+        "förmåga att hitta rätt på en plats eller i ett område där man inte varit förut",
+        "förmåga till tänkande och analys, begåvning"
+      ]
+    },
+    {
+      "title": "DATALAGRING",
+      "words": [
+        "hårddisk",
+        "databas"
+      ],
+      "definition": "ställe för lagring av data i en dator",
+      "word_definitions": [
+        "skiva i en dator där information lagras",
+        "ordnad samling av uppgifter i en dator eller på en server"
+      ]
+    },
+    {
+      "title": "HÅGKOMST",
+      "words": [
+        "åtanke",
+        "upplevelse"
+      ],
+      "definition": "något man kommer ihåg, hågkomst",
+      "word_definitions": [
+        "minne, hågkomst",
+        "något (minnesvärt) som man upplever eller har upplevt"
+      ]
+    },
+    {
+      "title": "MINNESFÖREMÅL",
+      "words": [
+        "souvenir",
+        "present"
+      ],
+      "definition": "souvenir",
+      "word_definitions": [
+        "föremål som man bevarar som minne (t.ex. från en resa)",
+        "gåva (särskilt vid ett bestämt tillfälle)"
+      ]
+    }
+  ]
+}

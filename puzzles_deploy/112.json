@@ -1,0 +1,53 @@
+{
+  "pivot": "rad",
+  "categories": [
+    {
+      "title": "LINJÄR UPPSTÄLLNING",
+      "words": [
+        "kavalkad",
+        "fil"
+      ],
+      "definition": "uppställning av saker bredvid (eller bakom) varandra",
+      "word_definitions": [
+        "lång rad av föremål eller händelser (som passerar förbi)",
+        "ett verktyg av stål som används för att slipa ytor jämna"
+      ]
+    },
+    {
+      "title": "OLIKASORTA SERIER",
+      "words": [
+        "division",
+        "kollektion"
+      ],
+      "definition": "serie",
+      "word_definitions": [
+        "klass i seriesystem",
+        "samling"
+      ]
+    },
+    {
+      "title": "SKRIVEN TEXTFÖLJD",
+      "words": [
+        "lösenord",
+        "mening"
+      ],
+      "definition": "vågrätt följd av skrivna bokstäver",
+      "word_definitions": [
+        "följd av bokstäver eller siffror som man måste ange för att komma in någonstans (t.ex. på en dator), kod",
+        "åsikt, uppfattning"
+      ]
+    },
+    {
+      "title": "SITTPLATSER PÅ TEATER",
+      "words": [
+        "loge",
+        "läktare"
+      ],
+      "definition": "sittplatser på samma avstånd från scenen (på teater e.d.)",
+      "word_definitions": [
+        "omklädningsrum på teater; avgränsat utrymme med sittplatser på teater",
+        "upphöjd plats för åskådare eller åhörare"
+      ]
+    }
+  ]
+}

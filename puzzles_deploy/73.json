@@ -1,0 +1,53 @@
+{
+  "pivot": "kors",
+  "categories": [
+    {
+      "title": "GEOMETRISKA FIGURER",
+      "words": [
+        "kryss",
+        "vinkel"
+      ],
+      "definition": "en figur där en rak linje korsar en annan vinkelrätt; kryss",
+      "word_definitions": [
+        "(ritad) figur i form av ett lutande kors (x)",
+        "öppning mellan två räta linjer som utgår från samma punkt, hörn"
+      ]
+    },
+    {
+      "title": "AVRÄTTNINGSSTÄLLNINGAR",
+      "words": [
+        "krucifix",
+        "galge"
+      ],
+      "definition": "ställning (formad som ett kors) där Jesus hängdes upp för att dö (enligt Bibeln); krucifix",
+      "word_definitions": [
+        "skulptur av Jesus på korset",
+        "ställning där dödsdömda häng(de)s"
+      ]
+    },
+    {
+      "title": "TUNG BÖRDA",
+      "words": [
+        "ok",
+        "last"
+      ],
+      "definition": "börda; bestraffning",
+      "word_definitions": [
+        "börda, förtryck",
+        "något som bärs eller fraktas, börda"
+      ]
+    },
+    {
+      "title": "DELAR AV BÅLEN",
+      "words": [
+        "bäcken",
+        "svank"
+      ],
+      "definition": "del av bålen över bäcken och de främre svanskotorna hos ryggradsdjur eller människan (där ryggrad och höftben tillsammans bildar ett kors)",
+      "word_definitions": [
+        "(benstommen vid) nedre delen av bålen",
+        "område i ryggradens nedre del som är böjt inåt"
+      ]
+    }
+  ]
+}

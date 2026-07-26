@@ -1,0 +1,53 @@
+{
+  "pivot": "program",
+  "categories": [
+    {
+      "title": "PLAN FÖR GENOMFÖRANDE",
+      "words": [
+        "strategi",
+        "handlingsplan"
+      ],
+      "definition": "plan eller översikt över hur något ska genomföras",
+      "word_definitions": [
+        "långsiktig plan för att genomföra något",
+        "plan för verksamhet (som finns till eller skapas för att man vill förändra något)"
+      ]
+    },
+    {
+      "title": "TYPER AV SÄNDNINGAR",
+      "words": [
+        "magasin",
+        "feature"
+      ],
+      "definition": "enskild sändning i radio eller tv",
+      "word_definitions": [
+        "program i radio eller tv; tidskrift",
+        "radio- eller tv-program med inslag av dokumentärt och dramatiserat material; stort reportage i tidning"
+      ]
+    },
+    {
+      "title": "DATORKOD OCH PROGRAMVARA",
+      "words": [
+        "mjukvara",
+        "källkod"
+      ],
+      "definition": "instruktion för en dator",
+      "word_definitions": [
+        "program till en dator, programvara",
+        "instruktioner i ett visst programspråk"
+      ]
+    },
+    {
+      "title": "VAL AV UTBILDNING",
+      "words": [
+        "linje",
+        "utbildning"
+      ],
+      "definition": "inriktning av utbildning (särskilt på gymnasiet och universitetet)",
+      "word_definitions": [
+        "kurs, inriktning",
+        "undervisning, studier (ofta med sikte på examen)"
+      ]
+    }
+  ]
+}

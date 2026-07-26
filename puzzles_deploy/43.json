@@ -1,0 +1,53 @@
+{
+  "pivot": "färg",
+  "categories": [
+    {
+      "title": "VISUELL NYANS",
+      "words": [
+        "nyans",
+        "kulör"
+      ],
+      "definition": "ett slags synintryck (rött, grönt etc.); kulör, nyans",
+      "word_definitions": [
+        "färgton",
+        "färg"
+      ]
+    },
+    {
+      "title": "ÅSIKTSMÄSSIG RIKTNING",
+      "words": [
+        "strömning",
+        "ståndpunkt"
+      ],
+      "definition": "åsiktsriktning",
+      "word_definitions": [
+        "samling idéer, åsiktsriktning",
+        "ställningstagande, åsikt"
+      ]
+    },
+    {
+      "title": "SOCIAL STÄMNING",
+      "words": [
+        "atmosfär",
+        "klimat"
+      ],
+      "definition": "positiv stämning",
+      "word_definitions": [
+        "stämning, anda",
+        "stämning, atmosfär"
+      ]
+    },
+    {
+      "title": "KORTLEKENS FÄRGER",
+      "words": [
+        "hjärter",
+        "spader"
+      ],
+      "definition": "en av serierna hjärter, spader, ruter och klöver i en kortlek",
+      "word_definitions": [
+        "en av de fyra färgerna i en kortlek",
+        "(kort i) en av de fyra färgerna i kortspel"
+      ]
+    }
+  ]
+}

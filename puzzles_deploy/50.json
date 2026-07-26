@@ -1,0 +1,53 @@
+{
+  "pivot": "för",
+  "categories": [
+    {
+      "title": "GRADAVADVERB",
+      "words": [
+        "väl",
+        "omåttligt"
+      ],
+      "definition": "i väl hög grad, alltför",
+      "word_definitions": [
+        "i alltför hög grad",
+        "oerhört, mycket"
+      ]
+    },
+    {
+      "title": "KAUSALA KONJUNKTIONER",
+      "words": [
+        "eftersom",
+        "då"
+      ],
+      "definition": "ty",
+      "word_definitions": [
+        "därför att, emedan",
+        "när"
+      ]
+    },
+    {
+      "title": "MEDEL PREPOSITIONER",
+      "words": [
+        "genom",
+        "medelst"
+      ],
+      "definition": "med hjälp av",
+      "word_definitions": [
+        "med hjälp av, med",
+        "med hjälp av, genom"
+      ]
+    },
+    {
+      "title": "BÅTENS FRONT",
+      "words": [
+        "bog",
+        "stäv"
+      ],
+      "definition": "främre delen av en båt",
+      "word_definitions": [
+        "främsta delen (fören) på en båt",
+        "ett fartygs för eller akter"
+      ]
+    }
+  ]
+}

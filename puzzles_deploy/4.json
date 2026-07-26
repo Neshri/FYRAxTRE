@@ -1,32 +1,52 @@
 {
-  "pivot": "bräcker",
+  "pivot": "av",
   "categories": [
     {
-      "title": "Knäcker, bryter",
+      "title": "ANGÅENDE NÅGOT",
       "words": [
-        "knäcka",
-        "bända"
+        "angående",
+        "rörande"
+      ],
+      "definition": "beträffande, med avseende på",
+      "word_definitions": [
+        "om, beträffande",
+        "angående, beträffande"
       ]
     },
     {
-      "title": "Överträffar, stukar",
+      "title": "VARA AV BETYDELSE",
       "words": [
-        "övergå",
-        "slå"
+        "viktig",
+        "relevant"
+      ],
+      "definition": "verbpartikeln av i rollen som adjektiv, predikativt",
+      "word_definitions": [
+        "betydelsefull, angelägen",
+        "som är av betydelse för sammanhanget"
       ]
     },
     {
-      "title": "Steker lätt",
+      "title": "VERBPARTIKLAR",
       "words": [
-        "fräsa",
-        "bryna"
+        "på",
+        "bort"
+      ],
+      "definition": "verbpartikeln av i rollen som adverb",
+      "word_definitions": [
+        "mot",
+        "iväg, undan, härifrån"
       ]
     },
     {
-      "title": "Gryr",
+      "title": "MÅNADER I KALENDERN",
       "words": [
-        "dagas",
-        "ljusna"
+        "november",
+        "maj"
+      ],
+      "definition": "en månad i den judiska kalendern; den elfte månaden i det civila livet och den femte månaden i det religiösa året",
+      "word_definitions": [
+        "årets elfte månad",
+        "årets femte månad"
       ]
     }
   ]

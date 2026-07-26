@@ -1,32 +1,52 @@
 {
-  "pivot": "post",
+  "pivot": "element",
   "categories": [
     {
-      "title": "Belopp (i räkenskap e.d.)",
+      "title": "OMGIVANDE MILJÖ",
       "words": [
-        "saldo",
-        "kredit"
+        "miljö",
+        "omnejd"
+      ],
+      "definition": "ämne; omgivning",
+      "word_definitions": [
+        "omgivande natur",
+        "närmaste trakt, omgivning"
       ]
     },
     {
-      "title": "Lodrät del av karm (till dörr eller fönster)",
+      "title": "VÄRMEKÄLLOR I HEMMET",
       "words": [
-        "regel",
-        "stolpe"
+        "radiator",
+        "spis"
+      ],
+      "definition": "apparat som ger värme (särskilt inomhus)",
+      "word_definitions": [
+        "värmeelement",
+        "apparat med kokplattor (och ofta ugn) för matlagning"
       ]
     },
     {
-      "title": "(högre) tjänst (1)",
+      "title": "DEL AV EN HELHET",
       "words": [
-        "befattning",
-        "ämbete"
+        "ingrediens",
+        "segment"
+      ],
+      "definition": "del, beståndsdel",
+      "word_definitions": [
+        "beståndsdel i en blandning",
+        "avgränsad del av något"
       ]
     },
     {
-      "title": "Vakt (1)",
+      "title": "TYP AV PERSON",
       "words": [
-        "plit",
-        "garde"
+        "karaktär",
+        "figur"
+      ],
+      "definition": "person med vissa (ofta negativa) egenskaper",
+      "word_definitions": [
+        "personliga egenskaper; moralisk styrka",
+        "personlighet, karaktär"
       ]
     }
   ]

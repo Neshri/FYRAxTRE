@@ -1,0 +1,53 @@
+{
+  "pivot": "komma",
+  "categories": [
+    {
+      "title": "TECKEN I TEXT",
+      "words": [
+        "frågetecken",
+        "utropstecken"
+      ],
+      "definition": "skiljetecknet ,",
+      "word_definitions": [
+        "skiljetecknet ?",
+        "skiljetecknet !"
+      ]
+    },
+    {
+      "title": "INTRÄFFA OVÄNTAT",
+      "words": [
+        "ske",
+        "tillstöta"
+      ],
+      "definition": "kunna förutses inträffa eller råka i tillståndet (som framgår av sammanhanget)",
+      "word_definitions": [
+        "äger rum, händer, inträffar",
+        "inträffar (oväntat)"
+      ]
+    },
+    {
+      "title": "BLI FRISK",
+      "words": [
+        "tillfriskna",
+        "läka"
+      ],
+      "definition": "tillfriskna",
+      "word_definitions": [
+        "blir frisk igen, frisknar till",
+        "botar"
+      ]
+    },
+    {
+      "title": "ORSAKSMÄSSIGT SAMMANHANG",
+      "words": [
+        "sammanhänga",
+        "föranleda"
+      ],
+      "definition": "ske; hänga samman orsaksmässigt",
+      "word_definitions": [
+        "har att göra med, hänger ihop, hänger samman",
+        "leder till, orsakar"
+      ]
+    }
+  ]
+}

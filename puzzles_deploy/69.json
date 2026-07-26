@@ -1,0 +1,53 @@
+{
+  "pivot": "knäpper",
+  "categories": [
+    {
+      "title": "KORTA LJUD",
+      "words": [
+        "klicka",
+        "smälla"
+      ],
+      "definition": "ger ifrån sig ett knäpp",
+      "word_definitions": [
+        "knäpper metalliskt",
+        "ger ifrån sig en hård knall"
+      ]
+    },
+    {
+      "title": "TA BILDER",
+      "words": [
+        "fotografera",
+        "avbilda"
+      ],
+      "definition": "trycker på knappen på kameran (för att ta ett foto)",
+      "word_definitions": [
+        "tar bilder med kamera, fotar",
+        "gör en bild av, återger"
+      ]
+    },
+    {
+      "title": "SKJUTA NER",
+      "words": [
+        "panga",
+        "sänka"
+      ],
+      "definition": "skjuter ner",
+      "word_definitions": [
+        "smäller, skjuter",
+        "förflyttar nedåt"
+      ]
+    },
+    {
+      "title": "FÄSTA IHOP",
+      "words": [
+        "knyta",
+        "binda"
+      ],
+      "definition": "fäster ihop med en knapp; knyter samman",
+      "word_definitions": [
+        "binder ihop med en knut, pressar samman",
+        "knyter, fäster, surrar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pivot": "pipa",
+  "categories": [
+    {
+      "title": "TOBAKSPRODUKTER",
+      "words": [
+        "cigarett",
+        "cigarr"
+      ],
+      "definition": "anordning med behållare för tobak som används vid rökning",
+      "word_definitions": [
+        "rulle av tobak omgiven av papper",
+        "(ganska tjock) rulle av tobak omgiven av (brunt) papper"
+      ]
+    },
+    {
+      "title": "RÖRLIKNANDE FÖREMÅL",
+      "words": [
+        "skorsten",
+        "slang"
+      ],
+      "definition": "rör (särskilt på vapen)",
+      "word_definitions": [
+        "(murat) rör som leder ut rök",
+        "ett slags böjligt rör"
+      ]
+    },
+    {
+      "title": "BLÅSINSTRUMENT",
+      "words": [
+        "flöjt",
+        "trumpet"
+      ],
+      "definition": "en typ av blåsinstrument",
+      "word_definitions": [
+        "ett blåsinstrument",
+        "ett blåsinstrument i ganska högt tonläge"
+      ]
+    },
+    {
+      "title": "LUFTHÅL I MAT",
+      "words": [
+        "håla",
+        "bubbla"
+      ],
+      "definition": "hålighet bildad av gas under produktionen av hårdost",
+      "word_definitions": [
+        "fördjupning, hålighet",
+        "liten mängd luft som (vanligen) omges av vatten"
+      ]
+    }
+  ]
+}

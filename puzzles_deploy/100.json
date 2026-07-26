@@ -1,0 +1,53 @@
+{
+  "pivot": "parti",
+  "categories": [
+    {
+      "title": "DEL AV HELHET",
+      "words": [
+        "bit",
+        "segment"
+      ],
+      "definition": "avgränsad del, stycke",
+      "word_definitions": [
+        "del, stycke, avsnitt",
+        "avgränsad del av något"
+      ]
+    },
+    {
+      "title": "POLITISK ORGANISATION",
+      "words": [
+        "block",
+        "allians"
+      ],
+      "definition": "politisk sammanslutning (med viss ideologi)",
+      "word_definitions": [
+        "sammanslutning av organisationer eller partier",
+        "(politiskt) förbund"
+      ]
+    },
+    {
+      "title": "OMGÅNG I SPEL",
+      "words": [
+        "set",
+        "rond"
+      ],
+      "definition": "omgång, spel",
+      "word_definitions": [
+        "omgång (i tennis och andra racketspel)",
+        "period av boxningsmatch; omgång"
+      ]
+    },
+    {
+      "title": "MÄNGD VAROR",
+      "words": [
+        "laddning",
+        "kvantitet"
+      ],
+      "definition": "mängd av en viss vara",
+      "word_definitions": [
+        "(stor) mängd av något",
+        "mängd"
+      ]
+    }
+  ]
+}

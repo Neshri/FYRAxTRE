@@ -1,0 +1,53 @@
+{
+  "pivot": "komma",
+  "categories": [
+    {
+      "title": "SKILJETECKEN",
+      "words": [
+        "semikolon",
+        "punkt"
+      ],
+      "definition": "ett skiljetecken (,)",
+      "word_definitions": [
+        "ett skiljetecken (;)",
+        "tecken för slutet på en mening (.)"
+      ]
+    },
+    {
+      "title": "ANLÄNDA EN PLATS",
+      "words": [
+        "nå",
+        "anlända"
+      ],
+      "definition": "anlända eller nå fram till en plats",
+      "word_definitions": [
+        "kommer fram till, anländer till",
+        "kommer fram, ankommer"
+      ]
+    },
+    {
+      "title": "BLI NÅGOT",
+      "words": [
+        "bli",
+        "utvecklas"
+      ],
+      "definition": "av en händelse övergå till visst (framtida) skeende eller tillstånd",
+      "word_definitions": [
+        "börjar vara, kommer att vara",
+        "blir större eller bättre, växer till"
+      ]
+    },
+    {
+      "title": "MINNAS NÅGOT",
+      "words": [
+        "minnas",
+        "återkalla"
+      ],
+      "definition": "i betydelsen komma ihåg",
+      "word_definitions": [
+        "kommer ihåg",
+        "kalla åter, hemkalla, ta tillbaka"
+      ]
+    }
+  ]
+}

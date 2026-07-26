@@ -1,0 +1,53 @@
+{
+  "pivot": "går",
+  "categories": [
+    {
+      "title": "FÖRFLYTTNING TILL FOTS",
+      "words": [
+        "vandra",
+        "promenera"
+      ],
+      "definition": "förflyttar sig till fots (utan att springa)",
+      "word_definitions": [
+        "förflyttar sig",
+        "går (särskilt för nöjes skull), spatserar"
+      ]
+    },
+    {
+      "title": "FUNGERA ORDENTLIGT",
+      "words": [
+        "funka",
+        "verka"
+      ],
+      "definition": "fungerar; avlöper",
+      "word_definitions": [
+        "fungerar",
+        "arbetar"
+      ]
+    },
+    {
+      "title": "UTÖVA SPEL",
+      "words": [
+        "lira",
+        "spela"
+      ],
+      "definition": "spelas",
+      "word_definitions": [
+        "spelar (boll eller musik)",
+        "ägnar sig åt spel"
+      ]
+    },
+    {
+      "title": "HA PLATS FÖR",
+      "words": [
+        "härbärgera",
+        "innehålla"
+      ],
+      "definition": "får plats, ryms",
+      "word_definitions": [
+        "ger plats åt",
+        "har som innehåll, rymmer"
+      ]
+    }
+  ]
+}

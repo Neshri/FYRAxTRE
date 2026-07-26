@@ -1,32 +1,52 @@
 {
-  "pivot": "bas",
+  "pivot": "akt",
   "categories": [
     {
-      "title": "Fundament som något vilar på",
+      "title": "HÖGTIDLIG CEREMONI",
       "words": [
-        "sockel",
-        "hörnsten"
+        "ritual",
+        "invigning"
+      ],
+      "definition": "ceremoni",
+      "word_definitions": [
+        "fastställd ordning (ofta för en religiös handling), ceremoni",
+        "ceremoni då någon eller något invigs"
       ]
     },
     {
-      "title": "Något grundläggande, utgångspunkt",
+      "title": "MEDVETEN HANDLING",
       "words": [
-        "utgångspunkt",
-        "rot"
+        "dåd",
+        "åtgärd"
+      ],
+      "definition": "handling, process",
+      "word_definitions": [
+        "handling",
+        "handling (för att nå ett visst syfte), ingripande, behandling"
       ]
     },
     {
-      "title": "Militär anläggning (ofta utanför det egna landet)",
+      "title": "DEL AV PJÄS",
       "words": [
-        "garnison",
-        "kasern"
+        "scen",
+        "tablå"
+      ],
+      "definition": "del av en teaterpjäs",
+      "word_definitions": [
+        "den del av en teater där skådespelarna visar sig, estrad",
+        "del av akt i en pjäs"
       ]
     },
     {
-      "title": "Kemiskt ämne som kan ta upp vätejoner",
+      "title": "SKRIFTLIGT DOKUMENT",
       "words": [
-        "soda",
-        "kalk"
+        "urkund",
+        "intyg"
+      ],
+      "definition": "dokument",
+      "word_definitions": [
+        "skriftligt dokument",
+        "dokument som intygar något, bevis"
       ]
     }
   ]

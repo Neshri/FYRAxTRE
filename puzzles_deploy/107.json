@@ -1,0 +1,53 @@
+{
+  "pivot": "positiv",
+  "categories": [
+    {
+      "title": "GYNNSAMMA FÖRHÅLLANDEN",
+      "words": [
+        "fördelaktig",
+        "förmånlig"
+      ],
+      "definition": "gynnsam",
+      "word_definitions": [
+        "förmånlig, gynnsam",
+        "fördelaktig, bra, gynnsam"
+      ]
+    },
+    {
+      "title": "POSITIV INSTÄLLNING",
+      "words": [
+        "välvillig",
+        "människovänlig"
+      ],
+      "definition": "gynnsamt inställd",
+      "word_definitions": [
+        "vänligt inställd",
+        "vänligt inställd till medmänniskorna, human"
+      ]
+    },
+    {
+      "title": "BÖJNINGSFORMER",
+      "words": [
+        "superlativ",
+        "komparativ"
+      ],
+      "definition": "adjektivets grundform (t.ex. \"vacker\")",
+      "word_definitions": [
+        "den högsta graden hos adjektiv (t.ex. <i>störst, vackrast</i>)",
+        "jämförelsegrad, en böjning av ett adjektivs eller ett adverbs grundform"
+      ]
+    },
+    {
+      "title": "BÄRBARA INSTRUMENT",
+      "words": [
+        "dragspel",
+        "blockflöjt"
+      ],
+      "definition": "ett bärbart musikinstrument med vev",
+      "word_definitions": [
+        "ett folkligt musikinstrument",
+        "ett blåsinstrument"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pivot": "modell",
+  "categories": [
+    {
+      "title": "FÖREBILDER",
+      "words": [
+        "ideal",
+        "idol"
+      ],
+      "definition": "förebild, exempel",
+      "word_definitions": [
+        "perfekt exempel (att efterlikna), förebild",
+        "person som man ser upp till, förebild, ideal"
+      ]
+    },
+    {
+      "title": "MINIATYRER",
+      "words": [
+        "avbild",
+        "miniatyr"
+      ],
+      "definition": "kopia i liten skala",
+      "word_definitions": [
+        "kopia",
+        "starkt förminskad modell av något"
+      ]
+    },
+    {
+      "title": "PRODUKTVARIANTER",
+      "words": [
+        "version",
+        "typ"
+      ],
+      "definition": "(vanligt) utförande av en viss vara (t.ex. bilar, maskiner, kläder)",
+      "word_definitions": [
+        "(alternativt) utförande, variant",
+        "sort, kategori, slag"
+      ]
+    },
+    {
+      "title": "POSERANDE PERSONER",
+      "words": [
+        "mannekäng",
+        "posör"
+      ],
+      "definition": "person (särskilt kvinna) som poserar eller gör reklam för något",
+      "word_definitions": [
+        "person (särskilt kvinna) som är anställd för att bli fotograferad i nya kläder",
+        "den som gärna poserar, tillgjord människa"
+      ]
+    }
+  ]
+}

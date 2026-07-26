@@ -1,0 +1,53 @@
+{
+  "pivot": "ovan",
+  "categories": [
+    {
+      "title": "HÖG POSITION",
+      "words": [
+        "uppe",
+        "överst"
+      ],
+      "definition": "på en plats högre upp",
+      "word_definitions": [
+        "i ett läge högt upp",
+        "längst upp"
+      ]
+    },
+    {
+      "title": "TIDIGARE I TEXT",
+      "words": [
+        "förr",
+        "tidigare"
+      ],
+      "definition": "tidigare i texten",
+      "word_definitions": [
+        "förut, tidigare",
+        "före tidpunkten för kommunikationen eller en annan specificerad tidpunkt"
+      ]
+    },
+    {
+      "title": "POSITION ÖVER",
+      "words": [
+        "över",
+        "på"
+      ],
+      "definition": "över, ovanför",
+      "word_definitions": [
+        "ovanför, ovanpå",
+        "i anslutning till, ovanpå"
+      ]
+    },
+    {
+      "title": "BRISTANDE VANA",
+      "words": [
+        "oerfaren",
+        "okunnig"
+      ],
+      "definition": "inte van",
+      "word_definitions": [
+        "inte erfaren, ovan",
+        "som saknar kunskap, oerfaren"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pivot": "grov",
+  "categories": [
+    {
+      "title": "KRAFTIG OCH TJOCK",
+      "words": [
+        "bastant",
+        "massiv"
+      ],
+      "definition": "tjock, kraftig, bastant",
+      "word_definitions": [
+        "kraftig, tjock",
+        "tung, kraftig"
+      ]
+    },
+    {
+      "title": "OJÄMN YTA",
+      "words": [
+        "skrovlig",
+        "ojämn"
+      ],
+      "definition": "ojämn, skrovlig; inte bearbetad (i detalj)",
+      "word_definitions": [
+        "grov och ojämn",
+        "inte jämn eller slät (om yta)"
+      ]
+    },
+    {
+      "title": "OHYFSAT BETENDE",
+      "words": [
+        "plump",
+        "oborstad"
+      ],
+      "definition": "ohyfsad, rå",
+      "word_definitions": [
+        "rå och ohyfsad",
+        "ohyfsad"
+      ]
+    },
+    {
+      "title": "ALLVARLIG GRAD",
+      "words": [
+        "grav",
+        "svårartad"
+      ],
+      "definition": "svår, allvarlig",
+      "word_definitions": [
+        "allvarlig, svår",
+        "allvarlig"
+      ]
+    }
+  ]
+}

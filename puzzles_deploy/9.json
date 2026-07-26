@@ -1,32 +1,52 @@
 {
-  "pivot": "element",
+  "pivot": "block",
   "categories": [
     {
-      "title": "Omgivning",
+      "title": "BYGGMATERIAL",
       "words": [
-        "miljö",
-        "omvärld"
+        "sten",
+        "betong"
+      ],
+      "definition": "sammanhängande helhet (av hårt material, t.ex. sten)",
+      "word_definitions": [
+        "(liten lös bit av) det hårda material som finns i berg",
+        "blandning av cement, sand, grus och vatten (som snabbt hårdnar)"
       ]
     },
     {
-      "title": "Apparat som ger värme (särskilt inomhus)",
+      "title": "POLITISKA SAMMANSLUTNINGAR",
       "words": [
-        "radiator",
-        "värmare"
+        "union",
+        "förbund"
+      ],
+      "definition": "sammanslutning av organisationer eller partier",
+      "word_definitions": [
+        "sammanslutning av stater, förbund",
+        "förening av organisationer"
       ]
     },
     {
-      "title": "Del, beståndsdel",
+      "title": "PAPPERSHÄFTEN",
       "words": [
-        "ingrediens",
-        "inslag"
+        "lunta",
+        "broschyr"
+      ],
+      "definition": "häfte med pappersark",
+      "word_definitions": [
+        "bunt papper",
+        "tryckt häfte, folder"
       ]
     },
     {
-      "title": "Person med vissa (ofta negativa) egenskaper",
+      "title": "LYFTANORDNINGAR",
       "words": [
-        "karaktär",
-        "figur"
+        "talja",
+        "vinsch"
+      ],
+      "definition": "lyftanordning med lina och en eller flera trissor",
+      "word_definitions": [
+        "lyftanordning med en lina mellan två block",
+        "anordning som används för att lyfta eller fira ner last, spel"
       ]
     }
   ]

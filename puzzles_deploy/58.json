@@ -1,0 +1,53 @@
+{
+  "pivot": "hård",
+  "categories": [
+    {
+      "title": "FAST MATERIAL",
+      "words": [
+        "fast",
+        "solid"
+      ],
+      "definition": "som inte ger efter för tryck eller böjning",
+      "word_definitions": [
+        "hård, massiv",
+        "gedigen, massiv"
+      ]
+    },
+    {
+      "title": "STRÄNG PERSONLIGHET",
+      "words": [
+        "kall",
+        "strikt"
+      ],
+      "definition": "okänslig, sträng",
+      "word_definitions": [
+        "hård, okänslig",
+        "sträng; korrekt; som ska följas noggrant"
+      ]
+    },
+    {
+      "title": "TUNG ANSTRÄNGNING",
+      "words": [
+        "jobbig",
+        "mödosam"
+      ],
+      "definition": "intensiv, påfrestande",
+      "word_definitions": [
+        "ansträngande, påfrestande",
+        "ansträngande, besvärlig"
+      ]
+    },
+    {
+      "title": "KRAFTIG STORLEK",
+      "words": [
+        "massiv",
+        "rejäl"
+      ],
+      "definition": "kraftig",
+      "word_definitions": [
+        "tung, kraftig",
+        "stor, kraftig"
+      ]
+    }
+  ]
+}

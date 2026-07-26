@@ -1,0 +1,53 @@
+{
+  "pivot": "på",
+  "categories": [
+    {
+      "title": "MOTSATT RIKTNING",
+      "words": [
+        "emot",
+        "kontra"
+      ],
+      "definition": "mot",
+      "word_definitions": [
+        "mot",
+        "mot, gentemot"
+      ]
+    },
+    {
+      "title": "POSITIONELLA PREPOSITIONER",
+      "words": [
+        "över",
+        "vid"
+      ],
+      "definition": "i anslutning till, ovanpå",
+      "word_definitions": [
+        "ovanför, ovanpå",
+        "omkring, ungefär; i samband med"
+      ]
+    },
+    {
+      "title": "TIDSMÄSSTIG OMFATTNING",
+      "words": [
+        "inom",
+        "under"
+      ],
+      "definition": "under, inom (anger tidpunkt eller tidsrymd)",
+      "word_definitions": [
+        "innanför",
+        "i läge nedanför"
+      ]
+    },
+    {
+      "title": "TIDSMÄSSTIG FÖLJD",
+      "words": [
+        "sedan",
+        "efter"
+      ],
+      "definition": "efter",
+      "word_definitions": [
+        "från, efter",
+        "därpå, därefter"
+      ]
+    }
+  ]
+}

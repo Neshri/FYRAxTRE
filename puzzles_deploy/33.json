@@ -1,32 +1,52 @@
 {
-  "pivot": "sats",
+  "pivot": "figur",
   "categories": [
     {
-      "title": "Större del av en mening (som ofta själv kan utgöra en mening)",
+      "title": "KROPPSLIG FORM",
       "words": [
-        "fras",
-        "ord"
+        "fysik",
+        "kroppsbyggnad"
+      ],
+      "definition": "gestalt, kroppsform",
+      "word_definitions": [
+        "kroppslig form, konstitution",
+        "kroppens utseende, figur"
       ]
     },
     {
-      "title": "Uppsättning av något, omgång (2)",
+      "title": "PERSONLIGA EGENSKAPER",
       "words": [
-        "set",
-        "batteri"
+        "personlighet",
+        "karaktär"
+      ],
+      "definition": "personlighet, karaktär",
+      "word_definitions": [
+        "sammanfattande (unika) egenskaper hos en person",
+        "personliga egenskaper; moralisk styrka"
       ]
     },
     {
-      "title": "Bestämd andel",
+      "title": "SCHACKPJÄSER",
       "words": [
-        "kvot",
-        "tilldelning"
+        "löpare",
+        "springare"
+      ],
+      "definition": "pjäs (t.ex. i schack)",
+      "word_definitions": [
+        "en pjäs i schack",
+        "en schackpjäs, häst"
       ]
     },
     {
-      "title": "Del av ett större musikverk",
+      "title": "GRAFISKA ELEMENT",
       "words": [
-        "final",
-        "preludium"
+        "illustration",
+        "diagram"
+      ],
+      "definition": "grafisk illustration, bild (i text)",
+      "word_definitions": [
+        "bild",
+        "grafisk figur som illustrerar fakta som kan uttryckas med siffror"
       ]
     }
   ]

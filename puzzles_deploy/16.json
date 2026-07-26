@@ -1,32 +1,52 @@
 {
-  "pivot": "följer",
+  "pivot": "byte",
   "categories": [
     {
-      "title": "Efterträder",
+      "title": "VÄXLING ELLER ÄNDRING",
       "words": [
-        "ersätta",
-        "avlösa"
+        "ändring",
+        "omvandling"
+      ],
+      "definition": "handlingen att byta något, utbyte",
+      "word_definitions": [
+        "handlingen att ändra något, förändring",
+        "handlingen att omvandla något"
       ]
     },
     {
-      "title": "Gör sällskap med",
+      "title": "FÅNGST VID JAKT",
       "words": [
-        "ledsaga",
-        "sällskapa"
+        "rov",
+        "vilt"
+      ],
+      "definition": "fångst, rov",
+      "word_definitions": [
+        "byte, fångst",
+        "vilda djur"
       ]
     },
     {
-      "title": "Rättar sig efter, lyder (1)",
+      "title": "ERBJUDANDE VID KÖP",
       "words": [
-        "hörsamma",
-        "lyda"
+        "anbud",
+        "offert"
+      ],
+      "definition": "offer",
+      "word_definitions": [
+        "erbjudande, förslag",
+        "erbjudande om en vara eller tjänst till ett visst pris, anbud"
       ]
     },
     {
-      "title": "Observerar, hänger med i",
+      "title": "ENHETER FÖR DATA",
       "words": [
-        "iaktta",
-        "uppmärksamma"
+        "bit",
+        "ord"
+      ],
+      "definition": "åtta bits (i datasammanhang)",
+      "word_definitions": [
+        "siffra i binärt talsystem; enhet för information (i datorer)",
+        "minsta självständiga enhet i en text (med mellanrum före och efter)"
       ]
     }
   ]

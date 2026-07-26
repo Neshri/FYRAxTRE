@@ -1,0 +1,53 @@
+{
+  "pivot": "följer",
+  "categories": [
+    {
+      "title": "TA ÖVER ROLL",
+      "words": [
+        "ersätta",
+        "avlösa"
+      ],
+      "definition": "efterträder",
+      "word_definitions": [
+        "vikarierar för; efterträder",
+        "efterträder, ersätter, löser av"
+      ]
+    },
+    {
+      "title": "VARA SÄLLSKAP",
+      "words": [
+        "sällskapa",
+        "ledsaga"
+      ],
+      "definition": "gör sällskap med",
+      "word_definitions": [
+        "är sällskap åt; är partner till",
+        "följer med på vägen"
+      ]
+    },
+    {
+      "title": "LYDA INSTRUKTIONER",
+      "words": [
+        "hörsamma",
+        "vika"
+      ],
+      "definition": "rättar sig efter, lyder",
+      "word_definitions": [
+        "rättar sig efter, lyder",
+        "drar sig tillbaka, ger efter"
+      ]
+    },
+    {
+      "title": "HÅLLA KOLL PÅ",
+      "words": [
+        "iaktta",
+        "uppmärksamma"
+      ],
+      "definition": "observerar, hänger med i",
+      "word_definitions": [
+        "följer, visar, tar hänsyn till",
+        "lägger märke till, observerar"
+      ]
+    }
+  ]
+}

@@ -1,32 +1,52 @@
 {
-  "pivot": "öppen",
+  "pivot": "fälla",
   "categories": [
     {
-      "title": "Inte stängd eller låst eller täckt",
+      "title": "FÅNGSTANORDNINGAR",
       "words": [
-        "bar",
-        "naken"
+        "nät",
+        "snara"
+      ],
+      "definition": "anordning som gjorts iordning för att fånga någon/något som passerar",
+      "word_definitions": [
+        "(material av) trådar som knutits ihop och som bildar ett rutmönster",
+        "ögla av rep som kan dras åt"
       ]
     },
     {
-      "title": "Tillgänglig eller synlig för alla, allmän, offentlig",
+      "title": "FÖRLORA EN DEL",
       "words": [
-        "offentlig",
-        "allmän"
+        "tappa",
+        "förlora"
+      ],
+      "definition": "förlora något som tidigare varit en del av objektet",
+      "word_definitions": [
+        "släpper oavsiktligt, förlorar",
+        "vinner inte, blir besegrad"
       ]
     },
     {
-      "title": "Inte avgjord",
+      "title": "DÖDA VILT",
       "words": [
-        "oavgjord",
-        "olöst"
+        "avliva",
+        "skadskjuta"
+      ],
+      "definition": "skjuta ett vilt djur",
+      "word_definitions": [
+        "dödar (djur)",
+        "träffar djur med ett skott som inte dödar"
       ]
     },
     {
-      "title": "Uppriktig",
+      "title": "ÅSTADKOMMA NÅGOT",
       "words": [
-        "frank",
-        "rättfram"
+        "prestera",
+        "uppnå"
+      ],
+      "definition": "slutgiltigt åstadkomma något",
+      "word_definitions": [
+        "åstadkommer, utför",
+        "når upp till; åstadkommer"
       ]
     }
   ]

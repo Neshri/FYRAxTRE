@@ -1,32 +1,52 @@
 {
-  "pivot": "rör",
+  "pivot": "faller",
   "categories": [
     {
-      "title": "Berör, nuddar",
+      "title": "FALLA FYSISKT",
       "words": [
-        "nudda",
-        "tangera"
+        "ramla",
+        "trilla"
+      ],
+      "definition": "ramlar, trillar",
+      "word_definitions": [
+        "faller, trillar",
+        "ramlar, faller"
       ]
     },
     {
-      "title": "Vispar",
+      "title": "SJUNKA I VÄRDE",
       "words": [
-        "vispa",
-        "blanda"
+        "dala",
+        "digna"
+      ],
+      "definition": "dalar, sjunker",
+      "word_definitions": [
+        "minskar",
+        "sjunker ner, sviktar"
       ]
     },
     {
-      "title": "Berör känslomässigt, griper",
+      "title": "MISTA LIVET",
       "words": [
-        "gripa",
-        "frappera"
+        "dö",
+        "stupa"
+      ],
+      "definition": "dör, stupar, omkommer",
+      "word_definitions": [
+        "slutar att leva, mister livet, går bort",
+        "faller i strid, dör"
       ]
     },
     {
-      "title": "Handlar om, gäller",
+      "title": "GE UPP I KRIG",
       "words": [
-        "gälla",
-        "omfatta"
+        "kapitulera",
+        "underkasta"
+      ],
+      "definition": "kapitulerar, erövras",
+      "word_definitions": [
+        "överlämnar sig till fienden; ger sig, ger upp",
+        "låta genomgå"
       ]
     }
   ]

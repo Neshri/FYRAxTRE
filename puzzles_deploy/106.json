@@ -1,0 +1,53 @@
+{
+  "pivot": "plats",
+  "categories": [
+    {
+      "title": "GEOGRAFISK POSITION",
+      "words": [
+        "position",
+        "region"
+      ],
+      "definition": "område med ett bestämt läge",
+      "word_definitions": [
+        "ställning, läge",
+        "geografiskt område"
+      ]
+    },
+    {
+      "title": "LEDIGT UTRYMME",
+      "words": [
+        "rum",
+        "yta"
+      ],
+      "definition": "ledigt utrymme",
+      "word_definitions": [
+        "plats, utrymme",
+        "areal, area; utrymme"
+      ]
+    },
+    {
+      "title": "YRKESROLL",
+      "words": [
+        "tjänst",
+        "jobb"
+      ],
+      "definition": "anställning",
+      "word_definitions": [
+        "anställning",
+        "anställning; arbetstillfälle"
+      ]
+    },
+    {
+      "title": "TÄVLINGSPLACERING",
+      "words": [
+        "ställning",
+        "rangordning"
+      ],
+      "definition": "placering i tävling",
+      "word_definitions": [
+        "läge i en tävling",
+        "placering efter rang"
+      ]
+    }
+  ]
+}

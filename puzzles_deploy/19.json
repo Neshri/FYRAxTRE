@@ -1,32 +1,52 @@
 {
-  "pivot": "håller",
+  "pivot": "division",
   "categories": [
     {
-      "title": "Utför; anordnar",
+      "title": "SÄTT ATT DELA",
       "words": [
-        "arrangera",
-        "organisera"
+        "fördelning",
+        "halvering"
+      ],
+      "definition": "handlingen att dividera",
+      "word_definitions": [
+        "handlingen att fördela något; uppdelning",
+        "handlingen att halvera något"
       ]
     },
     {
-      "title": "Har i handen, griper, fattar",
+      "title": "MILITÄRA FÖRBAND",
       "words": [
-        "gripa",
-        "fatta"
+        "regemente",
+        "brigad"
+      ],
+      "definition": "större militär avdelning",
+      "word_definitions": [
+        "den högsta administrativa militära enheten på lokal nivå",
+        "stort förband inom en armé"
       ]
     },
     {
-      "title": "Hindrar från att röra sig",
+      "title": "FÖRETAGSAVDELNINGAR",
       "words": [
-        "blockera",
-        "hejda"
+        "byrå",
+        "filial"
+      ],
+      "definition": "avdelning inom företag",
+      "word_definitions": [
+        "avdelning; firma",
+        "(ganska självständig) avdelning"
       ]
     },
     {
-      "title": "Bibehåller, bevarar",
+      "title": "SPORTSLIG NIVÅ",
       "words": [
-        "bevara",
-        "konservera"
+        "serie",
+        "liga"
+      ],
+      "definition": "klass i seriesystem",
+      "word_definitions": [
+        "rad, följd",
+        "kriminell grupp, samling förbrytare"
       ]
     }
   ]

@@ -1,32 +1,52 @@
 {
-  "pivot": "klar",
+  "pivot": "drar",
   "categories": [
     {
-      "title": "Ljus, lysande, genomskinlig",
+      "title": "DRA I NÅGOT",
       "words": [
-        "transparent",
-        "ljus"
+        "rycka",
+        "slita"
+      ],
+      "definition": "för till sig med handen",
+      "word_definitions": [
+        "drar hastigt ur sitt läge",
+        "nöter"
       ]
     },
     {
-      "title": "Lätt att förstå, tydlig",
+      "title": "FÖRFLYTTA SIG",
       "words": [
-        "åskådlig",
-        "begriplig"
+        "vandra",
+        "åka"
+      ],
+      "definition": "förflyttar sig",
+      "word_definitions": [
+        "förflyttar sig",
+        "förflyttas, faller"
       ]
     },
     {
-      "title": "Tydlig, stor",
+      "title": "SKAPA BILD",
       "words": [
-        "enorm",
-        "rejäl"
+        "teckna",
+        "rita"
+      ],
+      "definition": "ritar, tecknar",
+      "word_definitions": [
+        "gör teckningar, ritar",
+        "skapar en bild med penna e.d."
       ]
     },
     {
-      "title": "Färdig (1)",
+      "title": "LUFTRÖRELSE",
       "words": [
-        "redo",
-        "fullbordad"
+        "blåsa",
+        "fläkta"
+      ],
+      "definition": "blåser, fläktar",
+      "word_definitions": [
+        "rör sig (om luft), fläktar",
+        "blåser lätt"
       ]
     }
   ]

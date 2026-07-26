@@ -1,0 +1,53 @@
+{
+  "pivot": "koloni",
+  "categories": [
+    {
+      "title": "UTLANDSOMRÅDE",
+      "words": [
+        "bosättning",
+        "protektorat"
+      ],
+      "definition": "ett lands besittning utomlands; samhälle av nybyggare",
+      "word_definitions": [
+        "skapande av ett hem; bebyggelse",
+        "skyddat område; land som står under ett annat lands överhöghet"
+      ]
+    },
+    {
+      "title": "BARNLÄGER",
+      "words": [
+        "feriehem",
+        "läger"
+      ],
+      "definition": "sommarhem för barn, kollo",
+      "word_definitions": [
+        "privat hem som under sommaren tar emot barn i yngre skolåldern",
+        "plats där en grupp personer tillfälligt bor i tält eller baracker"
+      ]
+    },
+    {
+      "title": "DJURGRUPP",
+      "words": [
+        "flock",
+        "svärm"
+      ],
+      "definition": "samling av människor, djur eller växter",
+      "word_definitions": [
+        "grupp, klunga, skara, samling (särskilt av vissa djur)",
+        "grupp av flygande djur (särskilt insekter)"
+      ]
+    },
+    {
+      "title": "ODLINGSPLATS",
+      "words": [
+        "odlingslott",
+        "trädgård"
+      ],
+      "definition": "kolonilott",
+      "word_definitions": [
+        "andel av en trädgård eller annan odlingsmark, där man kan odla sina egna grönsaker eller andra växter",
+        "område med odlade växter"
+      ]
+    }
+  ]
+}

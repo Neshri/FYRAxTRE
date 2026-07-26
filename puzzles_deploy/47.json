@@ -1,0 +1,53 @@
+{
+  "pivot": "får",
+  "categories": [
+    {
+      "title": "TA EMOT NÅGOT",
+      "words": [
+        "erhålla",
+        "motta"
+      ],
+      "definition": "tar emot, erhåller",
+      "word_definitions": [
+        "tar emot, får",
+        "välkomnar, tar emot"
+      ]
+    },
+    {
+      "title": "VARA TVUNGEN TILL",
+      "words": [
+        "behöva",
+        "nödgas"
+      ],
+      "definition": "är tvungen, måste",
+      "word_definitions": [
+        "är tvungen att",
+        "är tvungen"
+      ]
+    },
+    {
+      "title": "HUSDJUR",
+      "words": [
+        "get",
+        "ko"
+      ],
+      "definition": "ett däggdjur av släktet Ovis som hålls för ullens, köttets och till viss del mjölkens skull",
+      "word_definitions": [
+        "ett husdjur som ger mjölk och ost (släktet Capra)",
+        "ett husdjur som ger mjölk"
+      ]
+    },
+    {
+      "title": "DUM PERSON",
+      "words": [
+        "nöt",
+        "dumbom"
+      ],
+      "definition": "person som anses dum i huvudet",
+      "word_definitions": [
+        "person som verkar dum eller tankspridd",
+        "dum person, dumhuvud"
+      ]
+    }
+  ]
+}

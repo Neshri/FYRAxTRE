@@ -1,32 +1,52 @@
 {
-  "pivot": "plats",
+  "pivot": "dryg",
   "categories": [
     {
-      "title": "Område med ett bestämt läge",
+      "title": "RIKLIGT MÅTT",
       "words": [
-        "region",
-        "fläck"
+        "riklig",
+        "ymnig"
+      ],
+      "definition": "riklig, rundlig (om tid, mått och vikt)",
+      "word_definitions": [
+        "stor, rik",
+        "överflödande, riklig"
       ]
     },
     {
-      "title": "Ledigt utrymme",
+      "title": "LÅNGVARIG",
       "words": [
-        "rum",
-        "yta"
+        "långvarig",
+        "ihållande"
+      ],
+      "definition": "som räcker länge",
+      "word_definitions": [
+        "som varar länge",
+        "som håller på länge, långvarig"
       ]
     },
     {
-      "title": "Anställning",
+      "title": "BESVÄRLIG",
       "words": [
-        "jobb",
-        "tjänst"
+        "jobbig",
+        "mödosam"
+      ],
+      "definition": "besvärlig, betungande",
+      "word_definitions": [
+        "besvärlig",
+        "ansträngande, besvärlig"
       ]
     },
     {
-      "title": "Placering i tävling",
+      "title": "HÖGFÄRDIG",
       "words": [
-        "ställning",
-        "rangordning"
+        "uppblåst",
+        "kaxig"
+      ],
+      "definition": "högfärdig, mallig",
+      "word_definitions": [
+        "högfärdig, mallig",
+        "som försöker hävda sig, mallig, tuff"
       ]
     }
   ]

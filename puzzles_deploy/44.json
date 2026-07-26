@@ -1,0 +1,53 @@
+{
+  "pivot": "få",
+  "categories": [
+    {
+      "title": "LITE ANTAL",
+      "words": [
+        "några",
+        "vissa"
+      ],
+      "definition": "inte många",
+      "word_definitions": [
+        "plural av någon",
+        "somliga, inte alla"
+      ]
+    },
+    {
+      "title": "TA EMOT",
+      "words": [
+        "motta",
+        "erhålla"
+      ],
+      "definition": "erhålla, motta, bekomma, vinna; bli given",
+      "word_definitions": [
+        "välkomnar, tar emot",
+        "tar emot, får"
+      ]
+    },
+    {
+      "title": "VARA TVUNGEN",
+      "words": [
+        "måste",
+        "behöva"
+      ],
+      "definition": "tillåtas eller måste",
+      "word_definitions": [
+        "indikerar att det finns ett krav på att subjektet i meningen ska göra något; uttrycker nödvändighet",
+        "har behov av"
+      ]
+    },
+    {
+      "title": "DRAS MED SJUKDOM",
+      "words": [
+        "insjukna",
+        "smitta"
+      ],
+      "definition": "bli sjuk; dra på sig en sjukdom",
+      "word_definitions": [
+        "blir sjuk",
+        "sprider sjukdom till andra"
+      ]
+    }
+  ]
+}

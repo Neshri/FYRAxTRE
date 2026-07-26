@@ -1,32 +1,52 @@
 {
-  "pivot": "akt",
+  "pivot": "affär",
   "categories": [
     {
-      "title": "Ceremoni",
+      "title": "EKONOMISK TRANSAKTION",
       "words": [
-        "ritual",
-        "invigning"
+        "transaktion",
+        "överenskommelse"
+      ],
+      "definition": "ekonomisk åtgärd",
+      "word_definitions": [
+        "ekonomisk uppgörelse",
+        "avtal, uppgörelse"
       ]
     },
     {
-      "title": "Handling, process",
+      "title": "FÖRSÄLJNINGSSTÄLLE",
       "words": [
-        "dåd",
-        "gärning"
+        "kiosk",
+        "handel"
+      ],
+      "definition": "ställe med försäljning, butik",
+      "word_definitions": [
+        "litet hus med försäljning av tidningar, godsaker m.m. (ibland även mat)",
+        "affär, butik"
       ]
     },
     {
-      "title": "Del av en teaterpjäs",
+      "title": "PERSONLIG ANGELÄGENHET",
       "words": [
-        "scen",
-        "tablå"
+        "sak",
+        "ting"
+      ],
+      "definition": "angelägenheter",
+      "word_definitions": [
+        "angelägenhet, ärende",
+        "omständigheter"
       ]
     },
     {
-      "title": "Dokument",
+      "title": "UPPMÄRKSAMMAD HÄNDELSE",
       "words": [
-        "urkund",
-        "dossier"
+        "spektakel",
+        "tilldragelse"
+      ],
+      "definition": "uppmärksammad händelse",
+      "word_definitions": [
+        "händelse som väcker uppseende",
+        "händelse"
       ]
     }
   ]

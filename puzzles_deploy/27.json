@@ -1,32 +1,52 @@
 {
-  "pivot": "pjäs",
+  "pivot": "driver",
   "categories": [
     {
-      "title": "Föremål som är uppställt som prydnad",
+      "title": "TVINGA NÅGON",
       "words": [
-        "dekoration",
-        "ornament"
+        "förplikta",
+        "nödga"
+      ],
+      "definition": "föser, tvingar",
+      "word_definitions": [
+        "ålägger, tvingar",
+        "tvingar, förmår"
       ]
     },
     {
-      "title": "Teaterstycke, skådespel",
+      "title": "UTÖVA PÅVERKAN",
       "words": [
-        "drama",
-        "komedi"
+        "influera",
+        "inverka"
+      ],
+      "definition": "påverkar",
+      "word_definitions": [
+        "inverkar på, påverkar",
+        "påverkar"
       ]
     },
     {
-      "title": "Figur (2) som man flyttar på ett spelbräde (särskilt i schack)",
+      "title": "BEDRIVA VERKSAMHET",
       "words": [
-        "figur",
-        "bricka"
+        "utöva",
+        "idka"
+      ],
+      "definition": "ägnar sig åt, bedriver",
+      "word_definitions": [
+        "bedriver verksamhet",
+        "sysslar med, bedriver"
       ]
     },
     {
-      "title": "Tyngre eldvapen",
+      "title": "SKOJA OCH SKÄMTA",
       "words": [
-        "artilleri",
-        "kanon"
+        "skoja",
+        "skämta"
+      ],
+      "definition": "skojar, skämtar",
+      "word_definitions": [
+        "skämtar",
+        "säger lustigheter, skojar"
       ]
     }
   ]

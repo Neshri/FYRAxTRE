@@ -1,32 +1,52 @@
 {
-  "pivot": "slag",
+  "pivot": "fin",
   "categories": [
     {
-      "title": "Sort, typ",
+      "title": "ESTETISKT TILLTALANDE",
       "words": [
-        "sort",
-        "typ"
+        "tjusig",
+        "stilig"
+      ],
+      "definition": "snygg, vacker",
+      "word_definitions": [
+        "vacker, elegant",
+        "som har stil, elegant, vacker"
       ]
     },
     {
-      "title": "Kort stund",
+      "title": "HÖG KVALITET",
       "words": [
-        "ögonblick",
-        "stund"
+        "förstklassig",
+        "briljant"
+      ],
+      "definition": "bra, utmärkt",
+      "word_definitions": [
+        "av bästa slag, prima, utmärkt",
+        "lysande, utmärkt"
       ]
     },
     {
-      "title": "Större strid, drabbning",
+      "title": "SMAL KROPPSBYGGNAD",
       "words": [
-        "batalj",
-        "dust"
+        "slank",
+        "smäcker"
+      ],
+      "definition": "tunn, smal",
+      "word_definitions": [
+        "smal, smärt",
+        "smal och elegant"
       ]
     },
     {
-      "title": "Hård träff på ett föremål, stöt",
+      "title": "SUBTIL OCH DISKRET",
       "words": [
-        "hugg",
-        "törn"
+        "sober",
+        "diplomatisk"
+      ],
+      "definition": "diskret, subtil",
+      "word_definitions": [
+        "smakfull; diskret",
+        "smidig, försiktig"
       ]
     }
   ]

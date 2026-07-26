@@ -1,32 +1,52 @@
 {
-  "pivot": "fin",
+  "pivot": "bryter",
   "categories": [
     {
-      "title": "Snygg, vacker",
+      "title": "GÖRA SÖNDER",
       "words": [
-        "tjusig",
-        "stilig"
+        "spräcka",
+        "knäcka"
+      ],
+      "definition": "får att spricka sönder i två delar (ofta genom kraftig böjning)",
+      "word_definitions": [
+        "får att spricka",
+        "bryter hårt material genom kraftigt slag eller tryck"
       ]
     },
     {
-      "title": "Tunn, smal",
+      "title": "BRYTA MOT REGLER",
       "words": [
-        "slank",
-        "spenslig"
+        "överträda",
+        "kränka"
+      ],
+      "definition": "kommer i konflikt med lagen, uppfyller inte, kränker",
+      "word_definitions": [
+        "bryter mot bestämmelser",
+        "respekterar inte"
       ]
     },
     {
-      "title": "Som är i små korn eller bitar",
+      "title": "BLANDA FÄRGER",
       "words": [
-        "pulveriserad",
-        "mald"
+        "färga",
+        "sammanblanda"
+      ],
+      "definition": "blandar (med avvikande färg eller smak)",
+      "word_definitions": [
+        "ger (en viss) färg åt",
+        "förväxlar, blandar ihop, blandar samman"
       ]
     },
     {
-      "title": "Diskret, subtil",
+      "title": "KOPPLA BORT",
       "words": [
-        "sober",
-        "lågmäld"
+        "frånkoppla",
+        "suspendera"
+      ],
+      "definition": "bringar ur kontakt; stänger av",
+      "word_definitions": [
+        "frigör från anslutning, kopplar ifrån",
+        "stänger av från tjänst för viss tid"
       ]
     }
   ]

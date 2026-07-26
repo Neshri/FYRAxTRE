@@ -1,0 +1,53 @@
+{
+  "pivot": "rätt",
+  "categories": [
+    {
+      "title": "UTAN FEL",
+      "words": [
+        "ofelbart",
+        "perfekt"
+      ],
+      "definition": "utan fel",
+      "word_definitions": [
+        "utan minsta tvivel, säkert",
+        "; på ett perfekt sätt"
+      ]
+    },
+    {
+      "title": "MORALISKT KORREKT",
+      "words": [
+        "anständig",
+        "moralisk"
+      ],
+      "definition": "moraliskt riktig",
+      "word_definitions": [
+        "(moraliskt) passande; korrekt, hederlig",
+        "som bygger på moral"
+      ]
+    },
+    {
+      "title": "LAGLIG RÄTTIGHET",
+      "words": [
+        "befogenhet",
+        "privilegium"
+      ],
+      "definition": "rättighet",
+      "word_definitions": [
+        "rättighet; behörighet",
+        "förmån"
+      ]
+    },
+    {
+      "title": "DOMSTOL",
+      "words": [
+        "domstol",
+        "tribunal"
+      ],
+      "definition": "domstol",
+      "word_definitions": [
+        "myndighet som dömer i rättsfall",
+        "(revolutions)domstol"
+      ]
+    }
+  ]
+}

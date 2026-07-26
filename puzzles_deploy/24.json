@@ -1,32 +1,52 @@
 {
-  "pivot": "linje",
+  "pivot": "drift",
   "categories": [
     {
-      "title": "Figur med utsträckning åt bara ett håll",
+      "title": "SKÖTSEL AV ANLÄGGNING",
       "words": [
-        "diagonal",
-        "stråle"
+        "underhåll",
+        "förvaltning"
+      ],
+      "definition": "skötsel (t.ex. av en anläggning eller ett företag)",
+      "word_definitions": [
+        "skötsel; renovering",
+        "administration"
       ]
     },
     {
-      "title": "Sträcka som trafikeras med allmänna kommunikationer",
+      "title": "BIOLOGISKA BEHOV",
       "words": [
-        "led",
-        "rutt"
+        "hunger",
+        "törst"
+      ],
+      "definition": "instinkt, begär",
+      "word_definitions": [
+        "begär, längtan",
+        "stark längtan; starkt behov"
       ]
     },
     {
-      "title": "Kurs (1), inriktning",
+      "title": "FÖRLÖJLIGANDE OCH SKÄMT",
       "words": [
-        "inriktning",
-        "orientering"
+        "hån",
+        "lustighet"
+      ],
+      "definition": "skämt, förlöjligande",
+      "word_definitions": [
+        "elak kritik, förlöjligande",
+        "något lustigt, något som görs på skämt"
       ]
     },
     {
-      "title": "Uppställning i en rad (på bredden)",
+      "title": "RÖRELSE UTAN MÅL",
       "words": [
-        "rad",
-        "fil"
+        "vandring",
+        "promenad"
+      ],
+      "definition": "det att driva omkring",
+      "word_definitions": [
+        "handlingen att vandra, promenad",
+        "handlingen att promenera för nöjes skull, spatsertur"
       ]
     }
   ]

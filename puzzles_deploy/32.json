@@ -1,32 +1,52 @@
 {
-  "pivot": "rörelse",
+  "pivot": "fel",
   "categories": [
     {
-      "title": "Förflyttning",
+      "title": "FELAKTIG",
       "words": [
-        "transport",
-        "förskjutning"
+        "oriktig",
+        "galen"
+      ],
+      "definition": "inte rätt, felaktig",
+      "word_definitions": [
+        "felaktig",
+        "felaktig"
       ]
     },
     {
-      "title": "Företag (1)",
+      "title": "MISSTAG",
       "words": [
-        "firma",
-        "bolag"
+        "fadäs",
+        "blunder"
+      ],
+      "definition": "handling som inte är korrekt, misstag",
+      "word_definitions": [
+        "dumhet, misstag",
+        "misstag, fel"
       ]
     },
     {
-      "title": "Grupp människor som samarbetar för ett (ideellt) mål",
+      "title": "ANSVAR FÖR MISSTAG",
       "words": [
-        "kollektiv",
-        "organisation"
+        "ansvar",
+        "skuld"
+      ],
+      "definition": "ansvar för ett misstag, skuld",
+      "word_definitions": [
+        "skyldighet att ta på sig skulden (om något går fel)",
+        "ansvar för brott eller fel"
       ]
     },
     {
-      "title": "Stark känsla av ömhet, gripenhet",
+      "title": "TEKNISK BRIST",
       "words": [
-        "gripenhet",
-        "patos"
+        "defekt",
+        "skavank"
+      ],
+      "definition": "skada, brist, skavank",
+      "word_definitions": [
+        "ofullständig, bristfällig",
+        "liten skada"
       ]
     }
   ]

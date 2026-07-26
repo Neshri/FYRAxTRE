@@ -1,0 +1,53 @@
+{
+  "pivot": "klar",
+  "categories": [
+    {
+      "title": "LJUS OCH GENOMSIKTIG",
+      "words": [
+        "transparent",
+        "blank"
+      ],
+      "definition": "ljus, lysande, genomskinlig",
+      "word_definitions": [
+        "genomskinlig",
+        "glänsande, skinande"
+      ]
+    },
+    {
+      "title": "LÄTTFÖRSTÅELIG",
+      "words": [
+        "åskådlig",
+        "lättfattlig"
+      ],
+      "definition": "lätt att förstå, tydlig",
+      "word_definitions": [
+        "lätt att förstå, tydlig",
+        "lätt att förstå, enkel"
+      ]
+    },
+    {
+      "title": "VÄLDIGT STOR",
+      "words": [
+        "enorm",
+        "rejäl"
+      ],
+      "definition": "tydlig, stor",
+      "word_definitions": [
+        "mycket stor",
+        "stor, kraftig"
+      ]
+    },
+    {
+      "title": "REDO ATT BÖRJA",
+      "words": [
+        "beredd",
+        "redo"
+      ],
+      "definition": "färdig",
+      "word_definitions": [
+        "färdig, redo",
+        "färdig, beredd"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pivot": "pass",
+  "categories": [
+    {
+      "title": "RESEDOKUMENT",
+      "words": [
+        "visum",
+        "boardingcard"
+      ],
+      "definition": "dokument som man ibland måste visa upp när man reser utomlands",
+      "word_definitions": [
+        "dokument som ger tillstånd att resa in i och vistas i ett visst land (när det inte räcker med pass)",
+        "kort som måste visas upp av flygpassagerare innan de stiger ombord"
+      ]
+    },
+    {
+      "title": "BERGSFORMATIONER",
+      "words": [
+        "ravin",
+        "skreva"
+      ],
+      "definition": "trång väg mellan berg",
+      "word_definitions": [
+        "djup klyfta i berg",
+        "större spricka i berg"
+      ]
+    },
+    {
+      "title": "ARBETSPERIOD",
+      "words": [
+        "arbetsdag",
+        "skift"
+      ],
+      "definition": "det antal timmar som någon arbetar vid visst tillfälle",
+      "word_definitions": [
+        "tiden man arbetar under en dag",
+        "arbetspass mellan två ombyten av arbetskraft"
+      ]
+    },
+    {
+      "title": "SVAR VID BUDGIVNING",
+      "words": [
+        "replik",
+        "bud"
+      ],
+      "definition": "inget bud (i kortspel)",
+      "word_definitions": [
+        "(kort) svar",
+        "befallning (särskilt i religiösa sammanhang)"
+      ]
+    }
+  ]
+}

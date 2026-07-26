@@ -1,0 +1,53 @@
+{
+  "pivot": "god",
+  "categories": [
+    {
+      "title": "KÄNSLA FÖR NÅGON",
+      "words": [
+        "förälskad",
+        "förtjust"
+      ],
+      "definition": "kär",
+      "word_definitions": [
+        "kär",
+        "glad och nöjd"
+      ]
+    },
+    {
+      "title": "MORALISK KARAKTÄR",
+      "words": [
+        "sedlig",
+        "ädel"
+      ],
+      "definition": "moraliskt högtstående",
+      "word_definitions": [
+        "moraliskt högtstående (i sexuellt avseende)",
+        "moraliskt högtstående, ridderlig"
+      ]
+    },
+    {
+      "title": "SÖT OCH TILLTALANDE",
+      "words": [
+        "gullig",
+        "prydlig"
+      ],
+      "definition": "tilltalande, söt",
+      "word_definitions": [
+        "rar, söt",
+        "ordentlig, tilltalande, vacker"
+      ]
+    },
+    {
+      "title": "GOTT OM MAT",
+      "words": [
+        "delikat",
+        "aptitlig"
+      ],
+      "definition": "välsmakande, läcker",
+      "word_definitions": [
+        "läcker, välsmakande",
+        "som smakar gott, välsmakande"
+      ]
+    }
+  ]
+}

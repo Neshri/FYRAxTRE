@@ -1,32 +1,52 @@
 {
-  "pivot": "bryter",
+  "pivot": "arbete",
   "categories": [
     {
-      "title": "Kommer i konflikt med lagen, uppfyller inte, kränker",
+      "title": "YRKESMÄSSIG ROLL",
       "words": [
-        "överträda",
-        "kränka"
+        "jobb",
+        "befattning"
+      ],
+      "definition": "tjänst, anställning, yrke",
+      "word_definitions": [
+        "anställning; arbetstillfälle",
+        "sysselsättning, (högre) tjänst, arbete"
       ]
     },
     {
-      "title": "Får att ändra riktning",
+      "title": "PLATS FÖR ARBETE",
       "words": [
-        "vända",
-        "kantra"
+        "kontor",
+        "verkstad"
+      ],
+      "definition": "arbetsplats, jobb",
+      "word_definitions": [
+        "arbetsplats för tjänstemän, expedition",
+        "arbetsplats för mekaniska arbeten"
       ]
     },
     {
-      "title": "Slås till skum",
+      "title": "SKAPAT RESULTAT",
       "words": [
-        "skumma",
-        "vispa"
+        "alster",
+        "pjäs"
+      ],
+      "definition": "produkt, alster, verk",
+      "word_definitions": [
+        "något som skapats, produkt",
+        "teaterstycke, skådespel"
       ]
     },
     {
-      "title": "Får att spricka sönder i två delar (ofta genom kraftig böjning)",
+      "title": "TYP AV VERKSAMHET",
       "words": [
-        "spräcka",
-        "krossa"
+        "aktivitet",
+        "operation"
+      ],
+      "definition": "verksamhet, jobb",
+      "word_definitions": [
+        "verksamhet, sysselsättning",
+        "uppgift, arbete"
       ]
     }
   ]

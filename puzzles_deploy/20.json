@@ -1,32 +1,52 @@
 {
-  "pivot": "hård",
+  "pivot": "drag",
   "categories": [
     {
-      "title": "Som inte ger efter för tryck eller böjning",
+      "title": "LINJER OCH TECKNINGAR",
       "words": [
-        "fast",
-        "stel"
+        "streck",
+        "skiss"
+      ],
+      "definition": "teckning, linje",
+      "word_definitions": [
+        "tunn linje",
+        "(förberedande) teckning"
       ]
     },
     {
-      "title": "Okänslig, sträng",
+      "title": "ANSIKTSUTTRYCK",
       "words": [
-        "kall",
-        "strikt"
+        "uppsyn",
+        "min"
+      ],
+      "definition": "ansiktsuttryck; utseende",
+      "word_definitions": [
+        "utseende, min",
+        "uttryck i ansiktet"
       ]
     },
     {
-      "title": "Intensiv, påfrestande",
+      "title": "FLYTT I SPEL",
       "words": [
-        "pressande",
-        "mödosam"
+        "rörelse",
+        "flytt"
+      ],
+      "definition": "flyttning av spelpjäs",
+      "word_definitions": [
+        "förflyttning",
+        "det att flytta, särskilt byta hem"
       ]
     },
     {
-      "title": "Kraftig",
+      "title": "LUFTSTRÖMMAR",
       "words": [
-        "massiv",
-        "rejäl"
+        "pust",
+        "vind"
+      ],
+      "definition": "(kall) luftström",
+      "word_definitions": [
+        "kort stöt (särskilt av luft)",
+        "naturlig luft i rörelse, blåst"
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "pivot": "leda",
+  "categories": [
+    {
+      "title": "STARK OLUST",
+      "words": [
+        "avsky",
+        "avsmak"
+      ],
+      "definition": "känsla av stark olust, motvilja eller uttråkning för att man har fått för mycket av något",
+      "word_definitions": [
+        "motvilja, avsmak, hat",
+        "motvilja, äckel"
+      ]
+    },
+    {
+      "title": "ORSAKA NÅGOT",
+      "words": [
+        "föranleda",
+        "utlösa"
+      ],
+      "definition": "ge som resultat; få att inträffa; föra till, inducera, orsaka",
+      "word_definitions": [
+        "leder till, orsakar",
+        "gör aktiv; framkallar"
+      ]
+    },
+    {
+      "title": "LEDA MÄNNISKOR",
+      "words": [
+        "behärska",
+        "sköta"
+      ],
+      "definition": "styra (andra människor, individuellt eller en grupp); ha bestämmande inflytande över; ansvara för",
+      "word_definitions": [
+        "har makt över, styr; klarar av, kan",
+        "vårdar, ger tillsyn; ansvarar för, tar hand om"
+      ]
+    },
+    {
+      "title": "HA ÖVERTAGET",
+      "words": [
+        "dominera",
+        "överträffa"
+      ],
+      "definition": "ligga först; ha övertag",
+      "word_definitions": [
+        "är starkt framträdande i visst sammanhang; behärskar",
+        "är bättre eller större än"
+      ]
+    }
+  ]
+}

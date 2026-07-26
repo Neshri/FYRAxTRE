@@ -1,0 +1,53 @@
+{
+  "pivot": "lätt",
+  "categories": [
+    {
+      "title": "LÅG VIKT",
+      "words": [
+        "luftig",
+        "viktlös"
+      ],
+      "definition": "som har liten vikt",
+      "word_definitions": [
+        "som har mycket rymd",
+        "som inte upplever någon gravitationskraft"
+      ]
+    },
+    {
+      "title": "BEKYMMERSLÖS",
+      "words": [
+        "sorglös",
+        "avslappnad"
+      ],
+      "definition": "obekymrad",
+      "word_definitions": [
+        "bekymmerslös, glad",
+        "lugn, avspänd"
+      ]
+    },
+    {
+      "title": "INTE SVÅR",
+      "words": [
+        "enkel",
+        "okomplicerad"
+      ],
+      "definition": "enkel, okomplicerad",
+      "word_definitions": [
+        "lätt att förstå, okomplicerad",
+        "inte komplicerad, enkel"
+      ]
+    },
+    {
+      "title": "FREKVENT",
+      "words": [
+        "gärna",
+        "vanligen"
+      ],
+      "definition": "ofta; gärna",
+      "word_definitions": [
+        "ofta, lätt",
+        "för det mesta, oftast, mestadels, vanligtvis"
+      ]
+    }
+  ]
+}

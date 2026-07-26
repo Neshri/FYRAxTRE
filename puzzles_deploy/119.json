@@ -1,0 +1,53 @@
+{
+  "pivot": "rör",
+  "categories": [
+    {
+      "title": "NUDDA VID",
+      "words": [
+        "nudda",
+        "tangera"
+      ],
+      "definition": "berör, nuddar",
+      "word_definitions": [
+        "berör lätt, snuddar",
+        "snuddar vid"
+      ]
+    },
+    {
+      "title": "VISPA OCH BLANDA",
+      "words": [
+        "vispa",
+        "piska"
+      ],
+      "definition": "vispar",
+      "word_definitions": [
+        "får att rotera eller virvla (med visp)",
+        "slår med piska"
+      ]
+    },
+    {
+      "title": "VÄCKA KÄNSLOR",
+      "words": [
+        "gripa",
+        "frappera"
+      ],
+      "definition": "berör känslomässigt, griper",
+      "word_definitions": [
+        "berör känslomässigt",
+        "gör starkt intryck på, förvånar"
+      ]
+    },
+    {
+      "title": "GÄLLA ELLER AVSE",
+      "words": [
+        "omfatta",
+        "gälla"
+      ],
+      "definition": "handlar om, gäller",
+      "word_definitions": [
+        "gäller, avser",
+        "är giltig, är i kraft"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pivot": "leder",
+  "categories": [
+    {
+      "title": "LEDA TILL NÅGOT",
+      "words": [
+        "hänföra",
+        "resultera"
+      ],
+      "definition": "för (till ett mål)",
+      "word_definitions": [
+        "räknar (till), för (till)",
+        "får som konsekvens"
+      ]
+    },
+    {
+      "title": "ÖVERFÖRA NÅGOT",
+      "words": [
+        "överföra",
+        "kanalisera"
+      ],
+      "definition": "släpper fram, överför",
+      "word_definitions": [
+        "flyttar från en punkt till en annan",
+        "leder i viss riktning"
+      ]
+    },
+    {
+      "title": "VARA CHEF FÖR",
+      "words": [
+        "styra",
+        "anföra"
+      ],
+      "definition": "är ledare eller chef för; sköter, styr",
+      "word_definitions": [
+        "påverkar, leder",
+        "går i spetsen för, leder"
+      ]
+    },
+    {
+      "title": "LIGGA I SPETSEN",
+      "words": [
+        "toppa",
+        "föregå"
+      ],
+      "definition": "ligger främst",
+      "word_definitions": [
+        "ligger i toppen på, leder",
+        "kommer före i tiden"
+      ]
+    }
+  ]
+}

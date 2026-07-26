@@ -1,0 +1,53 @@
+{
+  "pivot": "ljus",
+  "categories": [
+    {
+      "title": "STARK BELYSNING",
+      "words": [
+        "klar",
+        "strålande"
+      ],
+      "definition": "som ger ifrån sig mycket ljus; upplyst",
+      "word_definitions": [
+        "ljus, lysande, genomskinlig",
+        "mycket bra, utomordentlig"
+      ]
+    },
+    {
+      "title": "POSITIV INSTÄLLNING",
+      "words": [
+        "optimistisk",
+        "hoppfull"
+      ],
+      "definition": "hoppfull",
+      "word_definitions": [
+        "präglad av optimism, hoppfull",
+        "som har gott hopp, optimistisk"
+      ]
+    },
+    {
+      "title": "LJUSFENOMEN",
+      "words": [
+        "glans",
+        "glitter"
+      ],
+      "definition": "vågrörelse som gör att man kan se, sken",
+      "word_definitions": [
+        "skimmer, sken",
+        "ljus med snabbt växlande sken"
+      ]
+    },
+    {
+      "title": "LJUSKÄLLOR",
+      "words": [
+        "lampa",
+        "laser"
+      ],
+      "definition": "ljuskälla, belysning",
+      "word_definitions": [
+        "anordning för belysning, glödlampa",
+        "apparat som alstrar och sänder ut en intensiv stråle av ljus"
+      ]
+    }
+  ]
+}

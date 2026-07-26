@@ -309,12 +309,35 @@ body {
   margin-bottom: 3px;
 }
 
+.legend-item .cat-definition {
+  display: block;
+  font-size: 0.76rem;
+  font-style: italic;
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: normal;
+  opacity: 0.8;
+  margin-bottom: 5px;
+}
+
 .legend-item .cat-words {
   font-weight: 600;
   letter-spacing: 0.02em;
 }
 
-.legend-item .cat-words .pivot-word {
+.legend-item .cat-words .word-toggle {
+  cursor: pointer;
+  padding: 2px 3px;
+  margin: -2px -3px;
+  border-radius: 4px;
+  transition: background 0.15s ease;
+}
+
+.legend-item .cat-words .word-toggle:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.legend-item .cat-words .word-toggle.active-word {
   text-decoration: underline;
   text-underline-offset: 3px;
 }

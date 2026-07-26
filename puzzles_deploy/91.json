@@ -1,0 +1,53 @@
+{
+  "pivot": "mask",
+  "categories": [
+    {
+      "title": "KRYPANDE DJUR",
+      "words": [
+        "snigel",
+        "orm"
+      ],
+      "definition": "ett litet djur som krälar och ofta håller till i jorden",
+      "word_definitions": [
+        "ett litet djur som krälar mycket långsamt på marken",
+        "en typ av kräldjur som rör sig med slingrande rörelser (ordningen Serpentes)"
+      ]
+    },
+    {
+      "title": "SÄTT ATT DÖLJA ANSIKTET",
+      "words": [
+        "kamouflage",
+        "sminkning"
+      ],
+      "definition": "förklädnad för ansiktet",
+      "word_definitions": [
+        "åtgärd för att dölja något; förklädnad",
+        "smink"
+      ]
+    },
+    {
+      "title": "SKYDD OCH FÖRSVAR",
+      "words": [
+        "beskydd",
+        "värn"
+      ],
+      "definition": "skydd",
+      "word_definitions": [
+        "försvar, skydd",
+        "skydd, försvar"
+      ]
+    },
+    {
+      "title": "ANSIKTSSKYDD",
+      "words": [
+        "hjälm",
+        "solglasögon"
+      ],
+      "definition": "skydd för ansiktet",
+      "word_definitions": [
+        "skydd för huvudet",
+        "mörka glasögon som skyddar mot starkt solljus"
+      ]
+    }
+  ]
+}

@@ -1,32 +1,52 @@
 {
-  "pivot": "siktar",
+  "pivot": "fil",
   "categories": [
     {
-      "title": "Riktar ett vapen e.d. mot ett mål",
+      "title": "VERKTYG FÖR FORMNING",
       "words": [
-        "rikta",
-        "måtta"
+        "hyvel",
+        "mejsel"
+      ],
+      "definition": "ett verktyg av stål som används för att slipa ytor jämna",
+      "word_definitions": [
+        "ett verktyg för att göra ytor jämna",
+        "ett verktyg som man slår på med hammare för att bearbeta hårda material; skruvmejsel"
       ]
     },
     {
-      "title": "Inriktar sig på, har som sitt mål",
+      "title": "VÄGENS DELAR",
       "words": [
-        "avse",
-        "sträva"
+        "cykelväg",
+        "trottoar"
+      ],
+      "definition": "körbana, körfält",
+      "word_definitions": [
+        "cykelbana",
+        "gångbana bredvid körbana"
       ]
     },
     {
-      "title": "Får syn på",
+      "title": "DATALAGRING",
       "words": [
-        "upptäcka",
-        "iaktta"
+        "mapp",
+        "dokument"
+      ],
+      "definition": "del av datorminne där enheter som hör ihop lagras",
+      "word_definitions": [
+        "anordning för förvaring (ofta av lösa anteckningar o.d.)",
+        "skrift, handling (ofta av juridisk eller historisk betydelse)"
       ]
     },
     {
-      "title": "Låter passera genom en sikt",
+      "title": "SYRLIGA MJÖLKPRODUKTER",
       "words": [
-        "sila",
-        "filtrera"
+        "yoghurt",
+        "kefir"
+      ],
+      "definition": "surmjölk, filmjölk",
+      "word_definitions": [
+        "ett slags surmjölk",
+        "rysk filmjölk, en form av kulturmjölk som tillverkas med hjälp av kefirkorn eller kefirgryn"
       ]
     }
   ]

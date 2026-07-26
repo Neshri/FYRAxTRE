@@ -1,32 +1,52 @@
 {
-  "pivot": "grov",
+  "pivot": "dam",
   "categories": [
     {
-      "title": "Tjock, kraftig, bastant",
+      "title": "BETECKNINGAR FÖR KVINNA",
       "words": [
-        "mastig",
-        "bastant"
+        "kvinna",
+        "tjej"
+      ],
+      "definition": "kvinna",
+      "word_definitions": [
+        "vuxen person av honkön",
+        "flicka, kvinna; flickvän"
       ]
     },
     {
-      "title": "Ojämn, skrovlig; inte bearbetad (i detalj)",
+      "title": "HÖGKORT I KORTLEK",
       "words": [
-        "skrovlig",
-        "sträv"
+        "kung",
+        "ess"
+      ],
+      "definition": "ett högt spelkort",
+      "word_definitions": [
+        "ett högt spelkort; den viktigaste pjäsen i schack",
+        "det högsta kortet i en av de fyra kortsviterna (färgerna)"
       ]
     },
     {
-      "title": "Ohyfsad, rå",
+      "title": "PJÄSER I SCHACK",
       "words": [
-        "plump",
-        "oborstad"
+        "löpare",
+        "bonde"
+      ],
+      "definition": "en värdefull schackpjäs, drottning",
+      "word_definitions": [
+        "en pjäs i schack",
+        "den svagaste pjäsen i schack"
       ]
     },
     {
-      "title": "Svår (2), allvarlig (2)",
+      "title": "KLASSISKA BRÄDSPEL",
       "words": [
-        "grav",
-        "svår"
+        "schack",
+        "domino"
+      ],
+      "definition": "ett spel med brickor på schackbräde",
+      "word_definitions": [
+        "ett spel med 32 figurer på ett bräde med 64 rutor",
+        "ett spel med brickor med två fält"
       ]
     }
   ]

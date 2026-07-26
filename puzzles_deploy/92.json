@@ -1,0 +1,53 @@
+{
+  "pivot": "medel",
+  "categories": [
+    {
+      "title": "KEMISKA ÄMNEN",
+      "words": [
+        "preparat",
+        "syra"
+      ],
+      "definition": "hjälpmedel (ofta en kemisk substans)",
+      "word_definitions": [
+        "ämne som framställts på kemisk väg, kemisk produkt",
+        "en sorts kemisk förening med (vanligen) sur smak"
+      ]
+    },
+    {
+      "title": "MEDICINSKA KURER",
+      "words": [
+        "piller",
+        "kur"
+      ],
+      "definition": "medicin",
+      "word_definitions": [
+        "liten tablett som innehåller medicin",
+        "behandling mot sjukdom"
+      ]
+    },
+    {
+      "title": "EKONOMISKA TILLGÅNGAR",
+      "words": [
+        "kapital",
+        "förmögenhet"
+      ],
+      "definition": "tillgångar, pengar",
+      "word_definitions": [
+        "pengar och andra tillgångar",
+        "tillgångar som räknas i pengar"
+      ]
+    },
+    {
+      "title": "SÄTT ATT GÖRA NÅGOT",
+      "words": [
+        "väg",
+        "grepp"
+      ],
+      "definition": "sätt, metod",
+      "word_definitions": [
+        "sätt, metod",
+        "angreppssätt, metod"
+      ]
+    }
+  ]
+}

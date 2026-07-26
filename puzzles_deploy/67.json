@@ -1,0 +1,53 @@
+{
+  "pivot": "klubba",
+  "categories": [
+    {
+      "title": "OLIKA GODISBITAR",
+      "words": [
+        "karamell",
+        "polkagris"
+      ],
+      "definition": "godsak i form av en pinne med en stor karamell- eller godisbit fäst på översta änden",
+      "word_definitions": [
+        "liten bit godis, (hård) sötsak",
+        "en karamell (ibland i form av en stång) med röda och vita ränder och frisk smak"
+      ]
+    },
+    {
+      "title": "OLIKA NÄRSTRIDSVAPEN",
+      "words": [
+        "batong",
+        "spjut"
+      ],
+      "definition": "redskap i form av en kraftig påk avsett som närstridsvapen",
+      "word_definitions": [
+        "en sorts stav (ofta av hårt gummi) som används som vapen (särskilt av polisen)",
+        "ett vapen eller idrottsredskap i form av en vass stång som stöts eller kastas"
+      ]
+    },
+    {
+      "title": "FASTSTÄLLA BESLUT",
+      "words": [
+        "fastställa",
+        "utropa"
+      ],
+      "definition": "genom slag med klubba förklara och fastslå (beslut) eller, vid auktion, utse en viss köpare",
+      "word_definitions": [
+        "bestämmer, föreskriver; konstaterar",
+        "bjuder ut till försäljning på auktion, ropar ut"
+      ]
+    },
+    {
+      "title": "ENKLA TRÄREDSKAP",
+      "words": [
+        "kil",
+        "pinne"
+      ],
+      "definition": "redskap (av trä) som är tjockare i ena ändan",
+      "word_definitions": [
+        "stycke (ofta av trä) som smalnar av i ena ändan",
+        "smalt och kort trästycke"
+      ]
+    }
+  ]
+}

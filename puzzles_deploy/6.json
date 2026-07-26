@@ -1,32 +1,52 @@
 {
-  "pivot": "drag",
+  "pivot": "bank",
   "categories": [
     {
-      "title": "Teckning, linje",
+      "title": "SJÖBOTTENFORMATIONER",
       "words": [
-        "streck",
-        "skiss"
+        "vall",
+        "rev"
+      ],
+      "definition": "upphöjning av botten (i hav eller sjö)",
+      "word_definitions": [
+        "långsträckt upphöjning (ofta av jord eller sand)",
+        "lina för fiske"
       ]
     },
     {
-      "title": "Ansiktsuttryck; utseende",
+      "title": "VÄGUNDERLAG",
       "words": [
-        "uppsyn",
-        "anlete"
+        "fundament",
+        "underbyggnad"
+      ],
+      "definition": "underlag för väg eller järnväg, vall",
+      "word_definitions": [
+        "grund, underlag",
+        "handlingen att underbygga något"
       ]
     },
     {
-      "title": "Inre egenskap",
+      "title": "MOLNFORMATIONER",
       "words": [
-        "egenhet",
-        "dygd"
+        "sky",
+        "dimma"
+      ],
+      "definition": "kompakt samling av moln",
+      "word_definitions": [
+        "moln",
+        "en sorts moln nära marken, dis, tjocka"
       ]
     },
     {
-      "title": "(kall) luftström",
+      "title": "RESURSFÖRRÅD",
       "words": [
-        "pust",
-        "fläkt"
+        "lager",
+        "arsenal"
+      ],
+      "definition": "förråd",
+      "word_definitions": [
+        "förråd, magasin",
+        "förråd, lager"
       ]
     }
   ]

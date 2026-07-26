@@ -1,32 +1,52 @@
 {
-  "pivot": "leder",
+  "pivot": "drar",
   "categories": [
     {
-      "title": "Är ledare (1) eller chef för; sköter, styr (2)",
+      "title": "SLÄPA NÅGOT",
       "words": [
-        "styra",
-        "basa"
+        "bogsera",
+        "hasa"
+      ],
+      "definition": "släpar, bogserar",
+      "word_definitions": [
+        "drar, släpar",
+        "släpar"
       ]
     },
     {
-      "title": "Släpper fram, överför",
+      "title": "LÄMNA EN PLATS",
       "words": [
-        "transmitterar",
-        "kanaliserar"
+        "sticka",
+        "lämna"
+      ],
+      "definition": "lämnar en lokal",
+      "word_definitions": [
+        "tillverkar av garn med hjälp av stickor",
+        "räcker, ger"
       ]
     },
     {
-      "title": "För (till ett mål)",
+      "title": "UTVINNA MATERIAL",
       "words": [
-        "resulterar",
-        "bidrar"
+        "extrahera",
+        "bryta"
+      ],
+      "definition": "utvinner, extraherar",
+      "word_definitions": [
+        "utvinner, drar",
+        "får att gå i bitar; utvinner"
       ]
     },
     {
-      "title": "Ligger främst",
+      "title": "FÖRBRUKA RESURSER",
       "words": [
-        "toppar",
-        "dominerar"
+        "konsumera",
+        "åtgå"
+      ],
+      "definition": "förbrukar, behöver",
+      "word_definitions": [
+        "använder, förbrukar",
+        "tar slut, förbrukas, går åt"
       ]
     }
   ]

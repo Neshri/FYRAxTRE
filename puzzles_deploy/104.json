@@ -1,0 +1,53 @@
+{
+  "pivot": "pjäs",
+  "categories": [
+    {
+      "title": "PRYDNADSFÖREMÅL",
+      "words": [
+        "tingeltangel",
+        "dekoration"
+      ],
+      "definition": "föremål som är uppställt som prydnad",
+      "word_definitions": [
+        "billiga (och smaklösa) prydnadsföremål",
+        "utsmyckning, prydnad"
+      ]
+    },
+    {
+      "title": "TEATERSTYCKEN",
+      "words": [
+        "drama",
+        "komedi"
+      ],
+      "definition": "teaterstycke, skådespel",
+      "word_definitions": [
+        "skådespel, pjäs",
+        "roligt teaterstycke (eller rolig film)"
+      ]
+    },
+    {
+      "title": "SPELPJÄSER",
+      "words": [
+        "kung",
+        "löpare"
+      ],
+      "definition": "figur som man flyttar på ett spelbräde (särskilt i schack)",
+      "word_definitions": [
+        "ett högt spelkort; den viktigaste pjäsen i schack",
+        "en pjäs i schack"
+      ]
+    },
+    {
+      "title": "TUNGA ELDVAPEN",
+      "words": [
+        "kulspruta",
+        "kanon"
+      ],
+      "definition": "tyngre eldvapen",
+      "word_definitions": [
+        "ett delvis automatiskt eldvapen, maskingevär",
+        "en kraftig artilleripjäs"
+      ]
+    }
+  ]
+}

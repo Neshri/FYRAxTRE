@@ -1,0 +1,53 @@
+{
+  "pivot": "knut",
+  "categories": [
+    {
+      "title": "SÄTT ATT BINDA TRÅD",
+      "words": [
+        "rosett",
+        "ögla"
+      ],
+      "definition": "punkt där en eller flera trådar knyts, skarv",
+      "word_definitions": [
+        "band som knyts på ett visst sätt (vanligen som prydnad)",
+        "(slinga av) rep eller snöre"
+      ]
+    },
+    {
+      "title": "TRAFIKKNUTPUNKTER",
+      "words": [
+        "korsning",
+        "vägskäl"
+      ],
+      "definition": "plats där flera (järnvägs)linjer möts",
+      "word_definitions": [
+        "ställe där två gator eller spår korsar varandra",
+        "plats där en väg delar sig"
+      ]
+    },
+    {
+      "title": "HUSETS EXTERIÖR",
+      "words": [
+        "hörna",
+        "gavel"
+      ],
+      "definition": "yttre hörn på hus",
+      "word_definitions": [
+        "hörn",
+        "en av de kortare sidorna på ett hus"
+      ]
+    },
+    {
+      "title": "HASTIGHETSMÅTT",
+      "words": [
+        "knop",
+        "match"
+      ],
+      "definition": "kilometer per timme",
+      "word_definitions": [
+        "en måttenhet för hastighet till sjöss (= 1 sjömil i timmen)",
+        "tävling mellan två lag eller personer"
+      ]
+    }
+  ]
+}

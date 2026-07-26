@@ -1,33 +1,52 @@
 {
-  "date": "2026-07-16",
-  "pivot": "rörelse",
+  "pivot": "blåsa",
   "categories": [
     {
-      "title": "Förflyttning",
+      "title": "PRAKTFULL KLÄDSEL",
       "words": [
-        "transport",
-        "förskjutning"
+        "skrud",
+        "toalett"
+      ],
+      "definition": "påkostad klänning",
+      "word_definitions": [
+        "praktfull klädsel (använd vid ceremonier o.d.)",
+        "kvinnlig festklädsel"
       ]
     },
     {
-      "title": "Företag",
+      "title": "LUFT I RÖRELSE",
       "words": [
-        "firma",
-        "bolag"
+        "yra",
+        "vädra"
+      ],
+      "definition": "naturligt strömma fram luft parallellt med jordytan",
+      "word_definitions": [
+        "virvlar runt i luften",
+        "släpper in frisk luft i ett rum, luftar"
       ]
     },
     {
-      "title": "Ideell grupp",
+      "title": "BEDRAGA NÅGON",
       "words": [
-        "kollektiv",
-        "organisation"
+        "svindla",
+        "dupera"
+      ],
+      "definition": "lura, lura av",
+      "word_definitions": [
+        "lurar",
+        "för bakom ljuset, lurar, bedrar"
       ]
     },
     {
-      "title": "Känsla",
+      "title": "HUDUTSLAG",
       "words": [
-        "gripenhet",
-        "patos"
+        "utslag",
+        "skorv"
+      ],
+      "definition": "liten rundad böld på huden som innehåller vätska, orsakad av retning eller infektion",
+      "word_definitions": [
+        "blåsor eller irritation på huden",
+        "en hudsjukdom"
       ]
     }
   ]

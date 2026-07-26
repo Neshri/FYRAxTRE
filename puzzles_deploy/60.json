@@ -1,0 +1,53 @@
+{
+  "pivot": "inre",
+  "categories": [
+    {
+      "title": "RELATIV POSITION",
+      "words": [
+        "bortre",
+        "hitre"
+      ],
+      "definition": "som ligger längre in (från kusten)",
+      "word_definitions": [
+        "som finns längre bort",
+        "som ligger närmare oss"
+      ]
+    },
+    {
+      "title": "SJÄLSLIGA EGENSKAPER",
+      "words": [
+        "psykisk",
+        "andlig"
+      ],
+      "definition": "som finns inne i människan, invärtes; själslig",
+      "word_definitions": [
+        "själslig",
+        "själslig, icke-världslig, religiös"
+      ]
+    },
+    {
+      "title": "INTERN ORGANISATION",
+      "words": [
+        "intern",
+        "organisatorisk"
+      ],
+      "definition": "som finns inom en organisation, intern",
+      "word_definitions": [
+        "som finns inom en organisation; inre, inhemsk",
+        "som har att göra med organisation"
+      ]
+    },
+    {
+      "title": "INRE DELAR",
+      "words": [
+        "innandöme",
+        "kärna"
+      ],
+      "definition": "inre del av något",
+      "word_definitions": [
+        "det inre av något",
+        "frö inuti en frukt, sten (i stenfrukt)"
+      ]
+    }
+  ]
+}

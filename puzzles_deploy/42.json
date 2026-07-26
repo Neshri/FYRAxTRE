@@ -1,0 +1,53 @@
+{
+  "pivot": "fält",
+  "categories": [
+    {
+      "title": "PLAN MARK",
+      "words": [
+        "slätt",
+        "mark"
+      ],
+      "definition": "öppet, plant område; åker; yta",
+      "word_definitions": [
+        "större område med plan mark (utan många träd)",
+        "jordens yta"
+      ]
+    },
+    {
+      "title": "LITEN RUTA",
+      "words": [
+        "fyrkant",
+        "ruta"
+      ],
+      "definition": "liten kvadrat",
+      "word_definitions": [
+        "ruta, kvadrat",
+        "(liten) fyrkant"
+      ]
+    },
+    {
+      "title": "VERKSAMHETSOMRÅDE",
+      "words": [
+        "fack",
+        "värld"
+      ],
+      "definition": "område för viss verksamhet",
+      "word_definitions": [
+        "verksamhetsområde, ämne, yrke",
+        "verksamhetsområde"
+      ]
+    },
+    {
+      "title": "MILITÄR ZON",
+      "words": [
+        "manöver",
+        "front"
+      ],
+      "definition": "(plats för) krig eller militär övning",
+      "word_definitions": [
+        "(större) militär övning",
+        "(fram)sida"
+      ]
+    }
+  ]
+}
