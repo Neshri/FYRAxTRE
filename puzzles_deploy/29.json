@@ -1,52 +1,52 @@
 {
-  "pivot": "element",
+  "pivot": "fall",
   "categories": [
     {
-      "title": "OMGIVANDE MILJÖ",
+      "title": "PLUTSLIGT FALL",
       "words": [
-        "miljö",
-        "omnejd"
+        "haveri",
+        "stöt"
       ],
-      "definition": "ämne; omgivning",
+      "definition": "handlingen att störta ner eller ramla",
       "word_definitions": [
-        "omgivande natur",
-        "närmaste trakt, omgivning"
+        "det att ett fartyg går under eller ett flygplan störtar",
+        "slag, knuff; kortvarig elektrisk ström genom kroppen"
       ]
     },
     {
-      "title": "VÄRMEKÄLLOR I HEMMET",
+      "title": "TOTAL UNDERGÅNG",
       "words": [
-        "radiator",
-        "spis"
+        "ruin",
+        "kollaps"
       ],
-      "definition": "apparat som ger värme (särskilt inomhus)",
+      "definition": "undergång, undergång",
       "word_definitions": [
-        "värmeelement",
-        "apparat med kokplattor (och ofta ugn) för matlagning"
+        "(ekonomisk) undergång; bankrutt",
+        "plötsligt sammanbrott"
       ]
     },
     {
-      "title": "DEL AV EN HELHET",
+      "title": "BRANT SLUTTNING",
       "words": [
-        "ingrediens",
-        "segment"
+        "stup",
+        "avgrund"
       ],
-      "definition": "del, beståndsdel",
+      "definition": "fors; stup",
       "word_definitions": [
-        "beståndsdel i en blandning",
-        "avgränsad del av något"
+        "något som stupar brant, djup",
+        "stor klyfta, stup"
       ]
     },
     {
-      "title": "TYP AV PERSON",
+      "title": "HÄNDELSE",
       "words": [
-        "karaktär",
-        "figur"
+        "tilldragelse",
+        "begivenhet"
       ],
-      "definition": "person med vissa (ofta negativa) egenskaper",
+      "definition": "händelse, tillfälle; exempel",
       "word_definitions": [
-        "personliga egenskaper; moralisk styrka",
-        "personlighet, karaktär"
+        "händelse",
+        "stor händelse, evenemang"
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "pivot": "torka",
+  "categories": [
+    {
+      "title": "EXTREMT VÄDER",
+      "words": [
+        "värmebölja",
+        "köldknäpp"
+      ],
+      "definition": "torr väderlek",
+      "word_definitions": [
+        "period med mycket varmt väder",
+        "plötslig (kortvarig och stark) kyla"
+      ]
+    },
+    {
+      "title": "NATURLIG NEDBRYTNING",
+      "words": [
+        "skogsdöd",
+        "förruttnelse"
+      ],
+      "definition": "det att växtligheten torkar under torra, regnfria tidperioder, ofta i samband med att skog och växter bränns i solen",
+      "word_definitions": [
+        "det att skogar förstörs på grund av föroreningar",
+        "process som gör att något ruttnar"
+      ]
+    },
+    {
+      "title": "BLI VISSEN",
+      "words": [
+        "förtvina",
+        "vissna"
+      ],
+      "definition": "(intransitivt) bli torr(are); vissna",
+      "word_definitions": [
+        "slutar att utvecklas; vissnar",
+        "dör (av brist på vatten), slokar (om växt)"
+      ]
+    },
+    {
+      "title": "RENGÖRA YTA",
+      "words": [
+        "tvätta",
+        "putsa"
+      ],
+      "definition": "genom att dra ett ibland vått föremål längs ytan på ett annat föremål försöka rengöra det",
+      "word_definitions": [
+        "rengör med vatten (och tvättmedel eller tvål)",
+        "polerar, gnider"
+      ]
+    }
+  ]
+}

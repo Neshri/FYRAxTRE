@@ -1,52 +1,52 @@
 {
-  "pivot": "för",
+  "pivot": "god",
   "categories": [
     {
-      "title": "GRADAVADVERB",
+      "title": "KÄNSLA FÖR NÅGON",
       "words": [
-        "väl",
-        "omåttligt"
+        "förälskad",
+        "förtjust"
       ],
-      "definition": "i väl hög grad, alltför",
+      "definition": "kär",
       "word_definitions": [
-        "i alltför hög grad",
-        "oerhört, mycket"
+        "kär",
+        "glad och nöjd"
       ]
     },
     {
-      "title": "KAUSALA KONJUNKTIONER",
+      "title": "MORALISK KARAKTÄR",
       "words": [
-        "eftersom",
-        "då"
+        "sedlig",
+        "ädel"
       ],
-      "definition": "ty",
+      "definition": "moraliskt högtstående",
       "word_definitions": [
-        "därför att, emedan",
-        "när"
+        "moraliskt högtstående (i sexuellt avseende)",
+        "moraliskt högtstående, ridderlig"
       ]
     },
     {
-      "title": "MEDEL PREPOSITIONER",
+      "title": "SÖT OCH TILLTALANDE",
       "words": [
-        "genom",
-        "medelst"
+        "gullig",
+        "prydlig"
       ],
-      "definition": "med hjälp av",
+      "definition": "tilltalande, söt",
       "word_definitions": [
-        "med hjälp av, med",
-        "med hjälp av, genom"
+        "rar, söt",
+        "ordentlig, tilltalande, vacker"
       ]
     },
     {
-      "title": "BÅTENS FRONT",
+      "title": "GOTT OM MAT",
       "words": [
-        "bog",
-        "stäv"
+        "delikat",
+        "aptitlig"
       ],
-      "definition": "främre delen av en båt",
+      "definition": "välsmakande, läcker",
       "word_definitions": [
-        "främsta delen (fören) på en båt",
-        "ett fartygs för eller akter"
+        "läcker, välsmakande",
+        "som smakar gott, välsmakande"
       ]
     }
   ]

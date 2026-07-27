@@ -1,52 +1,52 @@
 {
-  "pivot": "lyder",
+  "pivot": "lätt",
   "categories": [
     {
-      "title": "LYDA ORDER",
+      "title": "LÅG VIKT",
       "words": [
-        "följa",
-        "underkasta"
+        "luftig",
+        "viktlös"
       ],
-      "definition": "gör som man blir tillsagd",
+      "definition": "som har liten vikt",
       "word_definitions": [
-        "går efter",
-        "låta genomgå"
+        "som har mycket rymd",
+        "som inte upplever någon gravitationskraft"
       ]
     },
     {
-      "title": "HÖRA TILL",
+      "title": "BEKYMMERSLÖS",
       "words": [
-        "tillhöra",
-        "underordna"
+        "sorglös",
+        "avslappnad"
       ],
-      "definition": "hör till, sorterar (under)",
+      "definition": "obekymrad",
       "word_definitions": [
-        "har som ägare, ägs av",
-        "låter bli beroende av"
+        "bekymmerslös, glad",
+        "lugn, avspänd"
       ]
     },
     {
-      "title": "TEXTENS UTFORMNING",
+      "title": "INTE SVÅR",
       "words": [
-        "formulera",
-        "skrivas"
+        "enkel",
+        "okomplicerad"
       ],
-      "definition": "har en viss lydelse",
+      "definition": "enkel, okomplicerad",
       "word_definitions": [
-        "uttrycker, utformar",
-        "kommunicera, ofta via brev"
+        "lätt att förstå, okomplicerad",
+        "inte komplicerad, enkel"
       ]
     },
     {
-      "title": "SUMMAN BLIR",
+      "title": "FREKVENT",
       "words": [
-        "utgöra",
-        "vara"
+        "gärna",
+        "vanligen"
       ],
-      "definition": "uppgår till, är",
+      "definition": "ofta; gärna",
       "word_definitions": [
-        "fungerar som, är; uppgår till (en viss summa)",
-        "befinner sig, finns"
+        "ofta, lätt",
+        "för det mesta, oftast, mestadels, vanligtvis"
       ]
     }
   ]

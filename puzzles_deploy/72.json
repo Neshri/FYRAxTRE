@@ -1,52 +1,52 @@
 {
-  "pivot": "komma",
+  "pivot": "kors",
   "categories": [
     {
-      "title": "TECKEN I TEXT",
+      "title": "GEOMETRISKA FIGURER",
       "words": [
-        "frågetecken",
-        "utropstecken"
+        "kryss",
+        "vinkel"
       ],
-      "definition": "skiljetecknet ,",
+      "definition": "en figur där en rak linje korsar en annan vinkelrätt; kryss",
       "word_definitions": [
-        "skiljetecknet ?",
-        "skiljetecknet !"
+        "(ritad) figur i form av ett lutande kors (x)",
+        "öppning mellan två räta linjer som utgår från samma punkt, hörn"
       ]
     },
     {
-      "title": "INTRÄFFA OVÄNTAT",
+      "title": "AVRÄTTNINGSSTÄLLNINGAR",
       "words": [
-        "ske",
-        "tillstöta"
+        "krucifix",
+        "galge"
       ],
-      "definition": "kunna förutses inträffa eller råka i tillståndet (som framgår av sammanhanget)",
+      "definition": "ställning (formad som ett kors) där Jesus hängdes upp för att dö (enligt Bibeln); krucifix",
       "word_definitions": [
-        "äger rum, händer, inträffar",
-        "inträffar (oväntat)"
+        "skulptur av Jesus på korset",
+        "ställning där dödsdömda häng(de)s"
       ]
     },
     {
-      "title": "BLI FRISK",
+      "title": "TUNG BÖRDA",
       "words": [
-        "tillfriskna",
-        "läka"
+        "ok",
+        "last"
       ],
-      "definition": "tillfriskna",
+      "definition": "börda; bestraffning",
       "word_definitions": [
-        "blir frisk igen, frisknar till",
-        "botar"
+        "börda, förtryck",
+        "något som bärs eller fraktas, börda"
       ]
     },
     {
-      "title": "ORSAKSMÄSSIGT SAMMANHANG",
+      "title": "DELAR AV BÅLEN",
       "words": [
-        "sammanhänga",
-        "föranleda"
+        "bäcken",
+        "svank"
       ],
-      "definition": "ske; hänga samman orsaksmässigt",
+      "definition": "del av bålen över bäcken och de främre svanskotorna hos ryggradsdjur eller människan (där ryggrad och höftben tillsammans bildar ett kors)",
       "word_definitions": [
-        "har att göra med, hänger ihop, hänger samman",
-        "leder till, orsakar"
+        "(benstommen vid) nedre delen av bålen",
+        "område i ryggradens nedre del som är böjt inåt"
       ]
     }
   ]

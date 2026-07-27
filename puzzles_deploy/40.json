@@ -1,52 +1,52 @@
 {
-  "pivot": "fälla",
+  "pivot": "fäller",
   "categories": [
     {
-      "title": "FÅNGSTANORDNINGAR",
+      "title": "FÅ NÅGOT ATT FALLA",
       "words": [
-        "nät",
-        "snara"
+        "välta",
+        "stjälpa"
       ],
-      "definition": "anordning som gjorts iordning för att fånga någon/något som passerar",
+      "definition": "slår omkull, får något att falla",
       "word_definitions": [
-        "(material av) trådar som knutits ihop och som bildar ett rutmönster",
-        "ögla av rep som kan dras åt"
+        "gör så att något faller omkull; stjälper",
+        "lägger (sig) på sidan, välter"
       ]
     },
     {
-      "title": "FÖRLORA EN DEL",
+      "title": "TA LIVET AV",
       "words": [
-        "tappa",
-        "förlora"
+        "dräpa",
+        "eliminera"
       ],
-      "definition": "förlora något som tidigare varit en del av objektet",
+      "definition": "dödar",
       "word_definitions": [
-        "släpper oavsiktligt, förlorar",
-        "vinner inte, blir besegrad"
+        "dödar, slår ihjäl",
+        "dödar"
       ]
     },
     {
-      "title": "DÖDA VILT",
+      "title": "UTTRYCKA SIG",
       "words": [
-        "avliva",
-        "skadskjuta"
+        "säga",
+        "påstå"
       ],
-      "definition": "skjuta ett vilt djur",
+      "definition": "yttrar, säger",
       "word_definitions": [
-        "dödar (djur)",
-        "träffar djur med ett skott som inte dödar"
+        "meddelar i ord, uttalar",
+        "yttrar som ett faktum"
       ]
     },
     {
-      "title": "ÅSTADKOMMA NÅGOT",
+      "title": "TAPPA I FÄRG",
       "words": [
-        "prestera",
-        "uppnå"
+        "vitna",
+        "blekna"
       ],
-      "definition": "slutgiltigt åstadkomma något",
+      "definition": "förlorar färg",
       "word_definitions": [
-        "åstadkommer, utför",
-        "når upp till; åstadkommer"
+        "blir vit",
+        "blir blek (ofta av skräck)"
       ]
     }
   ]

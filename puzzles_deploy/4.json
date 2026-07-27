@@ -1,52 +1,52 @@
 {
-  "pivot": "av",
+  "pivot": "back",
   "categories": [
     {
-      "title": "ANGÅENDE NÅGOT",
+      "title": "RIKTNING BAKÅT",
       "words": [
-        "angående",
-        "rörande"
+        "omvänt",
+        "åter"
       ],
-      "definition": "beträffande, med avseende på",
+      "definition": "bakåt",
       "word_definitions": [
-        "om, beträffande",
-        "angående, beträffande"
+        "tvärtom, åt andra hållet",
+        "än en gång, igen, på nytt"
       ]
     },
     {
-      "title": "VARA AV BETYDELSE",
+      "title": "TYPER AV LÅDOR",
       "words": [
-        "viktig",
-        "relevant"
+        "box",
+        "kista"
       ],
-      "definition": "verbpartikeln av i rollen som adjektiv, predikativt",
+      "definition": "en sorts låda (särskilt till flaskor)",
       "word_definitions": [
-        "betydelsefull, angelägen",
-        "som är av betydelse för sammanhanget"
+        "låda, ask, fack, bås",
+        "stor låda med lock (ofta gammal och värdefull)"
       ]
     },
     {
-      "title": "VERBPARTIKLAR",
+      "title": "POSITIONER I FOTBOLL",
       "words": [
-        "på",
-        "bort"
+        "målvakt",
+        "ytter"
       ],
-      "definition": "verbpartikeln av i rollen som adverb",
+      "definition": "försvarsspelare (t.ex. i fotbollslag)",
       "word_definitions": [
-        "mot",
-        "iväg, undan, härifrån"
+        "spelare i ett lag (t.ex. ett fotbollslag) som vaktar målet",
+        "anfallsspelare på ytterkanten (i fotboll etc.)"
       ]
     },
     {
-      "title": "MÅNADER I KALENDERN",
+      "title": "VÄXLAR I BIL",
       "words": [
-        "november",
-        "maj"
+        "etta",
+        "tvåa"
       ],
-      "definition": "en månad i den judiska kalendern; den elfte månaden i det civila livet och den femte månaden i det religiösa året",
+      "definition": "växel (på en bil eller båt) som används när man vill backa",
       "word_definitions": [
-        "årets elfte månad",
-        "årets femte månad"
+        "siffran 1; nummer 1 i ordningen",
+        "siffran 2; nummer 2 i ordningen"
       ]
     }
   ]

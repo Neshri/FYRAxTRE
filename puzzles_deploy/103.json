@@ -1,52 +1,52 @@
 {
-  "pivot": "pipa",
+  "pivot": "pjäs",
   "categories": [
     {
-      "title": "RÖKNINGSTILLBEHÖR",
+      "title": "PRYDNADSFÖREMÅL",
       "words": [
-        "tändare",
-        "askfat"
+        "tingeltangel",
+        "dekoration"
       ],
-      "definition": "anordning för tobaksrökning; ihåligt rör avsett för rökning, ofta med en skål i ena änden, men ibland av mer avancerad konstruktion",
+      "definition": "föremål som är uppställt som prydnad",
       "word_definitions": [
-        "apparat som man kan tända något med",
-        "en sorts fat för cigarettfimpar och aska"
+        "billiga (och smaklösa) prydnadsföremål",
+        "utsmyckning, prydnad"
       ]
     },
     {
-      "title": "TRANSPORTRÖR",
+      "title": "TEATERSTYCKEN",
       "words": [
-        "trumma",
-        "ledning"
+        "drama",
+        "komedi"
       ],
-      "definition": "avlångt, ihåligt föremål genom vilket något, till exempel luft eller annan gas färdas",
+      "definition": "teaterstycke, skådespel",
       "word_definitions": [
-        "rörformig ledning (ofta för transport); ihålig cylinder",
-        "grupp som bestämmer; styrelse"
+        "skådespel, pjäs",
+        "roligt teaterstycke (eller rolig film)"
       ]
     },
     {
-      "title": "DELAR AV ELDVAPEN",
+      "title": "SPELPJÄSER",
       "words": [
-        "avtryckare",
-        "kolv"
+        "kung",
+        "löpare"
       ],
-      "definition": "avlångt, ihåligt föremål på ett mindre eldvapen genom vilket en projektil färdas",
+      "definition": "figur som man flyttar på ett spelbräde (särskilt i schack)",
       "word_definitions": [
-        "del av skjutvapen som man trycker på för att avlossa ett skott",
-        "rörlig del i en cylinder"
+        "ett högt spelkort; den viktigaste pjäsen i schack",
+        "en pjäs i schack"
       ]
     },
     {
-      "title": "HÖGFREKVENTA LJUD",
+      "title": "TUNGA ELDVAPEN",
       "words": [
-        "vina",
-        "gnissla"
+        "kulspruta",
+        "kanon"
       ],
-      "definition": "ge ifrån sig ett högfrekvent ljud",
+      "definition": "tyngre eldvapen",
       "word_definitions": [
-        "ger ifrån sig ett starkt men pipigt ljud",
-        "ger ifrån sig ett skarpt och skärande ljud"
+        "ett delvis automatiskt eldvapen, maskingevär",
+        "en kraftig artilleripjäs"
       ]
     }
   ]

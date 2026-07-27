@@ -2,51 +2,51 @@
   "pivot": "driva",
   "categories": [
     {
-      "title": "NATURLIG HÖG",
+      "title": "STÖRRE HÖG",
       "words": [
-        "sanddyn",
-        "vall"
+        "stack",
+        "stapel"
       ],
-      "definition": "hög av snö (eller sand)",
+      "definition": "stor hög",
       "word_definitions": [
-        "kulle av sand",
-        "långsträckt upphöjning (ofta av jord eller sand)"
+        "större hög",
+        "hög av staplat material, trave"
       ]
     },
     {
-      "title": "DRIVANDE RÖRELSE",
+      "title": "MÄNGD AV NÅGOT",
       "words": [
-        "rinna",
-        "flyta"
+        "lass",
+        "laddning"
       ],
-      "definition": "förflyttas långsamt med vind, vågor, vattenström eller dylikt",
+      "definition": "större ansamling av något, t.ex. snö",
       "word_definitions": [
-        "flyter, strömmar",
-        "rinner"
+        "last (på en kärra e.d.); stor mängd",
+        "(stor) mängd av något"
       ]
     },
     {
-      "title": "SKÄMTA MED",
+      "title": "VANDRA UTAN MÅL",
       "words": [
-        "skoja",
-        "raljera"
+        "strosa",
+        "ströva"
       ],
-      "definition": "skoja, skämta (med)",
+      "definition": "röra sig utan mål",
       "word_definitions": [
-        "skämtar",
-        "skämtar på ett retsamt sätt"
+        "vandrar omkring utan mål",
+        "vandrar omkring utan mål"
       ]
     },
     {
-      "title": "ANSVARA FÖR",
+      "title": "FÖSA FRAMÅT",
       "words": [
-        "sköta",
-        "förvalta"
+        "putta",
+        "knuffa"
       ],
-      "definition": "sköta; ta hand om; leda",
+      "definition": "föra; fösa",
       "word_definitions": [
-        "vårdar, ger tillsyn; ansvarar för, tar hand om",
-        "sköter eller tar hand om någons egendom, administrerar"
+        "knuffar lätt",
+        "ger en knuff, stöter till"
       ]
     }
   ]

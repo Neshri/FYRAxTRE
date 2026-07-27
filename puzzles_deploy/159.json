@@ -1,0 +1,53 @@
+{
+  "pivot": "ton",
+  "categories": [
+    {
+      "title": "MUSIKALISKA LJUD",
+      "words": [
+        "bas",
+        "stämma"
+      ],
+      "definition": "ljud av sångröst eller instrument i konstant läge på skalan",
+      "word_definitions": [
+        "(man med) sångröst i lågt tonläge",
+        "inslag för särskild röst eller särskilt instrument i ett musikverk"
+      ]
+    },
+    {
+      "title": "SÄTT ATT BETE SIG",
+      "words": [
+        "fason",
+        "uppförande"
+      ],
+      "definition": "sätt att tala och uppträda",
+      "word_definitions": [
+        "uppträdande, (dåligt) uppförande",
+        "sätt att uppföra sig, beteende"
+      ]
+    },
+    {
+      "title": "FÄRGNYANSER",
+      "words": [
+        "nyans",
+        "kulör"
+      ],
+      "definition": "färgnyans",
+      "word_definitions": [
+        "färgton",
+        "färg"
+      ]
+    },
+    {
+      "title": "VIKTMÅTT",
+      "words": [
+        "kilo",
+        "gram"
+      ],
+      "definition": "ett viktmått (=1 000 kg)",
+      "word_definitions": [
+        "ett viktmått (=1 000 gram)",
+        "en måttenhet för vikt (1/1000 kilo)"
+      ]
+    }
+  ]
+}

@@ -1,52 +1,52 @@
 {
-  "pivot": "klen",
+  "pivot": "klippa",
   "categories": [
     {
-      "title": "SPÄD FORM",
+      "title": "STENFORMATIONER",
       "words": [
-        "skir",
-        "spenslig"
+        "berg",
+        "block"
       ],
-      "definition": "tunn, späd",
+      "definition": "stort stycke av sten eller bergart; del av urberg som går upp i dagen; klipphäll",
       "word_definitions": [
-        "späd, tunn",
-        "smal, tunn (om kroppsbyggnad eller person)"
+        "stor upphöjning av sten i jordytan, kulle; berggrund",
+        "sammanhängande helhet (av hårt material, t.ex. sten)"
       ]
     },
     {
-      "title": "ÖMTÅLIG HÄLSA",
+      "title": "BEUNDRANSVÄRDA PERSONER",
       "words": [
-        "sjåpig",
-        "delikat"
+        "hjälte",
+        "fenomen"
       ],
-      "definition": "sjuk, ömtålig",
+      "definition": "(överfört) tillförlitlig, orubblig person; person som lyckas trots motgångar",
       "word_definitions": [
-        "rädd, ömtålig",
-        "ömtålig, känslig"
+        "modig person; person som uträttat stora saker",
+        "person med utomordentlig begåvning eller skicklighet"
       ]
     },
     {
-      "title": "BRIST PÅ KRAFT",
+      "title": "DELA MED VERKTYG",
       "words": [
-        "skraltig",
-        "kraftlös"
+        "skära",
+        "dela"
       ],
-      "definition": "svag",
+      "definition": "dela eller kapa genom att använda en sax",
       "word_definitions": [
-        "svag och dålig",
-        "som saknar kraft, svag"
+        "bearbetar med kniv (för att dela upp eller skilja ifrån något)",
+        "gör delar av; får varsin del av"
       ]
     },
     {
-      "title": "OBETYDLIG STORLEK",
+      "title": "LAGFÖRA BROTTSLINGAR",
       "words": [
-        "ringa",
-        "blygsam"
+        "gripa",
+        "häkta"
       ],
-      "definition": "svag, obetydlig",
+      "definition": "gripa (kriminell)",
       "word_definitions": [
-        "liten, obetydlig",
-        "liten, obetydlig"
+        "hugger tag i, tar, fattar",
+        "sätter (en person som misstänks för brott) i häkte under den tid förundersökningen och domstolens handläggning pågår"
       ]
     }
   ]

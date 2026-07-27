@@ -1,52 +1,52 @@
 {
-  "pivot": "ren",
+  "pivot": "resa",
   "categories": [
     {
-      "title": "RENHET",
+      "title": "LEDIGHET PÅ RESA",
       "words": [
-        "obefläckad",
-        "hygienisk"
+        "semester",
+        "utflykt"
       ],
-      "definition": "inte smutsig, fläckfri",
+      "definition": "semester på annan ort",
       "word_definitions": [
-        "ren; fläckfri",
-        "som har att göra med hygien; renlig"
+        "betald ledighet från arbetet",
+        "kort resa för nöjes skull"
       ]
     },
     {
-      "title": "FULLSTÄNDIG",
+      "title": "GÖRA UPPRÄTT",
       "words": [
-        "absolut",
-        "total"
+        "ställa",
+        "lyfta"
       ],
-      "definition": "oförfalskad, äkta; fullständig, total",
+      "definition": "höja upp (från ett liggande) till (mer) upprätt läge",
       "word_definitions": [
-        "fullständigt, helt; ovillkorligt",
-        "i sin helhet, fullständig; sammanlagd"
+        "placerar upprätt eller stående; placerar",
+        "för till en högre nivå, för uppåt"
       ]
     },
     {
-      "title": "HJORTDJUR",
+      "title": "SKAPA HINDER",
       "words": [
-        "rådjur",
-        "dovhjort"
+        "hindra",
+        "motarbeta"
       ],
-      "definition": "ett (i viss mån tamt) hjortdjur som lever långt norrut (Rangifer tarandus)",
+      "definition": "lägga hinder eller svårigheter i vägen",
       "word_definitions": [
-        "ett hjortdjur med ljusbrun päls (Capreolus capreolus)",
-        "en brun hjort som får vita fläckar på sommaren (Cervus dama)"
+        "utgör hinder för",
+        "lägger hinder i vägen för, bekämpar"
       ]
     },
     {
-      "title": "VÄGKANTEN",
+      "title": "STÄLLA KRAV",
       "words": [
-        "bank",
-        "dike"
+        "yrka",
+        "begära"
       ],
-      "definition": "kant vid väg eller åker",
+      "definition": "framföra krav, anspråk e.d.",
       "word_definitions": [
-        "underlag för väg eller järnväg, vall",
-        "grävd ränna i marken (ofta på båda sidor av en väg)"
+        "begär, kräver",
+        "ber om, fordrar, kräver"
       ]
     }
   ]

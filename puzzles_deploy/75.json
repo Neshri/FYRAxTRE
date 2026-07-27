@@ -1,52 +1,52 @@
 {
-  "pivot": "kort",
+  "pivot": "lager",
   "categories": [
     {
-      "title": "LITEN DIMENSION",
+      "title": "FÖRVARINGSPLATSER",
       "words": [
-        "låg",
-        "tunn"
+        "magasin",
+        "depå"
       ],
-      "definition": "som har liten längd (i tid eller rum)",
+      "definition": "förråd, magasin",
       "word_definitions": [
-        "som har liten höjd",
-        "som har liten tjocklek, smal"
+        "förrådshus, förvaringsrum",
+        "förvaringsplats för förråd av ngt"
       ]
     },
     {
-      "title": "BIT AV PAPPER",
+      "title": "YTSKIKT",
       "words": [
-        "lapp",
-        "kupong"
+        "hinna",
+        "hud"
       ],
-      "definition": "litet stycke papper eller plast med viss funktion",
+      "definition": "skikt",
       "word_definitions": [
-        "litet stycke papper",
-        "bit papper som har ett visst värde"
+        "tunt skikt",
+        "yttersta, skyddande skikt på människor och djur"
       ]
     },
     {
-      "title": "HÖGA SPELKORT",
+      "title": "MASKINDELAR",
       "words": [
-        "dam",
-        "kung"
+        "axel",
+        "tapp"
       ],
-      "definition": "spelkort",
+      "definition": "del av en maskin som bär upp en roterande axel",
       "word_definitions": [
-        "ett högt spelkort",
-        "ett högt spelkort; den viktigaste pjäsen i schack"
+        "stång som ett hjul roterar kring",
+        "utskjutande axel som något vrids omkring"
       ]
     },
     {
-      "title": "BILDER",
+      "title": "VÄLDOFTANDE VÄXTER",
       "words": [
-        "foto",
-        "illustration"
+        "jasmin",
+        "syren"
       ],
-      "definition": "foto, bild",
+      "definition": "ett träd (eller en buske) med blanka, väldoftande blad (Laurus nobilis)",
       "word_definitions": [
-        "fotografi",
-        "bild"
+        "en buske med väldoftande blommor (släktet Jasminum)",
+        "en buske med väldoftande blommor (släktet Syringa)"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "fall",
+  "pivot": "faller",
   "categories": [
     {
-      "title": "PLUTSLIGT FALL",
+      "title": "FALLA FYSISKT",
       "words": [
-        "haveri",
-        "stöt"
+        "ramla",
+        "trilla"
       ],
-      "definition": "handlingen att störta ner eller ramla",
+      "definition": "ramlar, trillar",
       "word_definitions": [
-        "det att ett fartyg går under eller ett flygplan störtar",
-        "slag, knuff; kortvarig elektrisk ström genom kroppen"
+        "faller, trillar",
+        "ramlar, faller"
       ]
     },
     {
-      "title": "TOTAL UNDERGÅNG",
+      "title": "SJUNKA I VÄRDE",
       "words": [
-        "ruin",
-        "kollaps"
+        "dala",
+        "digna"
       ],
-      "definition": "undergång, undergång",
+      "definition": "dalar, sjunker",
       "word_definitions": [
-        "(ekonomisk) undergång; bankrutt",
-        "plötsligt sammanbrott"
+        "minskar",
+        "sjunker ner, sviktar"
       ]
     },
     {
-      "title": "BRANT SLUTTNING",
+      "title": "MISTA LIVET",
       "words": [
-        "stup",
-        "avgrund"
+        "dö",
+        "stupa"
       ],
-      "definition": "fors; stup",
+      "definition": "dör, stupar, omkommer",
       "word_definitions": [
-        "något som stupar brant, djup",
-        "stor klyfta, stup"
+        "slutar att leva, mister livet, går bort",
+        "faller i strid, dör"
       ]
     },
     {
-      "title": "HÄNDELSE",
+      "title": "GE UPP I KRIG",
       "words": [
-        "tilldragelse",
-        "begivenhet"
+        "kapitulera",
+        "underkasta"
       ],
-      "definition": "händelse, tillfälle; exempel",
+      "definition": "kapitulerar, erövras",
       "word_definitions": [
-        "händelse",
-        "stor händelse, evenemang"
+        "överlämnar sig till fienden; ger sig, ger upp",
+        "låta genomgå"
       ]
     }
   ]

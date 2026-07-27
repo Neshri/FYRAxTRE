@@ -1,52 +1,52 @@
 {
-  "pivot": "röra",
+  "pivot": "rörelse",
   "categories": [
     {
-      "title": "TOTAL OORDNING",
+      "title": "FYSISK FÖRFLYTTNING",
       "words": [
-        "kaos",
-        "sammelsurium"
+        "transport",
+        "steg"
       ],
-      "definition": "oreda, oordning",
+      "definition": "förflyttning",
       "word_definitions": [
-        "total förvirring, oreda",
-        "röra, oordning"
+        "förflyttning; frakt",
+        "(en) förflyttning av foten"
       ]
     },
     {
-      "title": "FYSISK KONTAKT",
+      "title": "EKONOMISK VERKSAMHET",
       "words": [
-        "känna",
-        "nudda"
+        "firma",
+        "bolag"
       ],
-      "definition": "ta i/på, vara eller befinna sig på eller i (fysisk) kontakt med",
+      "definition": "företag",
       "word_definitions": [
-        "tar (på), rör (vid)",
-        "berör lätt, snuddar"
+        "företag, bolag",
+        "ekonomisk sammanslutning; företag"
       ]
     },
     {
-      "title": "ÄNDRA POSITION",
+      "title": "SAMARBETSGRUPP",
       "words": [
-        "flytta",
-        "vicka"
+        "kollektiv",
+        "team"
       ],
-      "definition": "låta, i synnerhet en kroppsdel, byta eller ändra position/läge (i rummet)",
+      "definition": "grupp människor som samarbetar för ett (ideellt) mål",
       "word_definitions": [
-        "för till en annan plats",
-        "gör små rörelser"
+        "grupp människor som har gemensamma intressen (och som ibland bor och äter tillsammans)",
+        "(arbets)lag, grupp"
       ]
     },
     {
-      "title": "BRIST PÅ STRUKTUR",
+      "title": "STARK KÄNSLA",
       "words": [
-        "anarki",
-        "virrvarr"
+        "patos",
+        "affekt"
       ],
-      "definition": "brist på ordning, avsaknad av struktur",
+      "definition": "stark känsla av ömhet, gripenhet",
       "word_definitions": [
-        "frånvaro av regering; oordning",
-        "röra, oreda"
+        "stark känsla",
+        "stark känsla (ofta vrede)"
       ]
     }
   ]

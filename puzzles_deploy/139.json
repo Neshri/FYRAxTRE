@@ -1,0 +1,53 @@
+{
+  "pivot": "spelar",
+  "categories": [
+    {
+      "title": "UTÖVA SPEL OCH SPORT",
+      "words": [
+        "idrotta",
+        "leka"
+      ],
+      "definition": "ägnar sig åt spel",
+      "word_definitions": [
+        "ägnar sig åt idrott, sportar",
+        "håller på med lek"
+      ]
+    },
+    {
+      "title": "AGERA I TEATER/FILM",
+      "words": [
+        "uppföra",
+        "agera"
+      ],
+      "definition": "uppför en viss teaterpjäs, agerar i en teaterpjäs eller film",
+      "word_definitions": [
+        "spelar (teater), framför",
+        "spelar (rollen av)"
+      ]
+    },
+    {
+      "title": "FÖRSTÄLLA SIG",
+      "words": [
+        "låtsa",
+        "simulera"
+      ],
+      "definition": "låtsas",
+      "word_definitions": [
+        "låtsas",
+        "spelar, låtsar"
+      ]
+    },
+    {
+      "title": "SPELA MUSIKINSTRUMENT",
+      "words": [
+        "musicera",
+        "traktera"
+      ],
+      "definition": "framför musik på instrument, musicerar",
+      "word_definitions": [
+        "framför musik",
+        "spelar (musikinstrument)"
+      ]
+    }
+  ]
+}

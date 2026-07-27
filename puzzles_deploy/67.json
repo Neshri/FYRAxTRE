@@ -1,52 +1,52 @@
 {
-  "pivot": "klubba",
+  "pivot": "knut",
   "categories": [
     {
-      "title": "OLIKA GODISBITAR",
+      "title": "SÄTT ATT BINDA TRÅD",
       "words": [
-        "karamell",
-        "polkagris"
+        "rosett",
+        "ögla"
       ],
-      "definition": "godsak i form av en pinne med en stor karamell- eller godisbit fäst på översta änden",
+      "definition": "punkt där en eller flera trådar knyts, skarv",
       "word_definitions": [
-        "liten bit godis, (hård) sötsak",
-        "en karamell (ibland i form av en stång) med röda och vita ränder och frisk smak"
+        "band som knyts på ett visst sätt (vanligen som prydnad)",
+        "(slinga av) rep eller snöre"
       ]
     },
     {
-      "title": "OLIKA NÄRSTRIDSVAPEN",
+      "title": "TRAFIKKNUTPUNKTER",
       "words": [
-        "batong",
-        "spjut"
+        "korsning",
+        "vägskäl"
       ],
-      "definition": "redskap i form av en kraftig påk avsett som närstridsvapen",
+      "definition": "plats där flera (järnvägs)linjer möts",
       "word_definitions": [
-        "en sorts stav (ofta av hårt gummi) som används som vapen (särskilt av polisen)",
-        "ett vapen eller idrottsredskap i form av en vass stång som stöts eller kastas"
+        "ställe där två gator eller spår korsar varandra",
+        "plats där en väg delar sig"
       ]
     },
     {
-      "title": "FASTSTÄLLA BESLUT",
+      "title": "HUSETS EXTERIÖR",
       "words": [
-        "fastställa",
-        "utropa"
+        "hörna",
+        "gavel"
       ],
-      "definition": "genom slag med klubba förklara och fastslå (beslut) eller, vid auktion, utse en viss köpare",
+      "definition": "yttre hörn på hus",
       "word_definitions": [
-        "bestämmer, föreskriver; konstaterar",
-        "bjuder ut till försäljning på auktion, ropar ut"
+        "hörn",
+        "en av de kortare sidorna på ett hus"
       ]
     },
     {
-      "title": "ENKLA TRÄREDSKAP",
+      "title": "HASTIGHETSMÅTT",
       "words": [
-        "kil",
-        "pinne"
+        "knop",
+        "match"
       ],
-      "definition": "redskap (av trä) som är tjockare i ena ändan",
+      "definition": "kilometer per timme",
       "word_definitions": [
-        "stycke (ofta av trä) som smalnar av i ena ändan",
-        "smalt och kort trästycke"
+        "en måttenhet för hastighet till sjöss (= 1 sjömil i timmen)",
+        "tävling mellan två lag eller personer"
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "pivot": "sänka",
+  "categories": [
+    {
+      "title": "GEOGRAFISK SÄNKA",
+      "words": [
+        "svacka",
+        "ravin"
+      ],
+      "definition": "dal, dalgång",
+      "word_definitions": [
+        "sänka i marken, fördjupning",
+        "djup klyfta i berg"
+      ]
+    },
+    {
+      "title": "MEDICINSKA PROV",
+      "words": [
+        "blodprov",
+        "analys"
+      ],
+      "definition": "ett slags blodprov",
+      "word_definitions": [
+        "prov av blod för medicinsk undersökning",
+        "noggrann undersökning"
+      ]
+    },
+    {
+      "title": "GÖRA MÅL",
+      "words": [
+        "träffa",
+        "skjuta"
+      ],
+      "definition": "sätta (bollen) (ned i mål)",
+      "word_definitions": [
+        "möter, råkar",
+        "avlossar skott (ibland så att någon dör)"
+      ]
+    },
+    {
+      "title": "DRICKA UPP",
+      "words": [
+        "tömma",
+        "inta"
+      ],
+      "definition": "dricka en hel grogg",
+      "word_definitions": [
+        "dricker upp",
+        "äter (eller dricker)"
+      ]
+    }
+  ]
+}

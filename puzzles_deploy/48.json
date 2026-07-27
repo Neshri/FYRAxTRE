@@ -1,52 +1,52 @@
 {
-  "pivot": "föda",
+  "pivot": "följer",
   "categories": [
     {
-      "title": "NÄRING OCH MAT",
+      "title": "TA ÖVER ROLL",
       "words": [
-        "mat",
-        "kost"
+        "ersätta",
+        "avlösa"
       ],
-      "definition": "näring, mat",
+      "definition": "efterträder",
       "word_definitions": [
-        "näringsämnen som man äter, föda",
-        "mat, föda"
+        "vikarierar för; efterträder",
+        "efterträder, ersätter, löser av"
       ]
     },
     {
-      "title": "GE UPPHÖV TILL",
+      "title": "VARA SÄLLSKAP",
       "words": [
-        "grundlägga",
-        "väcka"
+        "sällskapa",
+        "ledsaga"
       ],
-      "definition": "ge upphov till",
+      "definition": "gör sällskap med",
       "word_definitions": [
-        "inrättar; ger upphov till",
-        "ger upphov till, framkallar"
+        "är sällskap åt; är partner till",
+        "följer med på vägen"
       ]
     },
     {
-      "title": "UTFODRA DJUR",
+      "title": "LYDA INSTRUKTIONER",
       "words": [
-        "fodra",
-        "mata"
+        "hörsamma",
+        "vika"
       ],
-      "definition": "utfodra",
+      "definition": "rättar sig efter, lyder",
       "word_definitions": [
-        "ger foder",
-        "ger mat eller foder åt"
+        "rättar sig efter, lyder",
+        "drar sig tillbaka, ger efter"
       ]
     },
     {
-      "title": "FÖRSÖRJA MED MAT",
+      "title": "HÅLLA KOLL PÅ",
       "words": [
-        "försörja",
-        "förse"
+        "iaktta",
+        "uppmärksamma"
       ],
-      "definition": "(om gårdar, landsändor, länder, och jorden) tillhandahålla mat till",
+      "definition": "observerar, hänger med i",
       "word_definitions": [
-        "ansvarar för uppehälle för",
-        "utrustar"
+        "följer, visar, tar hänsyn till",
+        "lägger märke till, observerar"
       ]
     }
   ]

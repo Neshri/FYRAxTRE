@@ -1,52 +1,52 @@
 {
-  "pivot": "drar",
+  "pivot": "drift",
   "categories": [
     {
-      "title": "SLÄPA NÅGOT",
+      "title": "SKÖTSEL AV ANLÄGGNING",
       "words": [
-        "bogsera",
-        "hasa"
+        "underhåll",
+        "förvaltning"
       ],
-      "definition": "släpar, bogserar",
+      "definition": "skötsel (t.ex. av en anläggning eller ett företag)",
       "word_definitions": [
-        "drar, släpar",
-        "släpar"
+        "skötsel; renovering",
+        "administration"
       ]
     },
     {
-      "title": "LÄMNA EN PLATS",
+      "title": "BIOLOGISKA BEHOV",
       "words": [
-        "sticka",
-        "lämna"
+        "hunger",
+        "törst"
       ],
-      "definition": "lämnar en lokal",
+      "definition": "instinkt, begär",
       "word_definitions": [
-        "tillverkar av garn med hjälp av stickor",
-        "räcker, ger"
+        "begär, längtan",
+        "stark längtan; starkt behov"
       ]
     },
     {
-      "title": "UTVINNA MATERIAL",
+      "title": "FÖRLÖJLIGANDE OCH SKÄMT",
       "words": [
-        "extrahera",
-        "bryta"
+        "hån",
+        "lustighet"
       ],
-      "definition": "utvinner, extraherar",
+      "definition": "skämt, förlöjligande",
       "word_definitions": [
-        "utvinner, drar",
-        "får att gå i bitar; utvinner"
+        "elak kritik, förlöjligande",
+        "något lustigt, något som görs på skämt"
       ]
     },
     {
-      "title": "FÖRBRUKA RESURSER",
+      "title": "RÖRELSE UTAN MÅL",
       "words": [
-        "konsumera",
-        "åtgå"
+        "vandring",
+        "promenad"
       ],
-      "definition": "förbrukar, behöver",
+      "definition": "det att driva omkring",
       "word_definitions": [
-        "använder, förbrukar",
-        "tar slut, förbrukas, går åt"
+        "handlingen att vandra, promenad",
+        "handlingen att promenera för nöjes skull, spatsertur"
       ]
     }
   ]

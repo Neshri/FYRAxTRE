@@ -1,0 +1,53 @@
+{
+  "pivot": "skugga",
+  "categories": [
+    {
+      "title": "SKYDD MOT SOLEN",
+      "words": [
+        "parasoll",
+        "solskyddsmedel"
+      ],
+      "definition": "mörkt område där (sol)ljuset hindras av något; skydd mot solen",
+      "word_definitions": [
+        "skärm som liknar ett paraply och som används som skydd mot solen",
+        "medel som skyddar mot solens farliga strålning"
+      ]
+    },
+    {
+      "title": "SOCIAL STÄLLNING",
+      "words": [
+        "rang",
+        "position"
+      ],
+      "definition": "undanskymd ställning",
+      "word_definitions": [
+        "(social) ställning i en grupp",
+        "ställning, läge"
+      ]
+    },
+    {
+      "title": "BLOCKERA LJUS",
+      "words": [
+        "mörklägga",
+        "skära"
+      ],
+      "definition": "skapa skugga genom att stoppa och vara i vägen för ljus; göra skuggig",
+      "word_definitions": [
+        "hindrar att något blir bekant, tystar ner, mörkar",
+        "bearbetar med kniv (för att dela upp eller skilja ifrån något)"
+      ]
+    },
+    {
+      "title": "FÖRFÖLJA NÅGON",
+      "words": [
+        "stalka",
+        "jaga"
+      ],
+      "definition": "förfölja, följa efter (någon)",
+      "word_definitions": [
+        "förföljer eller bevakar någon på ett obehagligt sätt",
+        "förföljer för att fånga eller döda (människa eller djur)"
+      ]
+    }
+  ]
+}

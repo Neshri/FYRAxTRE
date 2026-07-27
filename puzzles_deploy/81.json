@@ -1,52 +1,52 @@
 {
-  "pivot": "leder",
+  "pivot": "linje",
   "categories": [
     {
-      "title": "LEDA TILL NÅGOT",
+      "title": "GEOMETRISK FIGUR",
       "words": [
-        "hänföra",
-        "resultera"
+        "diagonal",
+        "kurva"
       ],
-      "definition": "för (till ett mål)",
+      "definition": "figur med utsträckning åt bara ett håll",
       "word_definitions": [
-        "räknar (till), för (till)",
-        "får som konsekvens"
+        "sträcka som går från hörn till hörn i en geometrisk figur",
+        "krökt linje, båge"
       ]
     },
     {
-      "title": "ÖVERFÖRA NÅGOT",
+      "title": "TRAFIKSTRÄCKA",
       "words": [
-        "överföra",
-        "kanalisera"
+        "led",
+        "rutt"
       ],
-      "definition": "släpper fram, överför",
+      "definition": "sträcka som trafikeras med allmänna kommunikationer",
       "word_definitions": [
-        "flyttar från en punkt till en annan",
-        "leder i viss riktning"
+        "sträcka där man kan vandra eller färdas",
+        "resväg"
       ]
     },
     {
-      "title": "VARA CHEF FÖR",
+      "title": "STRATEGISK RIKTNING",
       "words": [
-        "styra",
-        "anföra"
+        "inriktning",
+        "orientering"
       ],
-      "definition": "är ledare eller chef för; sköter, styr",
+      "definition": "kurs, inriktning",
       "word_definitions": [
-        "påverkar, leder",
-        "går i spetsen för, leder"
+        "mål för ett arbete; kurs, orientering",
+        "inriktning (efter väderstreck)"
       ]
     },
     {
-      "title": "LIGGA I SPETSEN",
+      "title": "UPPSTÄLLNING I RAD",
       "words": [
-        "toppa",
-        "föregå"
+        "rad",
+        "fil"
       ],
-      "definition": "ligger främst",
+      "definition": "uppställning i en rad (på bredden)",
       "word_definitions": [
-        "ligger i toppen på, leder",
-        "kommer före i tiden"
+        "uppställning av saker bredvid (eller bakom) varandra",
+        "rad"
       ]
     }
   ]

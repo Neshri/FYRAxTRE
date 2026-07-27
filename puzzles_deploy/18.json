@@ -1,52 +1,52 @@
 {
-  "pivot": "disk",
+  "pivot": "division",
   "categories": [
     {
-      "title": "SERVICEKONTOR",
+      "title": "SÄTT ATT DELA",
       "words": [
-        "kassa",
-        "reception"
+        "fördelning",
+        "halvering"
       ],
-      "definition": "smalt och högt bord (i butik, bank etc.) där kunderna betjänas",
+      "definition": "handlingen att dividera",
       "word_definitions": [
-        "avdelning (i affär eller bank) där man betalar eller tar emot pengar",
-        "plats på hotell e.d. (innanför entrén) där gäster tas emot"
+        "handlingen att fördela något; uppdelning",
+        "handlingen att halvera något"
       ]
     },
     {
-      "title": "MATSERVIS",
+      "title": "MILITÄRA FÖRBAND",
       "words": [
-        "porslin",
-        "matsilver"
+        "regemente",
+        "brigad"
       ],
-      "definition": "bestick, tallrikar o.d. som diskas",
+      "definition": "större militär avdelning",
       "word_definitions": [
-        "material (i koppar, tallrikar etc.) av tunn hård keramik",
-        "bestick i silver"
+        "den högsta administrativa militära enheten på lokal nivå",
+        "stort förband inom en armé"
       ]
     },
     {
-      "title": "DATALAGRING",
+      "title": "FÖRETAGSAVDELNINGAR",
       "words": [
-        "minne",
-        "cd"
+        "byrå",
+        "filial"
       ],
-      "definition": "skiva där man lagrar data",
+      "definition": "avdelning inom företag",
       "word_definitions": [
-        "ställe för lagring av data i en dator",
-        "skiva som används för digital lagring av musik, bilder och text"
+        "avdelning; firma",
+        "(ganska självständig) avdelning"
       ]
     },
     {
-      "title": "RYGGENS DELAR",
+      "title": "SPORTSLIG NIVÅ",
       "words": [
-        "kota",
-        "ryggmärg"
+        "serie",
+        "liga"
       ],
-      "definition": "en sorts platta mellan ryggradens kotor",
+      "definition": "klass i seriesystem",
       "word_definitions": [
-        "ben i ryggraden",
-        "del av centrala nervsystemet i ryggradens översta del"
+        "rad, följd",
+        "kriminell grupp, samling förbrytare"
       ]
     }
   ]

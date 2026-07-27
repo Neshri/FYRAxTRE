@@ -1,52 +1,52 @@
 {
-  "pivot": "driva",
+  "pivot": "driver",
   "categories": [
     {
-      "title": "STÖRRE HÖG",
+      "title": "TVINGA NÅGON",
       "words": [
-        "stack",
-        "stapel"
+        "förplikta",
+        "nödga"
       ],
-      "definition": "stor hög",
+      "definition": "föser, tvingar",
       "word_definitions": [
-        "större hög",
-        "hög av staplat material, trave"
+        "ålägger, tvingar",
+        "tvingar, förmår"
       ]
     },
     {
-      "title": "MÄNGD AV NÅGOT",
+      "title": "UTÖVA PÅVERKAN",
       "words": [
-        "lass",
-        "laddning"
+        "influera",
+        "inverka"
       ],
-      "definition": "större ansamling av något, t.ex. snö",
+      "definition": "påverkar",
       "word_definitions": [
-        "last (på en kärra e.d.); stor mängd",
-        "(stor) mängd av något"
+        "inverkar på, påverkar",
+        "påverkar"
       ]
     },
     {
-      "title": "VANDRA UTAN MÅL",
+      "title": "BEDRIVA VERKSAMHET",
       "words": [
-        "strosa",
-        "ströva"
+        "utöva",
+        "idka"
       ],
-      "definition": "röra sig utan mål",
+      "definition": "ägnar sig åt, bedriver",
       "word_definitions": [
-        "vandrar omkring utan mål",
-        "vandrar omkring utan mål"
+        "bedriver verksamhet",
+        "sysslar med, bedriver"
       ]
     },
     {
-      "title": "FÖSA FRAMÅT",
+      "title": "SKOJA OCH SKÄMTA",
       "words": [
-        "putta",
-        "knuffa"
+        "skoja",
+        "skämta"
       ],
-      "definition": "föra; fösa",
+      "definition": "skojar, skämtar",
       "word_definitions": [
-        "knuffar lätt",
-        "ger en knuff, stöter till"
+        "skämtar",
+        "säger lustigheter, skojar"
       ]
     }
   ]

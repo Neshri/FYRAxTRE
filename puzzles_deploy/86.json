@@ -1,52 +1,52 @@
 {
-  "pivot": "lur",
+  "pivot": "lyder",
   "categories": [
     {
-      "title": "BLÅSINSTRUMENT",
+      "title": "LYDA ORDER",
       "words": [
-        "flöjt",
-        "saxofon"
+        "följa",
+        "underkasta"
       ],
-      "definition": "ett blåsinstrument",
+      "definition": "gör som man blir tillsagd",
       "word_definitions": [
-        "ett blåsinstrument",
-        "ett blåsinstrument"
+        "går efter",
+        "låta genomgå"
       ]
     },
     {
-      "title": "KORT SÖMN",
+      "title": "HÖRA TILL",
       "words": [
-        "slummer",
-        "dvala"
+        "tillhöra",
+        "underordna"
       ],
-      "definition": "en stunds sömn",
+      "definition": "hör till, sorterar (under)",
       "word_definitions": [
-        "lätt (och kort) sömn, lur",
-        "slummer, sömn"
+        "har som ägare, ägs av",
+        "låter bli beroende av"
       ]
     },
     {
-      "title": "VAKTHÅLNING",
+      "title": "TEXTENS UTFORMNING",
       "words": [
-        "vakt",
-        "bakhåll"
+        "formulera",
+        "skrivas"
       ],
-      "definition": "i uttrycket ligga på lur: ligga på vakt, lurpassa",
+      "definition": "har en viss lydelse",
       "word_definitions": [
-        "handlingen att vakta, vakthållning",
-        "gömställe där ett anfall förbereds, fälla"
+        "uttrycker, utformar",
+        "kommunicera, ofta via brev"
       ]
     },
     {
-      "title": "BEDRÄGERI OCH SKÄMT",
+      "title": "SUMMAN BLIR",
       "words": [
-        "bluff",
-        "spratt"
+        "utgöra",
+        "vara"
       ],
-      "definition": "i uttrycket det är bara lur: att luras, skämta; lurendrejeri",
+      "definition": "uppgår till, är",
       "word_definitions": [
-        "försök att luras, skoj, bedrägeri",
-        "skämt för att lura någon"
+        "fungerar som, är; uppgår till (en viss summa)",
+        "befinner sig, finns"
       ]
     }
   ]

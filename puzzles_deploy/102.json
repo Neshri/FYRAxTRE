@@ -2,51 +2,51 @@
   "pivot": "pipa",
   "categories": [
     {
-      "title": "TOBAKSPRODUKTER",
+      "title": "RÖKNINGSTILLBEHÖR",
       "words": [
-        "cigarett",
-        "cigarr"
+        "tändare",
+        "askfat"
       ],
-      "definition": "anordning med behållare för tobak som används vid rökning",
+      "definition": "anordning för tobaksrökning; ihåligt rör avsett för rökning, ofta med en skål i ena änden, men ibland av mer avancerad konstruktion",
       "word_definitions": [
-        "rulle av tobak omgiven av papper",
-        "(ganska tjock) rulle av tobak omgiven av (brunt) papper"
+        "apparat som man kan tända något med",
+        "en sorts fat för cigarettfimpar och aska"
       ]
     },
     {
-      "title": "RÖRLIKNANDE FÖREMÅL",
+      "title": "TRANSPORTRÖR",
       "words": [
-        "skorsten",
-        "slang"
+        "trumma",
+        "ledning"
       ],
-      "definition": "rör (särskilt på vapen)",
+      "definition": "avlångt, ihåligt föremål genom vilket något, till exempel luft eller annan gas färdas",
       "word_definitions": [
-        "(murat) rör som leder ut rök",
-        "ett slags böjligt rör"
+        "rörformig ledning (ofta för transport); ihålig cylinder",
+        "grupp som bestämmer; styrelse"
       ]
     },
     {
-      "title": "BLÅSINSTRUMENT",
+      "title": "DELAR AV ELDVAPEN",
       "words": [
-        "flöjt",
-        "trumpet"
+        "avtryckare",
+        "kolv"
       ],
-      "definition": "en typ av blåsinstrument",
+      "definition": "avlångt, ihåligt föremål på ett mindre eldvapen genom vilket en projektil färdas",
       "word_definitions": [
-        "ett blåsinstrument",
-        "ett blåsinstrument i ganska högt tonläge"
+        "del av skjutvapen som man trycker på för att avlossa ett skott",
+        "rörlig del i en cylinder"
       ]
     },
     {
-      "title": "LUFTHÅL I MAT",
+      "title": "HÖGFREKVENTA LJUD",
       "words": [
-        "håla",
-        "bubbla"
+        "vina",
+        "gnissla"
       ],
-      "definition": "hålighet bildad av gas under produktionen av hårdost",
+      "definition": "ge ifrån sig ett högfrekvent ljud",
       "word_definitions": [
-        "fördjupning, hålighet",
-        "liten mängd luft som (vanligen) omges av vatten"
+        "ger ifrån sig ett starkt men pipigt ljud",
+        "ger ifrån sig ett skarpt och skärande ljud"
       ]
     }
   ]

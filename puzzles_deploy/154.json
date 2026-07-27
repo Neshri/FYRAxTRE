@@ -1,0 +1,53 @@
+{
+  "pivot": "tag",
+  "categories": [
+    {
+      "title": "GREPP OM NÅGOT",
+      "words": [
+        "fattning",
+        "fäste"
+      ],
+      "definition": "grepp",
+      "word_definitions": [
+        "grepp",
+        "fast grund"
+      ]
+    },
+    {
+      "title": "SOCIAL STÄMNING",
+      "words": [
+        "klimat",
+        "anda"
+      ],
+      "definition": "sätt att umgås, atmosfär",
+      "word_definitions": [
+        "stämning, atmosfär",
+        "stämning, atmosfär"
+      ]
+    },
+    {
+      "title": "DANSRÖRELSE",
+      "words": [
+        "figur",
+        "steg"
+      ],
+      "definition": "en av flera rytmiskt upprepade rörelser",
+      "word_definitions": [
+        "gestalt, kroppsform",
+        "(en) förflyttning av foten"
+      ]
+    },
+    {
+      "title": "TIDSINTERVALL",
+      "words": [
+        "period",
+        "skede"
+      ],
+      "definition": "stund, tidsperiod",
+      "word_definitions": [
+        "avsnitt i tiden, tidsrymd",
+        "tidsavsnitt, period"
+      ]
+    }
+  ]
+}

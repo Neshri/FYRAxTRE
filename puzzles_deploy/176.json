@@ -1,0 +1,53 @@
+{
+  "pivot": "väg",
+  "categories": [
+    {
+      "title": "OLIKA VÄGAR",
+      "words": [
+        "aveny",
+        "stig"
+      ],
+      "definition": "långt, smalt stycke (belagd) mark som man kan färdas på med fordon, gata",
+      "word_definitions": [
+        "bred gata (ofta med träd), boulevard",
+        "smal gångväg (ofta i skogen)"
+      ]
+    },
+    {
+      "title": "RUMSLIGT AVSTÅND",
+      "words": [
+        "distans",
+        "avstånd"
+      ],
+      "definition": "resa; avstånd, distans",
+      "word_definitions": [
+        "avstånd, sträcka",
+        "sträcka mellan två punkter i rummet (eller tiden), distans"
+      ]
+    },
+    {
+      "title": "FÄRDVÄGAR",
+      "words": [
+        "bana",
+        "stråk"
+      ],
+      "definition": "färdriktning, färdväg",
+      "word_definitions": [
+        "färdväg",
+        "väg"
+      ]
+    },
+    {
+      "title": "METODER OCH SÄTT",
+      "words": [
+        "metod",
+        "medel"
+      ],
+      "definition": "sätt, metod",
+      "word_definitions": [
+        "(systematiskt) sätt att utföra något",
+        "sätt, metod"
+      ]
+    }
+  ]
+}

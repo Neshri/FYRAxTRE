@@ -1,52 +1,52 @@
 {
-  "pivot": "lugn",
+  "pivot": "lur",
   "categories": [
     {
-      "title": "FRIDFULLA EGENSKAPER",
+      "title": "BLÅSINSTRUMENT",
       "words": [
-        "stillsam",
-        "fredlig"
+        "flöjt",
+        "saxofon"
       ],
-      "definition": "som rör sig mycket lite; fridfull",
+      "definition": "ett blåsinstrument",
       "word_definitions": [
-        "stilla, fridsam, lugn (mest om person)",
-        "lugn, stillsam, fridsam"
+        "ett blåsinstrument",
+        "ett blåsinstrument"
       ]
     },
     {
-      "title": "BEHÄRSKADE PERSONLIGHETER",
+      "title": "KORT SÖMN",
       "words": [
-        "samlad",
-        "stoisk"
+        "slummer",
+        "dvala"
       ],
-      "definition": "behärskad",
+      "definition": "en stunds sömn",
       "word_definitions": [
-        "behärskad",
-        "lugn och behärskad"
+        "lätt (och kort) sömn, lur",
+        "slummer, sömn"
       ]
     },
     {
-      "title": "TILLSTÅND AV STILLHET",
+      "title": "VAKTHÅLNING",
       "words": [
-        "frid",
-        "ro"
+        "vakt",
+        "bakhåll"
       ],
-      "definition": "mycket lite rörelse; fridfullt tillstånd",
+      "definition": "i uttrycket ligga på lur: ligga på vakt, lurpassa",
       "word_definitions": [
-        "lugn, ro, fred, stillhet",
-        "lugn och stillhet"
+        "handlingen att vakta, vakthållning",
+        "gömställe där ett anfall förbereds, fälla"
       ]
     },
     {
-      "title": "INRE BEHÄRSKNING",
+      "title": "BEDRÄGERI OCH SKÄMT",
       "words": [
-        "behärskning",
-        "besinning"
+        "bluff",
+        "spratt"
       ],
-      "definition": "behärskning av känslor",
+      "definition": "i uttrycket det är bara lur: att luras, skämta; lurendrejeri",
       "word_definitions": [
-        "kontroll över egna känslor, lugn",
-        "eftertanke, självbehärskning"
+        "försök att luras, skoj, bedrägeri",
+        "skämt för att lura någon"
       ]
     }
   ]

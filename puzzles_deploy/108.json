@@ -1,52 +1,52 @@
 {
-  "pivot": "post",
+  "pivot": "program",
   "categories": [
     {
-      "title": "POSTFÖRSÄNDELSER",
+      "title": "PLAN FÖR GENOMFÖRANDE",
       "words": [
-        "brev",
-        "försändelse"
+        "strategi",
+        "handlingsplan"
       ],
-      "definition": "brev eller paket som sänds till en adressat",
+      "definition": "plan eller översikt över hur något ska genomföras",
       "word_definitions": [
-        "skrivet meddelande som läggs i kuvert och skickas med posten",
-        "något som skickas (t.ex. med post)"
+        "långsiktig plan för att genomföra något",
+        "plan för verksamhet (som finns till eller skapas för att man vill förändra något)"
       ]
     },
     {
-      "title": "EKONOMISKA BELOPP",
+      "title": "TYPER AV SÄNDNINGAR",
       "words": [
-        "saldo",
-        "avgift"
+        "magasin",
+        "feature"
       ],
-      "definition": "belopp (i räkenskap e.d.)",
+      "definition": "enskild sändning i radio eller tv",
       "word_definitions": [
-        "behållning (eller underskott) på ett konto",
-        "ersättning (för en rättighet), betalning, pris"
+        "program i radio eller tv; tidskrift",
+        "radio- eller tv-program med inslag av dokumentärt och dramatiserat material; stort reportage i tidning"
       ]
     },
     {
-      "title": "LODRÄT KONSTRUKTION",
+      "title": "DATORKOD OCH PROGRAMVARA",
       "words": [
-        "regel",
-        "stam"
+        "mjukvara",
+        "källkod"
       ],
-      "definition": "lodrät del av karm (till dörr eller fönster)",
+      "definition": "instruktion för en dator",
       "word_definitions": [
-        "vridbar anordning som stänger till en dörr",
-        "den lodräta delen av ett träd som grenarna utgår från"
+        "program till en dator, programvara",
+        "instruktioner i ett visst programspråk"
       ]
     },
     {
-      "title": "TJÄNSTEPOSITION",
+      "title": "VAL AV UTBILDNING",
       "words": [
-        "befattning",
-        "ämbete"
+        "linje",
+        "utbildning"
       ],
-      "definition": "(högre) tjänst",
+      "definition": "inriktning av utbildning (särskilt på gymnasiet och universitetet)",
       "word_definitions": [
-        "sysselsättning, (högre) tjänst, arbete",
-        "(hög) statlig eller kyrklig tjänst"
+        "kurs, inriktning",
+        "undervisning, studier (ofta med sikte på examen)"
       ]
     }
   ]

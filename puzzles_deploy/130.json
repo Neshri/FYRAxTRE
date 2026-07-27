@@ -1,0 +1,53 @@
+{
+  "pivot": "skola",
+  "categories": [
+    {
+      "title": "UTBILDNINGSBYGGNAD",
+      "words": [
+        "institut",
+        "byggnad"
+      ],
+      "definition": "byggnad avsedd att bedriva utbildning i",
+      "word_definitions": [
+        "inrättning för forskning eller utbildning",
+        "stort hus"
+      ]
+    },
+    {
+      "title": "KONSTNÄRLIG RIKTNING",
+      "words": [
+        "genre",
+        "realism"
+      ],
+      "definition": "riktning inom konst, vetenskap etc.",
+      "word_definitions": [
+        "typ av ämne som en författare, en konstnär e.d. behandlar",
+        "en konstnärlig och litterär riktning som beskriver verkligheten förhållandevis exakt"
+      ]
+    },
+    {
+      "title": "TVÅNGSBEHOV",
+      "words": [
+        "behöva",
+        "nödgas"
+      ],
+      "definition": "vara tvungen att",
+      "word_definitions": [
+        "är tvungen att",
+        "är tvungen"
+      ]
+    },
+    {
+      "title": "VÄXTODLING",
+      "words": [
+        "plantera",
+        "ympa"
+      ],
+      "definition": "plantera om växt, i synnerhet på plantskola",
+      "word_definitions": [
+        "sätter växt (eller frö) i jorden",
+        "planterar in en del av en växt i en annan växt"
+      ]
+    }
+  ]
+}

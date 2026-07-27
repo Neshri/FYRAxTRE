@@ -1,0 +1,53 @@
+{
+  "pivot": "vila",
+  "categories": [
+    {
+      "title": "TILLSTÅND AV LUGN",
+      "words": [
+        "frid",
+        "ro"
+      ],
+      "definition": "tillstånd då någon eller något vilar, stillhet, avkoppling",
+      "word_definitions": [
+        "lugn, ro, fred, stillhet",
+        "lugn och stillhet"
+      ]
+    },
+    {
+      "title": "VILOPERIOD",
+      "words": [
+        "sabbat",
+        "lur"
+      ],
+      "definition": "vilostund",
+      "word_definitions": [
+        "judisk vilodag",
+        "en stunds sömn"
+      ]
+    },
+    {
+      "title": "ÅTERHÄMTA SIG",
+      "words": [
+        "repa",
+        "läka"
+      ],
+      "definition": "vara (mer eller mindre) inaktiv i syfte att återhämta sig",
+      "word_definitions": [
+        "återhämtar",
+        "botar"
+      ]
+    },
+    {
+      "title": "STÖDJAS MOT",
+      "words": [
+        "luta",
+        "stötta"
+      ],
+      "definition": "stödjas mot; hållas uppe av; bäras av",
+      "word_definitions": [
+        "står snett",
+        "stöder"
+      ]
+    }
+  ]
+}

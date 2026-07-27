@@ -1,0 +1,53 @@
+{
+  "pivot": "skiva",
+  "categories": [
+    {
+      "title": "TYP AV FEST",
+      "words": [
+        "partaj",
+        "samkväm"
+      ],
+      "definition": "fest",
+      "word_definitions": [
+        "party",
+        "enklare fest"
+      ]
+    },
+    {
+      "title": "MUSIKSKIVA",
+      "words": [
+        "platta",
+        "stenkaka"
+      ],
+      "definition": "grammofonskiva eller cd-skiva",
+      "word_definitions": [
+        "(cd-)skiva",
+        "gammal grammofonskiva"
+      ]
+    },
+    {
+      "title": "KROPPENS BROSKPLATTOR",
+      "words": [
+        "disk",
+        "menisk"
+      ],
+      "definition": "platta av brosk mellan kotorna i ryggraden",
+      "word_definitions": [
+        "en sorts platta mellan ryggradens kotor",
+        "en sorts skiva av brosk i knäleden"
+      ]
+    },
+    {
+      "title": "TUNN BIT",
+      "words": [
+        "flak",
+        "lamell"
+      ],
+      "definition": "del från ett större objekt som skurits av till en jämntjock och relativt tunn bit",
+      "word_definitions": [
+        "stor jämntjock skiva",
+        "tunn skiva (ofta av trä eller metall)"
+      ]
+    }
+  ]
+}

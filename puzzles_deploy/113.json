@@ -1,52 +1,52 @@
 {
-  "pivot": "rak",
+  "pivot": "ren",
   "categories": [
     {
-      "title": "RÄT LINJE",
+      "title": "RENHET",
       "words": [
-        "rät",
-        "linjär"
+        "obefläckad",
+        "hygienisk"
       ],
-      "definition": "rät",
+      "definition": "inte smutsig, fläckfri",
       "word_definitions": [
-        "rak",
-        "som rör räta linjer"
+        "ren; fläckfri",
+        "som har att göra med hygien; renlig"
       ]
     },
     {
-      "title": "DIREKT OCH ABSOLUT",
+      "title": "FULLSTÄNDIG",
       "words": [
-        "omedelbar",
-        "obetingad"
+        "absolut",
+        "total"
       ],
-      "definition": "absolut, direkt",
+      "definition": "oförfalskad, äkta; fullständig, total",
       "word_definitions": [
-        "direkt, ögonblicklig",
-        "ovillkorlig, absolut"
+        "fullständigt, helt; ovillkorligt",
+        "i sin helhet, fullständig; sammanlagd"
       ]
     },
     {
-      "title": "TYDLIG KOMMUNIKATION",
+      "title": "HJORTDJUR",
       "words": [
-        "renhårig",
-        "otvetydig"
+        "rådjur",
+        "dovhjort"
       ],
-      "definition": "ärlig, tydlig",
+      "definition": "ett (i viss mån tamt) hjortdjur som lever långt norrut (Rangifer tarandus)",
       "word_definitions": [
-        "ärlig, rättvis",
-        "klar, tydlig"
+        "ett hjortdjur med ljusbrun päls (Capreolus capreolus)",
+        "en brun hjort som får vita fläckar på sommaren (Cervus dama)"
       ]
     },
     {
-      "title": "I TURORDNING",
+      "title": "VÄGKANTEN",
       "words": [
-        "sedan",
-        "varefter"
+        "bank",
+        "dike"
       ],
-      "definition": "i följd, efter varandra",
+      "definition": "kant vid väg eller åker",
       "word_definitions": [
-        "därefter, därpå",
-        "efter vilket, och därefter"
+        "underlag för väg eller järnväg, vall",
+        "grävd ränna i marken (ofta på båda sidor av en väg)"
       ]
     }
   ]

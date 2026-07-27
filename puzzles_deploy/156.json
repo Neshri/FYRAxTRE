@@ -1,0 +1,53 @@
+{
+  "pivot": "tar",
+  "categories": [
+    {
+      "title": "RÖRA VID NÅGOT",
+      "words": [
+        "känna",
+        "beröra"
+      ],
+      "definition": "rör (vid)",
+      "word_definitions": [
+        "tar (på), rör (vid)",
+        "rör vid"
+      ]
+    },
+    {
+      "title": "ANVÄNDA NÅGOT",
+      "words": [
+        "utnyttja",
+        "begagna"
+      ],
+      "definition": "använder sig av",
+      "word_definitions": [
+        "drar nytta av, använder",
+        "använder, brukar, utnyttjar, handskas med"
+      ]
+    },
+    {
+      "title": "TA TID I ANSPRÅK",
+      "words": [
+        "dröja",
+        "engagera"
+      ],
+      "definition": "dröjer, upptar (tid)",
+      "word_definitions": [
+        "drar ut på tiden, tar tid",
+        "tar upp (hela) någons tid; intresserar"
+      ]
+    },
+    {
+      "title": "TRANSPORTERA SAKER",
+      "words": [
+        "köra",
+        "frakta"
+      ],
+      "definition": "för, transporterar",
+      "word_definitions": [
+        "transporterar",
+        "transporterar gods"
+      ]
+    }
+  ]
+}

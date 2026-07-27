@@ -1,0 +1,53 @@
+{
+  "pivot": "skada",
+  "categories": [
+    {
+      "title": "FYSISK SKADA",
+      "words": [
+        "blessyr",
+        "fraktur"
+      ],
+      "definition": "(ben)brott; sår",
+      "word_definitions": [
+        "(lättare) sår",
+        "brott i skelettets ben, benbrott"
+      ]
+    },
+    {
+      "title": "FÖRSTÖRELSE AV EGENDOM",
+      "words": [
+        "destruktion",
+        "härjning"
+      ],
+      "definition": "åverkan",
+      "word_definitions": [
+        "förstörelse, ödeläggelse",
+        "handlingen att härja"
+      ]
+    },
+    {
+      "title": "NÅGOT BEKLAGLIGT",
+      "words": [
+        "tragedi",
+        "olycka"
+      ],
+      "definition": "förhållande som man beklagar, synd",
+      "word_definitions": [
+        "skådespel med allvarligt innehåll",
+        "plågsam eller tragisk händelse som inträffar utan mänskligt uppsåt"
+      ]
+    },
+    {
+      "title": "FEL PÅ VARA",
+      "words": [
+        "defekt",
+        "brist"
+      ],
+      "definition": "fel på något eller något som gått sönder eller blivit förstört (som orsakats vid ett särskilt tillfälle)",
+      "word_definitions": [
+        "fel, brist",
+        "för liten tillgång på något, underskott"
+      ]
+    }
+  ]
+}

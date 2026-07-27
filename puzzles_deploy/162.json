@@ -1,0 +1,53 @@
+{
+  "pivot": "tryck",
+  "categories": [
+    {
+      "title": "FYSISK KRAFT",
+      "words": [
+        "belastning",
+        "styrka"
+      ],
+      "definition": "kraft per ytenhet",
+      "word_definitions": [
+        "påfrestning, tryck",
+        "fysisk eller psykisk kraft"
+      ]
+    },
+    {
+      "title": "SOCIAL PÅVERKAN",
+      "words": [
+        "lobby",
+        "inflytande"
+      ],
+      "definition": "påverkan, påtryckning",
+      "word_definitions": [
+        "påtryckningsgrupp",
+        "möjlighet att påverka"
+      ]
+    },
+    {
+      "title": "TALETS BETONING",
+      "words": [
+        "accent",
+        "intonation"
+      ],
+      "definition": "betoning av ord, tonvikt",
+      "word_definitions": [
+        "betoning (av ett ord eller en del av ett ord), tonvikt, tryck",
+        "växling av tonhöjd vid tal"
+      ]
+    },
+    {
+      "title": "TRYCKTA SKRIFTER",
+      "words": [
+        "publikation",
+        "dokument"
+      ],
+      "definition": "tryckning (t.ex. av böcker); tryckt skrift",
+      "word_definitions": [
+        "tryckt skrift, bok, tidning",
+        "skrift, handling (ofta av juridisk eller historisk betydelse)"
+      ]
+    }
+  ]
+}

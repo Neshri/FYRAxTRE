@@ -1,52 +1,52 @@
 {
-  "pivot": "håller",
+  "pivot": "hård",
   "categories": [
     {
-      "title": "GREPPA NÅGOT",
+      "title": "FAST MATERIAL",
       "words": [
-        "gripa",
-        "fatta"
+        "fast",
+        "solid"
       ],
-      "definition": "har i handen, griper, fattar",
+      "definition": "som inte ger efter för tryck eller böjning",
       "word_definitions": [
-        "hugger tag i, tar, fattar",
-        "tar, griper"
+        "hård, massiv",
+        "gedigen, massiv"
       ]
     },
     {
-      "title": "BEVARA NÅGOT",
+      "title": "STRÄNG PERSONLIGHET",
       "words": [
-        "bevara",
-        "konservera"
+        "kall",
+        "strikt"
       ],
-      "definition": "bibehåller, bevarar",
+      "definition": "okänslig, sträng",
       "word_definitions": [
-        "har kvar, sparar, behåller; skyddar",
-        "bevarar i oförändrat skick"
+        "hård, okänslig",
+        "sträng; korrekt; som ska följas noggrant"
       ]
     },
     {
-      "title": "TÅLA BELASTNING",
+      "title": "TUNG ANSTRÄNGNING",
       "words": [
-        "tåla",
-        "bestå"
+        "jobbig",
+        "mödosam"
       ],
-      "definition": "blir inte förstörd, går inte sönder, är stark nog",
+      "definition": "intensiv, påfrestande",
       "word_definitions": [
-        "står ut med, uthärdar",
-        "står fast, är oförändrad"
+        "ansträngande, påfrestande",
+        "ansträngande, besvärlig"
       ]
     },
     {
-      "title": "GENOMFÖRA NÅGOT",
+      "title": "KRAFTIG STORLEK",
       "words": [
-        "arrangera",
-        "utföra"
+        "massiv",
+        "rejäl"
       ],
-      "definition": "utför; anordnar",
+      "definition": "kraftig",
       "word_definitions": [
-        "anordnar, ordnar, planerar",
-        "gör, genomför"
+        "tung, kraftig",
+        "stor, kraftig"
       ]
     }
   ]

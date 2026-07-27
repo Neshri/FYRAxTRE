@@ -1,0 +1,53 @@
+{
+  "pivot": "utgår",
+  "categories": [
+    {
+      "title": "BÖRJA NÅGOT",
+      "words": [
+        "inleda",
+        "börja"
+      ],
+      "definition": "startar",
+      "word_definitions": [
+        "påbörjar, startar",
+        "startar, inleder, sätter igång"
+      ]
+    },
+    {
+      "title": "SÄTTA SOM FÖRUTSÄTTNING",
+      "words": [
+        "underförstå",
+        "grunda"
+      ],
+      "definition": "har som utgångspunkt, förutsätter",
+      "word_definitions": [
+        "förutsätter utan att säga",
+        "har som grund för, stöder"
+      ]
+    },
+    {
+      "title": "TA BORT",
+      "words": [
+        "exkludera",
+        "stryka"
+      ],
+      "definition": "stryks, utesluts",
+      "word_definitions": [
+        "utesluter",
+        "drar ett streck över, tar bort, utelämnar"
+      ]
+    },
+    {
+      "title": "BETALA PENGAR",
+      "words": [
+        "erlägga",
+        "bekosta"
+      ],
+      "definition": "betalas ut",
+      "word_definitions": [
+        "betalar",
+        "betalar för"
+      ]
+    }
+  ]
+}

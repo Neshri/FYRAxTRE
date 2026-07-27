@@ -2,51 +2,51 @@
   "pivot": "drar",
   "categories": [
     {
-      "title": "DRA I NÅGOT",
+      "title": "SLÄPA NÅGOT",
       "words": [
-        "rycka",
-        "slita"
+        "bogsera",
+        "hasa"
       ],
-      "definition": "för till sig med handen",
+      "definition": "släpar, bogserar",
       "word_definitions": [
-        "drar hastigt ur sitt läge",
-        "nöter"
+        "drar, släpar",
+        "släpar"
       ]
     },
     {
-      "title": "FÖRFLYTTA SIG",
+      "title": "LÄMNA EN PLATS",
       "words": [
-        "vandra",
-        "åka"
+        "sticka",
+        "lämna"
       ],
-      "definition": "förflyttar sig",
+      "definition": "lämnar en lokal",
       "word_definitions": [
-        "förflyttar sig",
-        "förflyttas, faller"
+        "tillverkar av garn med hjälp av stickor",
+        "räcker, ger"
       ]
     },
     {
-      "title": "SKAPA BILD",
+      "title": "UTVINNA MATERIAL",
       "words": [
-        "teckna",
-        "rita"
+        "extrahera",
+        "bryta"
       ],
-      "definition": "ritar, tecknar",
+      "definition": "utvinner, extraherar",
       "word_definitions": [
-        "gör teckningar, ritar",
-        "skapar en bild med penna e.d."
+        "utvinner, drar",
+        "får att gå i bitar; utvinner"
       ]
     },
     {
-      "title": "LUFTRÖRELSE",
+      "title": "FÖRBRUKA RESURSER",
       "words": [
-        "blåsa",
-        "fläkta"
+        "konsumera",
+        "åtgå"
       ],
-      "definition": "blåser, fläktar",
+      "definition": "förbrukar, behöver",
       "word_definitions": [
-        "rör sig (om luft), fläktar",
-        "blåser lätt"
+        "använder, förbrukar",
+        "tar slut, förbrukas, går åt"
       ]
     }
   ]

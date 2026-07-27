@@ -1,0 +1,53 @@
+{
+  "pivot": "volym",
+  "categories": [
+    {
+      "title": "GEOMETRISKA MÅTT",
+      "words": [
+        "vidd",
+        "area"
+      ],
+      "definition": "omfång i tre dimensioner, rymd",
+      "word_definitions": [
+        "omfång; utsträckning",
+        "yta"
+      ]
+    },
+    {
+      "title": "GRAD AV UTSTRÄCKNING",
+      "words": [
+        "utsträckning",
+        "grad"
+      ],
+      "definition": "omfattning",
+      "word_definitions": [
+        "omfattning, grad",
+        "utsträckning, omfattning"
+      ]
+    },
+    {
+      "title": "LJUDETS EGENSKAPER",
+      "words": [
+        "intensitet",
+        "tonhöjd"
+      ],
+      "definition": "tonstyrka",
+      "word_definitions": [
+        "stor kraft eller styrka",
+        "mått på en tons frekvens som den upplevs, angivet i tonnamn och oktav"
+      ]
+    },
+    {
+      "title": "TRYCKTA VERK",
+      "words": [
+        "häfte",
+        "skrift"
+      ],
+      "definition": "bok(band)",
+      "word_definitions": [
+        "tunn bok",
+        "publicerat arbete, bok"
+      ]
+    }
+  ]
+}

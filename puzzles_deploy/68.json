@@ -1,52 +1,52 @@
 {
-  "pivot": "knut",
+  "pivot": "knäpper",
   "categories": [
     {
-      "title": "SÄTT ATT BINDA TRÅD",
+      "title": "KORTA LJUD",
       "words": [
-        "rosett",
-        "ögla"
+        "klicka",
+        "smälla"
       ],
-      "definition": "punkt där en eller flera trådar knyts, skarv",
+      "definition": "ger ifrån sig ett knäpp",
       "word_definitions": [
-        "band som knyts på ett visst sätt (vanligen som prydnad)",
-        "(slinga av) rep eller snöre"
+        "knäpper metalliskt",
+        "ger ifrån sig en hård knall"
       ]
     },
     {
-      "title": "TRAFIKKNUTPUNKTER",
+      "title": "TA BILDER",
       "words": [
-        "korsning",
-        "vägskäl"
+        "fotografera",
+        "avbilda"
       ],
-      "definition": "plats där flera (järnvägs)linjer möts",
+      "definition": "trycker på knappen på kameran (för att ta ett foto)",
       "word_definitions": [
-        "ställe där två gator eller spår korsar varandra",
-        "plats där en väg delar sig"
+        "tar bilder med kamera, fotar",
+        "gör en bild av, återger"
       ]
     },
     {
-      "title": "HUSETS EXTERIÖR",
+      "title": "SKJUTA NER",
       "words": [
-        "hörna",
-        "gavel"
+        "panga",
+        "sänka"
       ],
-      "definition": "yttre hörn på hus",
+      "definition": "skjuter ner",
       "word_definitions": [
-        "hörn",
-        "en av de kortare sidorna på ett hus"
+        "smäller, skjuter",
+        "förflyttar nedåt"
       ]
     },
     {
-      "title": "HASTIGHETSMÅTT",
+      "title": "FÄSTA IHOP",
       "words": [
-        "knop",
-        "match"
+        "knyta",
+        "binda"
       ],
-      "definition": "kilometer per timme",
+      "definition": "fäster ihop med en knapp; knyter samman",
       "word_definitions": [
-        "en måttenhet för hastighet till sjöss (= 1 sjömil i timmen)",
-        "tävling mellan två lag eller personer"
+        "binder ihop med en knut, pressar samman",
+        "knyter, fäster, surrar"
       ]
     }
   ]

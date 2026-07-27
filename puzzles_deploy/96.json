@@ -1,52 +1,52 @@
 {
-  "pivot": "nära",
+  "pivot": "om",
   "categories": [
     {
-      "title": "LITET AVSTÅND",
+      "title": "UPPÅ NYT",
       "words": [
-        "angränsande",
-        "omedelbar"
+        "återigen",
+        "ånyo"
       ],
-      "definition": "på litet avstånd (i tid eller rum)",
+      "definition": "på nytt, ännu en gång, om igen",
       "word_definitions": [
-        "som ligger intill",
-        "direkt, ögonblicklig"
+        "ännu en gång, åter, igen",
+        "på nytt, igen"
       ]
     },
     {
-      "title": "NÄSTAN HELT",
+      "title": "VILLKORLIGT ORD",
       "words": [
-        "nästan",
-        "uppemot"
+        "ifall",
+        "såvitt"
       ],
-      "definition": "så gott som, nästan",
+      "definition": "ifall, såvida",
       "word_definitions": [
-        "så gott som, närapå",
-        "nästan"
+        "om, såvida",
+        "såvida, om"
       ]
     },
     {
-      "title": "EXAKT PRECIST",
+      "title": "TIDSPUNKT I FRAMTIDEN",
       "words": [
-        "precis",
-        "just"
+        "inom",
+        "efter"
       ],
-      "definition": "(mer) exakt",
+      "definition": "på; inom en tid av",
       "word_definitions": [
-        "noggrann, exakt",
-        "precis, exakt"
+        "innanför",
+        "senare än; senare"
       ]
     },
     {
-      "title": "GE NÄRING",
+      "title": "GÄLLANDE ÄMNE",
       "words": [
-        "berika",
-        "göda"
+        "angående",
+        "beträffande"
       ],
-      "definition": "ge näring",
+      "definition": "angående, beträffande",
       "word_definitions": [
-        "tillför näring",
-        "gör fet; tillför växter näringsämnen"
+        "om, beträffande",
+        "i fråga om, angående"
       ]
     }
   ]

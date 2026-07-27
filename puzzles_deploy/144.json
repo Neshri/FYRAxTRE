@@ -1,0 +1,53 @@
+{
+  "pivot": "stoppar",
+  "categories": [
+    {
+      "title": "LAGA KLÄDER",
+      "words": [
+        "laga",
+        "sy"
+      ],
+      "definition": "lagar hål i kläder",
+      "word_definitions": [
+        "tillreder, anrättar",
+        "arbetar med nål och tråd (för att fästa ihop något)"
+      ]
+    },
+    {
+      "title": "FYLLA MED MATERIAL",
+      "words": [
+        "vaddera",
+        "fylla"
+      ],
+      "definition": "fyller med mjukt material",
+      "word_definitions": [
+        "fyller med vadd",
+        "gör full"
+      ]
+    },
+    {
+      "title": "SÄTTA IN NÅGOT",
+      "words": [
+        "trycka",
+        "skjuta"
+      ],
+      "definition": "sticker (in), för (in)",
+      "word_definitions": [
+        "utövar tryck, pressar",
+        "avlossar skott (ibland så att någon dör)"
+      ]
+    },
+    {
+      "title": "HEJDA NÅGOT",
+      "words": [
+        "hindra",
+        "bromsa"
+      ],
+      "definition": "bromsar, hejdar",
+      "word_definitions": [
+        "hejdar",
+        "använder broms för att minska farten"
+      ]
+    }
+  ]
+}

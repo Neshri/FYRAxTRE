@@ -1,52 +1,52 @@
 {
-  "pivot": "leda",
+  "pivot": "leder",
   "categories": [
     {
-      "title": "STARK OLUST",
+      "title": "LEDA TILL NÅGOT",
       "words": [
-        "avsky",
-        "avsmak"
+        "hänföra",
+        "resultera"
       ],
-      "definition": "känsla av stark olust, motvilja eller uttråkning för att man har fått för mycket av något",
+      "definition": "för (till ett mål)",
       "word_definitions": [
-        "motvilja, avsmak, hat",
-        "motvilja, äckel"
+        "räknar (till), för (till)",
+        "får som konsekvens"
       ]
     },
     {
-      "title": "ORSAKA NÅGOT",
+      "title": "ÖVERFÖRA NÅGOT",
       "words": [
-        "föranleda",
-        "utlösa"
+        "överföra",
+        "kanalisera"
       ],
-      "definition": "ge som resultat; få att inträffa; föra till, inducera, orsaka",
+      "definition": "släpper fram, överför",
       "word_definitions": [
-        "leder till, orsakar",
-        "gör aktiv; framkallar"
+        "flyttar från en punkt till en annan",
+        "leder i viss riktning"
       ]
     },
     {
-      "title": "LEDA MÄNNISKOR",
+      "title": "VARA CHEF FÖR",
       "words": [
-        "behärska",
-        "sköta"
+        "styra",
+        "anföra"
       ],
-      "definition": "styra (andra människor, individuellt eller en grupp); ha bestämmande inflytande över; ansvara för",
+      "definition": "är ledare eller chef för; sköter, styr",
       "word_definitions": [
-        "har makt över, styr; klarar av, kan",
-        "vårdar, ger tillsyn; ansvarar för, tar hand om"
+        "påverkar, leder",
+        "går i spetsen för, leder"
       ]
     },
     {
-      "title": "HA ÖVERTAGET",
+      "title": "LIGGA I SPETSEN",
       "words": [
-        "dominera",
-        "överträffa"
+        "toppa",
+        "föregå"
       ],
-      "definition": "ligga först; ha övertag",
+      "definition": "ligger främst",
       "word_definitions": [
-        "är starkt framträdande i visst sammanhang; behärskar",
-        "är bättre eller större än"
+        "ligger i toppen på, leder",
+        "kommer före i tiden"
       ]
     }
   ]

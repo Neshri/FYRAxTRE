@@ -1,52 +1,52 @@
 {
-  "pivot": "intresse",
+  "pivot": "klar",
   "categories": [
     {
-      "title": "KÄNSLA AV LUST",
+      "title": "LJUS OCH GENOMSIKTIG",
       "words": [
-        "klåda",
-        "håg"
+        "transparent",
+        "blank"
       ],
-      "definition": "lust att ägna något sin uppmärksamhet",
+      "definition": "ljus, lysande, genomskinlig",
       "word_definitions": [
-        "lust att göra något",
-        "lust"
+        "genomskinlig",
+        "glänsande, skinande"
       ]
     },
     {
-      "title": "FRITIDSYSSELSÄTTNING",
+      "title": "LÄTTFÖRSTÅELIG",
       "words": [
-        "sysselsättning",
-        "hemslöjd"
+        "åskådlig",
+        "lättfattlig"
       ],
-      "definition": "något man gärna sysslar med, hobby",
+      "definition": "lätt att förstå, tydlig",
       "word_definitions": [
-        "handlingen att sysselsätta sig med något, arbete",
-        "hantverksmässig tillverkning av praktiska föremål (användbara i hemmet)"
+        "lätt att förstå, tydlig",
+        "lätt att förstå, enkel"
       ]
     },
     {
-      "title": "ATTRAKTIONSKRAFT",
+      "title": "VÄLDIGT STOR",
       "words": [
-        "lockelse",
-        "utstrålning"
+        "enorm",
+        "rejäl"
       ],
-      "definition": "förmåga att fånga uppmärksamhet",
+      "definition": "tydlig, stor",
       "word_definitions": [
-        "(något som har) förmåga att dra till sig intresse eller väcka begär",
-        "förmåga (hos en person) att göra ett starkt intryck, karisma"
+        "mycket stor",
+        "stor, kraftig"
       ]
     },
     {
-      "title": "PERSONLIG VINNING",
+      "title": "REDO ATT BÖRJA",
       "words": [
-        "nytta",
-        "fördel"
+        "beredd",
+        "redo"
       ],
-      "definition": "något som man kan ha fördel av, engagemang",
+      "definition": "färdig",
       "word_definitions": [
-        "något som har god effekt, fördel",
-        "det som gynnar någon, positiv egenskap"
+        "färdig, redo",
+        "färdig, beredd"
       ]
     }
   ]

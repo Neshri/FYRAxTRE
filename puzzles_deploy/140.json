@@ -1,0 +1,53 @@
+{
+  "pivot": "spricka",
+  "categories": [
+    {
+      "title": "SMAL RÄNNA",
+      "words": [
+        "råk",
+        "räffla"
+      ],
+      "definition": "smal ränna",
+      "word_definitions": [
+        "öppen ränna i is",
+        "grund och smal fåra"
+      ]
+    },
+    {
+      "title": "OENIGHET ELLER TVIST",
+      "words": [
+        "strid",
+        "tvist"
+      ],
+      "definition": "oenighet",
+      "word_definitions": [
+        "tvist, oenighet",
+        "oenighet, stridighet"
+      ]
+    },
+    {
+      "title": "SPRICKA I MATERIAL",
+      "words": [
+        "klyfta",
+        "glipa"
+      ],
+      "definition": "långsmal delning i material bildad av påfrestning på hårt och ofta sprött material",
+      "word_definitions": [
+        "bit av frukt eller grönsak (med form som en triangel)",
+        "spricka, springa, öppning"
+      ]
+    },
+    {
+      "title": "GÅ SÖNDER",
+      "words": [
+        "bryta",
+        "bräcka"
+      ],
+      "definition": "rämna, brytas sönder och bilda långsmal öppning",
+      "word_definitions": [
+        "får att spricka sönder i två delar (ofta genom kraftig böjning)",
+        "knäcker, bryter"
+      ]
+    }
+  ]
+}

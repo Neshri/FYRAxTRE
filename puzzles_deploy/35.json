@@ -1,52 +1,52 @@
 {
-  "pivot": "fin",
+  "pivot": "form",
   "categories": [
     {
-      "title": "ESTETISKT TILLTALANDE",
+      "title": "TYPER AV BEHÅLLARE",
       "words": [
-        "tjusig",
-        "stilig"
+        "kärl",
+        "container"
       ],
-      "definition": "snygg, vacker",
+      "definition": "behållare (för t.ex. gjutning och bakning)",
       "word_definitions": [
-        "vacker, elegant",
-        "som har stil, elegant, vacker"
+        "mindre behållare som används i hushållet",
+        "stor behållare, låda"
       ]
     },
     {
-      "title": "HÖG KVALITET",
+      "title": "UTSEENDE OCH STIL",
       "words": [
-        "förstklassig",
-        "briljant"
+        "yttre",
+        "stil"
       ],
-      "definition": "bra, utmärkt",
+      "definition": "sätt på vilket något är ordnat; utseende",
       "word_definitions": [
-        "av bästa slag, prima, utmärkt",
-        "lysande, utmärkt"
+        "utseende",
+        "sätt att utföra eller utforma något"
       ]
     },
     {
-      "title": "SMAL KROPPSBYGGNAD",
+      "title": "FYSISK KONDITION",
       "words": [
-        "slank",
-        "smäcker"
+        "hälsa",
+        "kondition"
       ],
-      "definition": "tunn, smal",
+      "definition": "fysiskt tillstånd, förmåga att nå bra (idrotts)resultat",
       "word_definitions": [
-        "smal, smärt",
-        "smal och elegant"
+        "tillståndet att må bra, friskhet",
+        "fysisk och psykisk hälsa; uthållighet"
       ]
     },
     {
-      "title": "SUBTIL OCH DISKRET",
+      "title": "GRAMMATISKA BEGREPP",
       "words": [
-        "sober",
-        "diplomatisk"
+        "tempus",
+        "paradigm"
       ],
-      "definition": "diskret, subtil",
+      "definition": "ett ords utseende när det böjs",
       "word_definitions": [
-        "smakfull; diskret",
-        "smidig, försiktig"
+        "böjningsform hos verb som har att göra med tiden (presens och imperfekt)",
+        "böjningsmönster för verb, substantiv och adjektiv"
       ]
     }
   ]

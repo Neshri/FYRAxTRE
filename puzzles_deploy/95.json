@@ -1,52 +1,52 @@
 {
-  "pivot": "mål",
+  "pivot": "nära",
   "categories": [
     {
-      "title": "SYFTE OCH AVSIKT",
+      "title": "LITET AVSTÅND",
       "words": [
-        "syfte",
-        "avsikt"
+        "angränsande",
+        "omedelbar"
       ],
-      "definition": "ändamål, syfte",
+      "definition": "på litet avstånd (i tid eller rum)",
       "word_definitions": [
-        "avsikt, ändamål",
-        "syfte, mening"
+        "som ligger intill",
+        "direkt, ögonblicklig"
       ]
     },
     {
-      "title": "OLIKA MÅLTIDER",
+      "title": "NÄSTAN HELT",
       "words": [
-        "lunch",
-        "supé"
+        "nästan",
+        "uppemot"
       ],
-      "definition": "den mängd mat man äter vid ett visst tillfälle, måltid",
+      "definition": "så gott som, nästan",
       "word_definitions": [
-        "(lättare) måltid mitt på dagen",
-        "(finare) måltid på kvällen"
+        "så gott som, närapå",
+        "nästan"
       ]
     },
     {
-      "title": "JURIDISK PROCESS",
+      "title": "EXAKT PRECIST",
       "words": [
-        "process",
-        "rättegång"
+        "precis",
+        "just"
       ],
-      "definition": "rättegång, process",
+      "definition": "(mer) exakt",
       "word_definitions": [
-        "rättegång, mål",
-        "process inför domstol, mål"
+        "noggrann, exakt",
+        "precis, exakt"
       ]
     },
     {
-      "title": "FÖRMÅGA ATT TALA",
+      "title": "GE NÄRING",
       "words": [
-        "tal",
-        "språk"
+        "berika",
+        "göda"
       ],
-      "definition": "förmåga att tala; språk",
+      "definition": "ge näring",
       "word_definitions": [
-        "det att tala; förmåga att tala",
-        "människans sätt att meddela sig genom tal och skrift"
+        "tillför näring",
+        "gör fet; tillför växter näringsämnen"
       ]
     }
   ]

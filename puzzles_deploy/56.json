@@ -1,52 +1,52 @@
 {
-  "pivot": "hacka",
+  "pivot": "håller",
   "categories": [
     {
-      "title": "OJÄMN MOTORGÅNG",
+      "title": "GREPPA NÅGOT",
       "words": [
-        "strutta",
-        "fuska"
+        "gripa",
+        "fatta"
       ],
-      "definition": "ryckig och ojämn motordrift",
+      "definition": "har i handen, griper, fattar",
       "word_definitions": [
-        "går med ryckiga rörelser",
-        "använder otillåtna metoder för att vinna fördelar"
+        "hugger tag i, tar, fattar",
+        "tar, griper"
       ]
     },
     {
-      "title": "ANGRIPA MED NÄBB/FINGRAR",
+      "title": "BEVARA NÅGOT",
       "words": [
-        "picka",
-        "knipa"
+        "bevara",
+        "konservera"
       ],
-      "definition": "angripa varandra med näbben, nypas, trakassera",
+      "definition": "bibehåller, bevarar",
       "word_definitions": [
-        "plockar upp föda med näbben",
-        "klämmer, nyper"
+        "har kvar, sparar, behåller; skyddar",
+        "bevarar i oförändrat skick"
       ]
     },
     {
-      "title": "KRITISERA HÅRDT",
+      "title": "TÅLA BELASTNING",
       "words": [
-        "mobba",
-        "dissa"
+        "tåla",
+        "bestå"
       ],
-      "definition": "kritisera, mobba, trakassera",
+      "definition": "blir inte förstörd, går inte sönder, är stark nog",
       "word_definitions": [
-        "ger sig på, trakasserar",
-        "kritiserar, nedvärderar"
+        "står ut med, uthärdar",
+        "står fast, är oförändrad"
       ]
     },
     {
-      "title": "BEARBETA MED VASST",
+      "title": "GENOMFÖRA NÅGOT",
       "words": [
-        "hugga",
-        "skära"
+        "arrangera",
+        "utföra"
       ],
-      "definition": "använda sig av en hacka; bearbeta med ett vasst föremål för att sönderdela, göra hål e.d.",
+      "definition": "utför; anordnar",
       "word_definitions": [
-        "slår med vasst föremål (för att sönderdela, skada m.m.)",
-        "bearbetar med kniv (för att dela upp eller skilja ifrån något)"
+        "anordnar, ordnar, planerar",
+        "gör, genomför"
       ]
     }
   ]

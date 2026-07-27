@@ -1,52 +1,52 @@
 {
-  "pivot": "bock",
+  "pivot": "bryter",
   "categories": [
     {
-      "title": "HANAR AV TAMDJUR",
+      "title": "GÖRA SÖNDER",
       "words": [
-        "bagge",
-        "galt"
+        "spräcka",
+        "knäcka"
       ],
-      "definition": "hane av get",
+      "definition": "får att spricka sönder i två delar (ofta genom kraftig böjning)",
       "word_definitions": [
-        "hane av får",
-        "hane av gris"
+        "får att spricka",
+        "bryter hårt material genom kraftigt slag eller tryck"
       ]
     },
     {
-      "title": "SEXUELLT AKTIV MAN",
+      "title": "BRYTA MOT REGLER",
       "words": [
-        "playboy",
-        "kvinnotjusare"
+        "överträda",
+        "kränka"
       ],
-      "definition": "sexuellt (alltför) aktiv man",
+      "definition": "kommer i konflikt med lagen, uppfyller inte, kränker",
       "word_definitions": [
-        "(rik) man som ägnar sig enbart åt nöjen (särskilt kärleksaffärer)",
-        "person som tjusar kvinnor"
+        "bryter mot bestämmelser",
+        "respekterar inte"
       ]
     },
     {
-      "title": "STÖDANORDNINGAR",
+      "title": "BLANDA FÄRGER",
       "words": [
-        "ställ",
-        "konsol"
+        "färga",
+        "sammanblanda"
       ],
-      "definition": "stöd (med fyra ben) under t.ex. en bordsskiva",
+      "definition": "blandar (med avvikande färg eller smak)",
       "word_definitions": [
-        "plats där man ställer något, stöd",
-        "vågrätt stöd som är fäst i vägg"
+        "ger (en viss) färg åt",
+        "förväxlar, blandar ihop, blandar samman"
       ]
     },
     {
-      "title": "GYMNASTIKREDSKAP",
+      "title": "KOPPLA BORT",
       "words": [
-        "barr",
-        "ribbstol"
+        "frånkoppla",
+        "suspendera"
       ],
-      "definition": "ett gymnastikredskap",
+      "definition": "bringar ur kontakt; stänger av",
       "word_definitions": [
-        "ett redskap i gymnastiken",
-        "ett gymnastikredskap som liknar en stege"
+        "frigör från anslutning, kopplar ifrån",
+        "stänger av från tjänst för viss tid"
       ]
     }
   ]

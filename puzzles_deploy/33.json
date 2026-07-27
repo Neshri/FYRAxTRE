@@ -1,52 +1,52 @@
 {
-  "pivot": "figur",
+  "pivot": "fil",
   "categories": [
     {
-      "title": "KROPPSLIG FORM",
+      "title": "VERKTYG FÖR FORMNING",
       "words": [
-        "fysik",
-        "kroppsbyggnad"
+        "hyvel",
+        "mejsel"
       ],
-      "definition": "gestalt, kroppsform",
+      "definition": "ett verktyg av stål som används för att slipa ytor jämna",
       "word_definitions": [
-        "kroppslig form, konstitution",
-        "kroppens utseende, figur"
+        "ett verktyg för att göra ytor jämna",
+        "ett verktyg som man slår på med hammare för att bearbeta hårda material; skruvmejsel"
       ]
     },
     {
-      "title": "PERSONLIGA EGENSKAPER",
+      "title": "VÄGENS DELAR",
       "words": [
-        "personlighet",
-        "karaktär"
+        "cykelväg",
+        "trottoar"
       ],
-      "definition": "personlighet, karaktär",
+      "definition": "körbana, körfält",
       "word_definitions": [
-        "sammanfattande (unika) egenskaper hos en person",
-        "personliga egenskaper; moralisk styrka"
+        "cykelbana",
+        "gångbana bredvid körbana"
       ]
     },
     {
-      "title": "SCHACKPJÄSER",
+      "title": "DATALAGRING",
       "words": [
-        "löpare",
-        "springare"
+        "mapp",
+        "dokument"
       ],
-      "definition": "pjäs (t.ex. i schack)",
+      "definition": "del av datorminne där enheter som hör ihop lagras",
       "word_definitions": [
-        "en pjäs i schack",
-        "en schackpjäs, häst"
+        "anordning för förvaring (ofta av lösa anteckningar o.d.)",
+        "skrift, handling (ofta av juridisk eller historisk betydelse)"
       ]
     },
     {
-      "title": "GRAFISKA ELEMENT",
+      "title": "SYRLIGA MJÖLKPRODUKTER",
       "words": [
-        "illustration",
-        "diagram"
+        "yoghurt",
+        "kefir"
       ],
-      "definition": "grafisk illustration, bild (i text)",
+      "definition": "surmjölk, filmjölk",
       "word_definitions": [
-        "bild",
-        "grafisk figur som illustrerar fakta som kan uttryckas med siffror"
+        "ett slags surmjölk",
+        "rysk filmjölk, en form av kulturmjölk som tillverkas med hjälp av kefirkorn eller kefirgryn"
       ]
     }
   ]

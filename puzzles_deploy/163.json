@@ -1,0 +1,53 @@
+{
+  "pivot": "tunn",
+  "categories": [
+    {
+      "title": "LITEN TJOCKLEK",
+      "words": [
+        "fin",
+        "spinkig"
+      ],
+      "definition": "som har liten tjocklek, smal",
+      "word_definitions": [
+        "tunn, smal",
+        "smal, mager (om person eller kroppsdel)"
+      ]
+    },
+    {
+      "title": "GLEST FÖREKOMMANDE",
+      "words": [
+        "utspridd",
+        "gles"
+      ],
+      "definition": "sparsamt förekommande, gles",
+      "word_definitions": [
+        "inte samlad, gles",
+        "inte tät, utspridd"
+      ]
+    },
+    {
+      "title": "UTSPÄDD VÄTSKA",
+      "words": [
+        "urlakad",
+        "vattnig"
+      ],
+      "definition": "vattnig, utspädd",
+      "word_definitions": [
+        "urvattnad",
+        "som liknar vatten, tunn"
+      ]
+    },
+    {
+      "title": "SACKNAR INNEHÅLL",
+      "words": [
+        "tom",
+        "poänglös"
+      ],
+      "definition": "som saknar substans",
+      "word_definitions": [
+        "som saknar innehåll",
+        "som saknar poäng (1, 2)"
+      ]
+    }
+  ]
+}

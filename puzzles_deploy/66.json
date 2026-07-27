@@ -2,51 +2,51 @@
   "pivot": "klubba",
   "categories": [
     {
-      "title": "UTRUSTNING FÖR SPORT",
+      "title": "OLIKA GODISBITAR",
       "words": [
-        "racket",
-        "paddel"
+        "karamell",
+        "polkagris"
       ],
-      "definition": "avlångt redskap avsett att föra eller slå eller skjuta iväg bollen eller pucken inom hockeyliknande sporter (bandy, innebandy, ishockey, landhockey, lacrosse, krocket)",
+      "definition": "godsak i form av en pinne med en stor karamell- eller godisbit fäst på översta änden",
       "word_definitions": [
-        "ett redskap att slå på en boll med",
-        "en sorts åra (för kanot) med ett brett blad i ena eller båda ändarna"
+        "liten bit godis, (hård) sötsak",
+        "en karamell (ibland i form av en stång) med röda och vita ränder och frisk smak"
       ]
     },
     {
-      "title": "FESTA UTGÅNG",
+      "title": "OLIKA NÄRSTRIDSVAPEN",
       "words": [
-        "festa",
-        "dansa"
+        "batong",
+        "spjut"
       ],
-      "definition": "festa på nattklubb",
+      "definition": "redskap i form av en kraftig påk avsett som närstridsvapen",
       "word_definitions": [
-        "håller fest; dricker sprit",
-        "rör sig rytmiskt till musik"
+        "en sorts stav (ofta av hårt gummi) som används som vapen (särskilt av polisen)",
+        "ett vapen eller idrottsredskap i form av en vass stång som stöts eller kastas"
       ]
     },
     {
-      "title": "GÖRA BEHOV",
+      "title": "FASTSTÄLLA BESLUT",
       "words": [
-        "skita",
-        "bajsa"
+        "fastställa",
+        "utropa"
       ],
-      "definition": "göra sig av med avföring (\"bajsa\")",
+      "definition": "genom slag med klubba förklara och fastslå (beslut) eller, vid auktion, utse en viss köpare",
       "word_definitions": [
-        "har avföring",
-        "har avföring, skiter"
+        "bestämmer, föreskriver; konstaterar",
+        "bjuder ut till försäljning på auktion, ropar ut"
       ]
     },
     {
-      "title": "SLÅ MED REDSKAP",
+      "title": "ENKLA TRÄREDSKAP",
       "words": [
-        "smälla",
-        "knacka"
+        "kil",
+        "pinne"
       ],
-      "definition": "slå med klubba",
+      "definition": "redskap (av trä) som är tjockare i ena ändan",
       "word_definitions": [
-        "slår",
-        "slår med korta upprepade slag"
+        "stycke (ofta av trä) som smalnar av i ena ändan",
+        "smalt och kort trästycke"
       ]
     }
   ]

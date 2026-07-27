@@ -1,52 +1,52 @@
 {
-  "pivot": "land",
+  "pivot": "led",
   "categories": [
     {
-      "title": "FAST MARK",
+      "title": "KÄNSLA AV TRÖTTHET",
       "words": [
-        "kontinent",
-        "jord"
+        "trött",
+        "sliten"
       ],
-      "definition": "fastland",
+      "definition": "uttråkad, trött",
       "word_definitions": [
-        "världsdel, stort fastland (särskilt Europas fastland, till skillnad från t.ex. Norden)",
-        "fast mark"
+        "utled, uttråkad",
+        "trött"
       ]
     },
     {
-      "title": "LANTLIGA OMRÅDEN",
+      "title": "ELAK KARAKTÄR",
       "words": [
-        "bygd",
-        "trakt"
+        "stygg",
+        "nedrig"
       ],
-      "definition": "landsbygd",
+      "definition": "otäck, elak",
       "word_definitions": [
-        "område i landsorten där folk bor, trakt",
-        "geografiskt område (särskilt på landet)"
+        "ful, otäck",
+        "elak"
       ]
     },
     {
-      "title": "POLITISKA ENHETER",
+      "title": "FÄRDVÄG I NATUREN",
       "words": [
-        "rike",
-        "välde"
+        "väg",
+        "stig"
       ],
-      "definition": "stat, rike",
+      "definition": "sträcka där man kan vandra eller färdas",
       "word_definitions": [
-        "land, stat",
-        "statsmakt, (stort) rike"
+        "färdriktning, färdväg",
+        "smal gångväg (ofta i skogen)"
       ]
     },
     {
-      "title": "ODLADE MARKER",
+      "title": "MÄNNISKOR PÅ RAD",
       "words": [
-        "åker",
-        "trädgård"
+        "fil",
+        "kö"
       ],
-      "definition": "odlat stycke jord",
+      "definition": "rad (av personer)",
       "word_definitions": [
-        "jord som man odlar på",
-        "område med odlade växter"
+        "rad",
+        "rad av väntande personer"
       ]
     }
   ]

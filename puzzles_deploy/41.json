@@ -1,52 +1,52 @@
 {
-  "pivot": "fäller",
+  "pivot": "fält",
   "categories": [
     {
-      "title": "FÅ NÅGOT ATT FALLA",
+      "title": "PLAN MARK",
       "words": [
-        "välta",
-        "stjälpa"
+        "slätt",
+        "mark"
       ],
-      "definition": "slår omkull, får något att falla",
+      "definition": "öppet, plant område; åker; yta",
       "word_definitions": [
-        "gör så att något faller omkull; stjälper",
-        "lägger (sig) på sidan, välter"
+        "större område med plan mark (utan många träd)",
+        "jordens yta"
       ]
     },
     {
-      "title": "TA LIVET AV",
+      "title": "LITEN RUTA",
       "words": [
-        "dräpa",
-        "eliminera"
+        "fyrkant",
+        "ruta"
       ],
-      "definition": "dödar",
+      "definition": "liten kvadrat",
       "word_definitions": [
-        "dödar, slår ihjäl",
-        "dödar"
+        "ruta, kvadrat",
+        "(liten) fyrkant"
       ]
     },
     {
-      "title": "UTTRYCKA SIG",
+      "title": "VERKSAMHETSOMRÅDE",
       "words": [
-        "säga",
-        "påstå"
+        "fack",
+        "värld"
       ],
-      "definition": "yttrar, säger",
+      "definition": "område för viss verksamhet",
       "word_definitions": [
-        "meddelar i ord, uttalar",
-        "yttrar som ett faktum"
+        "verksamhetsområde, ämne, yrke",
+        "verksamhetsområde"
       ]
     },
     {
-      "title": "TAPPA I FÄRG",
+      "title": "MILITÄR ZON",
       "words": [
-        "vitna",
-        "blekna"
+        "manöver",
+        "front"
       ],
-      "definition": "förlorar färg",
+      "definition": "(plats för) krig eller militär övning",
       "word_definitions": [
-        "blir vit",
-        "blir blek (ofta av skräck)"
+        "(större) militär övning",
+        "(fram)sida"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "ovan",
+  "pivot": "parti",
   "categories": [
     {
-      "title": "HÖG POSITION",
+      "title": "DEL AV HELHET",
       "words": [
-        "uppe",
-        "överst"
+        "bit",
+        "segment"
       ],
-      "definition": "på en plats högre upp",
+      "definition": "avgränsad del, stycke",
       "word_definitions": [
-        "i ett läge högt upp",
-        "längst upp"
+        "del, stycke, avsnitt",
+        "avgränsad del av något"
       ]
     },
     {
-      "title": "TIDIGARE I TEXT",
+      "title": "POLITISK ORGANISATION",
       "words": [
-        "förr",
-        "tidigare"
+        "block",
+        "allians"
       ],
-      "definition": "tidigare i texten",
+      "definition": "politisk sammanslutning (med viss ideologi)",
       "word_definitions": [
-        "förut, tidigare",
-        "före tidpunkten för kommunikationen eller en annan specificerad tidpunkt"
+        "sammanslutning av organisationer eller partier",
+        "(politiskt) förbund"
       ]
     },
     {
-      "title": "POSITION ÖVER",
+      "title": "OMGÅNG I SPEL",
       "words": [
-        "över",
-        "på"
+        "set",
+        "rond"
       ],
-      "definition": "över, ovanför",
+      "definition": "omgång, spel",
       "word_definitions": [
-        "ovanför, ovanpå",
-        "i anslutning till, ovanpå"
+        "omgång (i tennis och andra racketspel)",
+        "period av boxningsmatch; omgång"
       ]
     },
     {
-      "title": "BRISTANDE VANA",
+      "title": "MÄNGD VAROR",
       "words": [
-        "oerfaren",
-        "okunnig"
+        "laddning",
+        "kvantitet"
       ],
-      "definition": "inte van",
+      "definition": "mängd av en viss vara",
       "word_definitions": [
-        "inte erfaren, ovan",
-        "som saknar kunskap, oerfaren"
+        "(stor) mängd av något",
+        "mängd"
       ]
     }
   ]

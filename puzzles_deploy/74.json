@@ -1,52 +1,52 @@
 {
-  "pivot": "kors",
+  "pivot": "kort",
   "categories": [
     {
-      "title": "GEOMETRISKA FORMER",
+      "title": "LITEN DIMENSION",
       "words": [
-        "triangel",
-        "kvadrat"
+        "låg",
+        "tunn"
       ],
-      "definition": "geometrisk figur (form) bestående av två streck eller linjer som skär varandra vinkelrätt, den ena går horisontellt och den andra vertikalt",
+      "definition": "som har liten längd (i tid eller rum)",
       "word_definitions": [
-        "geometrisk figur med tre sidor, trekant",
-        "en geometrisk figur med fyra lika långa sidor och räta vinklar"
+        "som har liten höjd",
+        "som har liten tjocklek, smal"
       ]
     },
     {
-      "title": "RELIGIÖSA SYMBOLER",
+      "title": "BIT AV PAPPER",
       "words": [
-        "sinnebild",
-        "ikon"
+        "lapp",
+        "kupong"
       ],
-      "definition": "kristen symbol för lidandet",
+      "definition": "litet stycke papper eller plast med viss funktion",
       "word_definitions": [
-        "symbol",
-        "person eller företeelse som har stort värde som samlande symbol, idol"
+        "litet stycke papper",
+        "bit papper som har ett visst värde"
       ]
     },
     {
-      "title": "TORTYRREKVISITA",
+      "title": "HÖGA SPELKORT",
       "words": [
-        "giljotin",
-        "stock"
+        "dam",
+        "kung"
       ],
-      "definition": "historiskt tortyrredskap i form av ett kors",
+      "definition": "spelkort",
       "word_definitions": [
-        "ett redskap som man förr halshögg dödsdömda personer med",
-        "stam av ett träd som fällts"
+        "ett högt spelkort",
+        "ett högt spelkort; den viktigaste pjäsen i schack"
       ]
     },
     {
-      "title": "UTROP AV FÖRVÅNING",
+      "title": "BILDER",
       "words": [
-        "oj",
-        "hoppsan"
+        "foto",
+        "illustration"
       ],
-      "definition": "uttrycker förvåning",
+      "definition": "foto, bild",
       "word_definitions": [
-        "uttrycker förvåning",
-        "uttrycker att något inte gick som planerat, även viss förvåning"
+        "fotografi",
+        "bild"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "plats",
+  "pivot": "positiv",
   "categories": [
     {
-      "title": "GEOGRAFISK POSITION",
+      "title": "GYNNSAMMA FÖRHÅLLANDEN",
       "words": [
-        "position",
-        "region"
+        "fördelaktig",
+        "förmånlig"
       ],
-      "definition": "område med ett bestämt läge",
+      "definition": "gynnsam",
       "word_definitions": [
-        "ställning, läge",
-        "geografiskt område"
+        "förmånlig, gynnsam",
+        "fördelaktig, bra, gynnsam"
       ]
     },
     {
-      "title": "LEDIGT UTRYMME",
+      "title": "POSITIV INSTÄLLNING",
       "words": [
-        "rum",
-        "yta"
+        "välvillig",
+        "människovänlig"
       ],
-      "definition": "ledigt utrymme",
+      "definition": "gynnsamt inställd",
       "word_definitions": [
-        "plats, utrymme",
-        "areal, area; utrymme"
+        "vänligt inställd",
+        "vänligt inställd till medmänniskorna, human"
       ]
     },
     {
-      "title": "YRKESROLL",
+      "title": "BÖJNINGSFORMER",
       "words": [
-        "tjänst",
-        "jobb"
+        "superlativ",
+        "komparativ"
       ],
-      "definition": "anställning",
+      "definition": "adjektivets grundform (t.ex. \"vacker\")",
       "word_definitions": [
-        "anställning",
-        "anställning; arbetstillfälle"
+        "den högsta graden hos adjektiv (t.ex. <i>störst, vackrast</i>)",
+        "jämförelsegrad, en böjning av ett adjektivs eller ett adverbs grundform"
       ]
     },
     {
-      "title": "TÄVLINGSPLACERING",
+      "title": "BÄRBARA INSTRUMENT",
       "words": [
-        "ställning",
-        "rangordning"
+        "dragspel",
+        "blockflöjt"
       ],
-      "definition": "placering i tävling",
+      "definition": "ett bärbart musikinstrument med vev",
       "word_definitions": [
-        "läge i en tävling",
-        "placering efter rang"
+        "ett folkligt musikinstrument",
+        "ett blåsinstrument"
       ]
     }
   ]

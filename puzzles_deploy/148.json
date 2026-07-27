@@ -1,0 +1,53 @@
+{
+  "pivot": "stämma",
+  "categories": [
+    {
+      "title": "STOPPA FLÖDE",
+      "words": [
+        "hämma",
+        "hejda"
+      ],
+      "definition": "stoppa flöde",
+      "word_definitions": [
+        "stoppar",
+        "stoppar, hindrar"
+      ]
+    },
+    {
+      "title": "MÖTESPUNKTER",
+      "words": [
+        "träff",
+        "sammanträde"
+      ],
+      "definition": "möte",
+      "word_definitions": [
+        "möte",
+        "möte där bestämda frågor diskuteras"
+      ]
+    },
+    {
+      "title": "VARA KORREKT",
+      "words": [
+        "rimma",
+        "passa"
+      ],
+      "definition": "vara korrekt eller sann; överensstämma, gå ihop",
+      "word_definitions": [
+        "passar ihop, överensstämmer",
+        "är lämplig"
+      ]
+    },
+    {
+      "title": "SÅNGRÖSTSLÄGE",
+      "words": [
+        "baryton",
+        "tenor"
+      ],
+      "definition": "del av eller röstläge i en kör eller del av orkester",
+      "word_definitions": [
+        "(man med) sångröst i läge mellan bas och tenor",
+        "(man med) stämma i högt tonläge"
+      ]
+    }
+  ]
+}

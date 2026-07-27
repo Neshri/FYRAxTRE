@@ -1,0 +1,53 @@
+{
+  "pivot": "sticka",
+  "categories": [
+    {
+      "title": "TEXTILHANTERING",
+      "words": [
+        "virka",
+        "väva"
+      ],
+      "definition": "tillverka vävnad av garn för hand medelst en (rund-) eller flera stickor",
+      "word_definitions": [
+        "tillverkar av garn med hjälp av virknål",
+        "fogar samman trådar (eller garn) till ett helt tygstycke"
+      ]
+    },
+    {
+      "title": "SMYGA IVÄG",
+      "words": [
+        "slinka",
+        "smita"
+      ],
+      "definition": "dra; gå (iväg, bortåt); smita; ge sig iväg",
+      "word_definitions": [
+        "smiter; går",
+        "avlägsnar sig omärkligt, smyger iväg"
+      ]
+    },
+    {
+      "title": "KÄNNA I HUDEN",
+      "words": [
+        "pirra",
+        "sveda"
+      ],
+      "definition": "ge upphov till en känsla som av ett stort antal spetsiga föremål trycks in; ge en stickande känsla",
+      "word_definitions": [
+        "kittlar, sticker, kryper",
+        "bränna något på ytan eller runt kanterna"
+      ]
+    },
+    {
+      "title": "GÖRA HÅL",
+      "words": [
+        "rista",
+        "punktera"
+      ],
+      "definition": "trycka in spetsigt föremål i något; ge stick",
+      "word_definitions": [
+        "skär in tecken med spetsigt föremål",
+        "sticker hål på"
+      ]
+    }
+  ]
+}

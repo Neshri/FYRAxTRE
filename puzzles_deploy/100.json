@@ -1,52 +1,52 @@
 {
-  "pivot": "parti",
+  "pivot": "pass",
   "categories": [
     {
-      "title": "DEL AV HELHET",
+      "title": "RESEDOKUMENT",
       "words": [
-        "bit",
-        "segment"
+        "visum",
+        "boardingcard"
       ],
-      "definition": "avgränsad del, stycke",
+      "definition": "dokument som man ibland måste visa upp när man reser utomlands",
       "word_definitions": [
-        "del, stycke, avsnitt",
-        "avgränsad del av något"
+        "dokument som ger tillstånd att resa in i och vistas i ett visst land (när det inte räcker med pass)",
+        "kort som måste visas upp av flygpassagerare innan de stiger ombord"
       ]
     },
     {
-      "title": "POLITISK ORGANISATION",
+      "title": "BERGSFORMATIONER",
       "words": [
-        "block",
-        "allians"
+        "ravin",
+        "skreva"
       ],
-      "definition": "politisk sammanslutning (med viss ideologi)",
+      "definition": "trång väg mellan berg",
       "word_definitions": [
-        "sammanslutning av organisationer eller partier",
-        "(politiskt) förbund"
+        "djup klyfta i berg",
+        "större spricka i berg"
       ]
     },
     {
-      "title": "OMGÅNG I SPEL",
+      "title": "ARBETSPERIOD",
       "words": [
-        "set",
-        "rond"
+        "arbetsdag",
+        "skift"
       ],
-      "definition": "omgång, spel",
+      "definition": "det antal timmar som någon arbetar vid visst tillfälle",
       "word_definitions": [
-        "omgång (i tennis och andra racketspel)",
-        "period av boxningsmatch; omgång"
+        "tiden man arbetar under en dag",
+        "arbetspass mellan två ombyten av arbetskraft"
       ]
     },
     {
-      "title": "MÄNGD VAROR",
+      "title": "SVAR VID BUDGIVNING",
       "words": [
-        "laddning",
-        "kvantitet"
+        "replik",
+        "bud"
       ],
-      "definition": "mängd av en viss vara",
+      "definition": "inget bud (i kortspel)",
       "word_definitions": [
-        "(stor) mängd av något",
-        "mängd"
+        "(kort) svar",
+        "befallning (särskilt i religiösa sammanhang)"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "grund",
+  "pivot": "går",
   "categories": [
     {
-      "title": "LÅGT DJUP",
+      "title": "FÖRFLYTTNING TILL FOTS",
       "words": [
-        "ytlig",
-        "flack"
+        "vandra",
+        "promenera"
       ],
-      "definition": "inte djup",
+      "definition": "förflyttar sig till fots (utan att springa)",
       "word_definitions": [
-        "som inte går på djupet, flyktig",
-        "plan och öppen, jämn"
+        "förflyttar sig",
+        "går (särskilt för nöjes skull), spatserar"
       ]
     },
     {
-      "title": "BAS ELLER UNDERLAG",
+      "title": "FUNGERA ORDENTLIGT",
       "words": [
-        "fundament",
-        "sockel"
+        "funka",
+        "verka"
       ],
-      "definition": "underlag, botten",
+      "definition": "fungerar; avlöper",
       "word_definitions": [
-        "grund, underlag",
-        "underlag, fundament"
+        "fungerar",
+        "arbetar"
       ]
     },
     {
-      "title": "ORSAK OCH ANLEDNING",
+      "title": "UTÖVA SPEL",
       "words": [
-        "orsak",
-        "skäl"
+        "lira",
+        "spela"
       ],
-      "definition": "orsak, anledning",
+      "definition": "spelas",
       "word_definitions": [
-        "skäl, anledning",
-        "anledning, orsak"
+        "spelar (boll eller musik)",
+        "ägnar sig åt spel"
       ]
     },
     {
-      "title": "GRUNDOMRÅDE I VATTEN",
+      "title": "HA PLATS FÖR",
       "words": [
-        "rev",
-        "grynna"
+        "härbärgera",
+        "innehålla"
       ],
-      "definition": "skär, rev, grynna",
+      "definition": "får plats, ryms",
       "word_definitions": [
-        "lina för fiske",
-        "litet grund"
+        "ger plats åt",
+        "har som innehåll, rymmer"
       ]
     }
   ]

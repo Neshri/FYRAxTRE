@@ -1,52 +1,52 @@
 {
-  "pivot": "man",
+  "pivot": "mask",
   "categories": [
     {
-      "title": "VUXEN MAN",
+      "title": "KRYPANDE DJUR",
       "words": [
-        "gubbe",
-        "herre"
+        "snigel",
+        "orm"
       ],
-      "definition": "vuxen person av hankön",
+      "definition": "ett litet djur som krälar och ofta håller till i jorden",
       "word_definitions": [
-        "gammal man, gamling",
-        "man (gärna med god position i samhället)"
+        "ett litet djur som krälar mycket långsamt på marken",
+        "en typ av kräldjur som rör sig med slingrande rörelser (ordningen Serpentes)"
       ]
     },
     {
-      "title": "GRUPPMEDLEM",
+      "title": "SÄTT ATT DÖLJA ANSIKTET",
       "words": [
-        "medlem",
-        "individ"
+        "kamouflage",
+        "sminkning"
       ],
-      "definition": "medlem i en grupp (särskilt en trupp, ett lag etc.)",
+      "definition": "förklädnad för ansiktet",
       "word_definitions": [
-        "person som tillhör en organisation eller en förening",
-        "enskild varelse, människa"
+        "åtgärd för att dölja något; förklädnad",
+        "smink"
       ]
     },
     {
-      "title": "ÄKTENSKAPSPARTNER",
+      "title": "SKYDD OCH FÖRSVAR",
       "words": [
-        "fru",
-        "partner"
+        "beskydd",
+        "värn"
       ],
-      "definition": "make",
+      "definition": "skydd",
       "word_definitions": [
-        "gift kvinna, hustru",
-        "person som man samarbetar med"
+        "försvar, skydd",
+        "skydd, försvar"
       ]
     },
     {
-      "title": "DJURS HÅR",
+      "title": "ANSIKTSSKYDD",
       "words": [
-        "tagel",
-        "päls"
+        "hjälm",
+        "solglasögon"
       ],
-      "definition": "långt hår i nacken på häst eller lejon",
+      "definition": "skydd för ansiktet",
       "word_definitions": [
-        "hår från en häst (särskilt från svansen)",
-        "skinn på djur, fäll; kappa av päls"
+        "skydd för huvudet",
+        "mörka glasögon som skyddar mot starkt solljus"
       ]
     }
   ]

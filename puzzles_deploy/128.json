@@ -1,0 +1,53 @@
+{
+  "pivot": "skiva",
+  "categories": [
+    {
+      "title": "VILD FEST",
+      "words": [
+        "sjöslag",
+        "festlighet"
+      ],
+      "definition": "fest, partaj",
+      "word_definitions": [
+        "vild fest",
+        "egenskapen att vara festlig"
+      ]
+    },
+    {
+      "title": "MUSIKALISK INSPELNING",
+      "words": [
+        "soundtrack",
+        "album"
+      ],
+      "definition": "inspelning, till exempel av ett antal musikstycken, på ett gripbart föremål såsom en grammofonskiva eller CD-skiva, vanligtvis avsedd att säljas",
+      "word_definitions": [
+        "(skiva som innehåller) musiken till film eller dataspel",
+        "en sorts bok där man samlar något, t.ex. fotografier eller frimärken"
+      ]
+    },
+    {
+      "title": "STYCKE AV NÅGOT",
+      "words": [
+        "sjok",
+        "bit"
+      ],
+      "definition": "jämntjockt (ganska smalt) stycke av något",
+      "word_definitions": [
+        "stort (platt) stycke",
+        "del, stycke, avsnitt"
+      ]
+    },
+    {
+      "title": "RUNDA PLATTA SAKER",
+      "words": [
+        "ring",
+        "tallrik"
+      ],
+      "definition": "platt föremål, eller föremål som förefaller platt, ofta cirkelformat och/eller roterande",
+      "word_definitions": [
+        "(föremål med) form som liknar en cirkel",
+        "(mindre) fat där maten till en person läggs upp, fat"
+      ]
+    }
+  ]
+}

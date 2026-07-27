@@ -1,52 +1,52 @@
 {
-  "pivot": "rad",
+  "pivot": "rak",
   "categories": [
     {
-      "title": "LINJÄR UPPSTÄLLNING",
+      "title": "RÄT LINJE",
       "words": [
-        "kavalkad",
-        "fil"
+        "rät",
+        "linjär"
       ],
-      "definition": "uppställning av saker bredvid (eller bakom) varandra",
+      "definition": "rät",
       "word_definitions": [
-        "lång rad av föremål eller händelser (som passerar förbi)",
-        "ett verktyg av stål som används för att slipa ytor jämna"
+        "rak",
+        "som rör räta linjer"
       ]
     },
     {
-      "title": "OLIKASORTA SERIER",
+      "title": "DIREKT OCH ABSOLUT",
       "words": [
-        "division",
-        "kollektion"
+        "omedelbar",
+        "obetingad"
       ],
-      "definition": "serie",
+      "definition": "absolut, direkt",
       "word_definitions": [
-        "klass i seriesystem",
-        "samling"
+        "direkt, ögonblicklig",
+        "ovillkorlig, absolut"
       ]
     },
     {
-      "title": "SKRIVEN TEXTFÖLJD",
+      "title": "TYDLIG KOMMUNIKATION",
       "words": [
-        "lösenord",
-        "mening"
+        "renhårig",
+        "otvetydig"
       ],
-      "definition": "vågrätt följd av skrivna bokstäver",
+      "definition": "ärlig, tydlig",
       "word_definitions": [
-        "följd av bokstäver eller siffror som man måste ange för att komma in någonstans (t.ex. på en dator), kod",
-        "åsikt, uppfattning"
+        "ärlig, rättvis",
+        "klar, tydlig"
       ]
     },
     {
-      "title": "SITTPLATSER PÅ TEATER",
+      "title": "I TURORDNING",
       "words": [
-        "loge",
-        "läktare"
+        "sedan",
+        "varefter"
       ],
-      "definition": "sittplatser på samma avstånd från scenen (på teater e.d.)",
+      "definition": "i följd, efter varandra",
       "word_definitions": [
-        "omklädningsrum på teater; avgränsat utrymme med sittplatser på teater",
-        "upphöjd plats för åskådare eller åhörare"
+        "därefter, därpå",
+        "efter vilket, och därefter"
       ]
     }
   ]

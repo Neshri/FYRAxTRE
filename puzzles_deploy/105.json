@@ -1,52 +1,52 @@
 {
-  "pivot": "plan",
+  "pivot": "plats",
   "categories": [
     {
-      "title": "ARBETSPLANERING",
+      "title": "GEOGRAFISK POSITION",
       "words": [
-        "program",
-        "instruktion"
+        "position",
+        "region"
       ],
-      "definition": "anvisningar eller tankar om utformning av verksamhet",
+      "definition": "område med ett bestämt läge",
       "word_definitions": [
-        "plan eller översikt över hur något ska genomföras",
-        "anvisning om hur man ska göra något"
+        "ställning, läge",
+        "geografiskt område"
       ]
     },
     {
-      "title": "OMRÅDESBILD",
+      "title": "LEDIGT UTRYMME",
       "words": [
-        "karta",
-        "illustration"
+        "rum",
+        "yta"
       ],
-      "definition": "bild över ett område",
+      "definition": "ledigt utrymme",
       "word_definitions": [
-        "starkt förminskad bild (med speciella symboler) av jordytan eller annat område",
-        "bild"
+        "plats, utrymme",
+        "areal, area; utrymme"
       ]
     },
     {
-      "title": "HUSVÅNING",
+      "title": "YRKESROLL",
       "words": [
-        "lägenhet",
-        "etage"
+        "tjänst",
+        "jobb"
       ],
-      "definition": "våning",
+      "definition": "anställning",
       "word_definitions": [
-        "bostad (i större hus), våning",
-        "våning, plan"
+        "anställning",
+        "anställning; arbetstillfälle"
       ]
     },
     {
-      "title": "LUFTFARTYG",
+      "title": "TÄVLINGSPLACERING",
       "words": [
-        "flygmaskin",
-        "jumbojet"
+        "ställning",
+        "rangordning"
       ],
-      "definition": "flygplan",
+      "definition": "placering i tävling",
       "word_definitions": [
-        "flygplan",
-        "ett slags stort flygplan"
+        "läge i en tävling",
+        "placering efter rang"
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "pivot": "skjuter",
+  "categories": [
+    {
+      "title": "AVFYRA VAPEN",
+      "words": [
+        "avlossa",
+        "avfyra"
+      ],
+      "definition": "avlossar skott (ibland så att någon dör)",
+      "word_definitions": [
+        "skjuter ett skott, avfyrar",
+        "avlossar, fyrar av"
+      ]
+    },
+    {
+      "title": "FÖRFLYTTA FÖREMÅL",
+      "words": [
+        "dra",
+        "föra"
+      ],
+      "definition": "förflyttar (utan att lyfta)",
+      "word_definitions": [
+        "förflyttar sig",
+        "fraktar, förflyttar"
+      ]
+    },
+    {
+      "title": "UPPSKJUTA HÄNDELSE",
+      "words": [
+        "förhala",
+        "försena"
+      ],
+      "definition": "senarelägger, uppskjuter",
+      "word_definitions": [
+        "fördröjer, uppskjuter",
+        "gör sen, fördröjer, uppehåller"
+      ]
+    },
+    {
+      "title": "RÖRA SIG SNABBT",
+      "words": [
+        "susa",
+        "rusa"
+      ],
+      "definition": "rör sig snabbt",
+      "word_definitions": [
+        "rör sig snabbt",
+        "springer mycket fort"
+      ]
+    }
+  ]
+}

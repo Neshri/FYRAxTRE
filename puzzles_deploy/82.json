@@ -1,52 +1,52 @@
 {
-  "pivot": "linje",
+  "pivot": "ljus",
   "categories": [
     {
-      "title": "GEOMETRISK FIGUR",
+      "title": "STARK BELYSNING",
       "words": [
-        "diagonal",
-        "kurva"
+        "klar",
+        "strålande"
       ],
-      "definition": "figur med utsträckning åt bara ett håll",
+      "definition": "som ger ifrån sig mycket ljus; upplyst",
       "word_definitions": [
-        "sträcka som går från hörn till hörn i en geometrisk figur",
-        "krökt linje, båge"
+        "ljus, lysande, genomskinlig",
+        "mycket bra, utomordentlig"
       ]
     },
     {
-      "title": "TRAFIKSTRÄCKA",
+      "title": "POSITIV INSTÄLLNING",
       "words": [
-        "led",
-        "rutt"
+        "optimistisk",
+        "hoppfull"
       ],
-      "definition": "sträcka som trafikeras med allmänna kommunikationer",
+      "definition": "hoppfull",
       "word_definitions": [
-        "sträcka där man kan vandra eller färdas",
-        "resväg"
+        "präglad av optimism, hoppfull",
+        "som har gott hopp, optimistisk"
       ]
     },
     {
-      "title": "STRATEGISK RIKTNING",
+      "title": "LJUSFENOMEN",
       "words": [
-        "inriktning",
-        "orientering"
+        "glans",
+        "glitter"
       ],
-      "definition": "kurs, inriktning",
+      "definition": "vågrörelse som gör att man kan se, sken",
       "word_definitions": [
-        "mål för ett arbete; kurs, orientering",
-        "inriktning (efter väderstreck)"
+        "skimmer, sken",
+        "ljus med snabbt växlande sken"
       ]
     },
     {
-      "title": "UPPSTÄLLNING I RAD",
+      "title": "LJUSKÄLLOR",
       "words": [
-        "rad",
-        "fil"
+        "lampa",
+        "laser"
       ],
-      "definition": "uppställning i en rad (på bredden)",
+      "definition": "ljuskälla, belysning",
       "word_definitions": [
-        "uppställning av saker bredvid (eller bakom) varandra",
-        "rad"
+        "anordning för belysning, glödlampa",
+        "apparat som alstrar och sänder ut en intensiv stråle av ljus"
       ]
     }
   ]

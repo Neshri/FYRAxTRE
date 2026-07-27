@@ -1,0 +1,53 @@
+{
+  "pivot": "tjänst",
+  "categories": [
+    {
+      "title": "JOBB OCH PLATSER",
+      "words": [
+        "plats",
+        "jobb"
+      ],
+      "definition": "anställning",
+      "word_definitions": [
+        "anställning",
+        "anställning; arbetstillfälle"
+      ]
+    },
+    {
+      "title": "SYSSLOR OCH ARBETEN",
+      "words": [
+        "arbete",
+        "göromål"
+      ],
+      "definition": "arbete, tjänstgöring",
+      "word_definitions": [
+        "verksamhet, jobb",
+        "syssla, arbete"
+      ]
+    },
+    {
+      "title": "SERVICE OCH UNDERHÅLL",
+      "words": [
+        "support",
+        "skötsel"
+      ],
+      "definition": "service",
+      "word_definitions": [
+        "stöd",
+        "vård"
+      ]
+    },
+    {
+      "title": "HJÄLP OCH STÖD",
+      "words": [
+        "stöd",
+        "uppbackning"
+      ],
+      "definition": "hjälp, hjälpinsats",
+      "word_definitions": [
+        "hjälp, understöd",
+        "stöd, hjälp"
+      ]
+    }
+  ]
+}

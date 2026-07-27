@@ -1,52 +1,52 @@
 {
-  "pivot": "fräser",
+  "pivot": "fälla",
   "categories": [
     {
-      "title": "STEKA MAT",
+      "title": "FÅNGSTREDSKAP",
       "words": [
-        "steka",
-        "bräcka"
+        "håv",
+        "lasso"
       ],
-      "definition": "steker snabbt (i het panna)",
+      "definition": "redskap som man fångar djur i",
       "word_definitions": [
-        "tillagar med matfett i stark hetta (i stekpanna)",
-        "steker lätt"
+        "ett slags nät med skaft som man fångar vissa djur med",
+        "rep med snara som man kastar för att fånga djur"
       ]
     },
     {
-      "title": "HOTFULLA LJUD",
+      "title": "SÄTT ATT LURA",
       "words": [
-        "morra",
-        "pysa"
+        "list",
+        "bedrägeri"
       ],
-      "definition": "ger ifrån sig ett ilsket s-liknande ljud",
+      "definition": "försåt",
       "word_definitions": [
-        "ger ifrån sig ett brummande, hotfullt ljud",
-        "strömmar ut med ett väsande ljud"
+        "knep, slughet",
+        "handlingen att lura någon så att man vinner på det själv, svek"
       ]
     },
     {
-      "title": "TILLRÄTTAVISA NÅGON",
+      "title": "ÖPPNINGAR I SKOGEN",
       "words": [
-        "förebrå",
-        "snäsa"
+        "hygge",
+        "glänta"
       ],
-      "definition": "snäser, tillrättavisar",
+      "definition": "litet hygge, litet fall, litet område där skogen har fällts",
       "word_definitions": [
-        "klandrar, tillrättavisar",
-        "tillrättavisar på ett irriterat sätt"
+        "område där man huggit ner nästan all skog",
+        "liten öppning i skogen"
       ]
     },
     {
-      "title": "BEARBETA MATERIAL",
+      "title": "FÅ NÅGOT ATT FALLA",
       "words": [
-        "borra",
-        "hyvla"
+        "knuffa",
+        "välta"
       ],
-      "definition": "bearbetar (bort) med fräs",
+      "definition": "få att falla genom att använda fysisk kraft",
       "word_definitions": [
-        "gör hål (med borr)",
-        "jämnar till med hyvel"
+        "ger en knuff, stöter till",
+        "gör så att något faller omkull; stjälper"
       ]
     }
   ]

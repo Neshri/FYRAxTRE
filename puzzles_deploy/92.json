@@ -1,52 +1,52 @@
 {
-  "pivot": "medel",
+  "pivot": "minne",
   "categories": [
     {
-      "title": "KEMISKA ÄMNEN",
+      "title": "MENTAL FÖRMÅGA",
       "words": [
-        "preparat",
-        "syra"
+        "lokalsinne",
+        "intelligens"
       ],
-      "definition": "hjälpmedel (ofta en kemisk substans)",
+      "definition": "förmåga att komma ihåg, (tänkt) plats för det man kommer ihåg",
       "word_definitions": [
-        "ämne som framställts på kemisk väg, kemisk produkt",
-        "en sorts kemisk förening med (vanligen) sur smak"
+        "förmåga att hitta rätt på en plats eller i ett område där man inte varit förut",
+        "förmåga till tänkande och analys, begåvning"
       ]
     },
     {
-      "title": "MEDICINSKA KURER",
+      "title": "DATALAGRING",
       "words": [
-        "piller",
-        "kur"
+        "hårddisk",
+        "databas"
       ],
-      "definition": "medicin",
+      "definition": "ställe för lagring av data i en dator",
       "word_definitions": [
-        "liten tablett som innehåller medicin",
-        "behandling mot sjukdom"
+        "skiva i en dator där information lagras",
+        "ordnad samling av uppgifter i en dator eller på en server"
       ]
     },
     {
-      "title": "EKONOMISKA TILLGÅNGAR",
+      "title": "HÅGKOMST",
       "words": [
-        "kapital",
-        "förmögenhet"
+        "åtanke",
+        "upplevelse"
       ],
-      "definition": "tillgångar, pengar",
+      "definition": "något man kommer ihåg, hågkomst",
       "word_definitions": [
-        "pengar och andra tillgångar",
-        "tillgångar som räknas i pengar"
+        "minne, hågkomst",
+        "något (minnesvärt) som man upplever eller har upplevt"
       ]
     },
     {
-      "title": "SÄTT ATT GÖRA NÅGOT",
+      "title": "MINNESFÖREMÅL",
       "words": [
-        "väg",
-        "grepp"
+        "souvenir",
+        "present"
       ],
-      "definition": "sätt, metod",
+      "definition": "souvenir",
       "word_definitions": [
-        "sätt, metod",
-        "angreppssätt, metod"
+        "föremål som man bevarar som minne (t.ex. från en resa)",
+        "gåva (särskilt vid ett bestämt tillfälle)"
       ]
     }
   ]

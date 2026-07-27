@@ -1,52 +1,52 @@
 {
-  "pivot": "resa",
+  "pivot": "rätt",
   "categories": [
     {
-      "title": "SÄTT ATT FLYTTA SIG",
+      "title": "MATPORTION",
       "words": [
-        "transport",
-        "förflyttning"
+        "portion",
+        "matbit"
       ],
-      "definition": "förflyttning med färdmedel (t.ex. tåg, bil, båt)",
+      "definition": "portion med mat",
       "word_definitions": [
-        "förflyttning; frakt",
-        "handlingen att förflytta något, transport"
+        "mängd mat för en person",
+        "(ganska liten) portion mat"
       ]
     },
     {
-      "title": "UPPFÖRA BYGGNAD",
+      "title": "GRADAVVISANDE ORD",
       "words": [
-        "anlägga",
-        "bygga"
+        "tämligen",
+        "någorlunda"
       ],
-      "definition": "uppföra, bygga upp (staty, byggnad, altare); slå upp (tält)",
+      "definition": "ganska",
       "word_definitions": [
-        "bygger, uppför",
-        "konstruerar och uppför en byggnad e.d."
+        "ganska",
+        "tämligen, ganska"
       ]
     },
     {
-      "title": "KLÄTRA I STATUS",
+      "title": "RAKT OCH DIREKT",
       "words": [
-        "stiga",
-        "avancera"
+        "tvärs",
+        "direkt"
       ],
-      "definition": "lifta eller höja sig till en dominerande ställning",
+      "definition": "utan vidare, rakt",
       "word_definitions": [
-        "förflyttar sig (ofta upp på eller ut ur något)",
-        "går framåt; blir befordrad"
+        "på tvären; mitt, rakt",
+        "utan omväg, rak, omedelbar"
       ]
     },
     {
-      "title": "ÅTERHÄMTA SIG",
+      "title": "KORREKT OCH SANN",
       "words": [
-        "återhämta",
-        "tillfriskna"
+        "sann",
+        "verklig"
       ],
-      "definition": "komma på fötter igen",
+      "definition": "riktig, korrekt",
       "word_definitions": [
-        "vila upp sig efter något fysiskt eller psykologiskt ansträngande",
-        "blir frisk igen, frisknar till"
+        "riktig, äkta",
+        "sann, riktig"
       ]
     }
   ]

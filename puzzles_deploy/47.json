@@ -1,52 +1,52 @@
 {
-  "pivot": "får",
+  "pivot": "föda",
   "categories": [
     {
-      "title": "TA EMOT NÅGOT",
+      "title": "NÄRING OCH MAT",
       "words": [
-        "erhålla",
-        "motta"
+        "mat",
+        "kost"
       ],
-      "definition": "tar emot, erhåller",
+      "definition": "näring, mat",
       "word_definitions": [
-        "tar emot, får",
-        "välkomnar, tar emot"
+        "näringsämnen som man äter, föda",
+        "mat, föda"
       ]
     },
     {
-      "title": "VARA TVUNGEN TILL",
+      "title": "GE UPPHÖV TILL",
       "words": [
-        "behöva",
-        "nödgas"
+        "grundlägga",
+        "väcka"
       ],
-      "definition": "är tvungen, måste",
+      "definition": "ge upphov till",
       "word_definitions": [
-        "är tvungen att",
-        "är tvungen"
+        "inrättar; ger upphov till",
+        "ger upphov till, framkallar"
       ]
     },
     {
-      "title": "HUSDJUR",
+      "title": "UTFODRA DJUR",
       "words": [
-        "get",
-        "ko"
+        "fodra",
+        "mata"
       ],
-      "definition": "ett däggdjur av släktet Ovis som hålls för ullens, köttets och till viss del mjölkens skull",
+      "definition": "utfodra",
       "word_definitions": [
-        "ett husdjur som ger mjölk och ost (släktet Capra)",
-        "ett husdjur som ger mjölk"
+        "ger foder",
+        "ger mat eller foder åt"
       ]
     },
     {
-      "title": "DUM PERSON",
+      "title": "FÖRSÖRJA MED MAT",
       "words": [
-        "nöt",
-        "dumbom"
+        "försörja",
+        "förse"
       ],
-      "definition": "person som anses dum i huvudet",
+      "definition": "(om gårdar, landsändor, länder, och jorden) tillhandahålla mat till",
       "word_definitions": [
-        "person som verkar dum eller tankspridd",
-        "dum person, dumhuvud"
+        "ansvarar för uppehälle för",
+        "utrustar"
       ]
     }
   ]

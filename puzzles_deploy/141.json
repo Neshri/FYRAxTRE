@@ -1,0 +1,53 @@
+{
+  "pivot": "stark",
+  "categories": [
+    {
+      "title": "FYSISK STYRKA",
+      "words": [
+        "kraftig",
+        "hårdför"
+      ],
+      "definition": "som har stor styrka, kraftfull (om levande varelser)",
+      "word_definitions": [
+        "som har (fysisk) kraft, stark",
+        "kraftfull, stark , hårdhänt"
+      ]
+    },
+    {
+      "title": "MÄKTIG OCH BESTÄMD",
+      "words": [
+        "beslutsam",
+        "mäktig"
+      ],
+      "definition": "mäktig; handlingskraftig",
+      "word_definitions": [
+        "resolut, bestämd, handlingskraftig",
+        "imponerande, kraftig"
+      ]
+    },
+    {
+      "title": "SINNESINTRYCK",
+      "words": [
+        "intensiv",
+        "skarp"
+      ],
+      "definition": "som intensivt påverkar sinnena",
+      "word_definitions": [
+        "som håller på för fullt hela tiden",
+        "vass, spetsig"
+      ]
+    },
+    {
+      "title": "HÅLLBARHET",
+      "words": [
+        "tålig",
+        "hållfast"
+      ],
+      "definition": "slitstark, hållbar",
+      "word_definitions": [
+        "motståndskraftig",
+        "som inte går sönder, stark, solid"
+      ]
+    }
+  ]
+}

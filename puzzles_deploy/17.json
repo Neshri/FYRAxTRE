@@ -1,52 +1,52 @@
 {
-  "pivot": "dam",
+  "pivot": "disk",
   "categories": [
     {
-      "title": "BETECKNINGAR FÖR KVINNA",
+      "title": "SERVICEKONTOR",
       "words": [
-        "kvinna",
-        "tjej"
+        "kassa",
+        "reception"
       ],
-      "definition": "kvinna",
+      "definition": "smalt och högt bord (i butik, bank etc.) där kunderna betjänas",
       "word_definitions": [
-        "vuxen person av honkön",
-        "flicka, kvinna; flickvän"
+        "avdelning (i affär eller bank) där man betalar eller tar emot pengar",
+        "plats på hotell e.d. (innanför entrén) där gäster tas emot"
       ]
     },
     {
-      "title": "HÖGKORT I KORTLEK",
+      "title": "MATSERVIS",
       "words": [
-        "kung",
-        "ess"
+        "porslin",
+        "matsilver"
       ],
-      "definition": "ett högt spelkort",
+      "definition": "bestick, tallrikar o.d. som diskas",
       "word_definitions": [
-        "ett högt spelkort; den viktigaste pjäsen i schack",
-        "det högsta kortet i en av de fyra kortsviterna (färgerna)"
+        "material (i koppar, tallrikar etc.) av tunn hård keramik",
+        "bestick i silver"
       ]
     },
     {
-      "title": "PJÄSER I SCHACK",
+      "title": "DATALAGRING",
       "words": [
-        "löpare",
-        "bonde"
+        "minne",
+        "cd"
       ],
-      "definition": "en värdefull schackpjäs, drottning",
+      "definition": "skiva där man lagrar data",
       "word_definitions": [
-        "en pjäs i schack",
-        "den svagaste pjäsen i schack"
+        "ställe för lagring av data i en dator",
+        "skiva som används för digital lagring av musik, bilder och text"
       ]
     },
     {
-      "title": "KLASSISKA BRÄDSPEL",
+      "title": "RYGGENS DELAR",
       "words": [
-        "schack",
-        "domino"
+        "kota",
+        "ryggmärg"
       ],
-      "definition": "ett spel med brickor på schackbräde",
+      "definition": "en sorts platta mellan ryggradens kotor",
       "word_definitions": [
-        "ett spel med 32 figurer på ett bräde med 64 rutor",
-        "ett spel med brickor med två fält"
+        "ben i ryggraden",
+        "del av centrala nervsystemet i ryggradens översta del"
       ]
     }
   ]

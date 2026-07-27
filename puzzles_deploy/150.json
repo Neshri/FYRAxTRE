@@ -1,0 +1,53 @@
+{
+  "pivot": "stämmer",
+  "categories": [
+    {
+      "title": "VARA KORREKT",
+      "words": [
+        "korrespondera",
+        "sammanfalla"
+      ],
+      "definition": "är korrekt",
+      "word_definitions": [
+        "brevväxla, stå i förbindelse med",
+        "stämmer överens; inträffar samtidigt"
+      ]
+    },
+    {
+      "title": "JUSTERA INSTRUMENT",
+      "words": [
+        "justera",
+        "intonera"
+      ],
+      "definition": "justerar tonhöjder (på instrument)",
+      "word_definitions": [
+        "avhjälper mindre fel hos, rättar till",
+        "ange ton"
+      ]
+    },
+    {
+      "title": "DRAGA INFÖR RÄTT",
+      "words": [
+        "åtala",
+        "processa"
+      ],
+      "definition": "drar inför domstol",
+      "word_definitions": [
+        "anklagar inför domstol",
+        "driver en rättegång (mot någon)"
+      ]
+    },
+    {
+      "title": "AVTALA MÖTE",
+      "words": [
+        "överenskomma",
+        "boka"
+      ],
+      "definition": "avtalar (möte)",
+      "word_definitions": [
+        "bestämmer något tillsammans, kommer överens",
+        "beställer"
+      ]
+    }
+  ]
+}

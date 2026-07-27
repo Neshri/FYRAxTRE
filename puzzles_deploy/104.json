@@ -1,52 +1,52 @@
 {
-  "pivot": "pjäs",
+  "pivot": "plan",
   "categories": [
     {
-      "title": "PRYDNADSFÖREMÅL",
+      "title": "ARBETSPLANERING",
       "words": [
-        "tingeltangel",
-        "dekoration"
+        "program",
+        "instruktion"
       ],
-      "definition": "föremål som är uppställt som prydnad",
+      "definition": "anvisningar eller tankar om utformning av verksamhet",
       "word_definitions": [
-        "billiga (och smaklösa) prydnadsföremål",
-        "utsmyckning, prydnad"
+        "plan eller översikt över hur något ska genomföras",
+        "anvisning om hur man ska göra något"
       ]
     },
     {
-      "title": "TEATERSTYCKEN",
+      "title": "OMRÅDESBILD",
       "words": [
-        "drama",
-        "komedi"
+        "karta",
+        "illustration"
       ],
-      "definition": "teaterstycke, skådespel",
+      "definition": "bild över ett område",
       "word_definitions": [
-        "skådespel, pjäs",
-        "roligt teaterstycke (eller rolig film)"
+        "starkt förminskad bild (med speciella symboler) av jordytan eller annat område",
+        "bild"
       ]
     },
     {
-      "title": "SPELPJÄSER",
+      "title": "HUSVÅNING",
       "words": [
-        "kung",
-        "löpare"
+        "lägenhet",
+        "etage"
       ],
-      "definition": "figur som man flyttar på ett spelbräde (särskilt i schack)",
+      "definition": "våning",
       "word_definitions": [
-        "ett högt spelkort; den viktigaste pjäsen i schack",
-        "en pjäs i schack"
+        "bostad (i större hus), våning",
+        "våning, plan"
       ]
     },
     {
-      "title": "TUNGA ELDVAPEN",
+      "title": "LUFTFARTYG",
       "words": [
-        "kulspruta",
-        "kanon"
+        "flygmaskin",
+        "jumbojet"
       ],
-      "definition": "tyngre eldvapen",
+      "definition": "flygplan",
       "word_definitions": [
-        "ett delvis automatiskt eldvapen, maskingevär",
-        "en kraftig artilleripjäs"
+        "flygplan",
+        "ett slags stort flygplan"
       ]
     }
   ]

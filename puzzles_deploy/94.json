@@ -1,52 +1,52 @@
 {
-  "pivot": "modell",
+  "pivot": "mål",
   "categories": [
     {
-      "title": "FÖREBILDER",
+      "title": "SYFTE OCH AVSIKT",
       "words": [
-        "ideal",
-        "idol"
+        "syfte",
+        "avsikt"
       ],
-      "definition": "förebild, exempel",
+      "definition": "ändamål, syfte",
       "word_definitions": [
-        "perfekt exempel (att efterlikna), förebild",
-        "person som man ser upp till, förebild, ideal"
+        "avsikt, ändamål",
+        "syfte, mening"
       ]
     },
     {
-      "title": "MINIATYRER",
+      "title": "OLIKA MÅLTIDER",
       "words": [
-        "avbild",
-        "miniatyr"
+        "lunch",
+        "supé"
       ],
-      "definition": "kopia i liten skala",
+      "definition": "den mängd mat man äter vid ett visst tillfälle, måltid",
       "word_definitions": [
-        "kopia",
-        "starkt förminskad modell av något"
+        "(lättare) måltid mitt på dagen",
+        "(finare) måltid på kvällen"
       ]
     },
     {
-      "title": "PRODUKTVARIANTER",
+      "title": "JURIDISK PROCESS",
       "words": [
-        "version",
-        "typ"
+        "process",
+        "rättegång"
       ],
-      "definition": "(vanligt) utförande av en viss vara (t.ex. bilar, maskiner, kläder)",
+      "definition": "rättegång, process",
       "word_definitions": [
-        "(alternativt) utförande, variant",
-        "sort, kategori, slag"
+        "rättegång, mål",
+        "process inför domstol, mål"
       ]
     },
     {
-      "title": "POSERANDE PERSONER",
+      "title": "FÖRMÅGA ATT TALA",
       "words": [
-        "mannekäng",
-        "posör"
+        "tal",
+        "språk"
       ],
-      "definition": "person (särskilt kvinna) som poserar eller gör reklam för något",
+      "definition": "förmåga att tala; språk",
       "word_definitions": [
-        "person (särskilt kvinna) som är anställd för att bli fotograferad i nya kläder",
-        "den som gärna poserar, tillgjord människa"
+        "det att tala; förmåga att tala",
+        "människans sätt att meddela sig genom tal och skrift"
       ]
     }
   ]

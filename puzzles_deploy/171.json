@@ -1,0 +1,53 @@
+{
+  "pivot": "vara",
+  "categories": [
+    {
+      "title": "FORTSÄTTA",
+      "words": [
+        "fortsätta",
+        "pågå"
+      ],
+      "definition": "fortsätta verka, hålla i sig",
+      "word_definitions": [
+        "håller på, håller igång",
+        "håller på"
+      ]
+    },
+    {
+      "title": "BEFINNA SIG",
+      "words": [
+        "vistas",
+        "bo"
+      ],
+      "definition": "ha eller ta en plats i tid eller rum; befinna sig",
+      "word_definitions": [
+        "uppehåller sig, bor tillfälligt",
+        "har sin bostad"
+      ]
+    },
+    {
+      "title": "KOPULA VERB",
+      "words": [
+        "bli",
+        "verka"
+      ],
+      "definition": "verb som tillskriver subjektet en identitet eller egenskap",
+      "word_definitions": [
+        "börjar vara, kommer att vara",
+        "arbetar"
+      ]
+    },
+    {
+      "title": "HANDELSVARA",
+      "words": [
+        "produkt",
+        "pryl"
+      ],
+      "definition": "ting som köps och säljs",
+      "word_definitions": [
+        "resultat av tillverkning",
+        "sak, grej"
+      ]
+    }
+  ]
+}

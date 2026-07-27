@@ -1,0 +1,53 @@
+{
+  "pivot": "siktar",
+  "categories": [
+    {
+      "title": "RIKTA VAPEN",
+      "words": [
+        "rikta",
+        "måtta"
+      ],
+      "definition": "riktar ett vapen e.d. mot ett mål, måttar",
+      "word_definitions": [
+        "vänder åt visst håll; siktar",
+        "siktar"
+      ]
+    },
+    {
+      "title": "STRÄVA MOT MÅL",
+      "words": [
+        "avse",
+        "sträva"
+      ],
+      "definition": "inriktar sig på, har som sitt mål",
+      "word_definitions": [
+        "tänker på, har som mål, ämnar",
+        "arbetar träget, anstränger sig för att uppnå"
+      ]
+    },
+    {
+      "title": "FÅ SYN PÅ",
+      "words": [
+        "upptäcka",
+        "märka"
+      ],
+      "definition": "får syn på",
+      "word_definitions": [
+        "lägger märke till, observerar",
+        "får se, observerar"
+      ]
+    },
+    {
+      "title": "SILA GENOM",
+      "words": [
+        "sila",
+        "filtrera"
+      ],
+      "definition": "låter passera genom en sikt",
+      "word_definitions": [
+        "låter passera genom sil",
+        "häller genom filter; silar, renar"
+      ]
+    }
+  ]
+}

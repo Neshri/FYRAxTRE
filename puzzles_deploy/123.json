@@ -1,0 +1,53 @@
+{
+  "pivot": "sitter",
+  "categories": [
+    {
+      "title": "KROPPENS POSITIONER",
+      "words": [
+        "stå",
+        "huka"
+      ],
+      "definition": "vilar på bakdelen med överkroppen upprätt (ofta på en stol)",
+      "word_definitions": [
+        "vilar upprätt",
+        "hukar sig"
+      ]
+    },
+    {
+      "title": "UTÖVA VERKSAMHET",
+      "words": [
+        "tjänstgöra",
+        "utöva"
+      ],
+      "definition": "fungerar som, håller på med en viss verksamhet",
+      "word_definitions": [
+        "fungerar (som)",
+        "bedriver verksamhet"
+      ]
+    },
+    {
+      "title": "VARA PLACERAD",
+      "words": [
+        "ligga",
+        "hänga"
+      ],
+      "definition": "är placerad; är säkert fäst",
+      "word_definitions": [
+        "är i vågrätt läge, vilar; är placerad",
+        "är upphängd"
+      ]
+    },
+    {
+      "title": "PASSA KROPPEN",
+      "words": [
+        "klä",
+        "passa"
+      ],
+      "definition": "har viss passform, passar (om kläder)",
+      "word_definitions": [
+        "ser bra ut; är klädsam för, passar",
+        "är lämplig"
+      ]
+    }
+  ]
+}

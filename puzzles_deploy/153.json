@@ -1,0 +1,53 @@
+{
+  "pivot": "så",
+  "categories": [
+    {
+      "title": "GRAD AV INTENSITET",
+      "words": [
+        "väldigt",
+        "extremt"
+      ],
+      "definition": "till den grad, lika",
+      "word_definitions": [
+        "mycket",
+        "; mycket (starkt)"
+      ]
+    },
+    {
+      "title": "UPMANING OM LUGN",
+      "words": [
+        "lugnt",
+        "tyst"
+      ],
+      "definition": "seså; var lugn",
+      "word_definitions": [
+        "Det är lugnt.",
+        "uppmaning att inte ge några ljud ifrån sig"
+      ]
+    },
+    {
+      "title": "PLANTERA VÄXTER",
+      "words": [
+        "plantera",
+        "odla"
+      ],
+      "definition": "sprida frön i jordmån för att de ska gro",
+      "word_definitions": [
+        "sätter växt (eller frö) i jorden",
+        "producerar växter; brukar jorden"
+      ]
+    },
+    {
+      "title": "DRICKKÄRL BOSKAP",
+      "words": [
+        "tråg",
+        "kar"
+      ],
+      "definition": "dryckeskärl för boskap",
+      "word_definitions": [
+        "ett avlångt, fyrkantigt kärl",
+        "stor öppen behållare för vatten (eller annan vätska)"
+      ]
+    }
+  ]
+}

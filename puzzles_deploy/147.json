@@ -1,0 +1,53 @@
+{
+  "pivot": "stämma",
+  "categories": [
+    {
+      "title": "ARBETA I TRÄ",
+      "words": [
+        "tälja",
+        "snida"
+      ],
+      "definition": "använda stämjärn vid träarbete",
+      "word_definitions": [
+        "skär i trä med kniv, snidar",
+        "skär eller skulpterar i trä"
+      ]
+    },
+    {
+      "title": "RÄTTSLIG ÅTGÄRD",
+      "words": [
+        "åtala",
+        "processa"
+      ],
+      "definition": "dra inför domstol, kalla inför rätta",
+      "word_definitions": [
+        "anklagar inför domstol",
+        "driver en rättegång (mot någon)"
+      ]
+    },
+    {
+      "title": "JUSTERA INSTRUMENT",
+      "words": [
+        "justera",
+        "kalibrera"
+      ],
+      "definition": "ställa in tonerna /på ett instrument/",
+      "word_definitions": [
+        "avhjälper mindre fel hos, rättar till",
+        "justera eller ställa in efter specifikt mått, vanligtvis om maskin eller mätinstrument"
+      ]
+    },
+    {
+      "title": "AVGE RÖST",
+      "words": [
+        "votera",
+        "rösta"
+      ],
+      "definition": "avge röst vid val",
+      "word_definitions": [
+        "röstar",
+        "uttrycker sin mening i val"
+      ]
+    }
+  ]
+}

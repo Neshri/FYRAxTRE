@@ -1,52 +1,52 @@
 {
-  "pivot": "bryter",
+  "pivot": "bräcker",
   "categories": [
     {
-      "title": "AVBRYTA NÅGOT",
+      "title": "BRYTA MED KRAFT",
       "words": [
-        "stoppa",
-        "avsluta"
+        "knäcka",
+        "bända"
       ],
-      "definition": "avbryter; avbryter kontakt",
+      "definition": "knäcker, bryter",
       "word_definitions": [
-        "lagar hål i kläder",
-        "slutar, fullbordar"
+        "bryter hårt material genom kraftigt slag eller tryck",
+        "pressar, bryter, bräcker"
       ]
     },
     {
-      "title": "ÖVERVINNA MOTSTÅND",
+      "title": "ÖVERTRÄFFA NÅGON",
       "words": [
-        "tränga",
-        "trotsa"
+        "övergå",
+        "slå"
       ],
-      "definition": "forcerar ett motstånd",
+      "definition": "överträffar, stukar",
       "word_definitions": [
-        "banar sig väg trots motstånd",
-        "gör öppet motstånd mot, sätter sig upp mot"
+        "överstiger",
+        "ger ett slag, smäller till"
       ]
     },
     {
-      "title": "UTVINNA MATERIAL",
+      "title": "LÄTT STEKNING",
       "words": [
-        "extrahera",
-        "dra"
+        "fräsa",
+        "bryna"
       ],
-      "definition": "får att gå i bitar; utvinner",
+      "definition": "steker lätt",
       "word_definitions": [
-        "utvinner, drar",
-        "utvinner, extraherar"
+        "steker snabbt (i het panna)",
+        "steker för att göra brun"
       ]
     },
     {
-      "title": "ÄNDRA RIKTNING",
+      "title": "NÄR DAGEN GRYR",
       "words": [
-        "kantra",
-        "vända"
+        "dagas",
+        "ljusna"
       ],
-      "definition": "får att ändra riktning",
+      "definition": "gryr",
       "word_definitions": [
-        "ändrar riktning",
-        "ändrar läge eller riktning"
+        "gryr, ljusnar",
+        "blir ljusare"
       ]
     }
   ]

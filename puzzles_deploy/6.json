@@ -1,52 +1,52 @@
 {
-  "pivot": "bank",
+  "pivot": "bas",
   "categories": [
     {
-      "title": "SJÖBOTTENFORMATIONER",
+      "title": "MANLIGA SÅNGRÖSTER",
       "words": [
-        "vall",
-        "rev"
+        "baryton",
+        "tenor"
       ],
-      "definition": "upphöjning av botten (i hav eller sjö)",
+      "definition": "(man med) sångröst i lågt tonläge",
       "word_definitions": [
-        "långsträckt upphöjning (ofta av jord eller sand)",
-        "lina för fiske"
+        "(man med) sångröst i läge mellan bas och tenor",
+        "(man med) stämma i högt tonläge"
       ]
     },
     {
-      "title": "VÄGUNDERLAG",
+      "title": "PERSON I LEDNING",
       "words": [
-        "fundament",
-        "underbyggnad"
+        "direktör",
+        "ledare"
       ],
-      "definition": "underlag för väg eller järnväg, vall",
+      "definition": "förman, chef",
       "word_definitions": [
-        "grund, underlag",
-        "handlingen att underbygga något"
+        "chef (för ett företag, en institution e.d.)",
+        "person som leder något; chef"
       ]
     },
     {
-      "title": "MOLNFORMATIONER",
+      "title": "MILITÄR ANLÄGGNING",
       "words": [
-        "sky",
-        "dimma"
+        "garnison",
+        "kasern"
       ],
-      "definition": "kompakt samling av moln",
+      "definition": "militär anläggning (ofta utanför det egna landet)",
       "word_definitions": [
-        "moln",
-        "en sorts moln nära marken, dis, tjocka"
+        "militärförläggning på en ort",
+        "permanent byggnad för militär trupp"
       ]
     },
     {
-      "title": "RESURSFÖRRÅD",
+      "title": "KEMISKA BASER",
       "words": [
-        "lager",
-        "arsenal"
+        "soda",
+        "kalk"
       ],
-      "definition": "förråd",
+      "definition": "kemiskt ämne som kan ta upp vätejoner",
       "word_definitions": [
-        "förråd, magasin",
-        "förråd, lager"
+        "ett ämne som används bl.a. i tvättmedel",
+        "ett hårt (vitt) ämne som innehåller kalcium"
       ]
     }
   ]

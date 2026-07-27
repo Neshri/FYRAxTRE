@@ -1,52 +1,52 @@
 {
-  "pivot": "låter",
+  "pivot": "man",
   "categories": [
     {
-      "title": "GE IFRÅN SIG LJUD",
+      "title": "VUXEN MAN",
       "words": [
-        "ljuda",
-        "klinga"
+        "gubbe",
+        "herre"
       ],
-      "definition": "hörs, ljuder",
+      "definition": "vuxen person av hankön",
       "word_definitions": [
-        "hörs, låter",
-        "ger ifrån sig klara toner"
+        "gammal man, gamling",
+        "man (gärna med god position i samhället)"
       ]
     },
     {
-      "title": "FÖREFALLA VARA",
+      "title": "GRUPPMEDLEM",
       "words": [
-        "tyckas",
-        "synas"
+        "medlem",
+        "individ"
       ],
-      "definition": "verkar vara, förefaller",
+      "definition": "medlem i en grupp (särskilt en trupp, ett lag etc.)",
       "word_definitions": [
-        "verkar, synes, förefaller",
-        "tycks, förefaller"
+        "person som tillhör en organisation eller en förening",
+        "enskild varelse, människa"
       ]
     },
     {
-      "title": "GE TILLÅTELSE",
+      "title": "ÄKTENSKAPSPARTNER",
       "words": [
-        "medge",
-        "sanktionera"
+        "fru",
+        "partner"
       ],
-      "definition": "går med på, tillåter",
+      "definition": "make",
       "word_definitions": [
-        "ger möjlighet till, tillåter",
-        "tillåter, godtar"
+        "gift kvinna, hustru",
+        "person som man samarbetar med"
       ]
     },
     {
-      "title": "SÖRJA FÖR ATT",
+      "title": "DJURS HÅR",
       "words": [
-        "tillse",
-        "verkställa"
+        "tagel",
+        "päls"
       ],
-      "definition": "ser till att något blir gjort",
+      "definition": "långt hår i nacken på häst eller lejon",
       "word_definitions": [
-        "tar på sig ansvaret för, ser till",
-        "ser till att ett beslut blir genomfört"
+        "hår från en häst (särskilt från svansen)",
+        "skinn på djur, fäll; kappa av päls"
       ]
     }
   ]

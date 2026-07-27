@@ -1,52 +1,52 @@
 {
-  "pivot": "bräcker",
+  "pivot": "byte",
   "categories": [
     {
-      "title": "BRYTA MED KRAFT",
+      "title": "VÄXLING ELLER ÄNDRING",
       "words": [
-        "knäcka",
-        "bända"
+        "ändring",
+        "omvandling"
       ],
-      "definition": "knäcker, bryter",
+      "definition": "handlingen att byta något, utbyte",
       "word_definitions": [
-        "bryter hårt material genom kraftigt slag eller tryck",
-        "pressar, bryter, bräcker"
+        "handlingen att ändra något, förändring",
+        "handlingen att omvandla något"
       ]
     },
     {
-      "title": "ÖVERTRÄFFA NÅGON",
+      "title": "FÅNGST VID JAKT",
       "words": [
-        "övergå",
-        "slå"
+        "rov",
+        "vilt"
       ],
-      "definition": "överträffar, stukar",
+      "definition": "fångst, rov",
       "word_definitions": [
-        "överstiger",
-        "ger ett slag, smäller till"
+        "byte, fångst",
+        "vilda djur"
       ]
     },
     {
-      "title": "LÄTT STEKNING",
+      "title": "ERBJUDANDE VID KÖP",
       "words": [
-        "fräsa",
-        "bryna"
+        "anbud",
+        "offert"
       ],
-      "definition": "steker lätt",
+      "definition": "offer",
       "word_definitions": [
-        "steker snabbt (i het panna)",
-        "steker för att göra brun"
+        "erbjudande, förslag",
+        "erbjudande om en vara eller tjänst till ett visst pris, anbud"
       ]
     },
     {
-      "title": "NÄR DAGEN GRYR",
+      "title": "ENHETER FÖR DATA",
       "words": [
-        "dagas",
-        "ljusna"
+        "bit",
+        "ord"
       ],
-      "definition": "gryr",
+      "definition": "åtta bits (i datasammanhang)",
       "word_definitions": [
-        "gryr, ljusnar",
-        "blir ljusare"
+        "siffra i binärt talsystem; enhet för information (i datorer)",
+        "minsta självständiga enhet i en text (med mellanrum före och efter)"
       ]
     }
   ]

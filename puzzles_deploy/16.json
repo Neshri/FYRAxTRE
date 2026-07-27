@@ -1,52 +1,52 @@
 {
-  "pivot": "byte",
+  "pivot": "dam",
   "categories": [
     {
-      "title": "VÄXLING ELLER ÄNDRING",
+      "title": "BETECKNINGAR FÖR KVINNA",
       "words": [
-        "ändring",
-        "omvandling"
+        "kvinna",
+        "tjej"
       ],
-      "definition": "handlingen att byta något, utbyte",
+      "definition": "kvinna",
       "word_definitions": [
-        "handlingen att ändra något, förändring",
-        "handlingen att omvandla något"
+        "vuxen person av honkön",
+        "flicka, kvinna; flickvän"
       ]
     },
     {
-      "title": "FÅNGST VID JAKT",
+      "title": "HÖGKORT I KORTLEK",
       "words": [
-        "rov",
-        "vilt"
+        "kung",
+        "ess"
       ],
-      "definition": "fångst, rov",
+      "definition": "ett högt spelkort",
       "word_definitions": [
-        "byte, fångst",
-        "vilda djur"
+        "ett högt spelkort; den viktigaste pjäsen i schack",
+        "det högsta kortet i en av de fyra kortsviterna (färgerna)"
       ]
     },
     {
-      "title": "ERBJUDANDE VID KÖP",
+      "title": "PJÄSER I SCHACK",
       "words": [
-        "anbud",
-        "offert"
+        "löpare",
+        "bonde"
       ],
-      "definition": "offer",
+      "definition": "en värdefull schackpjäs, drottning",
       "word_definitions": [
-        "erbjudande, förslag",
-        "erbjudande om en vara eller tjänst till ett visst pris, anbud"
+        "en pjäs i schack",
+        "den svagaste pjäsen i schack"
       ]
     },
     {
-      "title": "ENHETER FÖR DATA",
+      "title": "KLASSISKA BRÄDSPEL",
       "words": [
-        "bit",
-        "ord"
+        "schack",
+        "domino"
       ],
-      "definition": "åtta bits (i datasammanhang)",
+      "definition": "ett spel med brickor på schackbräde",
       "word_definitions": [
-        "siffra i binärt talsystem; enhet för information (i datorer)",
-        "minsta självständiga enhet i en text (med mellanrum före och efter)"
+        "ett spel med 32 figurer på ett bräde med 64 rutor",
+        "ett spel med brickor med två fält"
       ]
     }
   ]

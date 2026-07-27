@@ -1,52 +1,52 @@
 {
-  "pivot": "grov",
+  "pivot": "grund",
   "categories": [
     {
-      "title": "KRAFTIG OCH TJOCK",
+      "title": "LÅGT DJUP",
       "words": [
-        "bastant",
-        "massiv"
+        "ytlig",
+        "flack"
       ],
-      "definition": "tjock, kraftig, bastant",
+      "definition": "inte djup",
       "word_definitions": [
-        "kraftig, tjock",
-        "tung, kraftig"
+        "som inte går på djupet, flyktig",
+        "plan och öppen, jämn"
       ]
     },
     {
-      "title": "OJÄMN YTA",
+      "title": "BAS ELLER UNDERLAG",
       "words": [
-        "skrovlig",
-        "ojämn"
+        "fundament",
+        "sockel"
       ],
-      "definition": "ojämn, skrovlig; inte bearbetad (i detalj)",
+      "definition": "underlag, botten",
       "word_definitions": [
-        "grov och ojämn",
-        "inte jämn eller slät (om yta)"
+        "grund, underlag",
+        "underlag, fundament"
       ]
     },
     {
-      "title": "OHYFSAT BETENDE",
+      "title": "ORSAK OCH ANLEDNING",
       "words": [
-        "plump",
-        "oborstad"
+        "orsak",
+        "skäl"
       ],
-      "definition": "ohyfsad, rå",
+      "definition": "orsak, anledning",
       "word_definitions": [
-        "rå och ohyfsad",
-        "ohyfsad"
+        "skäl, anledning",
+        "anledning, orsak"
       ]
     },
     {
-      "title": "ALLVARLIG GRAD",
+      "title": "GRUNDOMRÅDE I VATTEN",
       "words": [
-        "grav",
-        "svårartad"
+        "rev",
+        "grynna"
       ],
-      "definition": "svår, allvarlig",
+      "definition": "skär, rev, grynna",
       "word_definitions": [
-        "allvarlig, svår",
-        "allvarlig"
+        "lina för fiske",
+        "litet grund"
       ]
     }
   ]

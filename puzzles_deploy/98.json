@@ -1,52 +1,52 @@
 {
-  "pivot": "operation",
+  "pivot": "ovan",
   "categories": [
     {
-      "title": "SÄTT ATT ARBETA",
+      "title": "HÖG POSITION",
       "words": [
-        "metod",
-        "strategi"
+        "uppe",
+        "överst"
       ],
-      "definition": "(komplicerad) procedur för att nå ett visst resultat",
+      "definition": "på en plats högre upp",
       "word_definitions": [
-        "(systematiskt) sätt att utföra något",
-        "långsiktig plan för att genomföra något"
+        "i ett läge högt upp",
+        "längst upp"
       ]
     },
     {
-      "title": "KIRURGISKA INGREPP",
+      "title": "TIDIGARE I TEXT",
       "words": [
-        "kejsarsnitt",
-        "ansiktslyftning"
+        "förr",
+        "tidigare"
       ],
-      "definition": "kirurgiskt ingrepp",
+      "definition": "tidigare i texten",
       "word_definitions": [
-        "förlossning genom ett kirurgiskt ingrepp",
-        "kirurgisk operation med avsikt att avlägsna rynkor"
+        "förut, tidigare",
+        "före tidpunkten för kommunikationen eller en annan specificerad tidpunkt"
       ]
     },
     {
-      "title": "MILITÄRA AKTIONER",
+      "title": "POSITION ÖVER",
       "words": [
-        "marsch",
-        "framryckning"
+        "över",
+        "på"
       ],
-      "definition": "militär handling för att uppnå ett visst syfte, t.ex. att förflytta en trupp soldater",
+      "definition": "över, ovanför",
       "word_definitions": [
-        "gång eller förflyttning i takt och i jämn fart (särskilt om truppförflyttning)",
-        "handlingen att rycka fram (särskilt militärt)"
+        "ovanför, ovanpå",
+        "i anslutning till, ovanpå"
       ]
     },
     {
-      "title": "UPPGIFTER OCH ARBETEN",
+      "title": "BRISTANDE VANA",
       "words": [
-        "mission",
-        "göromål"
+        "oerfaren",
+        "okunnig"
       ],
-      "definition": "uppgift, arbete",
+      "definition": "inte van",
       "word_definitions": [
-        "uppgift",
-        "syssla, arbete"
+        "inte erfaren, ovan",
+        "som saknar kunskap, oerfaren"
       ]
     }
   ]

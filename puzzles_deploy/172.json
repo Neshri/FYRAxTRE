@@ -1,0 +1,53 @@
+{
+  "pivot": "verk",
+  "categories": [
+    {
+      "title": "MÄNSKLIG HANDLING",
+      "words": [
+        "dåd",
+        "gärning"
+      ],
+      "definition": "handling, arbete",
+      "word_definitions": [
+        "handling",
+        "handling, verk, dåd"
+      ]
+    },
+    {
+      "title": "SKAPAT ALSTER",
+      "words": [
+        "alster",
+        "skrift"
+      ],
+      "definition": "produkt av arbete, alster",
+      "word_definitions": [
+        "något som skapats, produkt",
+        "publicerat arbete, bok"
+      ]
+    },
+    {
+      "title": "STATLIG MYNDIGHET",
+      "words": [
+        "departement",
+        "myndighet"
+      ],
+      "definition": "central myndighet",
+      "word_definitions": [
+        "enhet inom en regering med ansvar för ett visst område och med en minister som chef",
+        "egenskapen att vara myndig"
+      ]
+    },
+    {
+      "title": "TEKNISK MEKANISM",
+      "words": [
+        "maskineri",
+        "apparat"
+      ],
+      "definition": "mekanism",
+      "word_definitions": [
+        "en maskins konstruktion, mekanism",
+        "(teknisk) anordning; instrument; maskin"
+      ]
+    }
+  ]
+}

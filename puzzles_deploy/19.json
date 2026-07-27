@@ -1,52 +1,52 @@
 {
-  "pivot": "division",
+  "pivot": "drag",
   "categories": [
     {
-      "title": "SÄTT ATT DELA",
+      "title": "LINJER OCH TECKNINGAR",
       "words": [
-        "fördelning",
-        "halvering"
+        "streck",
+        "skiss"
       ],
-      "definition": "handlingen att dividera",
+      "definition": "teckning, linje",
       "word_definitions": [
-        "handlingen att fördela något; uppdelning",
-        "handlingen att halvera något"
+        "tunn linje",
+        "(förberedande) teckning"
       ]
     },
     {
-      "title": "MILITÄRA FÖRBAND",
+      "title": "ANSIKTSUTTRYCK",
       "words": [
-        "regemente",
-        "brigad"
+        "uppsyn",
+        "min"
       ],
-      "definition": "större militär avdelning",
+      "definition": "ansiktsuttryck; utseende",
       "word_definitions": [
-        "den högsta administrativa militära enheten på lokal nivå",
-        "stort förband inom en armé"
+        "utseende, min",
+        "uttryck i ansiktet"
       ]
     },
     {
-      "title": "FÖRETAGSAVDELNINGAR",
+      "title": "FLYTT I SPEL",
       "words": [
-        "byrå",
-        "filial"
+        "rörelse",
+        "flytt"
       ],
-      "definition": "avdelning inom företag",
+      "definition": "flyttning av spelpjäs",
       "word_definitions": [
-        "avdelning; firma",
-        "(ganska självständig) avdelning"
+        "förflyttning",
+        "det att flytta, särskilt byta hem"
       ]
     },
     {
-      "title": "SPORTSLIG NIVÅ",
+      "title": "LUFTSTRÖMMAR",
       "words": [
-        "serie",
-        "liga"
+        "pust",
+        "vind"
       ],
-      "definition": "klass i seriesystem",
+      "definition": "(kall) luftström",
       "word_definitions": [
-        "rad, följd",
-        "kriminell grupp, samling förbrytare"
+        "kort stöt (särskilt av luft)",
+        "naturlig luft i rörelse, blåst"
       ]
     }
   ]

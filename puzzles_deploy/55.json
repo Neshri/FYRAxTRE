@@ -2,51 +2,51 @@
   "pivot": "hacka",
   "categories": [
     {
-      "title": "SMÅSUMMA PENGAR",
+      "title": "OJÄMN MOTORGÅNG",
       "words": [
-        "struntsumma",
-        "kosing"
+        "strutta",
+        "fuska"
       ],
-      "definition": "mindre summa pengar",
+      "definition": "ryckig och ojämn motordrift",
       "word_definitions": [
-        "obetydlig summa pengar",
-        "pengar"
+        "går med ryckiga rörelser",
+        "använder otillåtna metoder för att vinna fördelar"
       ]
     },
     {
-      "title": "LÅGA SPELKORT",
+      "title": "ANGRIPA MED NÄBB/FINGRAR",
       "words": [
-        "tvåa",
-        "trea"
+        "picka",
+        "knipa"
       ],
-      "definition": "kort av låg valör inom kortspel",
+      "definition": "angripa varandra med näbben, nypas, trakassera",
       "word_definitions": [
-        "siffran 2; nummer 2 i ordningen",
-        "siffran 3; nummer 3 i ordningen"
+        "plockar upp föda med näbben",
+        "klämmer, nyper"
       ]
     },
     {
-      "title": "DATORINTRÅNG",
+      "title": "KRITISERA HÅRDT",
       "words": [
-        "knäcka",
-        "intränga"
+        "mobba",
+        "dissa"
       ],
-      "definition": "bryta sig in i olika system",
+      "definition": "kritisera, mobba, trakassera",
       "word_definitions": [
-        "bryter hårt material genom kraftigt slag eller tryck",
-        "obehörig beträda"
+        "ger sig på, trakasserar",
+        "kritiserar, nedvärderar"
       ]
     },
     {
-      "title": "TRÄDGÅRDSREDSKAP",
+      "title": "BEARBETA MED VASST",
       "words": [
-        "kratta",
-        "spade"
+        "hugga",
+        "skära"
       ],
-      "definition": "ett verktyg som används för att luckra upp jord",
+      "definition": "använda sig av en hacka; bearbeta med ett vasst föremål för att sönderdela, göra hål e.d.",
       "word_definitions": [
-        "ett redskap för att rensa och jämna ut jord",
-        "ett redskap att gräva med"
+        "slår med vasst föremål (för att sönderdela, skada m.m.)",
+        "bearbetar med kniv (för att dela upp eller skilja ifrån något)"
       ]
     }
   ]

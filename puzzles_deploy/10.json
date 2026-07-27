@@ -2,51 +2,51 @@
   "pivot": "blåsa",
   "categories": [
     {
-      "title": "PRAKTFULL KLÄDSEL",
+      "title": "KLÄDESPLAGG",
       "words": [
-        "skrud",
-        "toalett"
+        "dress",
+        "dräkt"
       ],
-      "definition": "påkostad klänning",
+      "definition": "klänning",
       "word_definitions": [
-        "praktfull klädsel (använd vid ceremonier o.d.)",
-        "kvinnlig festklädsel"
+        "dräkt",
+        "klädsel, kläder"
       ]
     },
     {
-      "title": "LUFT I RÖRELSE",
+      "title": "ANDAS UT HÄFTIGT",
       "words": [
-        "yra",
-        "vädra"
+        "frusta",
+        "nysa"
       ],
-      "definition": "naturligt strömma fram luft parallellt med jordytan",
+      "definition": "skicka ut en kraftig luftström genom munnen med hjälp av lungorna; andas ut kraftigt",
       "word_definitions": [
-        "virvlar runt i luften",
-        "släpper in frisk luft i ett rum, luftar"
+        "stöter ut luft genom nästan sluten mun",
+        "stöter ut luft häftigt genom näsa och mun (särskilt vid förkylning)"
       ]
     },
     {
-      "title": "BEDRAGA NÅGON",
+      "title": "RADERA DATA",
       "words": [
-        "svindla",
-        "dupera"
+        "formatera",
+        "tömma"
       ],
-      "definition": "lura, lura av",
+      "definition": "radera allt som finns lagrat på hårddisken för att kunna ominstallera operativsystemet",
       "word_definitions": [
-        "lurar",
-        "för bakom ljuset, lurar, bedrar"
+        "anpassar eller skapar system av filer på en hårddisk e.d. (varvid alla tidigare data raderas)",
+        "avlägsnar hela innehållet ur en behållare, gör tom"
       ]
     },
     {
-      "title": "HUDUTSLAG",
+      "title": "INRE ORGANBILDNINGAR",
       "words": [
-        "utslag",
-        "skorv"
+        "knöl",
+        "lunga"
       ],
-      "definition": "liten rundad böld på huden som innehåller vätska, orsakad av retning eller infektion",
+      "definition": "inre rundad bildning för vätska eller gas, som självständigt ord ofta om urinblåsan",
       "word_definitions": [
-        "blåsor eller irritation på huden",
-        "en hudsjukdom"
+        "rund (ibland sjuklig) bildning",
+        "organ att andas med hos människan (och de högre djuren)"
       ]
     }
   ]

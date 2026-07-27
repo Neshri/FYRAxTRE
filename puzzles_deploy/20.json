@@ -1,52 +1,52 @@
 {
-  "pivot": "drag",
+  "pivot": "dragning",
   "categories": [
     {
-      "title": "LINJER OCH TECKNINGAR",
+      "title": "SÄTT ATT LOTTA",
       "words": [
-        "streck",
-        "skiss"
+        "tombola",
+        "lotteri"
       ],
-      "definition": "teckning, linje",
+      "definition": "ett sätt att få fram vinnaren i ett lotteri; lottning",
       "word_definitions": [
-        "tunn linje",
-        "(förberedande) teckning"
+        "ett lotteri med en roterande låda som man drar lotterna ur",
+        "en sorts spel där slumpen avgör vem som vinner"
       ]
     },
     {
-      "title": "ANSIKTSUTTRYCK",
+      "title": "BÖJELSE ELLER ATTRAKTION",
       "words": [
-        "uppsyn",
-        "min"
+        "förkärlek",
+        "lockelse"
       ],
-      "definition": "ansiktsuttryck; utseende",
+      "definition": "böjelse, attraktion",
       "word_definitions": [
-        "utseende, min",
-        "uttryck i ansiktet"
+        "särskild böjelse eller smak",
+        "(något som har) förmåga att dra till sig intresse eller väcka begär"
       ]
     },
     {
-      "title": "FLYTT I SPEL",
+      "title": "FÄRGNYANS",
       "words": [
-        "rörelse",
-        "flytt"
+        "schattering",
+        "ton"
       ],
-      "definition": "flyttning av spelpjäs",
+      "definition": "nyans, skiftning",
       "word_definitions": [
-        "förflyttning",
-        "det att flytta, särskilt byta hem"
+        "färgskiftning",
+        "färgnyans"
       ]
     },
     {
-      "title": "LUFTSTRÖMMAR",
+      "title": "HOCKEYMANÖVER",
       "words": [
-        "pust",
-        "vind"
+        "dribbling",
+        "fint"
       ],
-      "definition": "(kall) luftström",
+      "definition": "dribbling i ishockey",
       "word_definitions": [
-        "kort stöt (särskilt av luft)",
-        "naturlig luft i rörelse, blåst"
+        "handlingen att dribbla",
+        "knep, påhitt"
       ]
     }
   ]

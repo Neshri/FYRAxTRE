@@ -1,52 +1,52 @@
 {
-  "pivot": "bekännelse",
+  "pivot": "block",
   "categories": [
     {
-      "title": "MEDGIVANDE AV BROTT",
+      "title": "BYGGMATERIAL",
       "words": [
-        "erkännande",
-        "medgivande"
+        "sten",
+        "betong"
       ],
-      "definition": "medgivande (särskilt av brott)",
+      "definition": "sammanhängande helhet (av hårt material, t.ex. sten)",
       "word_definitions": [
-        "medgivande",
-        "erkännande"
+        "(liten lös bit av) det hårda material som finns i berg",
+        "blandning av cement, sand, grus och vatten (som snabbt hårdnar)"
       ]
     },
     {
-      "title": "UTMÄRKELSER OCH HEDER",
+      "title": "POLITISKA SAMMANSLUTNINGAR",
       "words": [
-        "heder",
-        "diplom"
+        "union",
+        "förbund"
       ],
-      "definition": "erkännande",
+      "definition": "sammanslutning av organisationer eller partier",
       "word_definitions": [
-        "erkännande av anseende, ära",
-        "intyg om en examen eller utmärkelse"
+        "sammanslutning av stater, förbund",
+        "förening av organisationer"
       ]
     },
     {
-      "title": "TROSUTTRYCK",
+      "title": "PAPPERSHÄFTEN",
       "words": [
-        "credo",
-        "konfession"
+        "lunta",
+        "broschyr"
       ],
-      "definition": "öppen redovisning av tro",
+      "definition": "häfte med pappersark",
       "word_definitions": [
-        "(uttryck för) personlig tro",
-        "tillhörighet till en viss tro, trosbekännelse"
+        "bunt papper",
+        "tryckt häfte, folder"
       ]
     },
     {
-      "title": "RELIGIÖSA RIKTNINGAR",
+      "title": "LYFTANORDNINGAR",
       "words": [
-        "protestantism",
-        "katolicism"
+        "talja",
+        "vinsch"
       ],
-      "definition": "religiös riktning",
+      "definition": "lyftanordning med lina och en eller flera trissor",
       "word_definitions": [
-        "en kristen riktning som utgår från luthersk och reformert lära",
-        "en form av kristendom som företräds av den romerska kyrkan (ledd av påven)"
+        "lyftanordning med en lina mellan två block",
+        "anordning som används för att lyfta eller fira ner last, spel"
       ]
     }
   ]

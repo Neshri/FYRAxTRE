@@ -1,52 +1,52 @@
 {
-  "pivot": "form",
+  "pivot": "fräser",
   "categories": [
     {
-      "title": "TYPER AV BEHÅLLARE",
+      "title": "STEKA MAT",
       "words": [
-        "kärl",
-        "container"
+        "steka",
+        "bräcka"
       ],
-      "definition": "behållare (för t.ex. gjutning och bakning)",
+      "definition": "steker snabbt (i het panna)",
       "word_definitions": [
-        "mindre behållare som används i hushållet",
-        "stor behållare, låda"
+        "tillagar med matfett i stark hetta (i stekpanna)",
+        "steker lätt"
       ]
     },
     {
-      "title": "UTSEENDE OCH STIL",
+      "title": "HOTFULLA LJUD",
       "words": [
-        "yttre",
-        "stil"
+        "morra",
+        "pysa"
       ],
-      "definition": "sätt på vilket något är ordnat; utseende",
+      "definition": "ger ifrån sig ett ilsket s-liknande ljud",
       "word_definitions": [
-        "utseende",
-        "sätt att utföra eller utforma något"
+        "ger ifrån sig ett brummande, hotfullt ljud",
+        "strömmar ut med ett väsande ljud"
       ]
     },
     {
-      "title": "FYSISK KONDITION",
+      "title": "TILLRÄTTAVISA NÅGON",
       "words": [
-        "hälsa",
-        "kondition"
+        "förebrå",
+        "snäsa"
       ],
-      "definition": "fysiskt tillstånd, förmåga att nå bra (idrotts)resultat",
+      "definition": "snäser, tillrättavisar",
       "word_definitions": [
-        "tillståndet att må bra, friskhet",
-        "fysisk och psykisk hälsa; uthållighet"
+        "klandrar, tillrättavisar",
+        "tillrättavisar på ett irriterat sätt"
       ]
     },
     {
-      "title": "GRAMMATISKA BEGREPP",
+      "title": "BEARBETA MATERIAL",
       "words": [
-        "tempus",
-        "paradigm"
+        "borra",
+        "hyvla"
       ],
-      "definition": "ett ords utseende när det böjs",
+      "definition": "bearbetar (bort) med fräs",
       "word_definitions": [
-        "böjningsform hos verb som har att göra med tiden (presens och imperfekt)",
-        "böjningsmönster för verb, substantiv och adjektiv"
+        "gör hål (med borr)",
+        "jämnar till med hyvel"
       ]
     }
   ]

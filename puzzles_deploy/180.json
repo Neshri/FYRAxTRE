@@ -1,0 +1,53 @@
+{
+  "pivot": "över",
+  "categories": [
+    {
+      "title": "MER ÄN",
+      "words": [
+        "drygt",
+        "ytterligare"
+      ],
+      "definition": "mer än",
+      "word_definitions": [
+        "gott och väl, något mer än",
+        "dessutom, ännu (mer)"
+      ]
+    },
+    {
+      "title": "ÄR SLUT",
+      "words": [
+        "ute",
+        "förbi"
+      ],
+      "definition": "förbi, slut",
+      "word_definitions": [
+        "slut, förbi",
+        "slut"
+      ]
+    },
+    {
+      "title": "POSITION OVANFÖR",
+      "words": [
+        "ovan",
+        "på"
+      ],
+      "definition": "ovanför, ovanpå",
+      "word_definitions": [
+        "över, ovanför",
+        "i anslutning till, ovanpå"
+      ]
+    },
+    {
+      "title": "ANGÅENDE NÅGOT",
+      "words": [
+        "om",
+        "rörande"
+      ],
+      "definition": "om, angående, avseende",
+      "word_definitions": [
+        "angående, beträffande",
+        "angående, beträffande"
+      ]
+    }
+  ]
+}

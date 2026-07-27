@@ -1,0 +1,53 @@
+{
+  "pivot": "stämma",
+  "categories": [
+    {
+      "title": "BESTÄMMA GEMENSAMT",
+      "words": [
+        "fastställa",
+        "överenskomma"
+      ],
+      "definition": "bestämma; avtala",
+      "word_definitions": [
+        "bestämmer, föreskriver; konstaterar",
+        "bestämmer något tillsammans, kommer överens"
+      ]
+    },
+    {
+      "title": "FORMELT MÖTE",
+      "words": [
+        "konferens",
+        "kongress"
+      ],
+      "definition": "(större) sammankomst",
+      "word_definitions": [
+        "sammankomst (ofta kring ett tema)",
+        "(större) sammankomst med valda ombud (t.ex. politiker)"
+      ]
+    },
+    {
+      "title": "RÖSTKARAKTÄR",
+      "words": [
+        "falsett",
+        "klang"
+      ],
+      "definition": "röst",
+      "word_definitions": [
+        "onormalt högt röstläge",
+        "ljud som klingar, ton"
+      ]
+    },
+    {
+      "title": "MUSIKALISKA ELEMENT",
+      "words": [
+        "melodi",
+        "rytm"
+      ],
+      "definition": "linje i en musikalisk sats",
+      "word_definitions": [
+        "ordnad följd av toner som bildar en musikalisk helhet",
+        "regelbunden rörelse i musik; takt"
+      ]
+    }
+  ]
+}

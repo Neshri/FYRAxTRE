@@ -1,52 +1,52 @@
 {
-  "pivot": "faller",
+  "pivot": "fel",
   "categories": [
     {
-      "title": "FALLA FYSISKT",
+      "title": "FELAKTIG",
       "words": [
-        "ramla",
-        "trilla"
+        "oriktig",
+        "galen"
       ],
-      "definition": "ramlar, trillar",
+      "definition": "inte rätt, felaktig",
       "word_definitions": [
-        "faller, trillar",
-        "ramlar, faller"
+        "felaktig",
+        "felaktig"
       ]
     },
     {
-      "title": "SJUNKA I VÄRDE",
+      "title": "MISSTAG",
       "words": [
-        "dala",
-        "digna"
+        "fadäs",
+        "blunder"
       ],
-      "definition": "dalar, sjunker",
+      "definition": "handling som inte är korrekt, misstag",
       "word_definitions": [
-        "minskar",
-        "sjunker ner, sviktar"
+        "dumhet, misstag",
+        "misstag, fel"
       ]
     },
     {
-      "title": "MISTA LIVET",
+      "title": "ANSVAR FÖR MISSTAG",
       "words": [
-        "dö",
-        "stupa"
+        "ansvar",
+        "skuld"
       ],
-      "definition": "dör, stupar, omkommer",
+      "definition": "ansvar för ett misstag, skuld",
       "word_definitions": [
-        "slutar att leva, mister livet, går bort",
-        "faller i strid, dör"
+        "skyldighet att ta på sig skulden (om något går fel)",
+        "ansvar för brott eller fel"
       ]
     },
     {
-      "title": "GE UPP I KRIG",
+      "title": "TEKNISK BRIST",
       "words": [
-        "kapitulera",
-        "underkasta"
+        "defekt",
+        "skavank"
       ],
-      "definition": "kapitulerar, erövras",
+      "definition": "skada, brist, skavank",
       "word_definitions": [
-        "överlämnar sig till fienden; ger sig, ger upp",
-        "låta genomgå"
+        "ofullständig, bristfällig",
+        "liten skada"
       ]
     }
   ]

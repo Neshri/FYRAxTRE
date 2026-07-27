@@ -1,0 +1,53 @@
+{
+  "pivot": "sats",
+  "categories": [
+    {
+      "title": "SPRÅKLIGA ENHETER",
+      "words": [
+        "fras",
+        "ord"
+      ],
+      "definition": "större del av en mening (som ofta själv kan utgöra en mening)",
+      "word_definitions": [
+        "del av mening, talesätt, uttryck",
+        "minsta självständiga enhet i en text (med mellanrum före och efter)"
+      ]
+    },
+    {
+      "title": "UPPSÄTTNINGAR",
+      "words": [
+        "set",
+        "parti"
+      ],
+      "definition": "uppsättning av något, omgång",
+      "word_definitions": [
+        "omgång (i tennis och andra racketspel)",
+        "omgång, spel"
+      ]
+    },
+    {
+      "title": "BESTÄMD ANDEL",
+      "words": [
+        "kvot",
+        "tilldelning"
+      ],
+      "definition": "bestämd andel",
+      "word_definitions": [
+        "bestämt antal",
+        "vars och ens fastställda andel, ranson"
+      ]
+    },
+    {
+      "title": "MUSIKALISKA DELAR",
+      "words": [
+        "final",
+        "uvertyr"
+      ],
+      "definition": "del av ett större musikverk",
+      "word_definitions": [
+        "sista del av musikstycke",
+        "kort instrumentalt musikstycke, vanligen för orkester, som spelas som öppning till musikteatraliska verk"
+      ]
+    }
+  ]
+}

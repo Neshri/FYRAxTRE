@@ -1,52 +1,52 @@
 {
-  "pivot": "lopp",
+  "pivot": "lugn",
   "categories": [
     {
-      "title": "LÖPTÄVLINGAR",
+      "title": "FRIDFULLA EGENSKAPER",
       "words": [
-        "stafett",
-        "heat"
+        "stillsam",
+        "fredlig"
       ],
-      "definition": "enskild tävling i löpning e.d.",
+      "definition": "som rör sig mycket lite; fridfull",
       "word_definitions": [
-        "en sorts lagtävling (i t.ex. löpning och simning) där de tävlande inom samma lag avlöser varandra",
-        "tidig omgång av löptävling eller simtävling (där de sämre slås ut)"
+        "stilla, fridsam, lugn (mest om person)",
+        "lugn, stillsam, fridsam"
       ]
     },
     {
-      "title": "HÄNDELSEFÖLJD",
+      "title": "BEHÄRSKADE PERSONLIGHETER",
       "words": [
-        "process",
-        "utveckling"
+        "samlad",
+        "stoisk"
       ],
-      "definition": "(tidens) gång , förlopp",
+      "definition": "behärskad",
       "word_definitions": [
-        "förlopp, utveckling",
-        "handlingen att utveckla något; det att utvecklas, tillväxt"
+        "behärskad",
+        "lugn och behärskad"
       ]
     },
     {
-      "title": "GEVÄRSDELAR",
+      "title": "TILLSTÅND AV STILLHET",
       "words": [
-        "rör",
-        "pipa"
+        "frid",
+        "ro"
       ],
-      "definition": "insidan av gevärspipa",
+      "definition": "mycket lite rörelse; fridfullt tillstånd",
       "word_definitions": [
-        "lång ihålig cylinder, pipa",
-        "anordning med behållare för tobak som används vid rökning"
+        "lugn, ro, fred, stillhet",
+        "lugn och stillhet"
       ]
     },
     {
-      "title": "VATTENSTRÄCKA",
+      "title": "INRE BEHÄRSKNING",
       "words": [
-        "farled",
-        "sträcka"
+        "behärskning",
+        "besinning"
       ],
-      "definition": "utsträckning av vattendrag",
+      "definition": "behärskning av känslor",
       "word_definitions": [
-        "(mycket trafikerad) vattenväg",
-        "stycke väg, avstånd"
+        "kontroll över egna känslor, lugn",
+        "eftertanke, självbehärskning"
       ]
     }
   ]

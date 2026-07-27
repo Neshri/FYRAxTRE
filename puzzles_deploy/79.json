@@ -2,51 +2,51 @@
   "pivot": "leda",
   "categories": [
     {
-      "title": "KÄNSLA AV UTTRÅKNING",
+      "title": "STARK OLUST",
       "words": [
-        "uttråkning",
-        "träsmak"
+        "avsky",
+        "avsmak"
       ],
-      "definition": "känsla av att vara uttråkad",
+      "definition": "känsla av stark olust, motvilja eller uttråkning för att man har fått för mycket av något",
       "word_definitions": [
-        "tillståndet att vara uttråkad",
-        "känsla av trötthet eller uttråkning"
+        "motvilja, avsmak, hat",
+        "motvilja, äckel"
       ]
     },
     {
-      "title": "FÖRA NÅGON",
+      "title": "ORSAKA NÅGOT",
       "words": [
-        "styra",
-        "lotsa"
+        "föranleda",
+        "utlösa"
       ],
-      "definition": "hålla i och föra (i viss riktning)",
+      "definition": "ge som resultat; få att inträffa; föra till, inducera, orsaka",
       "word_definitions": [
-        "låter ett fordon gå i viss riktning",
-        "styr ett fartyg genom besvärliga farvatten"
+        "leder till, orsakar",
+        "gör aktiv; framkallar"
       ]
     },
     {
-      "title": "STYRA FLÖDE",
+      "title": "LEDA MÄNNISKOR",
       "words": [
-        "kanalisera",
-        "dirigera"
+        "behärska",
+        "sköta"
       ],
-      "definition": "föra (i viss riktning)",
+      "definition": "styra (andra människor, individuellt eller en grupp); ha bestämmande inflytande över; ansvara för",
       "word_definitions": [
-        "leder i viss riktning",
-        "leder orkester eller kör"
+        "har makt över, styr; klarar av, kan",
+        "vårdar, ger tillsyn; ansvarar för, tar hand om"
       ]
     },
     {
-      "title": "BÖJA NÅGOT",
+      "title": "HA ÖVERTAGET",
       "words": [
-        "kröka",
-        "bocka"
+        "dominera",
+        "överträffa"
       ],
-      "definition": "böja en led",
+      "definition": "ligga först; ha övertag",
       "word_definitions": [
-        "gör krokig, böjer",
-        "böjer (t.ex. en metallstång)"
+        "är starkt framträdande i visst sammanhang; behärskar",
+        "är bättre eller större än"
       ]
     }
   ]

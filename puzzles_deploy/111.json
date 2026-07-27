@@ -1,52 +1,52 @@
 {
-  "pivot": "på",
+  "pivot": "rad",
   "categories": [
     {
-      "title": "MOTSATT RIKTNING",
+      "title": "LINJÄR UPPSTÄLLNING",
       "words": [
-        "emot",
-        "kontra"
+        "kavalkad",
+        "fil"
       ],
-      "definition": "mot",
+      "definition": "uppställning av saker bredvid (eller bakom) varandra",
       "word_definitions": [
-        "mot",
-        "mot, gentemot"
+        "lång rad av föremål eller händelser (som passerar förbi)",
+        "ett verktyg av stål som används för att slipa ytor jämna"
       ]
     },
     {
-      "title": "POSITIONELLA PREPOSITIONER",
+      "title": "OLIKASORTA SERIER",
       "words": [
-        "över",
-        "vid"
+        "division",
+        "kollektion"
       ],
-      "definition": "i anslutning till, ovanpå",
+      "definition": "serie",
       "word_definitions": [
-        "ovanför, ovanpå",
-        "omkring, ungefär; i samband med"
+        "klass i seriesystem",
+        "samling"
       ]
     },
     {
-      "title": "TIDSMÄSSTIG OMFATTNING",
+      "title": "SKRIVEN TEXTFÖLJD",
       "words": [
-        "inom",
-        "under"
+        "lösenord",
+        "mening"
       ],
-      "definition": "under, inom (anger tidpunkt eller tidsrymd)",
+      "definition": "vågrätt följd av skrivna bokstäver",
       "word_definitions": [
-        "innanför",
-        "i läge nedanför"
+        "följd av bokstäver eller siffror som man måste ange för att komma in någonstans (t.ex. på en dator), kod",
+        "åsikt, uppfattning"
       ]
     },
     {
-      "title": "TIDSMÄSSTIG FÖLJD",
+      "title": "SITTPLATSER PÅ TEATER",
       "words": [
-        "sedan",
-        "efter"
+        "loge",
+        "läktare"
       ],
-      "definition": "efter",
+      "definition": "sittplatser på samma avstånd från scenen (på teater e.d.)",
       "word_definitions": [
-        "från, efter",
-        "därpå, därefter"
+        "omklädningsrum på teater; avgränsat utrymme med sittplatser på teater",
+        "upphöjd plats för åskådare eller åhörare"
       ]
     }
   ]

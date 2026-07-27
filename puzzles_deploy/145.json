@@ -1,0 +1,53 @@
+{
+  "pivot": "styrka",
+  "categories": [
+    {
+      "title": "FYSISK KRAFT",
+      "words": [
+        "vigör",
+        "must"
+      ],
+      "definition": "fysisk eller psykisk kraft",
+      "word_definitions": [
+        "hälsa, kraft",
+        "kraft"
+      ]
+    },
+    {
+      "title": "GRAD AV INTENSITET",
+      "words": [
+        "grad",
+        "utsträckning"
+      ],
+      "definition": "procenthalt, grad, intensitet",
+      "word_definitions": [
+        "utsträckning, omfattning",
+        "omfattning, grad"
+      ]
+    },
+    {
+      "title": "SAMARBETANDE GRUPP",
+      "words": [
+        "team",
+        "lag"
+      ],
+      "definition": "grupp som arbetar tillsammans",
+      "word_definitions": [
+        "(arbets)lag, grupp",
+        "grupp personer som samarbetar (i arbete, idrott etc.)"
+      ]
+    },
+    {
+      "title": "MILITÄR ENHET",
+      "words": [
+        "division",
+        "pluton"
+      ],
+      "definition": "militär grupp",
+      "word_definitions": [
+        "större militär avdelning",
+        "grupp soldater på ca 30 till 50 man"
+      ]
+    }
+  ]
+}

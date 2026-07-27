@@ -1,52 +1,52 @@
 {
-  "pivot": "få",
+  "pivot": "får",
   "categories": [
     {
-      "title": "NÅGRA STYCKEN",
+      "title": "TA EMOT NÅGOT",
       "words": [
-        "somliga",
-        "flera"
+        "erhålla",
+        "motta"
       ],
-      "definition": "bara några, ett litet antal, en liten mängd",
+      "definition": "tar emot, erhåller",
       "word_definitions": [
-        "en del, några",
-        "mer än en, åtskilliga, många"
+        "tar emot, får",
+        "välkomnar, tar emot"
       ]
     },
     {
-      "title": "UPNÅ FRAMGÅNG",
+      "title": "VARA TVUNGEN TILL",
       "words": [
-        "klara",
-        "lyckas"
+        "behöva",
+        "nödgas"
       ],
-      "definition": "lyckas med något",
+      "definition": "är tvungen, måste",
       "word_definitions": [
-        "genomför (med framgång)",
-        "har framgång; klarar av"
+        "är tvungen att",
+        "är tvungen"
       ]
     },
     {
-      "title": "KOMMA PÅ SVAR",
+      "title": "HUSDJUR",
       "words": [
-        "utröna",
-        "lösa"
+        "get",
+        "ko"
       ],
-      "definition": "komma fram till (ett svar)",
+      "definition": "ett däggdjur av släktet Ovis som hålls för ullens, köttets och till viss del mjölkens skull",
       "word_definitions": [
-        "tar reda på",
-        "ger fri"
+        "ett husdjur som ger mjölk och ost (släktet Capra)",
+        "ett husdjur som ger mjölk"
       ]
     },
     {
-      "title": "LURA NÅGON",
+      "title": "DUM PERSON",
       "words": [
-        "bluffa",
-        "förleda"
+        "nöt",
+        "dumbom"
       ],
-      "definition": "lura, få någon att gå på ett trick",
+      "definition": "person som anses dum i huvudet",
       "word_definitions": [
-        "försöker luras, skojar, bedrar",
-        "förför, lurar"
+        "person som verkar dum eller tankspridd",
+        "dum person, dumhuvud"
       ]
     }
   ]

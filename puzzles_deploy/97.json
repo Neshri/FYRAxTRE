@@ -1,52 +1,52 @@
 {
-  "pivot": "om",
+  "pivot": "operation",
   "categories": [
     {
-      "title": "UPPÅ NYT",
+      "title": "SÄTT ATT ARBETA",
       "words": [
-        "återigen",
-        "ånyo"
+        "metod",
+        "strategi"
       ],
-      "definition": "på nytt, ännu en gång, om igen",
+      "definition": "(komplicerad) procedur för att nå ett visst resultat",
       "word_definitions": [
-        "ännu en gång, åter, igen",
-        "på nytt, igen"
+        "(systematiskt) sätt att utföra något",
+        "långsiktig plan för att genomföra något"
       ]
     },
     {
-      "title": "VILLKORLIGT ORD",
+      "title": "KIRURGISKA INGREPP",
       "words": [
-        "ifall",
-        "såvitt"
+        "kejsarsnitt",
+        "ansiktslyftning"
       ],
-      "definition": "ifall, såvida",
+      "definition": "kirurgiskt ingrepp",
       "word_definitions": [
-        "om, såvida",
-        "såvida, om"
+        "förlossning genom ett kirurgiskt ingrepp",
+        "kirurgisk operation med avsikt att avlägsna rynkor"
       ]
     },
     {
-      "title": "TIDSPUNKT I FRAMTIDEN",
+      "title": "MILITÄRA AKTIONER",
       "words": [
-        "inom",
-        "efter"
+        "marsch",
+        "framryckning"
       ],
-      "definition": "på; inom en tid av",
+      "definition": "militär handling för att uppnå ett visst syfte, t.ex. att förflytta en trupp soldater",
       "word_definitions": [
-        "innanför",
-        "senare än; senare"
+        "gång eller förflyttning i takt och i jämn fart (särskilt om truppförflyttning)",
+        "handlingen att rycka fram (särskilt militärt)"
       ]
     },
     {
-      "title": "GÄLLANDE ÄMNE",
+      "title": "UPPGIFTER OCH ARBETEN",
       "words": [
-        "angående",
-        "beträffande"
+        "mission",
+        "göromål"
       ],
-      "definition": "angående, beträffande",
+      "definition": "uppgift, arbete",
       "word_definitions": [
-        "om, beträffande",
-        "i fråga om, angående"
+        "uppgift",
+        "syssla, arbete"
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "pivot": "skala",
+  "categories": [
+    {
+      "title": "MUSIKALISKA FÖLJDER",
+      "words": [
+        "melodi",
+        "tongång"
+      ],
+      "definition": "stegvis ordnad följd av toner (eller färger)",
+      "word_definitions": [
+        "ordnad följd av toner som bildar en musikalisk helhet",
+        "följd av toner, melodi"
+      ]
+    },
+    {
+      "title": "MÄTMARKERINGAR",
+      "words": [
+        "markering",
+        "skåra"
+      ],
+      "definition": "ordnade markeringar på mätinstrument e.dyl. där avståndet mellan markeringarna motsvarar en viss måttenhet",
+      "word_definitions": [
+        "handlingen att markera något (eller någon)",
+        "repa, rispa, fåra"
+      ]
+    },
+    {
+      "title": "AVLÄGSNA YTSKIKT",
+      "words": [
+        "flå",
+        "skrapa"
+      ],
+      "definition": "avlägsna skalet eller annat hölje från något (t.ex. potatis)",
+      "word_definitions": [
+        "tar av skinnet på djur",
+        "tar bort ojämnheter (med ett vasst föremål); skaver, river"
+      ]
+    },
+    {
+      "title": "STORLEKSFÖRHÅLLANDEN",
+      "words": [
+        "proportion",
+        "kvot"
+      ],
+      "definition": "storleksförhållandet mellan en avbildning och det avbildade föremålet eller området, särskilt i kartsammanhang",
+      "word_definitions": [
+        "överensstämmelse mellan storlekarna på olika delar",
+        "resultat av en division"
+      ]
+    }
+  ]
+}

@@ -1,52 +1,52 @@
 {
-  "pivot": "bas",
+  "pivot": "bekännelse",
   "categories": [
     {
-      "title": "MANLIGA SÅNGRÖSTER",
+      "title": "MEDGIVANDE AV BROTT",
       "words": [
-        "baryton",
-        "tenor"
+        "erkännande",
+        "medgivande"
       ],
-      "definition": "(man med) sångröst i lågt tonläge",
+      "definition": "medgivande (särskilt av brott)",
       "word_definitions": [
-        "(man med) sångröst i läge mellan bas och tenor",
-        "(man med) stämma i högt tonläge"
+        "medgivande",
+        "erkännande"
       ]
     },
     {
-      "title": "PERSON I LEDNING",
+      "title": "UTMÄRKELSER OCH HEDER",
       "words": [
-        "direktör",
-        "ledare"
+        "heder",
+        "diplom"
       ],
-      "definition": "förman, chef",
+      "definition": "erkännande",
       "word_definitions": [
-        "chef (för ett företag, en institution e.d.)",
-        "person som leder något; chef"
+        "erkännande av anseende, ära",
+        "intyg om en examen eller utmärkelse"
       ]
     },
     {
-      "title": "MILITÄR ANLÄGGNING",
+      "title": "TROSUTTRYCK",
       "words": [
-        "garnison",
-        "kasern"
+        "credo",
+        "konfession"
       ],
-      "definition": "militär anläggning (ofta utanför det egna landet)",
+      "definition": "öppen redovisning av tro",
       "word_definitions": [
-        "militärförläggning på en ort",
-        "permanent byggnad för militär trupp"
+        "(uttryck för) personlig tro",
+        "tillhörighet till en viss tro, trosbekännelse"
       ]
     },
     {
-      "title": "KEMISKA BASER",
+      "title": "RELIGIÖSA RIKTNINGAR",
       "words": [
-        "soda",
-        "kalk"
+        "protestantism",
+        "katolicism"
       ],
-      "definition": "kemiskt ämne som kan ta upp vätejoner",
+      "definition": "religiös riktning",
       "word_definitions": [
-        "ett ämne som används bl.a. i tvättmedel",
-        "ett hårt (vitt) ämne som innehåller kalcium"
+        "en kristen riktning som utgår från luthersk och reformert lära",
+        "en form av kristendom som företräds av den romerska kyrkan (ledd av påven)"
       ]
     }
   ]

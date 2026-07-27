@@ -1,0 +1,53 @@
+{
+  "pivot": "ställning",
+  "categories": [
+    {
+      "title": "KROPPENS HÅLLNING",
+      "words": [
+        "pose",
+        "hållning"
+      ],
+      "definition": "sätt att stå eller sitta eller ligga",
+      "word_definitions": [
+        "konstlad eller utstuderad ställning",
+        "sätt att hålla kroppen (upprätt)"
+      ]
+    },
+    {
+      "title": "PERSONLIG ÅSIKT",
+      "words": [
+        "synpunkt",
+        "åsikt"
+      ],
+      "definition": "ståndpunkt",
+      "word_definitions": [
+        "ståndpunkt, åsikt, bedömning",
+        "det som man tycker om något, mening, uppfattning"
+      ]
+    },
+    {
+      "title": "SOCIAL STATUS",
+      "words": [
+        "status",
+        "rang"
+      ],
+      "definition": "social position",
+      "word_definitions": [
+        "(högt) socialt anseende",
+        "(social) ställning i en grupp"
+      ]
+    },
+    {
+      "title": "BYGGNADSKONSTRUKTION",
+      "words": [
+        "uppbyggnad",
+        "konstruktion"
+      ],
+      "definition": "konstruktion",
+      "word_definitions": [
+        "konstruktion, struktur",
+        "konstruerad produkt"
+      ]
+    }
+  ]
+}

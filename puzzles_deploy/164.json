@@ -1,0 +1,53 @@
+{
+  "pivot": "tur",
+  "categories": [
+    {
+      "title": "KORT RESA",
+      "words": [
+        "utflykt",
+        "tripp"
+      ],
+      "definition": "kort resa, utflykt, tripp",
+      "word_definitions": [
+        "kort resa för nöjes skull",
+        "kort nöjesresa, tur"
+      ]
+    },
+    {
+      "title": "SCHEMALAGD RESA",
+      "words": [
+        "avgång",
+        "förbindelse"
+      ],
+      "definition": "färd enligt tidtabell",
+      "word_definitions": [
+        "handlingen att lämna ett arbete, avsked",
+        "samband, kontakt"
+      ]
+    },
+    {
+      "title": "LYCKA OCH SLUMP",
+      "words": [
+        "medgång",
+        "lycka"
+      ],
+      "definition": "det att gynnas av slumpen, lycka",
+      "word_definitions": [
+        "framgång, lycka",
+        "känsla av djup glädje"
+      ]
+    },
+    {
+      "title": "ORDNINGSFÖLJD",
+      "words": [
+        "placering",
+        "nummer"
+      ],
+      "definition": "plats i en viss följd, ordning",
+      "word_definitions": [
+        "plats (ofta i någon sorts rangordning)",
+        "siffra eller grupp av siffror (som t.ex. anger plats i ordningsföljd eller storlek)"
+      ]
+    }
+  ]
+}

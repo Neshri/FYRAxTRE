@@ -1,52 +1,52 @@
 {
-  "pivot": "block",
+  "pivot": "blåsa",
   "categories": [
     {
-      "title": "BYGGMATERIAL",
+      "title": "PRAKTFULL KLÄDSEL",
       "words": [
-        "sten",
-        "betong"
+        "skrud",
+        "toalett"
       ],
-      "definition": "sammanhängande helhet (av hårt material, t.ex. sten)",
+      "definition": "påkostad klänning",
       "word_definitions": [
-        "(liten lös bit av) det hårda material som finns i berg",
-        "blandning av cement, sand, grus och vatten (som snabbt hårdnar)"
+        "praktfull klädsel (använd vid ceremonier o.d.)",
+        "kvinnlig festklädsel"
       ]
     },
     {
-      "title": "POLITISKA SAMMANSLUTNINGAR",
+      "title": "LUFT I RÖRELSE",
       "words": [
-        "union",
-        "förbund"
+        "yra",
+        "vädra"
       ],
-      "definition": "sammanslutning av organisationer eller partier",
+      "definition": "naturligt strömma fram luft parallellt med jordytan",
       "word_definitions": [
-        "sammanslutning av stater, förbund",
-        "förening av organisationer"
+        "virvlar runt i luften",
+        "släpper in frisk luft i ett rum, luftar"
       ]
     },
     {
-      "title": "PAPPERSHÄFTEN",
+      "title": "BEDRAGA NÅGON",
       "words": [
-        "lunta",
-        "broschyr"
+        "svindla",
+        "dupera"
       ],
-      "definition": "häfte med pappersark",
+      "definition": "lura, lura av",
       "word_definitions": [
-        "bunt papper",
-        "tryckt häfte, folder"
+        "lurar",
+        "för bakom ljuset, lurar, bedrar"
       ]
     },
     {
-      "title": "LYFTANORDNINGAR",
+      "title": "HUDUTSLAG",
       "words": [
-        "talja",
-        "vinsch"
+        "utslag",
+        "skorv"
       ],
-      "definition": "lyftanordning med lina och en eller flera trissor",
+      "definition": "liten rundad böld på huden som innehåller vätska, orsakad av retning eller infektion",
       "word_definitions": [
-        "lyftanordning med en lina mellan två block",
-        "anordning som används för att lyfta eller fira ner last, spel"
+        "blåsor eller irritation på huden",
+        "en hudsjukdom"
       ]
     }
   ]

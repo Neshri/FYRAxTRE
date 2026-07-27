@@ -1,52 +1,52 @@
 {
-  "pivot": "färg",
+  "pivot": "få",
   "categories": [
     {
-      "title": "VISUELL NYANS",
+      "title": "LITE ANTAL",
       "words": [
-        "nyans",
-        "kulör"
+        "några",
+        "vissa"
       ],
-      "definition": "ett slags synintryck (rött, grönt etc.); kulör, nyans",
+      "definition": "inte många",
       "word_definitions": [
-        "färgton",
-        "färg"
+        "plural av någon",
+        "somliga, inte alla"
       ]
     },
     {
-      "title": "ÅSIKTSMÄSSIG RIKTNING",
+      "title": "TA EMOT",
       "words": [
-        "strömning",
-        "ståndpunkt"
+        "motta",
+        "erhålla"
       ],
-      "definition": "åsiktsriktning",
+      "definition": "erhålla, motta, bekomma, vinna; bli given",
       "word_definitions": [
-        "samling idéer, åsiktsriktning",
-        "ställningstagande, åsikt"
+        "välkomnar, tar emot",
+        "tar emot, får"
       ]
     },
     {
-      "title": "SOCIAL STÄMNING",
+      "title": "VARA TVUNGEN",
       "words": [
-        "atmosfär",
-        "klimat"
+        "måste",
+        "behöva"
       ],
-      "definition": "positiv stämning",
+      "definition": "tillåtas eller måste",
       "word_definitions": [
-        "stämning, anda",
-        "stämning, atmosfär"
+        "indikerar att det finns ett krav på att subjektet i meningen ska göra något; uttrycker nödvändighet",
+        "har behov av"
       ]
     },
     {
-      "title": "KORTLEKENS FÄRGER",
+      "title": "DRAS MED SJUKDOM",
       "words": [
-        "hjärter",
-        "spader"
+        "insjukna",
+        "smitta"
       ],
-      "definition": "en av serierna hjärter, spader, ruter och klöver i en kortlek",
+      "definition": "bli sjuk; dra på sig en sjukdom",
       "word_definitions": [
-        "en av de fyra färgerna i en kortlek",
-        "(kort i) en av de fyra färgerna i kortspel"
+        "blir sjuk",
+        "sprider sjukdom till andra"
       ]
     }
   ]

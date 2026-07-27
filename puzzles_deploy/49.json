@@ -1,52 +1,52 @@
 {
-  "pivot": "följer",
+  "pivot": "för",
   "categories": [
     {
-      "title": "TA ÖVER ROLL",
+      "title": "GRADAVADVERB",
       "words": [
-        "ersätta",
-        "avlösa"
+        "väl",
+        "omåttligt"
       ],
-      "definition": "efterträder",
+      "definition": "i väl hög grad, alltför",
       "word_definitions": [
-        "vikarierar för; efterträder",
-        "efterträder, ersätter, löser av"
+        "i alltför hög grad",
+        "oerhört, mycket"
       ]
     },
     {
-      "title": "VARA SÄLLSKAP",
+      "title": "KAUSALA KONJUNKTIONER",
       "words": [
-        "sällskapa",
-        "ledsaga"
+        "eftersom",
+        "då"
       ],
-      "definition": "gör sällskap med",
+      "definition": "ty",
       "word_definitions": [
-        "är sällskap åt; är partner till",
-        "följer med på vägen"
+        "därför att, emedan",
+        "när"
       ]
     },
     {
-      "title": "LYDA INSTRUKTIONER",
+      "title": "MEDEL PREPOSITIONER",
       "words": [
-        "hörsamma",
-        "vika"
+        "genom",
+        "medelst"
       ],
-      "definition": "rättar sig efter, lyder",
+      "definition": "med hjälp av",
       "word_definitions": [
-        "rättar sig efter, lyder",
-        "drar sig tillbaka, ger efter"
+        "med hjälp av, med",
+        "med hjälp av, genom"
       ]
     },
     {
-      "title": "HÅLLA KOLL PÅ",
+      "title": "BÅTENS FRONT",
       "words": [
-        "iaktta",
-        "uppmärksamma"
+        "bog",
+        "stäv"
       ],
-      "definition": "observerar, hänger med i",
+      "definition": "främre delen av en båt",
       "word_definitions": [
-        "följer, visar, tar hänsyn till",
-        "lägger märke till, observerar"
+        "främsta delen (fören) på en båt",
+        "ett fartygs för eller akter"
       ]
     }
   ]

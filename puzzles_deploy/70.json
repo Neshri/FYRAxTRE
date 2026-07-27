@@ -1,52 +1,52 @@
 {
-  "pivot": "koloni",
+  "pivot": "komma",
   "categories": [
     {
-      "title": "UTLANDSOMRÅDE",
+      "title": "SKILJETECKEN",
       "words": [
-        "bosättning",
-        "protektorat"
+        "semikolon",
+        "punkt"
       ],
-      "definition": "ett lands besittning utomlands; samhälle av nybyggare",
+      "definition": "ett skiljetecken (,)",
       "word_definitions": [
-        "skapande av ett hem; bebyggelse",
-        "skyddat område; land som står under ett annat lands överhöghet"
+        "ett skiljetecken (;)",
+        "tecken för slutet på en mening (.)"
       ]
     },
     {
-      "title": "BARNLÄGER",
+      "title": "ANLÄNDA EN PLATS",
       "words": [
-        "feriehem",
-        "läger"
+        "nå",
+        "anlända"
       ],
-      "definition": "sommarhem för barn, kollo",
+      "definition": "anlända eller nå fram till en plats",
       "word_definitions": [
-        "privat hem som under sommaren tar emot barn i yngre skolåldern",
-        "plats där en grupp personer tillfälligt bor i tält eller baracker"
+        "kommer fram till, anländer till",
+        "kommer fram, ankommer"
       ]
     },
     {
-      "title": "DJURGRUPP",
+      "title": "BLI NÅGOT",
       "words": [
-        "flock",
-        "svärm"
+        "bli",
+        "utvecklas"
       ],
-      "definition": "samling av människor, djur eller växter",
+      "definition": "av en händelse övergå till visst (framtida) skeende eller tillstånd",
       "word_definitions": [
-        "grupp, klunga, skara, samling (särskilt av vissa djur)",
-        "grupp av flygande djur (särskilt insekter)"
+        "börjar vara, kommer att vara",
+        "blir större eller bättre, växer till"
       ]
     },
     {
-      "title": "ODLINGSPLATS",
+      "title": "MINNAS NÅGOT",
       "words": [
-        "odlingslott",
-        "trädgård"
+        "minnas",
+        "återkalla"
       ],
-      "definition": "kolonilott",
+      "definition": "i betydelsen komma ihåg",
       "word_definitions": [
-        "andel av en trädgård eller annan odlingsmark, där man kan odla sina egna grönsaker eller andra växter",
-        "område med odlade växter"
+        "kommer ihåg",
+        "kalla åter, hemkalla, ta tillbaka"
       ]
     }
   ]

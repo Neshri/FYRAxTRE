@@ -1,52 +1,52 @@
 {
-  "pivot": "program",
+  "pivot": "punkt",
   "categories": [
     {
-      "title": "PLAN FÖR GENOMFÖRANDE",
+      "title": "TECKEN I SKRIFT",
       "words": [
-        "strategi",
-        "handlingsplan"
+        "komma",
+        "parentes"
       ],
-      "definition": "plan eller översikt över hur något ska genomföras",
+      "definition": "tecken för slutet på en mening (.)",
       "word_definitions": [
-        "långsiktig plan för att genomföra något",
-        "plan för verksamhet (som finns till eller skapas för att man vill förändra något)"
+        "ett skiljetecken (,)",
+        "tecknet ( ) eller det som står inom det"
       ]
     },
     {
-      "title": "TYPER AV SÄNDNINGAR",
+      "title": "AVSLUTNING PÅ NÅGOT",
       "words": [
-        "magasin",
-        "feature"
+        "final",
+        "konklusion"
       ],
-      "definition": "enskild sändning i radio eller tv",
+      "definition": "slut",
       "word_definitions": [
-        "program i radio eller tv; tidskrift",
-        "radio- eller tv-program med inslag av dokumentärt och dramatiserat material; stort reportage i tidning"
+        "avslutning",
+        "slutsats"
       ]
     },
     {
-      "title": "DATORKOD OCH PROGRAMVARA",
+      "title": "LÄGE OCH POSITION",
       "words": [
-        "mjukvara",
-        "källkod"
+        "position",
+        "placering"
       ],
-      "definition": "instruktion för en dator",
+      "definition": "plats, läge (i rum eller tid)",
       "word_definitions": [
-        "program till en dator, programvara",
-        "instruktioner i ett visst programspråk"
+        "ställning, läge",
+        "plats (ofta i någon sorts rangordning)"
       ]
     },
     {
-      "title": "VAL AV UTBILDNING",
+      "title": "DEL AV HELHET",
       "words": [
-        "linje",
-        "utbildning"
+        "avsnitt",
+        "moment"
       ],
-      "definition": "inriktning av utbildning (särskilt på gymnasiet och universitetet)",
+      "definition": "avsnitt, del, inslag",
       "word_definitions": [
-        "kurs, inriktning",
-        "undervisning, studier (ofta med sikte på examen)"
+        "del, avdelning, stycke",
+        "beståndsdel; avsnitt"
       ]
     }
   ]

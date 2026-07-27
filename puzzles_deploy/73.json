@@ -2,51 +2,51 @@
   "pivot": "kors",
   "categories": [
     {
-      "title": "GEOMETRISKA FIGURER",
+      "title": "GEOMETRISKA FORMER",
       "words": [
-        "kryss",
-        "vinkel"
+        "triangel",
+        "kvadrat"
       ],
-      "definition": "en figur där en rak linje korsar en annan vinkelrätt; kryss",
+      "definition": "geometrisk figur (form) bestående av två streck eller linjer som skär varandra vinkelrätt, den ena går horisontellt och den andra vertikalt",
       "word_definitions": [
-        "(ritad) figur i form av ett lutande kors (x)",
-        "öppning mellan två räta linjer som utgår från samma punkt, hörn"
+        "geometrisk figur med tre sidor, trekant",
+        "en geometrisk figur med fyra lika långa sidor och räta vinklar"
       ]
     },
     {
-      "title": "AVRÄTTNINGSSTÄLLNINGAR",
+      "title": "RELIGIÖSA SYMBOLER",
       "words": [
-        "krucifix",
-        "galge"
+        "sinnebild",
+        "ikon"
       ],
-      "definition": "ställning (formad som ett kors) där Jesus hängdes upp för att dö (enligt Bibeln); krucifix",
+      "definition": "kristen symbol för lidandet",
       "word_definitions": [
-        "skulptur av Jesus på korset",
-        "ställning där dödsdömda häng(de)s"
+        "symbol",
+        "person eller företeelse som har stort värde som samlande symbol, idol"
       ]
     },
     {
-      "title": "TUNG BÖRDA",
+      "title": "TORTYRREKVISITA",
       "words": [
-        "ok",
-        "last"
+        "giljotin",
+        "stock"
       ],
-      "definition": "börda; bestraffning",
+      "definition": "historiskt tortyrredskap i form av ett kors",
       "word_definitions": [
-        "börda, förtryck",
-        "något som bärs eller fraktas, börda"
+        "ett redskap som man förr halshögg dödsdömda personer med",
+        "stam av ett träd som fällts"
       ]
     },
     {
-      "title": "DELAR AV BÅLEN",
+      "title": "UTROP AV FÖRVÅNING",
       "words": [
-        "bäcken",
-        "svank"
+        "oj",
+        "hoppsan"
       ],
-      "definition": "del av bålen över bäcken och de främre svanskotorna hos ryggradsdjur eller människan (där ryggrad och höftben tillsammans bildar ett kors)",
+      "definition": "uttrycker förvåning",
       "word_definitions": [
-        "(benstommen vid) nedre delen av bålen",
-        "område i ryggradens nedre del som är böjt inåt"
+        "uttrycker förvåning",
+        "uttrycker att något inte gick som planerat, även viss förvåning"
       ]
     }
   ]

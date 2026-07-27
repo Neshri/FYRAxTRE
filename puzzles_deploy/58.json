@@ -1,52 +1,52 @@
 {
-  "pivot": "hård",
+  "pivot": "hög",
   "categories": [
     {
-      "title": "FAST MATERIAL",
+      "title": "HÖG TON",
       "words": [
-        "fast",
-        "solid"
+        "ljus",
+        "gäll"
       ],
-      "definition": "som inte ger efter för tryck eller böjning",
+      "definition": "som ligger långt upp på tonskalan",
       "word_definitions": [
-        "hård, massiv",
-        "gedigen, massiv"
+        "som ger ifrån sig mycket ljus; upplyst",
+        "skarp, genomträngande"
       ]
     },
     {
-      "title": "STRÄNG PERSONLIGHET",
+      "title": "INFLYTELSERIK STÄLLNING",
       "words": [
-        "kall",
-        "strikt"
+        "inflytelserik",
+        "betydelsefull"
       ],
-      "definition": "okänslig, sträng",
+      "definition": "som har inflytelserik ställning",
       "word_definitions": [
-        "hård, okänslig",
-        "sträng; korrekt; som ska följas noggrant"
+        "som har stort inflytande",
+        "som har stor betydelse, viktig"
       ]
     },
     {
-      "title": "TUNG ANSTRÄNGNING",
+      "title": "AVANCERAD NIVÅ",
       "words": [
-        "jobbig",
-        "mödosam"
+        "försigkommen",
+        "sofistikerad"
       ],
-      "definition": "intensiv, påfrestande",
+      "definition": "avancerad",
       "word_definitions": [
-        "ansträngande, påfrestande",
-        "ansträngande, besvärlig"
+        "väl utvecklad, avancerad",
+        "förfinad"
       ]
     },
     {
-      "title": "KRAFTIG STORLEK",
+      "title": "ANHOPNING AV MATERIAL",
       "words": [
-        "massiv",
-        "rejäl"
+        "stapel",
+        "trave"
       ],
-      "definition": "kraftig",
+      "definition": "anhopning av material",
       "word_definitions": [
-        "tung, kraftig",
-        "stor, kraftig"
+        "hög av staplat material, trave",
+        "hög av föremål"
       ]
     }
   ]

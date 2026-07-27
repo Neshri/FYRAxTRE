@@ -1,0 +1,53 @@
+{
+  "pivot": "skola",
+  "categories": [
+    {
+      "title": "GE UTBILDNING",
+      "words": [
+        "träna",
+        "utbilda"
+      ],
+      "definition": "utbilda, träna",
+      "word_definitions": [
+        "övar sig (i något)",
+        "ger utbildning åt"
+      ]
+    },
+    {
+      "title": "STILPERIOD",
+      "words": [
+        "barock",
+        "rokoko"
+      ],
+      "definition": "stilriktning inom konst, litteratur etc.",
+      "word_definitions": [
+        "en stil inom konst, musik och litteratur under 1600-talet och en del av 1700-talet",
+        "en stil (inom bl.a. konsten och arkitekturen) med rundade ornament och vanligen ljusa färger"
+      ]
+    },
+    {
+      "title": "PÅSTÅ NÅGOT",
+      "words": [
+        "heta",
+        "hävda"
+      ],
+      "definition": "lär, vad som påstås",
+      "word_definitions": [
+        "påstås",
+        "påstår"
+      ]
+    },
+    {
+      "title": "HA AVSIKT",
+      "words": [
+        "ämna",
+        "avse"
+      ],
+      "definition": "ämna, ha för avsikt att (ofta om förflyttning)",
+      "word_definitions": [
+        "har för avsikt att, avser, tänker",
+        "tänker på, har som mål, ämnar"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "pivot": "säker",
+  "categories": [
+    {
+      "title": "UTOM FARA",
+      "words": [
+        "riskfri",
+        "trygg"
+      ],
+      "definition": "utom fara, skyddad, trygg",
+      "word_definitions": [
+        "som inte innebär någon risk, säker",
+        "säker (om människans omgivning)"
+      ]
+    },
+    {
+      "title": "ATT LITA PÅ",
+      "words": [
+        "trovärdig",
+        "solid"
+      ],
+      "definition": "tillförlitlig",
+      "word_definitions": [
+        "som man kan tro på, pålitlig, tillförlitlig",
+        "grundlig, pålitlig"
+      ]
+    },
+    {
+      "title": "VARA ÖVERTYGAD",
+      "words": [
+        "viss",
+        "övertygad"
+      ],
+      "definition": "övertygad, förvissad",
+      "word_definitions": [
+        "säker, övertygad",
+        "som är säker på sin sak; om någon som anser sig veta vad som stämmer"
+      ]
+    },
+    {
+      "title": "UTAN TVIVEL",
+      "words": [
+        "omisskännlig",
+        "självklar"
+      ],
+      "definition": "otvivelaktig",
+      "word_definitions": [
+        "otvetydig, uppenbar",
+        "naturlig, självfallen"
+      ]
+    }
+  ]
+}

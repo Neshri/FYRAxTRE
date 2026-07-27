@@ -1,0 +1,53 @@
+{
+  "pivot": "täcker",
+  "categories": [
+    {
+      "title": "TÄCKA EN YTA",
+      "words": [
+        "dölja",
+        "bekläda"
+      ],
+      "definition": "lägger över (för att skydda eller dölja)",
+      "word_definitions": [
+        "gömmer, täcker över",
+        "innehar"
+      ]
+    },
+    {
+      "title": "BREDA UT SIG",
+      "words": [
+        "expandera",
+        "utvidga"
+      ],
+      "definition": "breder ut sig över",
+      "word_definitions": [
+        "breder ut sig, utvidgas, växer",
+        "gör större, expanderar"
+      ]
+    },
+    {
+      "title": "BETALA EN SUMMA",
+      "words": [
+        "pröjsa",
+        "bekosta"
+      ],
+      "definition": "betalar",
+      "word_definitions": [
+        "betalar",
+        "betalar för"
+      ]
+    },
+    {
+      "title": "JOURNALISTISK BEVAKNING",
+      "words": [
+        "bevaka",
+        "rapportera"
+      ],
+      "definition": "bevakar (som journalist)",
+      "word_definitions": [
+        "vaktar; övervakar (och skildrar)",
+        "redogör för"
+      ]
+    }
+  ]
+}

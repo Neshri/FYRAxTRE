@@ -1,52 +1,52 @@
 {
-  "pivot": "mask",
+  "pivot": "medel",
   "categories": [
     {
-      "title": "KRYPANDE DJUR",
+      "title": "KEMISKA ÄMNEN",
       "words": [
-        "snigel",
-        "orm"
+        "preparat",
+        "syra"
       ],
-      "definition": "ett litet djur som krälar och ofta håller till i jorden",
+      "definition": "hjälpmedel (ofta en kemisk substans)",
       "word_definitions": [
-        "ett litet djur som krälar mycket långsamt på marken",
-        "en typ av kräldjur som rör sig med slingrande rörelser (ordningen Serpentes)"
+        "ämne som framställts på kemisk väg, kemisk produkt",
+        "en sorts kemisk förening med (vanligen) sur smak"
       ]
     },
     {
-      "title": "SÄTT ATT DÖLJA ANSIKTET",
+      "title": "MEDICINSKA KURER",
       "words": [
-        "kamouflage",
-        "sminkning"
+        "piller",
+        "kur"
       ],
-      "definition": "förklädnad för ansiktet",
+      "definition": "medicin",
       "word_definitions": [
-        "åtgärd för att dölja något; förklädnad",
-        "smink"
+        "liten tablett som innehåller medicin",
+        "behandling mot sjukdom"
       ]
     },
     {
-      "title": "SKYDD OCH FÖRSVAR",
+      "title": "EKONOMISKA TILLGÅNGAR",
       "words": [
-        "beskydd",
-        "värn"
+        "kapital",
+        "förmögenhet"
       ],
-      "definition": "skydd",
+      "definition": "tillgångar, pengar",
       "word_definitions": [
-        "försvar, skydd",
-        "skydd, försvar"
+        "pengar och andra tillgångar",
+        "tillgångar som räknas i pengar"
       ]
     },
     {
-      "title": "ANSIKTSSKYDD",
+      "title": "SÄTT ATT GÖRA NÅGOT",
       "words": [
-        "hjälm",
-        "solglasögon"
+        "väg",
+        "grepp"
       ],
-      "definition": "skydd för ansiktet",
+      "definition": "sätt, metod",
       "word_definitions": [
-        "skydd för huvudet",
-        "mörka glasögon som skyddar mot starkt solljus"
+        "sätt, metod",
+        "angreppssätt, metod"
       ]
     }
   ]

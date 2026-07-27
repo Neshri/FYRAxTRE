@@ -1,52 +1,52 @@
 {
-  "pivot": "går",
+  "pivot": "hacka",
   "categories": [
     {
-      "title": "FÖRFLYTTNING TILL FOTS",
+      "title": "SMÅSUMMA PENGAR",
       "words": [
-        "vandra",
-        "promenera"
+        "struntsumma",
+        "kosing"
       ],
-      "definition": "förflyttar sig till fots (utan att springa)",
+      "definition": "mindre summa pengar",
       "word_definitions": [
-        "förflyttar sig",
-        "går (särskilt för nöjes skull), spatserar"
+        "obetydlig summa pengar",
+        "pengar"
       ]
     },
     {
-      "title": "FUNGERA ORDENTLIGT",
+      "title": "LÅGA SPELKORT",
       "words": [
-        "funka",
-        "verka"
+        "tvåa",
+        "trea"
       ],
-      "definition": "fungerar; avlöper",
+      "definition": "kort av låg valör inom kortspel",
       "word_definitions": [
-        "fungerar",
-        "arbetar"
+        "siffran 2; nummer 2 i ordningen",
+        "siffran 3; nummer 3 i ordningen"
       ]
     },
     {
-      "title": "UTÖVA SPEL",
+      "title": "DATORINTRÅNG",
       "words": [
-        "lira",
-        "spela"
+        "knäcka",
+        "intränga"
       ],
-      "definition": "spelas",
+      "definition": "bryta sig in i olika system",
       "word_definitions": [
-        "spelar (boll eller musik)",
-        "ägnar sig åt spel"
+        "bryter hårt material genom kraftigt slag eller tryck",
+        "obehörig beträda"
       ]
     },
     {
-      "title": "HA PLATS FÖR",
+      "title": "TRÄDGÅRDSREDSKAP",
       "words": [
-        "härbärgera",
-        "innehålla"
+        "kratta",
+        "spade"
       ],
-      "definition": "får plats, ryms",
+      "definition": "ett verktyg som används för att luckra upp jord",
       "word_definitions": [
-        "ger plats åt",
-        "har som innehåll, rymmer"
+        "ett redskap för att rensa och jämna ut jord",
+        "ett redskap att gräva med"
       ]
     }
   ]

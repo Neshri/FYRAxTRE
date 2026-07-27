@@ -1,0 +1,53 @@
+{
+  "pivot": "tät",
+  "categories": [
+    {
+      "title": "KOMPAKT FORM",
+      "words": [
+        "koncentrerad",
+        "tjock"
+      ],
+      "definition": "utan stora mellanrum; kompakt, koncentrerad",
+      "word_definitions": [
+        "som inriktar all sin uppmärksamhet på något, fokuserad",
+        "kompakt; trögflytande"
+      ]
+    },
+    {
+      "title": "LÄCKAGESÄKER",
+      "words": [
+        "ogenomtränglig",
+        "hermetisk"
+      ],
+      "definition": "som inte släpper igenom luft eller vätska",
+      "word_definitions": [
+        "omöjlig att tränga igenom",
+        "fullständigt lufttät"
+      ]
+    },
+    {
+      "title": "VÄLSTÄLLD EKONOMI",
+      "words": [
+        "förmögen",
+        "välbärgad"
+      ],
+      "definition": "rik",
+      "word_definitions": [
+        "rik",
+        "ganska rik"
+      ]
+    },
+    {
+      "title": "TRUPPENS SPETS",
+      "words": [
+        "spjutspets",
+        "förtrupp"
+      ],
+      "definition": "främsta del av en trupp e.d.",
+      "word_definitions": [
+        "viktig del eller person",
+        "trupp som går före huvudstyrkan och skyddar den från anfall framifrån"
+      ]
+    }
+  ]
+}

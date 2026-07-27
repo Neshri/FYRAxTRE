@@ -2,51 +2,51 @@
   "pivot": "bryter",
   "categories": [
     {
-      "title": "GÖRA SÖNDER",
+      "title": "AVBRYTA NÅGOT",
       "words": [
-        "spräcka",
-        "knäcka"
+        "stoppa",
+        "avsluta"
       ],
-      "definition": "får att spricka sönder i två delar (ofta genom kraftig böjning)",
+      "definition": "avbryter; avbryter kontakt",
       "word_definitions": [
-        "får att spricka",
-        "bryter hårt material genom kraftigt slag eller tryck"
+        "lagar hål i kläder",
+        "slutar, fullbordar"
       ]
     },
     {
-      "title": "BRYTA MOT REGLER",
+      "title": "ÖVERVINNA MOTSTÅND",
       "words": [
-        "överträda",
-        "kränka"
+        "tränga",
+        "trotsa"
       ],
-      "definition": "kommer i konflikt med lagen, uppfyller inte, kränker",
+      "definition": "forcerar ett motstånd",
       "word_definitions": [
-        "bryter mot bestämmelser",
-        "respekterar inte"
+        "banar sig väg trots motstånd",
+        "gör öppet motstånd mot, sätter sig upp mot"
       ]
     },
     {
-      "title": "BLANDA FÄRGER",
+      "title": "UTVINNA MATERIAL",
       "words": [
-        "färga",
-        "sammanblanda"
+        "extrahera",
+        "dra"
       ],
-      "definition": "blandar (med avvikande färg eller smak)",
+      "definition": "får att gå i bitar; utvinner",
       "word_definitions": [
-        "ger (en viss) färg åt",
-        "förväxlar, blandar ihop, blandar samman"
+        "utvinner, drar",
+        "utvinner, extraherar"
       ]
     },
     {
-      "title": "KOPPLA BORT",
+      "title": "ÄNDRA RIKTNING",
       "words": [
-        "frånkoppla",
-        "suspendera"
+        "kantra",
+        "vända"
       ],
-      "definition": "bringar ur kontakt; stänger av",
+      "definition": "får att ändra riktning",
       "word_definitions": [
-        "frigör från anslutning, kopplar ifrån",
-        "stänger av från tjänst för viss tid"
+        "ändrar riktning",
+        "ändrar läge eller riktning"
       ]
     }
   ]

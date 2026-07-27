@@ -1,0 +1,53 @@
+{
+  "pivot": "skrapa",
+  "categories": [
+    {
+      "title": "HANDVERKTYG",
+      "words": [
+        "kniv",
+        "spackel"
+      ],
+      "definition": "redskap att skrapa med",
+      "word_definitions": [
+        "ett redskap att skära med",
+        "redskap att spackla med"
+      ]
+    },
+    {
+      "title": "TILLRÄTTAVISNINGAR",
+      "words": [
+        "varning",
+        "reprimand"
+      ],
+      "definition": "tillrättavisning",
+      "word_definitions": [
+        "tillrättavisning",
+        "(officiell) tillrättavisning"
+      ]
+    },
+    {
+      "title": "HÖGA BYGGNADER",
+      "words": [
+        "höghus",
+        "torn"
+      ],
+      "definition": "kortform för skyskrapa",
+      "word_definitions": [
+        "hus med många våningar",
+        "hög och smal (del av) byggnad"
+      ]
+    },
+    {
+      "title": "SAMLA IHOP",
+      "words": [
+        "hopa",
+        "sammanföra"
+      ],
+      "definition": "samla ihop",
+      "word_definitions": [
+        "samla i stor mängd, samla på hög, skaffa och spara",
+        "gör så att två eller fler personer träffas, för samman"
+      ]
+    }
+  ]
+}

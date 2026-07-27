@@ -1,52 +1,52 @@
 {
-  "pivot": "fil",
+  "pivot": "fin",
   "categories": [
     {
-      "title": "VERKTYG FÖR FORMNING",
+      "title": "ESTETISKT TILLTALANDE",
       "words": [
-        "hyvel",
-        "mejsel"
+        "tjusig",
+        "stilig"
       ],
-      "definition": "ett verktyg av stål som används för att slipa ytor jämna",
+      "definition": "snygg, vacker",
       "word_definitions": [
-        "ett verktyg för att göra ytor jämna",
-        "ett verktyg som man slår på med hammare för att bearbeta hårda material; skruvmejsel"
+        "vacker, elegant",
+        "som har stil, elegant, vacker"
       ]
     },
     {
-      "title": "VÄGENS DELAR",
+      "title": "HÖG KVALITET",
       "words": [
-        "cykelväg",
-        "trottoar"
+        "förstklassig",
+        "briljant"
       ],
-      "definition": "körbana, körfält",
+      "definition": "bra, utmärkt",
       "word_definitions": [
-        "cykelbana",
-        "gångbana bredvid körbana"
+        "av bästa slag, prima, utmärkt",
+        "lysande, utmärkt"
       ]
     },
     {
-      "title": "DATALAGRING",
+      "title": "SMAL KROPPSBYGGNAD",
       "words": [
-        "mapp",
-        "dokument"
+        "slank",
+        "smäcker"
       ],
-      "definition": "del av datorminne där enheter som hör ihop lagras",
+      "definition": "tunn, smal",
       "word_definitions": [
-        "anordning för förvaring (ofta av lösa anteckningar o.d.)",
-        "skrift, handling (ofta av juridisk eller historisk betydelse)"
+        "smal, smärt",
+        "smal och elegant"
       ]
     },
     {
-      "title": "SYRLIGA MJÖLKPRODUKTER",
+      "title": "SUBTIL OCH DISKRET",
       "words": [
-        "yoghurt",
-        "kefir"
+        "sober",
+        "diplomatisk"
       ],
-      "definition": "surmjölk, filmjölk",
+      "definition": "diskret, subtil",
       "word_definitions": [
-        "ett slags surmjölk",
-        "rysk filmjölk, en form av kulturmjölk som tillverkas med hjälp av kefirkorn eller kefirgryn"
+        "smakfull; diskret",
+        "smidig, försiktig"
       ]
     }
   ]

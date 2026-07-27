@@ -1,52 +1,52 @@
 {
-  "pivot": "ljus",
+  "pivot": "lopp",
   "categories": [
     {
-      "title": "STARK BELYSNING",
+      "title": "LÖPTÄVLINGAR",
       "words": [
-        "klar",
-        "strålande"
+        "stafett",
+        "heat"
       ],
-      "definition": "som ger ifrån sig mycket ljus; upplyst",
+      "definition": "enskild tävling i löpning e.d.",
       "word_definitions": [
-        "ljus, lysande, genomskinlig",
-        "mycket bra, utomordentlig"
+        "en sorts lagtävling (i t.ex. löpning och simning) där de tävlande inom samma lag avlöser varandra",
+        "tidig omgång av löptävling eller simtävling (där de sämre slås ut)"
       ]
     },
     {
-      "title": "POSITIV INSTÄLLNING",
+      "title": "HÄNDELSEFÖLJD",
       "words": [
-        "optimistisk",
-        "hoppfull"
+        "process",
+        "utveckling"
       ],
-      "definition": "hoppfull",
+      "definition": "(tidens) gång , förlopp",
       "word_definitions": [
-        "präglad av optimism, hoppfull",
-        "som har gott hopp, optimistisk"
+        "förlopp, utveckling",
+        "handlingen att utveckla något; det att utvecklas, tillväxt"
       ]
     },
     {
-      "title": "LJUSFENOMEN",
+      "title": "GEVÄRSDELAR",
       "words": [
-        "glans",
-        "glitter"
+        "rör",
+        "pipa"
       ],
-      "definition": "vågrörelse som gör att man kan se, sken",
+      "definition": "insidan av gevärspipa",
       "word_definitions": [
-        "skimmer, sken",
-        "ljus med snabbt växlande sken"
+        "lång ihålig cylinder, pipa",
+        "anordning med behållare för tobak som används vid rökning"
       ]
     },
     {
-      "title": "LJUSKÄLLOR",
+      "title": "VATTENSTRÄCKA",
       "words": [
-        "lampa",
-        "laser"
+        "farled",
+        "sträcka"
       ],
-      "definition": "ljuskälla, belysning",
+      "definition": "utsträckning av vattendrag",
       "word_definitions": [
-        "anordning för belysning, glödlampa",
-        "apparat som alstrar och sänder ut en intensiv stråle av ljus"
+        "(mycket trafikerad) vattenväg",
+        "stycke väg, avstånd"
       ]
     }
   ]

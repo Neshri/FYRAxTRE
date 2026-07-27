@@ -1,0 +1,53 @@
+{
+  "pivot": "sky",
+  "categories": [
+    {
+      "title": "MOLNFORMATIONER",
+      "words": [
+        "puff",
+        "bank"
+      ],
+      "definition": "moln",
+      "word_definitions": [
+        "rökmoln",
+        "kompakt samling av moln"
+      ]
+    },
+    {
+      "title": "KOSMISKA OMFATTNINGAR",
+      "words": [
+        "kosmos",
+        "världsalltet"
+      ],
+      "definition": "himmel",
+      "word_definitions": [
+        "universum",
+        "universum"
+      ]
+    },
+    {
+      "title": "LUFTLAGREN",
+      "words": [
+        "atmosfär",
+        "stratosfär"
+      ],
+      "definition": "himmel, som den scen på vilken vädret äger rum",
+      "word_definitions": [
+        "det skikt av luft som omger jorden",
+        "det näst lägsta lagret i jordens atmosfär, i vilket ozonlagret återfinns"
+      ]
+    },
+    {
+      "title": "FLYTANDE SMAKSÄTTNINGAR",
+      "words": [
+        "buljong",
+        "soja"
+      ],
+      "definition": "saft ur kött som steks, sorts klar sås",
+      "word_definitions": [
+        "soppa av klart köttspad, fiskspad eller grönsaksspad",
+        "en mörkbrun sås som också används som en sorts krydda"
+      ]
+    }
+  ]
+}

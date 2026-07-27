@@ -1,52 +1,52 @@
 {
-  "pivot": "god",
+  "pivot": "grov",
   "categories": [
     {
-      "title": "KÄNSLA FÖR NÅGON",
+      "title": "KRAFTIG OCH TJOCK",
       "words": [
-        "förälskad",
-        "förtjust"
+        "bastant",
+        "massiv"
       ],
-      "definition": "kär",
+      "definition": "tjock, kraftig, bastant",
       "word_definitions": [
-        "kär",
-        "glad och nöjd"
+        "kraftig, tjock",
+        "tung, kraftig"
       ]
     },
     {
-      "title": "MORALISK KARAKTÄR",
+      "title": "OJÄMN YTA",
       "words": [
-        "sedlig",
-        "ädel"
+        "skrovlig",
+        "ojämn"
       ],
-      "definition": "moraliskt högtstående",
+      "definition": "ojämn, skrovlig; inte bearbetad (i detalj)",
       "word_definitions": [
-        "moraliskt högtstående (i sexuellt avseende)",
-        "moraliskt högtstående, ridderlig"
+        "grov och ojämn",
+        "inte jämn eller slät (om yta)"
       ]
     },
     {
-      "title": "SÖT OCH TILLTALANDE",
+      "title": "OHYFSAT BETENDE",
       "words": [
-        "gullig",
-        "prydlig"
+        "plump",
+        "oborstad"
       ],
-      "definition": "tilltalande, söt",
+      "definition": "ohyfsad, rå",
       "word_definitions": [
-        "rar, söt",
-        "ordentlig, tilltalande, vacker"
+        "rå och ohyfsad",
+        "ohyfsad"
       ]
     },
     {
-      "title": "GOTT OM MAT",
+      "title": "ALLVARLIG GRAD",
       "words": [
-        "delikat",
-        "aptitlig"
+        "grav",
+        "svårartad"
       ],
-      "definition": "välsmakande, läcker",
+      "definition": "svår, allvarlig",
       "word_definitions": [
-        "läcker, välsmakande",
-        "som smakar gott, välsmakande"
+        "allvarlig, svår",
+        "allvarlig"
       ]
     }
   ]

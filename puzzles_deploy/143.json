@@ -1,0 +1,53 @@
+{
+  "pivot": "sticka",
+  "categories": [
+    {
+      "title": "TEXTILVERKTYG",
+      "words": [
+        "skyttel",
+        "bobin"
+      ],
+      "definition": "(metall)pinne att tillverka saker av garn med",
+      "word_definitions": [
+        "anordning som för tyg eller garn genom väv",
+        "spole (t.ex. för garn)"
+      ]
+    },
+    {
+      "title": "SLAGVERKTYG",
+      "words": [
+        "slagträ",
+        "påk"
+      ],
+      "definition": "klubba",
+      "word_definitions": [
+        "klubba som används av slagmannen för tillslag av boll",
+        "kraftig käpp"
+      ]
+    },
+    {
+      "title": "FÖRA IN",
+      "words": [
+        "proppa",
+        "införa"
+      ],
+      "definition": "föra in, stoppa",
+      "word_definitions": [
+        "stoppar (full), packar (full)",
+        "börjar använda eller tillämpa"
+      ]
+    },
+    {
+      "title": "LITEN TRÄBIT",
+      "words": [
+        "flaga",
+        "spån"
+      ],
+      "definition": "liten vass träpinne, träflisa",
+      "word_definitions": [
+        "liten flisa",
+        "liten flisa som bildas vid bearbetning av trä eller järn"
+      ]
+    }
+  ]
+}

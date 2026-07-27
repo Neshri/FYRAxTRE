@@ -1,52 +1,52 @@
 {
-  "pivot": "dryg",
+  "pivot": "element",
   "categories": [
     {
-      "title": "RIKLIGT MÅTT",
+      "title": "OMGIVANDE MILJÖ",
       "words": [
-        "riklig",
-        "ymnig"
+        "miljö",
+        "omnejd"
       ],
-      "definition": "riklig, rundlig (om tid, mått och vikt)",
+      "definition": "ämne; omgivning",
       "word_definitions": [
-        "stor, rik",
-        "överflödande, riklig"
+        "omgivande natur",
+        "närmaste trakt, omgivning"
       ]
     },
     {
-      "title": "LÅNGVARIG",
+      "title": "VÄRMEKÄLLOR I HEMMET",
       "words": [
-        "långvarig",
-        "ihållande"
+        "radiator",
+        "spis"
       ],
-      "definition": "som räcker länge",
+      "definition": "apparat som ger värme (särskilt inomhus)",
       "word_definitions": [
-        "som varar länge",
-        "som håller på länge, långvarig"
+        "värmeelement",
+        "apparat med kokplattor (och ofta ugn) för matlagning"
       ]
     },
     {
-      "title": "BESVÄRLIG",
+      "title": "DEL AV EN HELHET",
       "words": [
-        "jobbig",
-        "mödosam"
+        "ingrediens",
+        "segment"
       ],
-      "definition": "besvärlig, betungande",
+      "definition": "del, beståndsdel",
       "word_definitions": [
-        "besvärlig",
-        "ansträngande, besvärlig"
+        "beståndsdel i en blandning",
+        "avgränsad del av något"
       ]
     },
     {
-      "title": "HÖGFÄRDIG",
+      "title": "TYP AV PERSON",
       "words": [
-        "uppblåst",
-        "kaxig"
+        "karaktär",
+        "figur"
       ],
-      "definition": "högfärdig, mallig",
+      "definition": "person med vissa (ofta negativa) egenskaper",
       "word_definitions": [
-        "högfärdig, mallig",
-        "som försöker hävda sig, mallig, tuff"
+        "personliga egenskaper; moralisk styrka",
+        "personlighet, karaktär"
       ]
     }
   ]

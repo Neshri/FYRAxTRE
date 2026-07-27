@@ -1,52 +1,52 @@
 {
-  "pivot": "klar",
+  "pivot": "klen",
   "categories": [
     {
-      "title": "LJUS OCH GENOMSIKTIG",
+      "title": "SPÄD FORM",
       "words": [
-        "transparent",
-        "blank"
+        "skir",
+        "spenslig"
       ],
-      "definition": "ljus, lysande, genomskinlig",
+      "definition": "tunn, späd",
       "word_definitions": [
-        "genomskinlig",
-        "glänsande, skinande"
+        "späd, tunn",
+        "smal, tunn (om kroppsbyggnad eller person)"
       ]
     },
     {
-      "title": "LÄTTFÖRSTÅELIG",
+      "title": "ÖMTÅLIG HÄLSA",
       "words": [
-        "åskådlig",
-        "lättfattlig"
+        "sjåpig",
+        "delikat"
       ],
-      "definition": "lätt att förstå, tydlig",
+      "definition": "sjuk, ömtålig",
       "word_definitions": [
-        "lätt att förstå, tydlig",
-        "lätt att förstå, enkel"
+        "rädd, ömtålig",
+        "ömtålig, känslig"
       ]
     },
     {
-      "title": "VÄLDIGT STOR",
+      "title": "BRIST PÅ KRAFT",
       "words": [
-        "enorm",
-        "rejäl"
+        "skraltig",
+        "kraftlös"
       ],
-      "definition": "tydlig, stor",
+      "definition": "svag",
       "word_definitions": [
-        "mycket stor",
-        "stor, kraftig"
+        "svag och dålig",
+        "som saknar kraft, svag"
       ]
     },
     {
-      "title": "REDO ATT BÖRJA",
+      "title": "OBETYDLIG STORLEK",
       "words": [
-        "beredd",
-        "redo"
+        "ringa",
+        "blygsam"
       ],
-      "definition": "färdig",
+      "definition": "svag, obetydlig",
       "word_definitions": [
-        "färdig, redo",
-        "färdig, beredd"
+        "liten, obetydlig",
+        "liten, obetydlig"
       ]
     }
   ]

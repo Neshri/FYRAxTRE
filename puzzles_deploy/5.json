@@ -1,52 +1,52 @@
 {
-  "pivot": "back",
+  "pivot": "bank",
   "categories": [
     {
-      "title": "RIKTNING BAKÅT",
+      "title": "SJÖBOTTENFORMATIONER",
       "words": [
-        "omvänt",
-        "åter"
+        "vall",
+        "rev"
       ],
-      "definition": "bakåt",
+      "definition": "upphöjning av botten (i hav eller sjö)",
       "word_definitions": [
-        "tvärtom, åt andra hållet",
-        "än en gång, igen, på nytt"
+        "långsträckt upphöjning (ofta av jord eller sand)",
+        "lina för fiske"
       ]
     },
     {
-      "title": "TYPER AV LÅDOR",
+      "title": "VÄGUNDERLAG",
       "words": [
-        "box",
-        "kista"
+        "fundament",
+        "underbyggnad"
       ],
-      "definition": "en sorts låda (särskilt till flaskor)",
+      "definition": "underlag för väg eller järnväg, vall",
       "word_definitions": [
-        "låda, ask, fack, bås",
-        "stor låda med lock (ofta gammal och värdefull)"
+        "grund, underlag",
+        "handlingen att underbygga något"
       ]
     },
     {
-      "title": "POSITIONER I FOTBOLL",
+      "title": "MOLNFORMATIONER",
       "words": [
-        "målvakt",
-        "ytter"
+        "sky",
+        "dimma"
       ],
-      "definition": "försvarsspelare (t.ex. i fotbollslag)",
+      "definition": "kompakt samling av moln",
       "word_definitions": [
-        "spelare i ett lag (t.ex. ett fotbollslag) som vaktar målet",
-        "anfallsspelare på ytterkanten (i fotboll etc.)"
+        "moln",
+        "en sorts moln nära marken, dis, tjocka"
       ]
     },
     {
-      "title": "VÄXLAR I BIL",
+      "title": "RESURSFÖRRÅD",
       "words": [
-        "etta",
-        "tvåa"
+        "lager",
+        "arsenal"
       ],
-      "definition": "växel (på en bil eller båt) som används när man vill backa",
+      "definition": "förråd",
       "word_definitions": [
-        "siffran 1; nummer 1 i ordningen",
-        "siffran 2; nummer 2 i ordningen"
+        "förråd, magasin",
+        "förråd, lager"
       ]
     }
   ]

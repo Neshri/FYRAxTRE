@@ -1,0 +1,53 @@
+{
+  "pivot": "vid",
+  "categories": [
+    {
+      "title": "STOR UTSTRÄCKNING",
+      "words": [
+        "bred",
+        "rymlig"
+      ],
+      "definition": "som har stor omkrets eller stor utbredning",
+      "word_definitions": [
+        "stor, omfattande; mångsidig",
+        "som rymmer mycket, stor, vid"
+      ]
+    },
+    {
+      "title": "PLACERING NÄRA",
+      "words": [
+        "intill",
+        "jämte"
+      ],
+      "definition": "bredvid, intill",
+      "word_definitions": [
+        "bredvid, invid",
+        "bredvid"
+      ]
+    },
+    {
+      "title": "UNGEFÄRLIG MÄNGD",
+      "words": [
+        "omkring",
+        "ungefär"
+      ],
+      "definition": "omkring, ungefär; i samband med",
+      "word_definitions": [
+        "ungefär, cirka",
+        "omkring, cirka"
+      ]
+    },
+    {
+      "title": "GÄLLENDE ÄMNE",
+      "words": [
+        "beträffande",
+        "angående"
+      ],
+      "definition": "med avseende på, när det gäller, ifråga om",
+      "word_definitions": [
+        "i fråga om, angående",
+        "om, beträffande"
+      ]
+    }
+  ]
+}

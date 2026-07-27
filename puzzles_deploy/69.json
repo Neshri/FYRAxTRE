@@ -1,52 +1,52 @@
 {
-  "pivot": "knäpper",
+  "pivot": "koloni",
   "categories": [
     {
-      "title": "KORTA LJUD",
+      "title": "UTLANDSOMRÅDE",
       "words": [
-        "klicka",
-        "smälla"
+        "bosättning",
+        "protektorat"
       ],
-      "definition": "ger ifrån sig ett knäpp",
+      "definition": "ett lands besittning utomlands; samhälle av nybyggare",
       "word_definitions": [
-        "knäpper metalliskt",
-        "ger ifrån sig en hård knall"
+        "skapande av ett hem; bebyggelse",
+        "skyddat område; land som står under ett annat lands överhöghet"
       ]
     },
     {
-      "title": "TA BILDER",
+      "title": "BARNLÄGER",
       "words": [
-        "fotografera",
-        "avbilda"
+        "feriehem",
+        "läger"
       ],
-      "definition": "trycker på knappen på kameran (för att ta ett foto)",
+      "definition": "sommarhem för barn, kollo",
       "word_definitions": [
-        "tar bilder med kamera, fotar",
-        "gör en bild av, återger"
+        "privat hem som under sommaren tar emot barn i yngre skolåldern",
+        "plats där en grupp personer tillfälligt bor i tält eller baracker"
       ]
     },
     {
-      "title": "SKJUTA NER",
+      "title": "DJURGRUPP",
       "words": [
-        "panga",
-        "sänka"
+        "flock",
+        "svärm"
       ],
-      "definition": "skjuter ner",
+      "definition": "samling av människor, djur eller växter",
       "word_definitions": [
-        "smäller, skjuter",
-        "förflyttar nedåt"
+        "grupp, klunga, skara, samling (särskilt av vissa djur)",
+        "grupp av flygande djur (särskilt insekter)"
       ]
     },
     {
-      "title": "FÄSTA IHOP",
+      "title": "ODLINGSPLATS",
       "words": [
-        "knyta",
-        "binda"
+        "odlingslott",
+        "trädgård"
       ],
-      "definition": "fäster ihop med en knapp; knyter samman",
+      "definition": "kolonilott",
       "word_definitions": [
-        "binder ihop med en knut, pressar samman",
-        "knyter, fäster, surrar"
+        "andel av en trädgård eller annan odlingsmark, där man kan odla sina egna grönsaker eller andra växter",
+        "område med odlade växter"
       ]
     }
   ]

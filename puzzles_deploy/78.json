@@ -1,52 +1,52 @@
 {
-  "pivot": "led",
+  "pivot": "leda",
   "categories": [
     {
-      "title": "KÄNSLA AV TRÖTTHET",
+      "title": "KÄNSLA AV UTTRÅKNING",
       "words": [
-        "trött",
-        "sliten"
+        "uttråkning",
+        "träsmak"
       ],
-      "definition": "uttråkad, trött",
+      "definition": "känsla av att vara uttråkad",
       "word_definitions": [
-        "utled, uttråkad",
-        "trött"
+        "tillståndet att vara uttråkad",
+        "känsla av trötthet eller uttråkning"
       ]
     },
     {
-      "title": "ELAK KARAKTÄR",
+      "title": "FÖRA NÅGON",
       "words": [
-        "stygg",
-        "nedrig"
+        "styra",
+        "lotsa"
       ],
-      "definition": "otäck, elak",
+      "definition": "hålla i och föra (i viss riktning)",
       "word_definitions": [
-        "ful, otäck",
-        "elak"
+        "låter ett fordon gå i viss riktning",
+        "styr ett fartyg genom besvärliga farvatten"
       ]
     },
     {
-      "title": "FÄRDVÄG I NATUREN",
+      "title": "STYRA FLÖDE",
       "words": [
-        "väg",
-        "stig"
+        "kanalisera",
+        "dirigera"
       ],
-      "definition": "sträcka där man kan vandra eller färdas",
+      "definition": "föra (i viss riktning)",
       "word_definitions": [
-        "färdriktning, färdväg",
-        "smal gångväg (ofta i skogen)"
+        "leder i viss riktning",
+        "leder orkester eller kör"
       ]
     },
     {
-      "title": "MÄNNISKOR PÅ RAD",
+      "title": "BÖJA NÅGOT",
       "words": [
-        "fil",
-        "kö"
+        "kröka",
+        "bocka"
       ],
-      "definition": "rad (av personer)",
+      "definition": "böja en led",
       "word_definitions": [
-        "rad",
-        "rad av väntande personer"
+        "gör krokig, böjer",
+        "böjer (t.ex. en metallstång)"
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "pivot": "skala",
+  "categories": [
+    {
+      "title": "MUSIKALISKA TONARTER",
+      "words": [
+        "dur",
+        "moll"
+      ],
+      "definition": "ordnad följd av toner i viss tonart",
+      "word_definitions": [
+        "en typ av tonart med helt tonsteg mellan andra och tredje tonen i skalan (uppfattas ofta som glad)",
+        "en grupp tonarter med ett litet tonsteg mellan andra och tredje tonen i skalan (som ofta uppfattas som sorgsna)"
+      ]
+    },
+    {
+      "title": "MÄTINSTRUMENT",
+      "words": [
+        "mätare",
+        "tumstock"
+      ],
+      "definition": "graderad anordning att mäta något med",
+      "word_definitions": [
+        "apparat som mäter något",
+        "ett mätverktyg som kan fällas ihop"
+      ]
+    },
+    {
+      "title": "MÄTNINGSNIVÅER",
+      "words": [
+        "nivå",
+        "grad"
+      ],
+      "definition": "ordnad följd av värden i informella måttenheter",
+      "word_definitions": [
+        "läge i höjdled",
+        "en måttenhet för vinklar"
+      ]
+    },
+    {
+      "title": "FÄRGSPEKTRUM",
+      "words": [
+        "spektrum",
+        "nyans"
+      ],
+      "definition": "färgskala",
+      "word_definitions": [
+        "ljusets färgskala",
+        "färgton"
+      ]
+    }
+  ]
+}

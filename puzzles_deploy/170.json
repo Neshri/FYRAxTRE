@@ -1,0 +1,53 @@
+{
+  "pivot": "vara",
+  "categories": [
+    {
+      "title": "UTSÖNDRA VÄTSKA",
+      "words": [
+        "avsöndra",
+        "läcka"
+      ],
+      "definition": "utsöndra var",
+      "word_definitions": [
+        "ger ifrån sig, avger",
+        "har en läcka; rinner ut"
+      ]
+    },
+    {
+      "title": "SPELA ROLL",
+      "words": [
+        "agera",
+        "spela"
+      ],
+      "definition": "ha eller spela en viss roll i en lek, t.ex. vara den som letar i kurragömma",
+      "word_definitions": [
+        "spelar (rollen av)",
+        "uppför en viss teaterpjäs, agerar i en teaterpjäs eller film"
+      ]
+    },
+    {
+      "title": "VÅRD OCH FÖRVARING",
+      "words": [
+        "förvaring",
+        "skötsel"
+      ],
+      "definition": "vård, förvar",
+      "word_definitions": [
+        "förvar",
+        "vård"
+      ]
+    },
+    {
+      "title": "FÖREMÅL",
+      "words": [
+        "sak",
+        "objekt"
+      ],
+      "definition": "föremål som köps eller säljs, artikel",
+      "word_definitions": [
+        "föremål",
+        "föremål"
+      ]
+    }
+  ]
+}

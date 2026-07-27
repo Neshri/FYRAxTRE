@@ -2,51 +2,51 @@
   "pivot": "rätt",
   "categories": [
     {
-      "title": "MATPORTION",
+      "title": "UTAN FEL",
       "words": [
-        "portion",
-        "matbit"
+        "ofelbart",
+        "perfekt"
       ],
-      "definition": "portion med mat",
+      "definition": "utan fel",
       "word_definitions": [
-        "mängd mat för en person",
-        "(ganska liten) portion mat"
+        "utan minsta tvivel, säkert",
+        "; på ett perfekt sätt"
       ]
     },
     {
-      "title": "GRADAVVISANDE ORD",
+      "title": "MORALISKT KORREKT",
       "words": [
-        "tämligen",
-        "någorlunda"
+        "anständig",
+        "moralisk"
       ],
-      "definition": "ganska",
+      "definition": "moraliskt riktig",
       "word_definitions": [
-        "ganska",
-        "tämligen, ganska"
+        "(moraliskt) passande; korrekt, hederlig",
+        "som bygger på moral"
       ]
     },
     {
-      "title": "RAKT OCH DIREKT",
+      "title": "LAGLIG RÄTTIGHET",
       "words": [
-        "tvärs",
-        "direkt"
+        "befogenhet",
+        "privilegium"
       ],
-      "definition": "utan vidare, rakt",
+      "definition": "rättighet",
       "word_definitions": [
-        "på tvären; mitt, rakt",
-        "utan omväg, rak, omedelbar"
+        "rättighet; behörighet",
+        "förmån"
       ]
     },
     {
-      "title": "KORREKT OCH SANN",
+      "title": "DOMSTOL",
       "words": [
-        "sann",
-        "verklig"
+        "domstol",
+        "tribunal"
       ],
-      "definition": "riktig, korrekt",
+      "definition": "domstol",
       "word_definitions": [
-        "riktig, äkta",
-        "sann, riktig"
+        "myndighet som dömer i rättsfall",
+        "(revolutions)domstol"
       ]
     }
   ]

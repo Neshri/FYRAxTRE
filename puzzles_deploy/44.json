@@ -2,51 +2,51 @@
   "pivot": "få",
   "categories": [
     {
-      "title": "LITE ANTAL",
+      "title": "LÅGT ANTAL",
       "words": [
-        "några",
-        "vissa"
+        "knapp",
+        "obegränsad"
       ],
-      "definition": "inte många",
+      "definition": "inte många men fler än två; bara några; ett litet antal",
       "word_definitions": [
-        "plural av någon",
-        "somliga, inte alla"
+        "otillräcklig, begränsad, liten",
+        "som saknar gräns; mycket riklig"
       ]
     },
     {
-      "title": "TA EMOT",
+      "title": "GÖRA SÅ ATT",
       "words": [
-        "motta",
-        "erhålla"
+        "föranleda",
+        "låta"
       ],
-      "definition": "erhålla, motta, bekomma, vinna; bli given",
+      "definition": "orsaka; göra så att eller se till att någon utför en handling eller att något händer",
       "word_definitions": [
-        "välkomnar, tar emot",
-        "tar emot, får"
+        "leder till, orsakar",
+        "ser till att något blir gjort"
       ]
     },
     {
-      "title": "VARA TVUNGEN",
+      "title": "FÅNGA BYTE",
       "words": [
-        "måste",
-        "behöva"
+        "gripa",
+        "snärja"
       ],
-      "definition": "tillåtas eller måste",
+      "definition": "fånga (fisk, byte, brottslingar)",
       "word_definitions": [
-        "indikerar att det finns ett krav på att subjektet i meningen ska göra något; uttrycker nödvändighet",
-        "har behov av"
+        "tar fast, fångar, häktar",
+        "fångar djur (i snara)"
       ]
     },
     {
-      "title": "DRAS MED SJUKDOM",
+      "title": "HINNA MED",
       "words": [
-        "insjukna",
-        "smitta"
+        "hinna",
+        "räcka"
       ],
-      "definition": "bli sjuk; dra på sig en sjukdom",
+      "definition": "hinna med",
       "word_definitions": [
-        "blir sjuk",
-        "sprider sjukdom till andra"
+        "kommer i tid, når fram",
+        "når"
       ]
     }
   ]

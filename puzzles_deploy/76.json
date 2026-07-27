@@ -1,52 +1,52 @@
 {
-  "pivot": "lager",
+  "pivot": "land",
   "categories": [
     {
-      "title": "FÖRVARINGSPLATSER",
+      "title": "FAST MARK",
       "words": [
-        "magasin",
-        "depå"
+        "kontinent",
+        "jord"
       ],
-      "definition": "förråd, magasin",
+      "definition": "fastland",
       "word_definitions": [
-        "förrådshus, förvaringsrum",
-        "förvaringsplats för förråd av ngt"
+        "världsdel, stort fastland (särskilt Europas fastland, till skillnad från t.ex. Norden)",
+        "fast mark"
       ]
     },
     {
-      "title": "YTSKIKT",
+      "title": "LANTLIGA OMRÅDEN",
       "words": [
-        "hinna",
-        "hud"
+        "bygd",
+        "trakt"
       ],
-      "definition": "skikt",
+      "definition": "landsbygd",
       "word_definitions": [
-        "tunt skikt",
-        "yttersta, skyddande skikt på människor och djur"
+        "område i landsorten där folk bor, trakt",
+        "geografiskt område (särskilt på landet)"
       ]
     },
     {
-      "title": "MASKINDELAR",
+      "title": "POLITISKA ENHETER",
       "words": [
-        "axel",
-        "tapp"
+        "rike",
+        "välde"
       ],
-      "definition": "del av en maskin som bär upp en roterande axel",
+      "definition": "stat, rike",
       "word_definitions": [
-        "stång som ett hjul roterar kring",
-        "utskjutande axel som något vrids omkring"
+        "land, stat",
+        "statsmakt, (stort) rike"
       ]
     },
     {
-      "title": "VÄLDOFTANDE VÄXTER",
+      "title": "ODLADE MARKER",
       "words": [
-        "jasmin",
-        "syren"
+        "åker",
+        "trädgård"
       ],
-      "definition": "ett träd (eller en buske) med blanka, väldoftande blad (Laurus nobilis)",
+      "definition": "odlat stycke jord",
       "word_definitions": [
-        "en buske med väldoftande blommor (släktet Jasminum)",
-        "en buske med väldoftande blommor (släktet Syringa)"
+        "jord som man odlar på",
+        "område med odlade växter"
       ]
     }
   ]

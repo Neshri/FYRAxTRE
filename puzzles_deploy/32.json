@@ -1,52 +1,52 @@
 {
-  "pivot": "fel",
+  "pivot": "figur",
   "categories": [
     {
-      "title": "FELAKTIG",
+      "title": "KROPPSLIG FORM",
       "words": [
-        "oriktig",
-        "galen"
+        "fysik",
+        "kroppsbyggnad"
       ],
-      "definition": "inte rätt, felaktig",
+      "definition": "gestalt, kroppsform",
       "word_definitions": [
-        "felaktig",
-        "felaktig"
+        "kroppslig form, konstitution",
+        "kroppens utseende, figur"
       ]
     },
     {
-      "title": "MISSTAG",
+      "title": "PERSONLIGA EGENSKAPER",
       "words": [
-        "fadäs",
-        "blunder"
+        "personlighet",
+        "karaktär"
       ],
-      "definition": "handling som inte är korrekt, misstag",
+      "definition": "personlighet, karaktär",
       "word_definitions": [
-        "dumhet, misstag",
-        "misstag, fel"
+        "sammanfattande (unika) egenskaper hos en person",
+        "personliga egenskaper; moralisk styrka"
       ]
     },
     {
-      "title": "ANSVAR FÖR MISSTAG",
+      "title": "SCHACKPJÄSER",
       "words": [
-        "ansvar",
-        "skuld"
+        "löpare",
+        "springare"
       ],
-      "definition": "ansvar för ett misstag, skuld",
+      "definition": "pjäs (t.ex. i schack)",
       "word_definitions": [
-        "skyldighet att ta på sig skulden (om något går fel)",
-        "ansvar för brott eller fel"
+        "en pjäs i schack",
+        "en schackpjäs, häst"
       ]
     },
     {
-      "title": "TEKNISK BRIST",
+      "title": "GRAFISKA ELEMENT",
       "words": [
-        "defekt",
-        "skavank"
+        "illustration",
+        "diagram"
       ],
-      "definition": "skada, brist, skavank",
+      "definition": "grafisk illustration, bild (i text)",
       "word_definitions": [
-        "ofullständig, bristfällig",
-        "liten skada"
+        "bild",
+        "grafisk figur som illustrerar fakta som kan uttryckas med siffror"
       ]
     }
   ]

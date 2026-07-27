@@ -1,0 +1,53 @@
+{
+  "pivot": "snurra",
+  "categories": [
+    {
+      "title": "BARNLEKSAKER",
+      "words": [
+        "drake",
+        "käpphäst"
+      ],
+      "definition": "en leksak som snurrar snabbt",
+      "word_definitions": [
+        "en leksak som fungerar som ett slags segelflygplan",
+        "en leksak som liknar en häst"
+      ]
+    },
+    {
+      "title": "BÅTUTRUSTNING",
+      "words": [
+        "utombordsmotor",
+        "propeller"
+      ],
+      "definition": "utombordsmotor",
+      "word_definitions": [
+        "(löstagbar) motor som hänger i aktern på en båt",
+        "anordning med en sorts roterande vingar som driver en båt eller ett flygplan framåt"
+      ]
+    },
+    {
+      "title": "ROTERANDE MASKINER",
+      "words": [
+        "centrifug",
+        "svarv"
+      ],
+      "definition": "föremål som vars främsta syfte eller kännetecken är att rotera",
+      "word_definitions": [
+        "apparat med en behållare (t.ex. i en tvättmaskin) som kan rotera så snabbt att innehållet pressas ut mot sidorna",
+        "en maskin för bearbetning av roterande arbetsstycken"
+      ]
+    },
+    {
+      "title": "PRATA STRUNT",
+      "words": [
+        "svamla",
+        "yra"
+      ],
+      "definition": "prata strunt; trassla in sig i ett resonemang",
+      "word_definitions": [
+        "pratar strunt",
+        "pratar strunt"
+      ]
+    }
+  ]
+}

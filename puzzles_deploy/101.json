@@ -1,52 +1,52 @@
 {
-  "pivot": "pass",
+  "pivot": "pipa",
   "categories": [
     {
-      "title": "RESEDOKUMENT",
+      "title": "TOBAKSPRODUKTER",
       "words": [
-        "visum",
-        "boardingcard"
+        "cigarett",
+        "cigarr"
       ],
-      "definition": "dokument som man ibland måste visa upp när man reser utomlands",
+      "definition": "anordning med behållare för tobak som används vid rökning",
       "word_definitions": [
-        "dokument som ger tillstånd att resa in i och vistas i ett visst land (när det inte räcker med pass)",
-        "kort som måste visas upp av flygpassagerare innan de stiger ombord"
+        "rulle av tobak omgiven av papper",
+        "(ganska tjock) rulle av tobak omgiven av (brunt) papper"
       ]
     },
     {
-      "title": "BERGSFORMATIONER",
+      "title": "RÖRLIKNANDE FÖREMÅL",
       "words": [
-        "ravin",
-        "skreva"
+        "skorsten",
+        "slang"
       ],
-      "definition": "trång väg mellan berg",
+      "definition": "rör (särskilt på vapen)",
       "word_definitions": [
-        "djup klyfta i berg",
-        "större spricka i berg"
+        "(murat) rör som leder ut rök",
+        "ett slags böjligt rör"
       ]
     },
     {
-      "title": "ARBETSPERIOD",
+      "title": "BLÅSINSTRUMENT",
       "words": [
-        "arbetsdag",
-        "skift"
+        "flöjt",
+        "trumpet"
       ],
-      "definition": "det antal timmar som någon arbetar vid visst tillfälle",
+      "definition": "en typ av blåsinstrument",
       "word_definitions": [
-        "tiden man arbetar under en dag",
-        "arbetspass mellan två ombyten av arbetskraft"
+        "ett blåsinstrument",
+        "ett blåsinstrument i ganska högt tonläge"
       ]
     },
     {
-      "title": "SVAR VID BUDGIVNING",
+      "title": "LUFTHÅL I MAT",
       "words": [
-        "replik",
-        "bud"
+        "håla",
+        "bubbla"
       ],
-      "definition": "inget bud (i kortspel)",
+      "definition": "hålighet bildad av gas under produktionen av hårdost",
       "word_definitions": [
-        "(kort) svar",
-        "befallning (särskilt i religiösa sammanhang)"
+        "fördjupning, hålighet",
+        "liten mängd luft som (vanligen) omges av vatten"
       ]
     }
   ]

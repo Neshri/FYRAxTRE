@@ -2,51 +2,51 @@
   "pivot": "resa",
   "categories": [
     {
-      "title": "LEDIGHET PÅ RESA",
+      "title": "SÄTT ATT FLYTTA SIG",
       "words": [
-        "semester",
-        "utflykt"
+        "transport",
+        "förflyttning"
       ],
-      "definition": "semester på annan ort",
+      "definition": "förflyttning med färdmedel (t.ex. tåg, bil, båt)",
       "word_definitions": [
-        "betald ledighet från arbetet",
-        "kort resa för nöjes skull"
+        "förflyttning; frakt",
+        "handlingen att förflytta något, transport"
       ]
     },
     {
-      "title": "GÖRA UPPRÄTT",
+      "title": "UPPFÖRA BYGGNAD",
       "words": [
-        "ställa",
-        "lyfta"
+        "anlägga",
+        "bygga"
       ],
-      "definition": "höja upp (från ett liggande) till (mer) upprätt läge",
+      "definition": "uppföra, bygga upp (staty, byggnad, altare); slå upp (tält)",
       "word_definitions": [
-        "placerar upprätt eller stående; placerar",
-        "för till en högre nivå, för uppåt"
+        "bygger, uppför",
+        "konstruerar och uppför en byggnad e.d."
       ]
     },
     {
-      "title": "SKAPA HINDER",
+      "title": "KLÄTRA I STATUS",
       "words": [
-        "hindra",
-        "motarbeta"
+        "stiga",
+        "avancera"
       ],
-      "definition": "lägga hinder eller svårigheter i vägen",
+      "definition": "lifta eller höja sig till en dominerande ställning",
       "word_definitions": [
-        "utgör hinder för",
-        "lägger hinder i vägen för, bekämpar"
+        "förflyttar sig (ofta upp på eller ut ur något)",
+        "går framåt; blir befordrad"
       ]
     },
     {
-      "title": "STÄLLA KRAV",
+      "title": "ÅTERHÄMTA SIG",
       "words": [
-        "yrka",
-        "begära"
+        "återhämta",
+        "tillfriskna"
       ],
-      "definition": "framföra krav, anspråk e.d.",
+      "definition": "komma på fötter igen",
       "word_definitions": [
-        "begär, kräver",
-        "ber om, fordrar, kräver"
+        "vila upp sig efter något fysiskt eller psykologiskt ansträngande",
+        "blir frisk igen, frisknar till"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "driver",
+  "pivot": "dryg",
   "categories": [
     {
-      "title": "TVINGA NÅGON",
+      "title": "RIKLIGT MÅTT",
       "words": [
-        "förplikta",
-        "nödga"
+        "riklig",
+        "ymnig"
       ],
-      "definition": "föser, tvingar",
+      "definition": "riklig, rundlig (om tid, mått och vikt)",
       "word_definitions": [
-        "ålägger, tvingar",
-        "tvingar, förmår"
+        "stor, rik",
+        "överflödande, riklig"
       ]
     },
     {
-      "title": "UTÖVA PÅVERKAN",
+      "title": "LÅNGVARIG",
       "words": [
-        "influera",
-        "inverka"
+        "långvarig",
+        "ihållande"
       ],
-      "definition": "påverkar",
+      "definition": "som räcker länge",
       "word_definitions": [
-        "inverkar på, påverkar",
-        "påverkar"
+        "som varar länge",
+        "som håller på länge, långvarig"
       ]
     },
     {
-      "title": "BEDRIVA VERKSAMHET",
+      "title": "BESVÄRLIG",
       "words": [
-        "utöva",
-        "idka"
+        "jobbig",
+        "mödosam"
       ],
-      "definition": "ägnar sig åt, bedriver",
+      "definition": "besvärlig, betungande",
       "word_definitions": [
-        "bedriver verksamhet",
-        "sysslar med, bedriver"
+        "besvärlig",
+        "ansträngande, besvärlig"
       ]
     },
     {
-      "title": "SKOJA OCH SKÄMTA",
+      "title": "HÖGFÄRDIG",
       "words": [
-        "skoja",
-        "skämta"
+        "uppblåst",
+        "kaxig"
       ],
-      "definition": "skojar, skämtar",
+      "definition": "högfärdig, mallig",
       "word_definitions": [
-        "skämtar",
-        "säger lustigheter, skojar"
+        "högfärdig, mallig",
+        "som försöker hävda sig, mallig, tuff"
       ]
     }
   ]

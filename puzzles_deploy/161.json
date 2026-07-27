@@ -1,0 +1,53 @@
+{
+  "pivot": "tro",
+  "categories": [
+    {
+      "title": "SÄTT ATT BEDÖMA",
+      "words": [
+        "synpunkt",
+        "uppfattning"
+      ],
+      "definition": "bedömning (att något är sant)",
+      "word_definitions": [
+        "ståndpunkt, åsikt, bedömning",
+        "det att kunna uppfatta något"
+      ]
+    },
+    {
+      "title": "RELIGIÖS LÄRA",
+      "words": [
+        "teologi",
+        "dogm"
+      ],
+      "definition": "religiös övertygelse, lära, religion",
+      "word_definitions": [
+        "vetenskapen om religioner (särskilt kristendomen)",
+        "påstående (inom en viss lära) som inte ifrågasätts"
+      ]
+    },
+    {
+      "title": "FÖRESTÄLLA SIG",
+      "words": [
+        "fantisera",
+        "inbilla"
+      ],
+      "definition": "inbilla sig, föreställa sig",
+      "word_definitions": [
+        "inbillar sig, drömmer",
+        "intala, slå i"
+      ]
+    },
+    {
+      "title": "EN GISSNING",
+      "words": [
+        "gissning",
+        "antagande"
+      ],
+      "definition": "det att hålla något sannolikt, förmodan",
+      "word_definitions": [
+        "antagande, förmodan",
+        "förmodan, gissning"
+      ]
+    }
+  ]
+}

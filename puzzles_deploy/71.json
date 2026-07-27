@@ -2,51 +2,51 @@
   "pivot": "komma",
   "categories": [
     {
-      "title": "SKILJETECKEN",
+      "title": "TECKEN I TEXT",
       "words": [
-        "semikolon",
-        "punkt"
+        "frågetecken",
+        "utropstecken"
       ],
-      "definition": "ett skiljetecken (,)",
+      "definition": "skiljetecknet ,",
       "word_definitions": [
-        "ett skiljetecken (;)",
-        "tecken för slutet på en mening (.)"
+        "skiljetecknet ?",
+        "skiljetecknet !"
       ]
     },
     {
-      "title": "ANLÄNDA EN PLATS",
+      "title": "INTRÄFFA OVÄNTAT",
       "words": [
-        "nå",
-        "anlända"
+        "ske",
+        "tillstöta"
       ],
-      "definition": "anlända eller nå fram till en plats",
+      "definition": "kunna förutses inträffa eller råka i tillståndet (som framgår av sammanhanget)",
       "word_definitions": [
-        "kommer fram till, anländer till",
-        "kommer fram, ankommer"
+        "äger rum, händer, inträffar",
+        "inträffar (oväntat)"
       ]
     },
     {
-      "title": "BLI NÅGOT",
+      "title": "BLI FRISK",
       "words": [
-        "bli",
-        "utvecklas"
+        "tillfriskna",
+        "läka"
       ],
-      "definition": "av en händelse övergå till visst (framtida) skeende eller tillstånd",
+      "definition": "tillfriskna",
       "word_definitions": [
-        "börjar vara, kommer att vara",
-        "blir större eller bättre, växer till"
+        "blir frisk igen, frisknar till",
+        "botar"
       ]
     },
     {
-      "title": "MINNAS NÅGOT",
+      "title": "ORSAKSMÄSSIGT SAMMANHANG",
       "words": [
-        "minnas",
-        "återkalla"
+        "sammanhänga",
+        "föranleda"
       ],
-      "definition": "i betydelsen komma ihåg",
+      "definition": "ske; hänga samman orsaksmässigt",
       "word_definitions": [
-        "kommer ihåg",
-        "kalla åter, hemkalla, ta tillbaka"
+        "har att göra med, hänger ihop, hänger samman",
+        "leder till, orsakar"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "dragning",
+  "pivot": "drar",
   "categories": [
     {
-      "title": "SÄTT ATT LOTTA",
+      "title": "DRA I NÅGOT",
       "words": [
-        "tombola",
-        "lotteri"
+        "rycka",
+        "slita"
       ],
-      "definition": "ett sätt att få fram vinnaren i ett lotteri; lottning",
+      "definition": "för till sig med handen",
       "word_definitions": [
-        "ett lotteri med en roterande låda som man drar lotterna ur",
-        "en sorts spel där slumpen avgör vem som vinner"
+        "drar hastigt ur sitt läge",
+        "nöter"
       ]
     },
     {
-      "title": "BÖJELSE ELLER ATTRAKTION",
+      "title": "FÖRFLYTTA SIG",
       "words": [
-        "förkärlek",
-        "lockelse"
+        "vandra",
+        "åka"
       ],
-      "definition": "böjelse, attraktion",
+      "definition": "förflyttar sig",
       "word_definitions": [
-        "särskild böjelse eller smak",
-        "(något som har) förmåga att dra till sig intresse eller väcka begär"
+        "förflyttar sig",
+        "förflyttas, faller"
       ]
     },
     {
-      "title": "FÄRGNYANS",
+      "title": "SKAPA BILD",
       "words": [
-        "schattering",
-        "ton"
+        "teckna",
+        "rita"
       ],
-      "definition": "nyans, skiftning",
+      "definition": "ritar, tecknar",
       "word_definitions": [
-        "färgskiftning",
-        "färgnyans"
+        "gör teckningar, ritar",
+        "skapar en bild med penna e.d."
       ]
     },
     {
-      "title": "HOCKEYMANÖVER",
+      "title": "LUFTRÖRELSE",
       "words": [
-        "dribbling",
-        "fint"
+        "blåsa",
+        "fläkta"
       ],
-      "definition": "dribbling i ishockey",
+      "definition": "blåser, fläktar",
       "word_definitions": [
-        "handlingen att dribbla",
-        "knep, påhitt"
+        "rör sig (om luft), fläktar",
+        "blåser lätt"
       ]
     }
   ]

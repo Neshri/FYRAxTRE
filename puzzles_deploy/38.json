@@ -2,51 +2,51 @@
   "pivot": "fälla",
   "categories": [
     {
-      "title": "FÅNGSTREDSKAP",
+      "title": "MEKANISKA FÄLLOR",
       "words": [
-        "håv",
-        "lasso"
+        "sax",
+        "flugsmälla"
       ],
-      "definition": "redskap som man fångar djur i",
+      "definition": "fångsredskap ofta försett med lockbete för att locka och medelst fallucka eller annat som faller igen fånga eller innestänga ett djur",
       "word_definitions": [
-        "ett slags nät med skaft som man fångar vissa djur med",
-        "rep med snara som man kastar för att fånga djur"
+        "ett fångstredskap",
+        "ett redskap att döda flugor med"
       ]
     },
     {
-      "title": "SÄTT ATT LURA",
+      "title": "BESEGRA NÅGON",
       "words": [
-        "list",
-        "bedrägeri"
+        "övermanna",
+        "klå"
       ],
-      "definition": "försåt",
+      "definition": "besegra, kullkasta, avsätta",
       "word_definitions": [
-        "knep, slughet",
-        "handlingen att lura någon så att man vinner på det själv, svek"
+        "besegrar, tar tillfånga",
+        "slår; besegrar"
       ]
     },
     {
-      "title": "ÖPPNINGAR I SKOGEN",
+      "title": "LÅTA FALLA",
       "words": [
-        "hygge",
-        "glänta"
+        "släppa",
+        "lossa"
       ],
-      "definition": "litet hygge, litet fall, litet område där skogen har fällts",
+      "definition": "låta falla t.ex. genom att avlägsna stödet",
       "word_definitions": [
-        "område där man huggit ner nästan all skog",
-        "liten öppning i skogen"
+        "lossar eller tappar greppet om något; låter förflytta sig fritt",
+        "löser, frigör"
       ]
     },
     {
-      "title": "FÅ NÅGOT ATT FALLA",
+      "title": "SÄGA NÅGOT",
       "words": [
-        "knuffa",
-        "välta"
+        "säga",
+        "yttra"
       ],
-      "definition": "få att falla genom att använda fysisk kraft",
+      "definition": "(tillfälligtvis) yttra, uttala något",
       "word_definitions": [
-        "ger en knuff, stöter till",
-        "gör så att något faller omkull; stjälper"
+        "meddelar i ord, uttalar",
+        "säger, uttalar, framför"
       ]
     }
   ]

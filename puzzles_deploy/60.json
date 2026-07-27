@@ -1,52 +1,52 @@
 {
-  "pivot": "inre",
+  "pivot": "intresse",
   "categories": [
     {
-      "title": "RELATIV POSITION",
+      "title": "KÄNSLA AV LUST",
       "words": [
-        "bortre",
-        "hitre"
+        "klåda",
+        "håg"
       ],
-      "definition": "som ligger längre in (från kusten)",
+      "definition": "lust att ägna något sin uppmärksamhet",
       "word_definitions": [
-        "som finns längre bort",
-        "som ligger närmare oss"
+        "lust att göra något",
+        "lust"
       ]
     },
     {
-      "title": "SJÄLSLIGA EGENSKAPER",
+      "title": "FRITIDSYSSELSÄTTNING",
       "words": [
-        "psykisk",
-        "andlig"
+        "sysselsättning",
+        "hemslöjd"
       ],
-      "definition": "som finns inne i människan, invärtes; själslig",
+      "definition": "något man gärna sysslar med, hobby",
       "word_definitions": [
-        "själslig",
-        "själslig, icke-världslig, religiös"
+        "handlingen att sysselsätta sig med något, arbete",
+        "hantverksmässig tillverkning av praktiska föremål (användbara i hemmet)"
       ]
     },
     {
-      "title": "INTERN ORGANISATION",
+      "title": "ATTRAKTIONSKRAFT",
       "words": [
-        "intern",
-        "organisatorisk"
+        "lockelse",
+        "utstrålning"
       ],
-      "definition": "som finns inom en organisation, intern",
+      "definition": "förmåga att fånga uppmärksamhet",
       "word_definitions": [
-        "som finns inom en organisation; inre, inhemsk",
-        "som har att göra med organisation"
+        "(något som har) förmåga att dra till sig intresse eller väcka begär",
+        "förmåga (hos en person) att göra ett starkt intryck, karisma"
       ]
     },
     {
-      "title": "INRE DELAR",
+      "title": "PERSONLIG VINNING",
       "words": [
-        "innandöme",
-        "kärna"
+        "nytta",
+        "fördel"
       ],
-      "definition": "inre del av något",
+      "definition": "något som man kan ha fördel av, engagemang",
       "word_definitions": [
-        "det inre av något",
-        "frö inuti en frukt, sten (i stenfrukt)"
+        "något som har god effekt, fördel",
+        "det som gynnar någon, positiv egenskap"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "punkt",
+  "pivot": "på",
   "categories": [
     {
-      "title": "TECKEN I SKRIFT",
+      "title": "MOTSATT RIKTNING",
       "words": [
-        "komma",
-        "parentes"
+        "emot",
+        "kontra"
       ],
-      "definition": "tecken för slutet på en mening (.)",
+      "definition": "mot",
       "word_definitions": [
-        "ett skiljetecken (,)",
-        "tecknet ( ) eller det som står inom det"
+        "mot",
+        "mot, gentemot"
       ]
     },
     {
-      "title": "AVSLUTNING PÅ NÅGOT",
+      "title": "POSITIONELLA PREPOSITIONER",
       "words": [
-        "final",
-        "konklusion"
+        "över",
+        "vid"
       ],
-      "definition": "slut",
+      "definition": "i anslutning till, ovanpå",
       "word_definitions": [
-        "avslutning",
-        "slutsats"
+        "ovanför, ovanpå",
+        "omkring, ungefär; i samband med"
       ]
     },
     {
-      "title": "LÄGE OCH POSITION",
+      "title": "TIDSMÄSSTIG OMFATTNING",
       "words": [
-        "position",
-        "placering"
+        "inom",
+        "under"
       ],
-      "definition": "plats, läge (i rum eller tid)",
+      "definition": "under, inom (anger tidpunkt eller tidsrymd)",
       "word_definitions": [
-        "ställning, läge",
-        "plats (ofta i någon sorts rangordning)"
+        "innanför",
+        "i läge nedanför"
       ]
     },
     {
-      "title": "DEL AV HELHET",
+      "title": "TIDSMÄSSTIG FÖLJD",
       "words": [
-        "avsnitt",
-        "moment"
+        "sedan",
+        "efter"
       ],
-      "definition": "avsnitt, del, inslag",
+      "definition": "efter",
       "word_definitions": [
-        "del, avdelning, stycke",
-        "beståndsdel; avsnitt"
+        "från, efter",
+        "därpå, därefter"
       ]
     }
   ]

@@ -1,0 +1,53 @@
+{
+  "pivot": "vad",
+  "categories": [
+    {
+      "title": "FRÅGEORD",
+      "words": [
+        "vem",
+        "var"
+      ],
+      "definition": "Vilken sak eller företeelse?",
+      "word_definitions": [
+        "vilken person?",
+        "varje"
+      ]
+    },
+    {
+      "title": "RELATIVPRONOMEN",
+      "words": [
+        "vilken",
+        "som"
+      ],
+      "definition": "det som, vilket",
+      "word_definitions": [
+        "som; något som",
+        "(relativt pronomen) syftar tillbaka på ett korrelat (substantiv, pronomen eller sats)"
+      ]
+    },
+    {
+      "title": "DELAR AV BENET",
+      "words": [
+        "skenben",
+        "lår"
+      ],
+      "definition": "bakre delen av underbenet",
+      "word_definitions": [
+        "underbenets främre och tjockare ben",
+        "benet ovanför knäet"
+      ]
+    },
+    {
+      "title": "HASARDSPEL",
+      "words": [
+        "lotteri",
+        "spel"
+      ],
+      "definition": "en sorts tävling där man satsar pengar på att en av flera möjliga händelser ska slå in",
+      "word_definitions": [
+        "en sorts spel där slumpen avgör vem som vinner",
+        "sysselsättning (ofta i tävlingsform) för nöjes skull efter vissa regler"
+      ]
+    }
+  ]
+}

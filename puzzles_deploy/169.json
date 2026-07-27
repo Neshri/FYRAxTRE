@@ -1,0 +1,53 @@
+{
+  "pivot": "vapen",
+  "categories": [
+    {
+      "title": "STRIDSREDSKAP",
+      "words": [
+        "spjut",
+        "svärd"
+      ],
+      "definition": "redskap för att skada eller döda (vid anfall eller försvar)",
+      "word_definitions": [
+        "ett vapen eller idrottsredskap i form av en vass stång som stöts eller kastas",
+        "ett långsmalt vapen att hugga eller sticka med"
+      ]
+    },
+    {
+      "title": "STRATEGISK FÖRDEL",
+      "words": [
+        "trumfkort",
+        "försteg"
+      ],
+      "definition": "tillgång (som ger stor fördel)",
+      "word_definitions": [
+        "mycket värdefull resurs eller tillgång",
+        "försprång; fördel"
+      ]
+    },
+    {
+      "title": "MILITÄR FÖRSVARSGREN",
+      "words": [
+        "armé",
+        "flotta"
+      ],
+      "definition": "försvarsgren",
+      "word_definitions": [
+        "alla militära förband (i ett land) som strider på marken",
+        "ett lands stridskrafter till sjöss; en samling fartyg"
+      ]
+    },
+    {
+      "title": "HERALDISK SYMBOL",
+      "words": [
+        "emblem",
+        "symbol"
+      ],
+      "definition": "tecken (på sköld) för en släkt, stad eller stat",
+      "word_definitions": [
+        "sinnebildligt märke",
+        "tecken med en särskild innebörd"
+      ]
+    }
+  ]
+}

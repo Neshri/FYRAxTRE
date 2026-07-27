@@ -1,52 +1,52 @@
 {
-  "pivot": "hög",
+  "pivot": "inre",
   "categories": [
     {
-      "title": "HÖG TON",
+      "title": "RELATIV POSITION",
       "words": [
-        "ljus",
-        "gäll"
+        "bortre",
+        "hitre"
       ],
-      "definition": "som ligger långt upp på tonskalan",
+      "definition": "som ligger längre in (från kusten)",
       "word_definitions": [
-        "som ger ifrån sig mycket ljus; upplyst",
-        "skarp, genomträngande"
+        "som finns längre bort",
+        "som ligger närmare oss"
       ]
     },
     {
-      "title": "INFLYTELSERIK STÄLLNING",
+      "title": "SJÄLSLIGA EGENSKAPER",
       "words": [
-        "inflytelserik",
-        "betydelsefull"
+        "psykisk",
+        "andlig"
       ],
-      "definition": "som har inflytelserik ställning",
+      "definition": "som finns inne i människan, invärtes; själslig",
       "word_definitions": [
-        "som har stort inflytande",
-        "som har stor betydelse, viktig"
+        "själslig",
+        "själslig, icke-världslig, religiös"
       ]
     },
     {
-      "title": "AVANCERAD NIVÅ",
+      "title": "INTERN ORGANISATION",
       "words": [
-        "försigkommen",
-        "sofistikerad"
+        "intern",
+        "organisatorisk"
       ],
-      "definition": "avancerad",
+      "definition": "som finns inom en organisation, intern",
       "word_definitions": [
-        "väl utvecklad, avancerad",
-        "förfinad"
+        "som finns inom en organisation; inre, inhemsk",
+        "som har att göra med organisation"
       ]
     },
     {
-      "title": "ANHOPNING AV MATERIAL",
+      "title": "INRE DELAR",
       "words": [
-        "stapel",
-        "trave"
+        "innandöme",
+        "kärna"
       ],
-      "definition": "anhopning av material",
+      "definition": "inre del av något",
       "word_definitions": [
-        "hög av staplat material, trave",
-        "hög av föremål"
+        "det inre av något",
+        "frö inuti en frukt, sten (i stenfrukt)"
       ]
     }
   ]

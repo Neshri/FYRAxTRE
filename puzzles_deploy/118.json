@@ -1,52 +1,52 @@
 {
-  "pivot": "rätt",
+  "pivot": "rör",
   "categories": [
     {
-      "title": "UTAN FEL",
+      "title": "NUDDA VID",
       "words": [
-        "ofelbart",
-        "perfekt"
+        "nudda",
+        "tangera"
       ],
-      "definition": "utan fel",
+      "definition": "berör, nuddar",
       "word_definitions": [
-        "utan minsta tvivel, säkert",
-        "; på ett perfekt sätt"
+        "berör lätt, snuddar",
+        "snuddar vid"
       ]
     },
     {
-      "title": "MORALISKT KORREKT",
+      "title": "VISPA OCH BLANDA",
       "words": [
-        "anständig",
-        "moralisk"
+        "vispa",
+        "piska"
       ],
-      "definition": "moraliskt riktig",
+      "definition": "vispar",
       "word_definitions": [
-        "(moraliskt) passande; korrekt, hederlig",
-        "som bygger på moral"
+        "får att rotera eller virvla (med visp)",
+        "slår med piska"
       ]
     },
     {
-      "title": "LAGLIG RÄTTIGHET",
+      "title": "VÄCKA KÄNSLOR",
       "words": [
-        "befogenhet",
-        "privilegium"
+        "gripa",
+        "frappera"
       ],
-      "definition": "rättighet",
+      "definition": "berör känslomässigt, griper",
       "word_definitions": [
-        "rättighet; behörighet",
-        "förmån"
+        "berör känslomässigt",
+        "gör starkt intryck på, förvånar"
       ]
     },
     {
-      "title": "DOMSTOL",
+      "title": "GÄLLA ELLER AVSE",
       "words": [
-        "domstol",
-        "tribunal"
+        "omfatta",
+        "gälla"
       ],
-      "definition": "domstol",
+      "definition": "handlar om, gäller",
       "word_definitions": [
-        "myndighet som dömer i rättsfall",
-        "(revolutions)domstol"
+        "gäller, avser",
+        "är giltig, är i kraft"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "rör",
+  "pivot": "röra",
   "categories": [
     {
-      "title": "NUDDA VID",
+      "title": "TOTAL OORDNING",
       "words": [
-        "nudda",
-        "tangera"
+        "kaos",
+        "sammelsurium"
       ],
-      "definition": "berör, nuddar",
+      "definition": "oreda, oordning",
       "word_definitions": [
-        "berör lätt, snuddar",
-        "snuddar vid"
+        "total förvirring, oreda",
+        "röra, oordning"
       ]
     },
     {
-      "title": "VISPA OCH BLANDA",
+      "title": "FYSISK KONTAKT",
       "words": [
-        "vispa",
-        "piska"
+        "känna",
+        "nudda"
       ],
-      "definition": "vispar",
+      "definition": "ta i/på, vara eller befinna sig på eller i (fysisk) kontakt med",
       "word_definitions": [
-        "får att rotera eller virvla (med visp)",
-        "slår med piska"
+        "tar (på), rör (vid)",
+        "berör lätt, snuddar"
       ]
     },
     {
-      "title": "VÄCKA KÄNSLOR",
+      "title": "ÄNDRA POSITION",
       "words": [
-        "gripa",
-        "frappera"
+        "flytta",
+        "vicka"
       ],
-      "definition": "berör känslomässigt, griper",
+      "definition": "låta, i synnerhet en kroppsdel, byta eller ändra position/läge (i rummet)",
       "word_definitions": [
-        "berör känslomässigt",
-        "gör starkt intryck på, förvånar"
+        "för till en annan plats",
+        "gör små rörelser"
       ]
     },
     {
-      "title": "GÄLLA ELLER AVSE",
+      "title": "BRIST PÅ STRUKTUR",
       "words": [
-        "omfatta",
-        "gälla"
+        "anarki",
+        "virrvarr"
       ],
-      "definition": "handlar om, gäller",
+      "definition": "brist på ordning, avsaknad av struktur",
       "word_definitions": [
-        "gäller, avser",
-        "är giltig, är i kraft"
+        "frånvaro av regering; oordning",
+        "röra, oreda"
       ]
     }
   ]

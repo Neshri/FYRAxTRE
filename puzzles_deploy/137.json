@@ -1,0 +1,53 @@
+{
+  "pivot": "slag",
+  "categories": [
+    {
+      "title": "SORT ELLER TYP",
+      "words": [
+        "art",
+        "typ"
+      ],
+      "definition": "sort, typ",
+      "word_definitions": [
+        "sort, slag, typ",
+        "sort, kategori, slag"
+      ]
+    },
+    {
+      "title": "VÄPNAD STRID",
+      "words": [
+        "batalj",
+        "skärmytsling"
+      ],
+      "definition": "större strid, drabbning",
+      "word_definitions": [
+        "(fält)slag, strid",
+        "mindre strid"
+      ]
+    },
+    {
+      "title": "DEL AV PLAGG",
+      "words": [
+        "brätte",
+        "bräm"
+      ],
+      "definition": "del av klädesplagg som vikts (och lagts uppåt eller utåt)",
+      "word_definitions": [
+        "nedre, vågrät del av en hatt (som har vikts ut)",
+        "kant (på kläder)"
+      ]
+    },
+    {
+      "title": "KORT TIDSRYMD",
+      "words": [
+        "ögonblick",
+        "tag"
+      ],
+      "definition": "kort stund",
+      "word_definitions": [
+        "mycket kort tidsperiod",
+        "stund, tidsperiod"
+      ]
+    }
+  ]
+}

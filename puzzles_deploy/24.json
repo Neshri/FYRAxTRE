@@ -1,52 +1,52 @@
 {
-  "pivot": "drift",
+  "pivot": "driva",
   "categories": [
     {
-      "title": "SKÖTSEL AV ANLÄGGNING",
+      "title": "NATURLIG HÖG",
       "words": [
-        "underhåll",
-        "förvaltning"
+        "sanddyn",
+        "vall"
       ],
-      "definition": "skötsel (t.ex. av en anläggning eller ett företag)",
+      "definition": "hög av snö (eller sand)",
       "word_definitions": [
-        "skötsel; renovering",
-        "administration"
+        "kulle av sand",
+        "långsträckt upphöjning (ofta av jord eller sand)"
       ]
     },
     {
-      "title": "BIOLOGISKA BEHOV",
+      "title": "DRIVANDE RÖRELSE",
       "words": [
-        "hunger",
-        "törst"
+        "rinna",
+        "flyta"
       ],
-      "definition": "instinkt, begär",
+      "definition": "förflyttas långsamt med vind, vågor, vattenström eller dylikt",
       "word_definitions": [
-        "begär, längtan",
-        "stark längtan; starkt behov"
+        "flyter, strömmar",
+        "rinner"
       ]
     },
     {
-      "title": "FÖRLÖJLIGANDE OCH SKÄMT",
+      "title": "SKÄMTA MED",
       "words": [
-        "hån",
-        "lustighet"
+        "skoja",
+        "raljera"
       ],
-      "definition": "skämt, förlöjligande",
+      "definition": "skoja, skämta (med)",
       "word_definitions": [
-        "elak kritik, förlöjligande",
-        "något lustigt, något som görs på skämt"
+        "skämtar",
+        "skämtar på ett retsamt sätt"
       ]
     },
     {
-      "title": "RÖRELSE UTAN MÅL",
+      "title": "ANSVARA FÖR",
       "words": [
-        "vandring",
-        "promenad"
+        "sköta",
+        "förvalta"
       ],
-      "definition": "det att driva omkring",
+      "definition": "sköta; ta hand om; leda",
       "word_definitions": [
-        "handlingen att vandra, promenad",
-        "handlingen att promenera för nöjes skull, spatsertur"
+        "vårdar, ger tillsyn; ansvarar för, tar hand om",
+        "sköter eller tar hand om någons egendom, administrerar"
       ]
     }
   ]

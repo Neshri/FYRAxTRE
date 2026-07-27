@@ -1,52 +1,52 @@
 {
-  "pivot": "lätt",
+  "pivot": "låter",
   "categories": [
     {
-      "title": "LÅG VIKT",
+      "title": "GE IFRÅN SIG LJUD",
       "words": [
-        "luftig",
-        "viktlös"
+        "ljuda",
+        "klinga"
       ],
-      "definition": "som har liten vikt",
+      "definition": "hörs, ljuder",
       "word_definitions": [
-        "som har mycket rymd",
-        "som inte upplever någon gravitationskraft"
+        "hörs, låter",
+        "ger ifrån sig klara toner"
       ]
     },
     {
-      "title": "BEKYMMERSLÖS",
+      "title": "FÖREFALLA VARA",
       "words": [
-        "sorglös",
-        "avslappnad"
+        "tyckas",
+        "synas"
       ],
-      "definition": "obekymrad",
+      "definition": "verkar vara, förefaller",
       "word_definitions": [
-        "bekymmerslös, glad",
-        "lugn, avspänd"
+        "verkar, synes, förefaller",
+        "tycks, förefaller"
       ]
     },
     {
-      "title": "INTE SVÅR",
+      "title": "GE TILLÅTELSE",
       "words": [
-        "enkel",
-        "okomplicerad"
+        "medge",
+        "sanktionera"
       ],
-      "definition": "enkel, okomplicerad",
+      "definition": "går med på, tillåter",
       "word_definitions": [
-        "lätt att förstå, okomplicerad",
-        "inte komplicerad, enkel"
+        "ger möjlighet till, tillåter",
+        "tillåter, godtar"
       ]
     },
     {
-      "title": "FREKVENT",
+      "title": "SÖRJA FÖR ATT",
       "words": [
-        "gärna",
-        "vanligen"
+        "tillse",
+        "verkställa"
       ],
-      "definition": "ofta; gärna",
+      "definition": "ser till att något blir gjort",
       "word_definitions": [
-        "ofta, lätt",
-        "för det mesta, oftast, mestadels, vanligtvis"
+        "tar på sig ansvaret för, ser till",
+        "ser till att ett beslut blir genomfört"
       ]
     }
   ]

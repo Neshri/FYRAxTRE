@@ -1,52 +1,52 @@
 {
-  "pivot": "fält",
+  "pivot": "färg",
   "categories": [
     {
-      "title": "PLAN MARK",
+      "title": "VISUELL NYANS",
       "words": [
-        "slätt",
-        "mark"
+        "nyans",
+        "kulör"
       ],
-      "definition": "öppet, plant område; åker; yta",
+      "definition": "ett slags synintryck (rött, grönt etc.); kulör, nyans",
       "word_definitions": [
-        "större område med plan mark (utan många träd)",
-        "jordens yta"
+        "färgton",
+        "färg"
       ]
     },
     {
-      "title": "LITEN RUTA",
+      "title": "ÅSIKTSMÄSSIG RIKTNING",
       "words": [
-        "fyrkant",
-        "ruta"
+        "strömning",
+        "ståndpunkt"
       ],
-      "definition": "liten kvadrat",
+      "definition": "åsiktsriktning",
       "word_definitions": [
-        "ruta, kvadrat",
-        "(liten) fyrkant"
+        "samling idéer, åsiktsriktning",
+        "ställningstagande, åsikt"
       ]
     },
     {
-      "title": "VERKSAMHETSOMRÅDE",
+      "title": "SOCIAL STÄMNING",
       "words": [
-        "fack",
-        "värld"
+        "atmosfär",
+        "klimat"
       ],
-      "definition": "område för viss verksamhet",
+      "definition": "positiv stämning",
       "word_definitions": [
-        "verksamhetsområde, ämne, yrke",
-        "verksamhetsområde"
+        "stämning, anda",
+        "stämning, atmosfär"
       ]
     },
     {
-      "title": "MILITÄR ZON",
+      "title": "KORTLEKENS FÄRGER",
       "words": [
-        "manöver",
-        "front"
+        "hjärter",
+        "spader"
       ],
-      "definition": "(plats för) krig eller militär övning",
+      "definition": "en av serierna hjärter, spader, ruter och klöver i en kortlek",
       "word_definitions": [
-        "(större) militär övning",
-        "(fram)sida"
+        "en av de fyra färgerna i en kortlek",
+        "(kort i) en av de fyra färgerna i kortspel"
       ]
     }
   ]

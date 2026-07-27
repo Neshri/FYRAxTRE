@@ -1,0 +1,53 @@
+{
+  "pivot": "skärpa",
+  "categories": [
+    {
+      "title": "PRECISERA INFORMATION",
+      "words": [
+        "precisera",
+        "förtydliga"
+      ],
+      "definition": "göra skarpare; göra så att ett givet påstående innehåller mer information",
+      "word_definitions": [
+        "anger mer detaljerat, gör mera precis",
+        "gör tydligare, förklarar"
+      ]
+    },
+    {
+      "title": "BILDKVALITET",
+      "words": [
+        "upplösning",
+        "kontrast"
+      ],
+      "definition": "egenskapen att ha skarpa linjer; förmågan hos bilden att ge en skarp bild",
+      "word_definitions": [
+        "slut, avslutning",
+        "tydlig olikhet, motsats"
+      ]
+    },
+    {
+      "title": "FÖRBÄTTRA BETTANDE",
+      "words": [
+        "förbättra",
+        "korrigera"
+      ],
+      "definition": "bete sig bättre, på ett mer korrekt och kontrollerat sätt",
+      "word_definitions": [
+        "gör bättre, hjälper upp",
+        "gör korrekt, rättar"
+      ]
+    },
+    {
+      "title": "LOGISK FÖRMÅGA",
+      "words": [
+        "intelligens",
+        "förstånd"
+      ],
+      "definition": "förmågan att dra korrekta logiska slutsatser",
+      "word_definitions": [
+        "förmåga till tänkande och analys, begåvning",
+        "förmåga att förstå"
+      ]
+    }
+  ]
+}
