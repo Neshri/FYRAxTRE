@@ -297,6 +297,3 @@ def get_base_lemma_senses(session: requests.Session, word: str, target_pos: str)
     lemma = get_base_lemma(session, word, target_pos)
     lookup_word = lemma if lemma else word
     return [s for s in get_wiktionary_senses(session, lookup_word) if s["part_of_speech"] == target_pos]
-
-print(get_base_lemma_senses(requests.Session(), "begränsade", "av"))
-print(get_base_lemma_senses(requests.Session(), "hörn", "nn"))
