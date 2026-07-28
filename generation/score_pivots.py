@@ -52,11 +52,11 @@ import argparse
 import numpy as np
 import requests
 
-MULTISENSE_FILE = "generation\\multisense_words.json"
-MATRIX_FILE = "generation\\embeddings.npy"
-META_FILE = "generation\\embeddings_meta.json"
-JSONL_FILE = "generation\\embeddings.jsonl"
-LEXICON_FILE = "generation\\full_lexicon.json"
+MULTISENSE_FILE = "multisense_words.json"
+MATRIX_FILE = "embeddings.npy"
+META_FILE = "embeddings_meta.json"
+JSONL_FILE = "embeddings.jsonl"
+LEXICON_FILE = "full_lexicon.json"
 
 # Wiktionary on-demand embedding -- must match embed_lexicon.py's settings
 # (MODEL, OLLAMA_URL, OLLAMA_PREFIX, NUM_GPU) or the new vectors won't land

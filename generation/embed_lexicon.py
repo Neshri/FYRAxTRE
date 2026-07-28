@@ -32,10 +32,10 @@ import time
 import requests
 import numpy as np
 
-INPUT_FILE = "generation\\full_lexicon.json"
-JSONL_FILE = "generation\\embeddings.jsonl"
-MATRIX_FILE = "generation\\embeddings.npy"
-META_FILE = "generation\\embeddings_meta.json"
+INPUT_FILE = "full_lexicon.json"
+JSONL_FILE = "embeddings.jsonl"
+MATRIX_FILE = "embeddings.npy"
+META_FILE = "embeddings_meta.json"
 
 OLLAMA_URL = "http://localhost:11434/api/embed"
 MODEL = "nomic-embed-text-v2-moe"

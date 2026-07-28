@@ -27,7 +27,7 @@ import unicodedata
 import requests
 
 KARP_API = "https://spraakbanken4.it.gu.se/karp/v7/query/lexin"
-OUTPUT_FILE = "generation\\full_lexicon.json"
+OUTPUT_FILE = "full_lexicon.json"
 
 ALPHABET = "abcdefghijklmnopqrstuvwxyzåäö"
 

@@ -52,8 +52,8 @@ import requests
 from wiktionary import get_wiktionary_senses
 
 KARP_API = "https://spraakbanken4.it.gu.se/karp/v7/query/lexin"
-INPUT_FILE = "generation\\multisense_words.txt"
-OUTPUT_FILE = "generation\\multisense_words.json"
+INPUT_FILE = "multisense_words.txt"
+OUTPUT_FILE = "multisense_words.json"
 MIN_SENSES = 4
 
 

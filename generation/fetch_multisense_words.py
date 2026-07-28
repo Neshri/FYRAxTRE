@@ -14,7 +14,7 @@ import requests
 from collections import defaultdict
 
 KARP_API = "https://spraakbanken4.it.gu.se/karp/v7/query/lexin"
-OUTPUT_FILE = "generation\\multisense_words.txt"
+OUTPUT_FILE = "multisense_words.txt"
 PAGE_SIZE = 1000
 
 # Alphabet to partition our queries to stay under the 10,000 max_result_window limit.
