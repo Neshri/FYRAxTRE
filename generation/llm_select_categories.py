@@ -140,7 +140,9 @@ def verify_and_correct_sibling(
             matching_wikt = get_wiktionary_senses(session, core_word)
 
         if matching_wikt:
-            distinct_defs = list({s["definition"] for s in matching_wikt if s.get("definition")})
+            distinct_defs = list(dict.fromkeys(
+                s["definition"] for s in matching_wikt if s.get("definition")
+            ))
             if len(distinct_defs) > 1:
                 sib["definition_options"] = distinct_defs
                 return core_word, "", "suggested"
