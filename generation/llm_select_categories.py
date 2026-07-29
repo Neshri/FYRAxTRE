@@ -85,162 +85,148 @@ def build_word_inventory(
     return inventory_by_pos, all_words_map, definitions_by_pos
 
 
-def _unsafe_negation_prefix_match(word, candidate):
-    """
-    Guards fuzzy spell-correction against Swedish's productive 'o-' negation
-    prefix (begränsad/obegränsad, jämn/ojämn, äkta/oäkta, vanlig/ovanlig...).
-    Generic edit-distance similarity can't distinguish "typo" from "real
-    word, opposite meaning" -- 'obegränsad' scores 0.90 similarity against
-    'begränsade', well past a typical fuzzy-match cutoff, purely because the
-    shared stem is long. This only ever runs on pairs that already cleared
-    difflib's cutoff, so it just asks one direct question: once the leading
-    'o' is stripped from whichever side has it, is what's left essentially
-    the SAME word as the other side? If so, that 'o' is almost certainly
-    the entire reason the pair looked similar -- i.e. it's doing real
-    negation work, not adding incidental noise -- so reject the match
-    instead of quietly correcting a word into its own antonym.
-    """
-    w, c = word.lower(), candidate.lower()
-    if w == c:
-        return False
-    if c.startswith("o") and not w.startswith("o"):
-        stripped, other = c[1:], w
-    elif w.startswith("o") and not c.startswith("o"):
-        stripped, other = w[1:], c
-    else:
-        return False
-    return difflib.SequenceMatcher(None, stripped, other).ratio() >= 0.85
-
-
 def verify_and_correct_sibling(
     sib: dict,
+    category: dict,
     candidate_list: list[dict],
     target_pos: str | None,
     inventory_by_pos: dict[str, dict[str, str]],
     all_words_map: dict[str, str],
     definitions_by_pos: dict[str, dict[str, str]],
     session: requests.Session,
+    args
 ) -> dict:
     """
-    Validates and spell-corrects a sibling word returned by the LLM.
+    Validates a sibling word returned by the LLM.
 
-    Key principles:
-    1. Both 'candidate' and 'suggested' words are validated.
-    2. Candidate words are checked against the specific candidate list for the sense.
-       If the LLM typo'd a candidate (e.g. 'fantasera' vs candidate 'fantisera'), it is corrected.
-    3. Suggested words are checked against the lexicon and Wiktionary ONLY for the target POS.
-       Fuzzy matching is strictly POS-restricted, preventing cross-POS mutations (e.g. verb 'förtrösta' -> noun 'förtröstan').
-    4. Multi-word phrases with particles ('lita på') are normalized to core baseform ('lita').
-    5. Every word that resolves successfully also gets sib['definition'] backfilled --
-       from the candidate list, the lexicon, or Wiktionary, whichever path resolved it --
-       so the puzzle schema always carries a definition for every word it uses. A word
-       that resolves via none of these paths gets 'correction_warning' set instead, and
-       carries no definition -- filter_valid_categories() treats that as unusable.
+    1. Looks for the definition in the candidate list.
+    2. If not found, checks the local lexicon for the target POS.
+    3. If not found, checks Wiktionary.
+    4. If still not found, asks the LLM if the word was misspelled, given the category context.
+       - If misspelled, corrects the spelling and rechecks lexicon/Wiktionary.
+       - If correct as-is, uses a definition provided by the LLM.
     """
     word = sib.get("word", "").strip()
     if not word:
         return sib
-    source = sib.get("source", "candidate")
 
     cand_map = {c["baseform"].lower(): c["baseform"] for c in candidate_list if c.get("baseform")}
     cand_def_map = {c["baseform"].lower(): c.get("definition", "") for c in candidate_list if c.get("baseform")}
-
-    if source == "candidate":
-        if word.lower() in cand_map:
-            sib["word"] = cand_map[word.lower()]
-            sib["definition"] = cand_def_map.get(word.lower(), "")
-            return sib
-
-        # Fuzzy match against the sense's actual candidate list
-        cand_matches = difflib.get_close_matches(word.lower(), list(cand_map.keys()), n=1, cutoff=0.82)
-        if cand_matches and _unsafe_negation_prefix_match(word, cand_map[cand_matches[0]]):
-            print(f"  [rejected fuzzy match] '{word}' ~ '{cand_map[cand_matches[0]]}' looks like a "
-                  f"negation-prefix flip (opposite meaning), not a typo -- leaving unresolved.")
-            cand_matches = []
-        if cand_matches:
-            corrected = cand_map[cand_matches[0]]
-            print(f"  [spell-fix candidate] '{word}' -> '{corrected}'")
-            sib["word"] = corrected
-            sib["definition"] = cand_def_map.get(cand_matches[0], "")
-            sib["corrected_from"] = word
-            return sib
-
-        # Not in candidate list nor a candidate typo -- re-classify as suggested
-        source = "suggested"
-        sib["source"] = "suggested"
-
-    # --- Suggested word validation ---
-    core_word = word.split()[0] if " " in word else word
-
-    if core_word.lower() in cand_map:
-        sib["word"] = cand_map[core_word.lower()]
-        sib["definition"] = cand_def_map.get(core_word.lower(), "")
-        sib["source"] = "candidate"
-        return sib
-
     pos_inv = inventory_by_pos.get(target_pos, {}) if target_pos else all_words_map
     pos_def_map = definitions_by_pos.get(target_pos, {}) if target_pos else {}
 
     def _lookup_def(key):
-        """Returns the definition if unambiguous. If the (POS, baseform) has
-        multiple distinct lexicon senses, stashes them on the sibling as
-        'definition_options' for disambiguate_homographs() to resolve later
-        (with the category's actual context) and returns '' for now -- never
-        silently picks one."""
         d = pos_def_map.get(key, "")
         if isinstance(d, list):
             sib["definition_options"] = d
             return ""
         return d
 
-    # 1. Exact match in lexicon for target POS
-    if core_word.lower() in pos_inv:
-        sib["word"] = pos_inv[core_word.lower()]
-        sib["definition"] = _lookup_def(core_word.lower())
-        return sib
+    def _try_resolve(search_word):
+        """Returns (resolved_word, definition, source_tag). Sets sib['definition_options'] on homographs."""
+        w_lower = search_word.lower()
+        if w_lower in cand_map:
+            return cand_map[w_lower], cand_def_map.get(w_lower, ""), "candidate"
 
-    # 2. Check Wiktionary for target POS -- get_base_lemma_senses() resolves
-    #    an inflected form (e.g. "begränsade") to its lemma ("begränsad")
-    #    first, scoped to target_pos so it can't cross into the wrong POS's
-    #    inflection pointer, then returns that lemma's own senses; if the
-    #    word isn't an inflected form at all, it just returns the word's own
-    #    senses, same as the old plain get_wiktionary_senses() call did.
-    if target_pos:
-        matching_wikt = get_base_lemma_senses(session, core_word, target_pos)
-    else:
-        matching_wikt = get_wiktionary_senses(session, core_word)
-    if matching_wikt:
-        sib["word"] = core_word
-        distinct_defs = list({s["definition"] for s in matching_wikt if s.get("definition")})
-        if len(distinct_defs) > 1:
-            # Same homograph problem, Wiktionary-sourced: multiple senses share
-            # this POS and nothing here says which one the model meant --
-            # don't pick matching_wikt[0] arbitrarily. Stash all of them for
-            # disambiguate_homographs() instead.
-            sib["definition_options"] = distinct_defs
-            sib["definition"] = ""
+        core_word = search_word.split()[0] if " " in search_word else search_word
+        core_lower = core_word.lower()
+
+        if core_lower in pos_inv:
+            return pos_inv[core_lower], _lookup_def(core_lower), "suggested"
+
+        if target_pos:
+            matching_wikt = get_base_lemma_senses(session, core_word, target_pos)
         else:
-            sib["definition"] = matching_wikt[0]["definition"]
-            sib["wiktionary_definition"] = matching_wikt[0]["definition"]
+            matching_wikt = get_wiktionary_senses(session, core_word)
+
+        if matching_wikt:
+            distinct_defs = list({s["definition"] for s in matching_wikt if s.get("definition")})
+            if len(distinct_defs) > 1:
+                sib["definition_options"] = distinct_defs
+                return core_word, "", "suggested"
+            else:
+                sib["wiktionary_definition"] = matching_wikt[0]["definition"]
+                return core_word, matching_wikt[0]["definition"], "suggested"
+
+        return None, None, None
+
+    resolved_w, resolved_d, source_tag = _try_resolve(word)
+
+    if resolved_w:
+        sib["word"] = resolved_w
+        sib["source"] = source_tag
+        if resolved_d:
+            sib["definition"] = resolved_d
+        elif "definition_options" not in sib:
+            sib["definition"] = ""
         return sib
 
-    # 3. Strict POS-restricted fuzzy match in lexicon
-    pos_list = list(pos_inv.keys())
-    matches = difflib.get_close_matches(core_word.lower(), pos_list, n=1, cutoff=0.87)
-    if matches and _unsafe_negation_prefix_match(core_word, pos_inv[matches[0]]):
-        print(f"  [rejected fuzzy match] '{word}' ~ '{pos_inv[matches[0]]}' looks like a "
-              f"negation-prefix flip (opposite meaning), not a typo -- leaving unresolved.")
-        matches = []
-    if matches:
-        corrected = pos_inv[matches[0]]
-        print(f"  [spell-fix suggested POS={target_pos}] '{word}' -> '{corrected}'")
-        sib["word"] = corrected
-        sib["definition"] = _lookup_def(matches[0])
-        sib["corrected_from"] = word
+    # Word not found anywhere. Ask LLM to correct or define.
+    cat_label = category.get("category_label", "")
+    cat_def = category.get("definition", "")
+    prompt = f"""
+Ordet "{word}" föreslogs som syskonord för kategorin "{cat_label}" (pivotordets betydelse: "{cat_def}").
+Detta ord hittades inte i svenskt lexikon eller Wiktionary.
+
+Din uppgift:
+1. Är "{word}" felstavat i detta sammanhang, eller kanske ett annat ord avsågs?
+   - Om JA: ange den korrekta stavningen av ordet du menade.
+2. Om ordet faktiskt är korrekt stavat (t.ex. ett giltigt men ovanligt svenskt ord):
+   - Ge en kort och tydlig ordboksdefinition av ordet i detta sammanhang.
+
+Du får resonera innan, men avsluta ditt svar med EXAKT ETT JSON-kodblock i detta format:
+```json
+{{
+  "is_misspelled": true,
+  "corrected_spelling": "rätt_stavning_här",
+  "definition": "definition_här"
+}}
+```
+Om is_misspelled är true, fyll i corrected_spelling. Om false, måste du ge en definition.
+"""
+    print(f"  [spell-check] '{word}' hittades inte. Frågar LLM...")
+    raw_response, thinking = call_ollama(prompt, args.model, args.temperature, args.think)
+
+    try:
+        json_str = extract_json(raw_response)
+        result = json.loads(json_str) if json_str else {}
+    except json.JSONDecodeError:
+        print(f"  [spell-check] Kunde inte tolka JSON-svar för '{word}'.")
+        result = {}
+
+    if result.get("is_misspelled") and result.get("corrected_spelling"):
+        corrected = result["corrected_spelling"].strip()
+        print(f"  [spell-check] LLM korrigerade '{word}' -> '{corrected}'. Kollar ordbok igen...")
+        sib.pop("definition_options", None)  # Rensa ev. skräp
+        
+        res_w, res_d, res_src = _try_resolve(corrected)
+        if res_w:
+            sib["word"] = res_w
+            sib["source"] = res_src
+            sib["corrected_from"] = word
+            if res_d:
+                sib["definition"] = res_d
+            elif "definition_options" not in sib:
+                sib["definition"] = ""
+            return sib
+        else:
+            if result.get("definition"):
+                sib["word"] = corrected
+                sib["source"] = "suggested"
+                sib["corrected_from"] = word
+                sib["definition"] = result["definition"]
+            else:
+                sib["correction_warning"] = f"LLM rättade till '{corrected}' men ordet hittades inte"
+            return sib
+
+    elif result.get("is_misspelled") is False and result.get("definition"):
+        print(f"  [spell-check] LLM anser att '{word}' är korrekt. Använder LLM:s definition.")
+        sib["word"] = word
+        sib["source"] = "suggested"
+        sib["definition"] = result["definition"]
         return sib
 
-    # Word not found for target POS -- leave word as-is, no definition, flag warning
-    sib["correction_warning"] = f"not found in lexicon for POS '{target_pos}'"
+    sib["correction_warning"] = f"Hittades inte i lexikon för POS '{target_pos}' och LLM kunde inte åtgärda"
     return sib
 
 
@@ -585,12 +571,15 @@ def resolve_sense_category_pool(word, raw_categories, sense_reports, args, rejec
         sr = sense_map.get(sid, {})
         target_pos = sr.get("pos")
         candidate_list = sr.get("candidates", [])
+        
+        # Sätt definitionen först, så LLM kan använda den som kontext vid eventuell stavningskontroll
+        entry["definition"] = sr.get("definition", "")
         for sib in entry.get("siblings", []):
             verify_and_correct_sibling(
-                sib, candidate_list, target_pos, inventory_by_pos, all_words_map,
-                definitions_by_pos, session_for_wikt,
+                sib, entry, candidate_list, target_pos, inventory_by_pos, all_words_map,
+                definitions_by_pos, session_for_wikt, args
             )
-        entry["definition"] = sr.get("definition", "")
+            
         candidate_categories.append(entry)
 
     for sr in sense_reports:
