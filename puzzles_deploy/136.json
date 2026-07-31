@@ -1,52 +1,52 @@
 {
-  "pivot": "spelar",
+  "pivot": "pipa",
   "categories": [
     {
-      "title": "UTÖVA SPEL OCH SPORT",
+      "title": "BLÅSINSTRUMENT",
       "words": [
-        "sporta",
-        "leka"
+        "flöjt",
+        "trumpet"
       ],
-      "definition": "ägnar sig åt spel",
+      "definition": "en typ av blåsinstrument",
       "word_definitions": [
-        "ägnar sig åt sport",
-        "håller på med lek"
+        "ett blåsinstrument",
+        "ett blåsinstrument i ganska högt tonläge"
       ]
     },
     {
-      "title": "AGERA I PJÄS",
+      "title": "VAPENDELAR",
       "words": [
-        "uppföra",
-        "agera"
+        "kolv",
+        "avtryckare"
       ],
-      "definition": "uppför en viss teaterpjäs, agerar i en teaterpjäs eller film",
+      "definition": "avlångt, ihåligt föremål på ett mindre eldvapen genom vilket en projektil färdas",
       "word_definitions": [
-        "spelar (teater), framför",
-        "spelar (rollen av)"
+        "bakre del av handeldvapen",
+        "del av skjutvapen som man trycker på för att avlossa ett skott"
       ]
     },
     {
-      "title": "LÅTSAS ELLER FAKA",
+      "title": "LUFTHÅLIGHETER",
       "words": [
-        "låtsa",
-        "simulera"
+        "håla",
+        "bubbla"
       ],
-      "definition": "låtsas",
+      "definition": "hålighet bildad av gas under produktionen av hårdost",
       "word_definitions": [
-        "låtsas",
-        "spelar, låtsar"
+        "fördjupning, hålighet",
+        "liten mängd luft som (vanligen) omges av vatten"
       ]
     },
     {
-      "title": "SPELA INSTRUMENT",
+      "title": "PIPINDE LJUD",
       "words": [
-        "musicera",
-        "traktera"
+        "vina",
+        "gnissla"
       ],
-      "definition": "framför musik på instrument, musicerar",
+      "definition": "ge ifrån sig ett högfrekvent ljud",
       "word_definitions": [
-        "framför musik",
-        "spelar (musikinstrument)"
+        "ger ifrån sig ett starkt men pipigt ljud",
+        "ger ifrån sig ett skarpt och skärande ljud"
       ]
     }
   ]

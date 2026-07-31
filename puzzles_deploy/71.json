@@ -1,52 +1,52 @@
 {
-  "pivot": "land",
+  "pivot": "stämma",
   "categories": [
     {
-      "title": "STORA LANDMASSOR",
+      "title": "RÄTTSLIGA ÅTGÄRDER",
       "words": [
-        "kontinent",
-        "världsdel"
+        "åtala",
+        "processa"
       ],
-      "definition": "fastland",
+      "definition": "dra inför domstol, kalla inför rätta",
       "word_definitions": [
-        "världsdel, stort fastland (särskilt Europas fastland, till skillnad från t.ex. Norden)",
-        "stor, avgränsad del av jorden, kontinent (Europa, Afrika, Asien etc.)"
+        "anklagar inför domstol",
+        "driver en rättegång (mot någon)"
       ]
     },
     {
-      "title": "OMRÅDEN PÅ LANDSBYGDEN",
+      "title": "STOPPA FLÖDET",
       "words": [
-        "bygd",
-        "trakt"
+        "blockera",
+        "hejda"
       ],
-      "definition": "landsbygd",
+      "definition": "stoppa flöde",
       "word_definitions": [
-        "område i landsorten där folk bor, trakt",
-        "geografiskt område (särskilt på landet)"
+        "spärrar av, hindrar",
+        "stoppar, hindrar"
       ]
     },
     {
-      "title": "STATLIGA ENHETER",
+      "title": "ARBETA I TRÄ",
       "words": [
-        "rike",
-        "välde"
+        "tälja",
+        "snida"
       ],
-      "definition": "stat, rike",
+      "definition": "använda stämjärn vid träarbete",
       "word_definitions": [
-        "land, stat",
-        "statsmakt, (stort) rike"
+        "skär i trä med kniv, snidar",
+        "skär eller skulpterar i trä"
       ]
     },
     {
-      "title": "ODLADE JORDSTYCKEN",
+      "title": "AVGE RÖST",
       "words": [
-        "åker",
-        "kolonilott"
+        "rösta",
+        "votera"
       ],
-      "definition": "odlat stycke jord",
+      "definition": "avge röst vid val",
       "word_definitions": [
-        "jord som man odlar på",
-        "stycke jord som arrenderas ut (av kommunen) för odling i liten skala"
+        "uttrycker sin mening i val",
+        "röstar"
       ]
     }
   ]

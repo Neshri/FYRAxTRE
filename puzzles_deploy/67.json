@@ -1,52 +1,52 @@
 {
-  "pivot": "kors",
+  "pivot": "pass",
   "categories": [
     {
-      "title": "UTROP AV FÖRVÅNING",
+      "title": "RESEDOKUMENT",
       "words": [
-        "oj",
-        "nej"
+        "visum",
+        "id-kort"
       ],
-      "definition": "uttrycker förvåning",
+      "definition": "dokument som man ibland måste visa upp när man reser utomlands",
       "word_definitions": [
-        "uttrycker förvåning",
-        "utrop, uttryckande besvikelse"
+        "dokument som ger tillstånd att resa in i och vistas i ett visst land (när det inte räcker med pass)",
+        "identitetskort"
       ]
     },
     {
-      "title": "DELAR AV BÅLEN",
+      "title": "BERGSTERRÄNG",
       "words": [
-        "bäcken",
-        "svank"
+        "ravin",
+        "dal"
       ],
-      "definition": "del av bålen över bäcken och de främre svanskotorna hos ryggradsdjur eller människan (där ryggrad och höftben tillsammans bildar ett kors)",
+      "definition": "trång väg mellan berg",
       "word_definitions": [
-        "(benstommen vid) nedre delen av bålen",
-        "område i ryggradens nedre del som är böjt inåt"
+        "djup klyfta i berg",
+        "långsmalt, lägre område mellan två höjder, sänka"
       ]
     },
     {
-      "title": "BÖRDA ELLER STRAFF",
+      "title": "ARBETSTID",
       "words": [
-        "ok",
-        "vedergällning"
+        "arbetsdag",
+        "skift"
       ],
-      "definition": "börda; bestraffning",
+      "definition": "det antal timmar som någon arbetar vid visst tillfälle",
       "word_definitions": [
-        "börda, förtryck",
-        "hämnd, bestraffning (ofta militär)"
+        "tiden man arbetar under en dag",
+        "arbetspass mellan två ombyten av arbetskraft"
       ]
     },
     {
-      "title": "AVRÄKTNINGSSTÄLLNINGAR",
+      "title": "KORTSPELSTERMER",
       "words": [
-        "galge",
-        "krucifix"
+        "utspel",
+        "bud"
       ],
-      "definition": "ställning (formad som ett kors) där Jesus hängdes upp för att dö (enligt Bibeln); krucifix",
+      "definition": "inget bud (i kortspel)",
       "word_definitions": [
-        "ställning där dödsdömda häng(de)s",
-        "skulptur av Jesus på korset"
+        "första spelade kortet i en omgång i kortspel",
+        "erbjudande, anbud"
       ]
     }
   ]

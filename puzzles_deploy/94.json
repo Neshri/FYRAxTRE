@@ -1,52 +1,52 @@
 {
-  "pivot": "om",
+  "pivot": "skala",
   "categories": [
     {
-      "title": "EN GÅNG TILL",
+      "title": "MUSIKALISKA TONARTER",
       "words": [
-        "igen",
-        "åter"
+        "dur",
+        "moll"
       ],
-      "definition": "på nytt, ännu en gång, om igen",
+      "definition": "ordnad följd av toner i viss tonart",
       "word_definitions": [
-        "ännu en gång, åter",
-        "än en gång, igen, på nytt"
+        "en typ av tonart med helt tonsteg mellan andra och tredje tonen i skalan (uppfattas ofta som glad)",
+        "en grupp tonarter med ett litet tonsteg mellan andra och tredje tonen i skalan (som ofta uppfattas som sorgsna)"
       ]
     },
     {
-      "title": "VILLKORLIG KONJUNKTION",
+      "title": "MÄTINSTRUMENT",
       "words": [
-        "ifall",
-        "såvitt"
+        "termometer",
+        "tumstock"
       ],
-      "definition": "ifall, såvida",
+      "definition": "graderad anordning att mäta något med",
       "word_definitions": [
-        "om, såvida",
-        "såvida, om"
+        "ett instrument som mäter temperatur",
+        "ett mätverktyg som kan fällas ihop"
       ]
     },
     {
-      "title": "RUNT NÅGOT",
+      "title": "AVLÄGSNA HÖLJE",
       "words": [
-        "runt",
-        "kring"
+        "skrapa",
+        "flå"
       ],
-      "definition": "omkring, runt",
+      "definition": "avlägsna skalet eller annat hölje från något (t.ex. potatis)",
       "word_definitions": [
-        "omkring",
-        "runtom"
+        "tar bort ojämnheter (med ett vasst föremål); skaver, river",
+        "tar av skinnet på djur"
       ]
     },
     {
-      "title": "HANDLAR OM",
+      "title": "STORLEKSFÖRHÅLLANDE",
       "words": [
-        "angående",
-        "rörande"
+        "proportion",
+        "kvot"
       ],
-      "definition": "angående, beträffande",
+      "definition": "storleksförhållandet mellan en avbildning och det avbildade föremålet eller området, särskilt i kartsammanhang",
       "word_definitions": [
-        "om, beträffande",
-        "angående, beträffande"
+        "överensstämmelse mellan storlekarna på olika delar",
+        "resultat av en division"
       ]
     }
   ]

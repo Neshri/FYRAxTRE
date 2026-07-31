@@ -1,52 +1,52 @@
 {
-  "pivot": "tar",
+  "pivot": "spelar",
   "categories": [
     {
-      "title": "TA TAG I",
+      "title": "UTÖVA SPEL OCH SPORT",
       "words": [
-        "gripa",
-        "knipa"
+        "sporta",
+        "leka"
       ],
-      "definition": "skaffar sig kontroll över, griper, fattar",
+      "definition": "ägnar sig åt spel",
       "word_definitions": [
-        "tar fast, fångar, häktar",
-        "får tag i, skaffar sig"
+        "ägnar sig åt sport",
+        "håller på med lek"
       ]
     },
     {
-      "title": "ANVÄNDA NÅGOT",
+      "title": "AGERA I PJÄS",
       "words": [
-        "utnyttja",
-        "begagna"
+        "uppföra",
+        "agera"
       ],
-      "definition": "använder sig av",
+      "definition": "uppför en viss teaterpjäs, agerar i en teaterpjäs eller film",
       "word_definitions": [
-        "drar nytta av, använder",
-        "använder, brukar, utnyttjar, handskas med"
+        "spelar (teater), framför",
+        "spelar (rollen av)"
       ]
     },
     {
-      "title": "TA TID I ANSPRÅK",
+      "title": "LÅTSAS ELLER FAKA",
       "words": [
-        "dröja",
-        "söla"
+        "låtsa",
+        "simulera"
       ],
-      "definition": "dröjer, upptar (tid)",
+      "definition": "låtsas",
       "word_definitions": [
-        "drar ut på tiden, tar tid",
-        "är långsam, dröjer"
+        "låtsas",
+        "spelar, låtsar"
       ]
     },
     {
-      "title": "TRANSPORTERA GODS",
+      "title": "SPELA INSTRUMENT",
       "words": [
-        "frakta",
-        "befordra"
+        "musicera",
+        "traktera"
       ],
-      "definition": "för, transporterar",
+      "definition": "framför musik på instrument, musicerar",
       "word_definitions": [
-        "transporterar gods",
-        "transporterar"
+        "framför musik",
+        "spelar (musikinstrument)"
       ]
     }
   ]

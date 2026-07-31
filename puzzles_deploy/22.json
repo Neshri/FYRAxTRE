@@ -1,52 +1,52 @@
 {
-  "pivot": "driva",
+  "pivot": "stämma",
   "categories": [
     {
-      "title": "SKÄMTA OCH SKOJA",
+      "title": "RÖSTENS EGENSKAPER",
       "words": [
-        "skoja",
-        "raljera"
+        "klang",
+        "ton"
       ],
-      "definition": "skoja, skämta (med)",
+      "definition": "röst",
       "word_definitions": [
-        "skämtar",
-        "skämtar på ett retsamt sätt"
+        "ljud som klingar, ton",
+        "ljud av sångröst eller instrument i konstant läge på skalan"
       ]
     },
     {
-      "title": "SKÖTA OCH LEDA",
+      "title": "MUSIKALISKA ELEMENT",
       "words": [
-        "sköta",
-        "förvalta"
+        "melodi",
+        "rytm"
       ],
-      "definition": "sköta; ta hand om; leda",
+      "definition": "linje i en musikalisk sats",
       "word_definitions": [
-        "vårdar, ger tillsyn; ansvarar för, tar hand om",
-        "sköter eller tar hand om någons egendom, administrerar"
+        "ordnad följd av toner som bildar en musikalisk helhet",
+        "regelbunden rörelse i musik; takt"
       ]
     },
     {
-      "title": "RÖRA SIG PASSIVT",
+      "title": "FORMELLA SAMMANKOMSTER",
       "words": [
-        "flyta",
-        "glida"
+        "möte",
+        "kongress"
       ],
-      "definition": "förflyttas långsamt med vind, vågor, vattenström eller dylikt",
+      "definition": "(större) sammankomst",
       "word_definitions": [
-        "håller sig uppe på ytan av en vätska",
-        "rör sig jämnt (ofta på halt underlag); halkar, slinter"
+        "sammanträffande (särskilt mellan bilar)",
+        "(större) sammankomst med valda ombud (t.ex. politiker)"
       ]
     },
     {
-      "title": "STORA HÖGAR",
+      "title": "KOMMA ÖVERENS",
       "words": [
-        "stack",
-        "stapel"
+        "överenskomma",
+        "fastställa"
       ],
-      "definition": "stor hög",
+      "definition": "bestämma; avtala",
       "word_definitions": [
-        "större hög",
-        "hög av staplat material, trave"
+        "bestämmer något tillsammans, kommer överens",
+        "bestämmer, föreskriver; konstaterar"
       ]
     }
   ]

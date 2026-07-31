@@ -1,52 +1,52 @@
 {
-  "pivot": "blåsa",
+  "pivot": "klippa",
   "categories": [
     {
-      "title": "HUDUTSLAG",
+      "title": "KARG NATUR",
       "words": [
-        "utslag",
-        "böld"
+        "öken",
+        "hed"
       ],
-      "definition": "liten rundad böld på huden som innehåller vätska, orsakad av retning eller infektion",
+      "definition": "berg utan växtlighet",
       "word_definitions": [
-        "blåsor eller irritation på huden",
-        "varbildning, bulnad"
+        "område med mycket torrt klimat och mycket sparsam växtlighet",
+        "slättmark utan träd"
       ]
     },
     {
-      "title": "KVINNOLIG KLÄDSEL",
+      "title": "TA BORT HÅR",
       "words": [
-        "dress",
-        "stass"
+        "raka",
+        "plocka"
       ],
-      "definition": "klänning",
+      "definition": "ta bort hår från (oftast med sax)",
       "word_definitions": [
-        "dräkt",
-        "fina kläder"
+        "skär bort skägg eller hår",
+        "rycker loss hår eller fjädrar från"
       ]
     },
     {
-      "title": "UTANDNINGSHANDLING",
+      "title": "FILMPRODUKTION",
       "words": [
-        "utandas",
-        "frusta"
+        "montera",
+        "redigera"
       ],
-      "definition": "skicka ut en kraftig luftström genom munnen med hjälp av lungorna; andas ut kraftigt",
+      "definition": "sammanfoga olika delar av en film eller ett ljudband för att framställa en enhet; speciellt bestämma sig för var en viss scen eller ett visst inslag ska avslutas",
       "word_definitions": [
-        "låter luften strömma ut ur lungorna, andas ut",
-        "stöter ut luft genom nästan sluten mun"
+        "sätter ihop (delar till ett helt); installerar",
+        "bearbetar formen i text, film e.d."
       ]
     },
     {
-      "title": "INRE ORGAN",
+      "title": "GRIPA BROTTSLING",
       "words": [
-        "magsäck",
-        "lunga"
+        "gripa",
+        "arrestera"
       ],
-      "definition": "inre rundad bildning för vätska eller gas, som självständigt ord ofta om urinblåsan",
+      "definition": "gripa (kriminell)",
       "word_definitions": [
-        "ett organ i kroppen där maten hamnar och delas upp, mage",
-        "organ att andas med hos människan (och de högre djuren)"
+        "tar fast, fångar, häktar",
+        "griper, anhåller"
       ]
     }
   ]

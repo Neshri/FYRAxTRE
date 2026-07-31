@@ -1,52 +1,52 @@
 {
-  "pivot": "rörelse",
+  "pivot": "plan",
   "categories": [
     {
-      "title": "KROPPSRÖRELSER",
+      "title": "ARBETSPLANERING",
       "words": [
-        "dans",
-        "motion"
+        "program",
+        "instruktion"
       ],
-      "definition": "det att en kroppsdel rör sig, kroppsrörelse",
+      "definition": "anvisningar eller tankar om utformning av verksamhet",
       "word_definitions": [
-        "rytmiska kroppsrörelser till musik",
-        "träning, kroppsrörelser (för hälsans skull)"
+        "plan eller översikt över hur något ska genomföras",
+        "anvisning om hur man ska göra något"
       ]
     },
     {
-      "title": "FÖRETAG",
+      "title": "OMRÅDESBILD",
       "words": [
-        "firma",
-        "bolag"
+        "karta",
+        "ritning"
       ],
-      "definition": "företag",
+      "definition": "bild över ett område",
       "word_definitions": [
-        "företag, bolag",
-        "ekonomisk sammanslutning; företag"
+        "starkt förminskad bild (med speciella symboler) av jordytan eller annat område",
+        "ritad plan (t.ex. för konstruktion av hus)"
       ]
     },
     {
-      "title": "SAMARBETSGRUPPER",
+      "title": "HUSVÅNING",
       "words": [
-        "kollektiv",
-        "team"
+        "våning",
+        "etage"
       ],
-      "definition": "grupp människor som samarbetar för ett (ideellt) mål",
+      "definition": "våning",
       "word_definitions": [
-        "grupp människor som har gemensamma intressen (och som ibland bor och äter tillsammans)",
-        "(arbets)lag, grupp"
+        "plan i ett hus",
+        "våning, plan"
       ]
     },
     {
-      "title": "STARK KÄNSLA",
+      "title": "LUFTFARTSDON",
       "words": [
-        "patos",
-        "gripenhet"
+        "jumbojet",
+        "luftfarkost"
       ],
-      "definition": "stark känsla av ömhet, gripenhet",
+      "definition": "flygplan",
       "word_definitions": [
-        "stark känsla",
-        "egenskapen att vara gripen"
+        "ett slags stort flygplan",
+        "farkost för transport genom luften"
       ]
     }
   ]

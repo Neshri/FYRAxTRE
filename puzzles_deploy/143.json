@@ -1,52 +1,52 @@
 {
-  "pivot": "ställning",
+  "pivot": "säker",
   "categories": [
     {
-      "title": "KROPPSLIG POSITION",
+      "title": "UTOM FARA",
       "words": [
-        "pose",
-        "hållning"
+        "riskfri",
+        "trygg"
       ],
-      "definition": "sätt att stå eller sitta eller ligga",
+      "definition": "utom fara, skyddad, trygg",
       "word_definitions": [
-        "konstlad eller utstuderad ställning",
-        "sätt att hålla kroppen (upprätt)"
+        "som inte innebär någon risk, säker",
+        "säker (om människans omgivning)"
       ]
     },
     {
-      "title": "ÅSIKTSVINKEL",
+      "title": "PÅLITLIG",
       "words": [
-        "synpunkt",
-        "aspekt"
+        "trovärdig",
+        "reko"
       ],
-      "definition": "ståndpunkt",
+      "definition": "tillförlitlig",
       "word_definitions": [
-        "ståndpunkt, åsikt, bedömning",
-        "synpunkt; synvinkel"
+        "som man kan tro på, pålitlig, tillförlitlig",
+        "pålitlig, hederlig"
       ]
     },
     {
-      "title": "SOCIAL STATUS",
+      "title": "ÖVERTYGAD",
       "words": [
-        "rang",
-        "status"
+        "viss",
+        "övertygad"
       ],
-      "definition": "social position",
+      "definition": "övertygad, förvissad",
       "word_definitions": [
-        "(social) ställning i en grupp",
-        "(högt) socialt anseende"
+        "säker, övertygad",
+        "som är säker på sin sak; om någon som anser sig veta vad som stämmer"
       ]
     },
     {
-      "title": "BYGGNADSKONSTRUKTION",
+      "title": "OBESTRIDLIG",
       "words": [
-        "konstruktion",
-        "uppbyggnad"
+        "omisskännlig",
+        "obestridlig"
       ],
-      "definition": "konstruktion",
+      "definition": "otvivelaktig",
       "word_definitions": [
-        "konstruerad produkt",
-        "konstruktion, struktur"
+        "otvetydig, uppenbar",
+        "som inte kan ifrågasättas"
       ]
     }
   ]

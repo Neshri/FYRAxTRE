@@ -1,52 +1,52 @@
 {
-  "pivot": "skola",
+  "pivot": "står",
   "categories": [
     {
-      "title": "SKOLBYGGNADER",
+      "title": "KROPPENS POSITION",
       "words": [
-        "institut",
-        "campus"
+        "sitta",
+        "ligga"
       ],
-      "definition": "byggnad avsedd att bedriva utbildning i",
+      "definition": "vilar upprätt",
       "word_definitions": [
-        "inrättning för forskning eller utbildning",
-        "skolområde eller skolbyggnader (särskilt rörande eftergymnasial utbildning), oftast inkluderande hela området och andra tillhörande byggnader"
+        "vilar på bakdelen med överkroppen upprätt (ofta på en stol)",
+        "är i vågrätt läge, vilar; är placerad"
       ]
     },
     {
-      "title": "STILRIKTNINGAR",
+      "title": "SLUTA FUNGERA",
       "words": [
-        "barock",
-        "rokoko"
+        "stanna",
+        "klicka"
       ],
-      "definition": "stilriktning inom konst, litteratur etc.",
+      "definition": "rör sig inte, fungerar inte",
       "word_definitions": [
-        "en stil inom konst, musik och litteratur under 1600-talet och en del av 1700-talet",
-        "en stil (inom bl.a. konsten och arkitekturen) med rundade ornament och vanligen ljusa färger"
+        "slutar att förflytta sig; blir orörlig",
+        "fungerar inte"
       ]
     },
     {
-      "title": "PÅSTÅENDEVERB",
+      "title": "FINNAS I TEXT",
       "words": [
-        "heta",
-        "hävda"
+        "finnas",
+        "lyda"
       ],
-      "definition": "lär, vad som påstås",
+      "definition": "är skrivet; finns, är",
       "word_definitions": [
-        "påstås",
-        "påstår"
+        "är, existerar, förekommer",
+        "uppgår till, är"
       ]
     },
     {
-      "title": "AVSIKTSVERB",
+      "title": "VARA ANSVARIG",
       "words": [
-        "tänka",
-        "avse"
+        "ansvara",
+        "sköta"
       ],
-      "definition": "ämna, ha för avsikt att (ofta om förflyttning)",
+      "definition": "ansvarar (för ett handlande)",
       "word_definitions": [
-        "planerar att, ämnar",
-        "tänker på, har som mål, ämnar"
+        "tar ansvar, har ansvaret",
+        "vårdar, ger tillsyn; ansvarar för, tar hand om"
       ]
     }
   ]

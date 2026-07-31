@@ -1,52 +1,52 @@
 {
-  "pivot": "känslig",
+  "pivot": "komma",
   "categories": [
     {
-      "title": "MEDICINSKT SÅRBAR",
+      "title": "SKILJETECKEN",
       "words": [
-        "mottaglig",
-        "sårbar"
+        "frågetecken",
+        "tankstreck"
       ],
-      "definition": "som lätt råkar ut för infektioner",
+      "definition": "skiljetecknet ,",
       "word_definitions": [
-        "som lätt angrips av sjukdomar",
-        "möjlig eller lätt att såra"
+        "skiljetecknet ?",
+        "skiljetecknet – (som ofta markerar någon sorts kontrast)"
       ]
     },
     {
-      "title": "LÄTT PÅVERKAD",
+      "title": "INTRÄFFA ELLER SKE",
       "words": [
-        "lättledd",
-        "formbar"
+        "ske",
+        "tillstöta"
       ],
-      "definition": "som lätt påverkas",
+      "definition": "kunna förutses inträffa eller råka i tillståndet (som framgår av sammanhanget)",
       "word_definitions": [
-        "En person som är lätt att övertala eller styra; någon som saknar motståndskraft mot andras påverkan.",
-        "som kan formas"
+        "äger rum, händer, inträffar",
+        "inträffar (oväntat)"
       ]
     },
     {
-      "title": "KÄNSLOMESSIGT SKÖR",
+      "title": "BLI FRISK",
       "words": [
-        "tunnhudad",
-        "bräcklig"
+        "tillfriskna",
+        "läka"
       ],
-      "definition": "som lätt blir ledsen",
+      "definition": "tillfriskna",
       "word_definitions": [
-        "känslig, lättretlig",
-        "som lätt går sönder, skör"
+        "blir frisk igen, frisknar till",
+        "blir bra (igen)"
       ]
     },
     {
-      "title": "PROBLEMATISK SITUATION",
+      "title": "ORSAKSMÄSSIGT SAMMANHANG",
       "words": [
-        "problematisk",
-        "bekymmersam"
+        "sammanhänga",
+        "föranleda"
       ],
-      "definition": "som lätt kan vålla problem",
+      "definition": "ske; hänga samman orsaksmässigt",
       "word_definitions": [
-        "som innebär problem",
-        "som orsakar bekymmer, problematisk"
+        "har att göra med, hänger ihop, hänger samman",
+        "leder till, orsakar"
       ]
     }
   ]

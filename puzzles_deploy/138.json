@@ -1,52 +1,52 @@
 {
-  "pivot": "stark",
+  "pivot": "hård",
   "categories": [
     {
-      "title": "FYSISK STYRKA",
+      "title": "FYSISK HÅRDHET",
       "words": [
-        "kraftig",
-        "hårdför"
+        "fast",
+        "stiv"
       ],
-      "definition": "som har stor styrka, kraftfull (om levande varelser)",
+      "definition": "som inte ger efter för tryck eller böjning",
       "word_definitions": [
-        "som har (fysisk) kraft, stark",
-        "kraftfull, stark , hårdhänt"
+        "hård, massiv",
+        "Hård och orörlig; som inte kan böjas eller formas lätt."
       ]
     },
     {
-      "title": "MÄKTIG OCH BESTÄMD",
+      "title": "STRÄNG KARAKTÄR",
       "words": [
-        "beslutsam",
-        "mäktig"
+        "kall",
+        "strikt"
       ],
-      "definition": "mäktig; handlingskraftig",
+      "definition": "okänslig, sträng",
       "word_definitions": [
-        "resolut, bestämd, handlingskraftig",
-        "imponerande, kraftig"
+        "hård, okänslig",
+        "sträng; korrekt; som ska följas noggrant"
       ]
     },
     {
-      "title": "INTENSIVA SINNESINTRYCK",
+      "title": "KRÄVANDE SITUATION",
       "words": [
-        "intensiv",
-        "skarp"
+        "jobbig",
+        "tung"
       ],
-      "definition": "som intensivt påverkar sinnena",
+      "definition": "intensiv, påfrestande",
       "word_definitions": [
-        "som håller på för fullt hela tiden",
-        "frän, hård"
+        "ansträngande, påfrestande",
+        "svår, besvärlig"
       ]
     },
     {
-      "title": "HÅLLBAR OCH ROBUST",
+      "title": "KRAFTIG OCH STARK",
       "words": [
-        "tålig",
-        "hållfast"
+        "massiv",
+        "rejäl"
       ],
-      "definition": "slitstark, hållbar",
+      "definition": "kraftig",
       "word_definitions": [
-        "motståndskraftig",
-        "som inte går sönder, stark, solid"
+        "tung, kraftig",
+        "stor, kraftig"
       ]
     }
   ]

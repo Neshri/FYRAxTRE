@@ -1,52 +1,52 @@
 {
-  "pivot": "skärpa",
+  "pivot": "stark",
   "categories": [
     {
-      "title": "ALLVAR OCH BESTÄMDHET",
+      "title": "FYSISK STYRKA",
       "words": [
-        "fasthet",
-        "allvar"
+        "kraftig",
+        "hårdför"
       ],
-      "definition": "allvar, bestämdhet",
+      "definition": "som har stor styrka, kraftfull (om levande varelser)",
       "word_definitions": [
-        "egenskapen att vara bestämd, viljestyrka",
-        "uppriktig mening"
+        "som har (fysisk) kraft, stark",
+        "kraftfull, stark , hårdhänt"
       ]
     },
     {
-      "title": "LOGISK FÖRMÅGA",
+      "title": "MÄKTIG OCH BESTÄMD",
       "words": [
-        "intelligens",
-        "förstånd"
+        "beslutsam",
+        "mäktig"
       ],
-      "definition": "förmågan att dra korrekta logiska slutsatser",
+      "definition": "mäktig; handlingskraftig",
       "word_definitions": [
-        "förmåga till tänkande och analys, begåvning",
-        "förmåga att förstå"
+        "resolut, bestämd, handlingskraftig",
+        "imponerande, kraftig"
       ]
     },
     {
-      "title": "GÖRA TYDLIGARE",
+      "title": "INTENSIVA SINNESINTRYCK",
       "words": [
-        "precisera",
-        "förtydliga"
+        "intensiv",
+        "skarp"
       ],
-      "definition": "göra skarpare; göra så att ett givet påstående innehåller mer information",
+      "definition": "som intensivt påverkar sinnena",
       "word_definitions": [
-        "anger mer detaljerat, gör mera precis",
-        "gör tydligare, förklarar"
+        "som håller på för fullt hela tiden",
+        "frän, hård"
       ]
     },
     {
-      "title": "KONCENTRERA UPMÄRKSAMHETEN",
+      "title": "HÅLLBAR OCH ROBUST",
       "words": [
-        "fokusera",
-        "samla"
+        "tålig",
+        "hållfast"
       ],
-      "definition": "fokusera, koncentrera",
+      "definition": "slitstark, hållbar",
       "word_definitions": [
-        "koncentrerar uppmärksamheten",
-        "för samman (viss typ av) saker i ett visst syfte"
+        "motståndskraftig",
+        "som inte går sönder, stark, solid"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "passar",
+  "pivot": "linje",
   "categories": [
     {
-      "title": "VARA LÄMPLIG",
+      "title": "GEOMETRISKA FIGURER",
       "words": [
-        "duga",
-        "platsa"
+        "diagonal",
+        "kurva"
       ],
-      "definition": "är lämplig",
+      "definition": "figur med utsträckning åt bara ett håll",
       "word_definitions": [
-        "är tillräckligt bra, passar",
-        "är tillräckligt bra"
+        "sträcka som går från hörn till hörn i en geometrisk figur",
+        "krökt linje, båge"
       ]
     },
     {
-      "title": "VAKTA NÅGON ELLER NÅGOT",
+      "title": "TRAFIKSTRÄCKOR",
       "words": [
-        "bevaka",
-        "skydda"
+        "led",
+        "rutt"
       ],
-      "definition": "ser efter, vaktar",
+      "definition": "sträcka som trafikeras med allmänna kommunikationer",
       "word_definitions": [
-        "vaktar; övervakar (och skildrar)",
-        "bevarar från fara eller skada, försvarar"
+        "sträcka där man kan vandra eller färdas",
+        "resväg"
       ]
     },
     {
-      "title": "SPELA BOLL VIDARE",
+      "title": "KURS OCH RIKTNING",
       "words": [
-        "slå",
-        "skicka"
+        "inriktning",
+        "orientering"
       ],
-      "definition": "spelar bollen vidare",
+      "definition": "kurs, inriktning",
       "word_definitions": [
-        "ger ett slag, smäller till",
-        "sänder"
+        "mål för ett arbete; kurs, orientering",
+        "inriktning (efter väderstreck)"
       ]
     },
     {
-      "title": "SÄGA PASS I SPEL",
+      "title": "UPPSTÄLNINGAR",
       "words": [
-        "avstå",
-        "vika"
+        "rad",
+        "fil"
       ],
-      "definition": "säger pass i kortspel",
+      "definition": "uppställning i en rad (på bredden)",
       "word_definitions": [
-        "låter bli, lämnar",
-        "drar sig tillbaka, ger efter"
+        "uppställning av saker bredvid (eller bakom) varandra",
+        "rad"
       ]
     }
   ]

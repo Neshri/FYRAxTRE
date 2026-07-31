@@ -1,52 +1,52 @@
 {
-  "pivot": "fin",
+  "pivot": "få",
   "categories": [
     {
-      "title": "VACKER OCH SNYGG",
+      "title": "LITE ANTAL",
       "words": [
-        "tjusig",
-        "stilig"
+        "knapp",
+        "sparsam"
       ],
-      "definition": "snygg, vacker",
+      "definition": "inte många men fler än två; bara några; ett litet antal",
       "word_definitions": [
-        "vacker, elegant",
-        "som har stil, elegant, vacker"
+        "otillräcklig, begränsad, liten",
+        "inte mycket, fåtalig"
       ]
     },
     {
-      "title": "MYCKET BRA",
+      "title": "TA EMOT",
       "words": [
-        "förträfflig",
-        "briljant"
+        "motta",
+        "erhålla"
       ],
-      "definition": "bra, utmärkt",
+      "definition": "erhålla, motta, bekomma, vinna; bli given",
       "word_definitions": [
-        "mycket bra, utmärkt",
-        "lysande, utmärkt"
+        "välkomnar, tar emot",
+        "tar emot, får"
       ]
     },
     {
-      "title": "SMAL OCH TUNN",
+      "title": "FÅNGA NÅGON",
       "words": [
-        "slank",
-        "spenslig"
+        "gripa",
+        "snärja"
       ],
-      "definition": "tunn, smal",
+      "definition": "fånga (fisk, byte, brottslingar)",
       "word_definitions": [
-        "smal, smärt",
-        "smal, tunn (om kroppsbyggnad eller person)"
+        "tar fast, fångar, häktar",
+        "fångar djur (i snara)"
       ]
     },
     {
-      "title": "DISKRET OCH DÄMPAD",
+      "title": "HINNA MED",
       "words": [
-        "sober",
-        "lågmäld"
+        "hinna",
+        "räcka"
       ],
-      "definition": "diskret, subtil",
+      "definition": "hinna med",
       "word_definitions": [
-        "smakfull; diskret",
-        "stillsam, försynt"
+        "har tillräckligt mycket tid",
+        "når"
       ]
     }
   ]

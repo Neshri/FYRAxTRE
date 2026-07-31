@@ -1,52 +1,52 @@
 {
-  "pivot": "stämma",
+  "pivot": "lopp",
   "categories": [
     {
-      "title": "RÄTTSLIGA ÅTGÄRDER",
+      "title": "LÖPTÄVLINGAR",
       "words": [
-        "åtala",
-        "processa"
+        "stafett",
+        "heat"
       ],
-      "definition": "dra inför domstol, kalla inför rätta",
+      "definition": "enskild tävling i löpning e.d.",
       "word_definitions": [
-        "anklagar inför domstol",
-        "driver en rättegång (mot någon)"
+        "en sorts lagtävling (i t.ex. löpning och simning) där de tävlande inom samma lag avlöser varandra",
+        "tidig omgång av löptävling eller simtävling (där de sämre slås ut)"
       ]
     },
     {
-      "title": "STOPPA FLÖDET",
+      "title": "UTVECKLINGSPROCESS",
       "words": [
-        "blockera",
-        "hejda"
+        "process",
+        "led"
       ],
-      "definition": "stoppa flöde",
+      "definition": "(tidens) gång , förlopp",
       "word_definitions": [
-        "spärrar av, hindrar",
-        "stoppar, hindrar"
+        "förlopp, utveckling",
+        "del i ett förlopp"
       ]
     },
     {
-      "title": "ARBETA I TRÄ",
+      "title": "GEVÄRSDELAR",
       "words": [
-        "tälja",
-        "snida"
+        "kolv",
+        "avtryckare"
       ],
-      "definition": "använda stämjärn vid träarbete",
+      "definition": "insidan av gevärspipa",
       "word_definitions": [
-        "skär i trä med kniv, snidar",
-        "skär eller skulpterar i trä"
+        "bakre del av handeldvapen",
+        "del av skjutvapen som man trycker på för att avlossa ett skott"
       ]
     },
     {
-      "title": "AVGE RÖST",
+      "title": "VATTENDRAG",
       "words": [
-        "rösta",
-        "votera"
+        "älv",
+        "flod"
       ],
-      "definition": "avge röst vid val",
+      "definition": "utsträckning av vattendrag",
       "word_definitions": [
-        "uttrycker sin mening i val",
-        "röstar"
+        "större vattendrag, flod",
+        "större vattendrag (utanför Sverige), älv, å"
       ]
     }
   ]

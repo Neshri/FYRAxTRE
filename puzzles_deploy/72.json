@@ -1,52 +1,52 @@
 {
-  "pivot": "led",
+  "pivot": "drift",
   "categories": [
     {
-      "title": "UTTRÅKAD OCH TRÖTT",
+      "title": "SKÖTSEL AV VERKSAMHET",
       "words": [
-        "sliten",
-        "matt"
+        "verksamhet",
+        "förvaltning"
       ],
-      "definition": "uttråkad, trött",
+      "definition": "skötsel (t.ex. av en anläggning eller ett företag)",
       "word_definitions": [
-        "trött",
-        "trött, kraftlös"
+        "fortlöpande sysselsättning, arbete",
+        "administration"
       ]
     },
     {
-      "title": "ELAK KARAKTÄR",
+      "title": "INRE DRIVKRAFT",
       "words": [
-        "stygg",
-        "taskig"
+        "hunger",
+        "drivkraft"
       ],
-      "definition": "otäck, elak",
+      "definition": "instinkt, begär",
       "word_definitions": [
-        "ful, otäck",
-        "okamratlig, elak"
+        "begär, längtan",
+        "omständighet som inspirerar till hårdare arbete"
       ]
     },
     {
-      "title": "FÄRDVÄG",
+      "title": "FÖRLÖJLIGANDE",
       "words": [
-        "väg",
-        "stig"
+        "hån",
+        "löje"
       ],
-      "definition": "sträcka där man kan vandra eller färdas",
+      "definition": "skämt, förlöjligande",
       "word_definitions": [
-        "färdriktning, färdväg",
-        "smal gångväg (ofta i skogen)"
+        "elak kritik, förlöjligande",
+        "hånfull munterhet"
       ]
     },
     {
-      "title": "MÄNNISKOR PÅ RAD",
+      "title": "DÅLIGA VANOR",
       "words": [
-        "fil",
-        "kö"
+        "olater",
+        "last"
       ],
-      "definition": "rad (av personer)",
+      "definition": "dåligt sällskap, dåliga vanor",
       "word_definitions": [
-        "rad",
-        "rad av väntande personer"
+        "dåliga vanor",
+        "dålig vana"
       ]
     }
   ]

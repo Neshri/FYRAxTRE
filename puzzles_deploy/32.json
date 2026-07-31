@@ -1,52 +1,52 @@
 {
-  "pivot": "form",
+  "pivot": "volym",
   "categories": [
     {
-      "title": "TYPER AV BEHÅLLARE",
+      "title": "RUMSLIG STORLEK",
       "words": [
-        "kärl",
-        "kar"
+        "vidd",
+        "mått"
       ],
-      "definition": "behållare (för t.ex. gjutning och bakning)",
+      "definition": "omfång i tre dimensioner, rymd",
       "word_definitions": [
-        "mindre behållare som används i hushållet",
-        "stor öppen behållare för vatten (eller annan vätska)"
+        "omfång; utsträckning",
+        "storlek, dimension"
       ]
     },
     {
-      "title": "KATEGORI ELLER SORT",
+      "title": "OMFATTNING",
       "words": [
-        "slag",
-        "sort"
+        "utsträckning",
+        "grad"
       ],
-      "definition": "typ, sort",
+      "definition": "omfattning",
       "word_definitions": [
-        "sort, typ",
-        "slag, typ"
+        "omfattning, grad",
+        "utsträckning, omfattning"
       ]
     },
     {
-      "title": "FYSISK KONDITION",
+      "title": "LJUDSTYRKA",
       "words": [
-        "kondition",
-        "prestation"
+        "decibel",
+        "intensitet"
       ],
-      "definition": "fysiskt tillstånd, förmåga att nå bra (idrotts)resultat",
+      "definition": "tonstyrka",
       "word_definitions": [
-        "fysisk och psykisk hälsa; uthållighet",
-        "det som någon presterar (särskilt om något bra som åstadkommits)"
+        "en måttenhet för ljudstyrka",
+        "stor kraft eller styrka"
       ]
     },
     {
-      "title": "GRAMMATISK FORM",
+      "title": "TRYCKT VERK",
       "words": [
-        "böjning",
-        "tempus"
+        "skrift",
+        "häfte"
       ],
-      "definition": "ett ords utseende när det böjs",
+      "definition": "bok(band)",
       "word_definitions": [
-        "de olika former som ett ord kan uppträda i",
-        "böjningsform hos verb som har att göra med tiden (presens och imperfekt)"
+        "publicerat arbete, bok",
+        "tunn bok"
       ]
     }
   ]

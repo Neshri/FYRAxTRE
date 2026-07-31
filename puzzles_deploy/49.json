@@ -1,52 +1,52 @@
 {
-  "pivot": "hacka",
+  "pivot": "tryck",
   "categories": [
     {
-      "title": "TRÄDGARDSREDSKAP",
+      "title": "FYSISKA STORHETER",
       "words": [
-        "kratta",
-        "spade"
+        "styrka",
+        "intensitet"
       ],
-      "definition": "ett verktyg som används för att luckra upp jord",
+      "definition": "kraft per ytenhet",
       "word_definitions": [
-        "ett redskap för att rensa och jämna ut jord",
-        "ett redskap att gräva med"
+        "fysisk eller psykisk kraft",
+        "stor kraft eller styrka"
       ]
     },
     {
-      "title": "DATORINTRÅNG",
+      "title": "SÅTT ATT PÅVERKA",
       "words": [
-        "knäcka",
-        "intränga"
+        "inflytande",
+        "påverkan"
       ],
-      "definition": "bryta sig in i olika system",
+      "definition": "påverkan, påtryckning",
       "word_definitions": [
-        "besegrar, bryter ner",
-        "obehörig beträda"
+        "möjlighet att påverka",
+        "inflytande som leder till förändring"
       ]
     },
     {
-      "title": "FYSISK ATTACK",
+      "title": "TALETS BETONING",
       "words": [
-        "picka",
-        "knipa"
+        "accent",
+        "betoning"
       ],
-      "definition": "angripa varandra med näbben, nypas, trakassera",
+      "definition": "betoning av ord, tonvikt",
       "word_definitions": [
-        "plockar upp föda med näbben",
-        "klämmer, nyper"
+        "betoning (av ett ord eller en del av ett ord), tonvikt, tryck",
+        "tonvikt, accent"
       ]
     },
     {
-      "title": "PENGAR SLANG",
+      "title": "TRYCKTA VERK",
       "words": [
-        "kosing",
-        "klöver"
+        "publikation",
+        "bok"
       ],
-      "definition": "mindre summa pengar",
+      "definition": "tryckning (t.ex. av böcker); tryckt skrift",
       "word_definitions": [
-        "pengar",
-        "pengar"
+        "tryckt skrift, bok, tidning",
+        "tryckt skrift, volym, band"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "koloni",
+  "pivot": "löser",
   "categories": [
     {
-      "title": "UTLANDSBESITTNING",
+      "title": "GÖRA FRI",
       "words": [
-        "imperium",
-        "protektorat"
+        "befria",
+        "lossa"
       ],
-      "definition": "ett lands besittning utomlands; samhälle av nybyggare",
+      "definition": "ger fri",
       "word_definitions": [
-        "väldigt område som tillhör ett land (och som uppstått genom imperialism)",
-        "skyddat område; land som står under ett annat lands överhöghet"
+        "gör fri, räddar",
+        "löser, frigör"
       ]
     },
     {
-      "title": "BARNLÄGER",
+      "title": "FÅ MOT BETALNING",
       "words": [
-        "feriehem",
-        "sommarläger"
+        "köpa",
+        "förvärva"
       ],
-      "definition": "sommarhem för barn, kollo",
+      "definition": "får mot betalning",
       "word_definitions": [
-        "privat hem som under sommaren tar emot barn i yngre skolåldern",
-        "plats där barn kan tillbringa sitt sommarlov"
+        "skaffar sig något genom att betala, handlar",
+        "lyckas skaffa sig"
       ]
     },
     {
-      "title": "DJURGRUPP",
+      "title": "BLANDA SAMMAN",
       "words": [
-        "flock",
-        "svärm"
+        "sammanblanda",
+        "späda"
       ],
-      "definition": "samling av människor, djur eller växter",
+      "definition": "blandar upp",
       "word_definitions": [
-        "grupp, klunga, skara, samling (särskilt av vissa djur)",
-        "grupp av flygande djur (särskilt insekter)"
+        "förväxlar, blandar ihop, blandar samman",
+        "blandar med vatten, gör mer utspädd"
       ]
     },
     {
-      "title": "LITEN TRÄDGÅRD",
+      "title": "KLARA AV",
       "words": [
-        "trädgård",
-        "odlingslott"
+        "avhjälpa",
+        "lyckas"
       ],
-      "definition": "kolonilott",
+      "definition": "kommer tillrätta med, klarar",
       "word_definitions": [
-        "område med odlade växter",
-        "andel av en trädgård eller annan odlingsmark, där man kan odla sina egna grönsaker eller andra växter"
+        "rättar till",
+        "har framgång; klarar av"
       ]
     }
   ]

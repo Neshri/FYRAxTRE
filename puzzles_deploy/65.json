@@ -1,52 +1,52 @@
 {
-  "pivot": "komma",
+  "pivot": "land",
   "categories": [
     {
-      "title": "SKILJETECKEN",
+      "title": "STORA LANDMASSOR",
       "words": [
-        "kolon",
-        "parentes"
+        "kontinent",
+        "världsdel"
       ],
-      "definition": "ett skiljetecken (,)",
+      "definition": "fastland",
       "word_definitions": [
-        "ett skiljetecken (:)",
-        "tecknet ( ) eller det som står inom det"
+        "världsdel, stort fastland (särskilt Europas fastland, till skillnad från t.ex. Norden)",
+        "stor, avgränsad del av jorden, kontinent (Europa, Afrika, Asien etc.)"
       ]
     },
     {
-      "title": "ANLÄNNA EN PLATS",
+      "title": "OMRÅDEN PÅ LANDSBYGDEN",
       "words": [
-        "nå",
-        "anlända"
+        "bygd",
+        "trakt"
       ],
-      "definition": "anlända eller nå fram till en plats",
+      "definition": "landsbygd",
       "word_definitions": [
-        "kommer fram till, anländer till",
-        "kommer fram, ankommer"
+        "område i landsorten där folk bor, trakt",
+        "geografiskt område (särskilt på landet)"
       ]
     },
     {
-      "title": "ÖVERGÅ TILL",
+      "title": "STATLIGA ENHETER",
       "words": [
-        "bli",
-        "övergå"
+        "rike",
+        "välde"
       ],
-      "definition": "av en händelse övergå till visst (framtida) skeende eller tillstånd",
+      "definition": "stat, rike",
       "word_definitions": [
-        "börjar vara, kommer att vara",
-        "överstiger"
+        "land, stat",
+        "statsmakt, (stort) rike"
       ]
     },
     {
-      "title": "KOMMA IHÅG",
+      "title": "ODLADE JORDSTYCKEN",
       "words": [
-        "minnas",
-        "återkalla"
+        "åker",
+        "kolonilott"
       ],
-      "definition": "i betydelsen komma ihåg",
+      "definition": "odlat stycke jord",
       "word_definitions": [
-        "kommer ihåg",
-        "minnas, komma ihåg"
+        "jord som man odlar på",
+        "stycke jord som arrenderas ut (av kommunen) för odling i liten skala"
       ]
     }
   ]

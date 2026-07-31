@@ -1,52 +1,52 @@
 {
-  "pivot": "modell",
+  "pivot": "faller",
   "categories": [
     {
-      "title": "FÖREBILDER",
+      "title": "TAPPA BALANSEN",
       "words": [
-        "ideal",
-        "förebild"
+        "ramla",
+        "trilla"
       ],
-      "definition": "förebild, exempel",
+      "definition": "ramlar, trillar",
       "word_definitions": [
-        "perfekt exempel (att efterlikna), förebild",
-        "mönster, modell; föredöme, ideal"
+        "faller, trillar",
+        "ramlar, faller"
       ]
     },
     {
-      "title": "MINIATYRER",
+      "title": "SJUNKA NEDÅT",
       "words": [
-        "avbild",
-        "miniatyr"
+        "dala",
+        "digna"
       ],
-      "definition": "kopia i liten skala",
+      "definition": "dalar, sjunker",
       "word_definitions": [
-        "kopia",
-        "starkt förminskad modell av något"
+        "minskar",
+        "sjunker ner, sviktar"
       ]
     },
     {
-      "title": "PRODUKTVARIANTER",
+      "title": "MISTA LIVET",
       "words": [
-        "version",
-        "variant"
+        "dö",
+        "stupa"
       ],
-      "definition": "(vanligt) utförande av en viss vara (t.ex. bilar, maskiner, kläder)",
+      "definition": "dör, stupar, omkommer",
       "word_definitions": [
-        "(alternativt) utförande, variant",
-        "alternativ (val)möjlighet"
+        "slutar att leva, mister livet, går bort",
+        "faller i strid, dör"
       ]
     },
     {
-      "title": "PERSONER SOM POSERAR",
+      "title": "HAMNA I TILLSTÅND",
       "words": [
-        "mannekäng",
-        "posör"
+        "hamna",
+        "landa"
       ],
-      "definition": "person (särskilt kvinna) som poserar eller gör reklam för något",
+      "definition": "hamnar (i visst tillstånd)",
       "word_definitions": [
-        "person (särskilt kvinna) som är anställd för att bli fotograferad i nya kläder",
-        "den som gärna poserar, tillgjord människa"
+        "kommer (händelsevis), blir placerad",
+        "tar mark, går ner på marken (om flygplan och fåglar)"
       ]
     }
   ]

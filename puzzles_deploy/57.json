@@ -1,52 +1,52 @@
 {
-  "pivot": "klar",
+  "pivot": "blåsa",
   "categories": [
     {
-      "title": "LJUS OCH GENOMSIKTIG",
+      "title": "HUDSVULLNAD",
       "words": [
-        "blank",
-        "transparent"
+        "utgjutning",
+        "bulnad"
       ],
-      "definition": "ljus, lysande, genomskinlig",
+      "definition": "svullnad på huden som innehåller vätska",
       "word_definitions": [
-        "glänsande, skinande",
-        "genomskinlig"
+        "anhopning av vätska i kroppen som ofta ger svullnad",
+        "svullnad (på huden)"
       ]
     },
     {
-      "title": "LÄTT ATT FÖRSTÅ",
+      "title": "FESTKLÄDSEL",
       "words": [
-        "åskådlig",
-        "uppenbar"
+        "skrud",
+        "toalett"
       ],
-      "definition": "lätt att förstå, tydlig",
+      "definition": "påkostad klänning",
       "word_definitions": [
-        "lätt att förstå, tydlig",
-        "som alla inser, tydlig"
+        "praktfull klädsel (använd vid ceremonier o.d.)",
+        "kvinnlig festklädsel"
       ]
     },
     {
-      "title": "VÄLDIGT STOR",
+      "title": "VINDENS RÖRELSE",
       "words": [
-        "enorm",
-        "rejäl"
+        "yra",
+        "susa"
       ],
-      "definition": "tydlig, stor",
+      "definition": "naturligt strömma fram luft parallellt med jordytan",
       "word_definitions": [
-        "mycket stor",
-        "stor, kraftig"
+        "virvlar runt i luften",
+        "låter som när vinden blåser i ett träd"
       ]
     },
     {
-      "title": "FÄRDIG OCH REDO",
+      "title": "BEDRÄGA",
       "words": [
-        "beredd",
-        "redo"
+        "svindla",
+        "dupera"
       ],
-      "definition": "färdig",
+      "definition": "lura, lura av",
       "word_definitions": [
-        "färdig, redo",
-        "färdig, beredd"
+        "lurar",
+        "för bakom ljuset, lurar, bedrar"
       ]
     }
   ]

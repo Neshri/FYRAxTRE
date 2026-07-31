@@ -1,52 +1,52 @@
 {
-  "pivot": "blåsa",
+  "pivot": "sticka",
   "categories": [
     {
-      "title": "HUDSVULLNAD",
+      "title": "TRÄFLISOR",
       "words": [
-        "utgjutning",
-        "bulnad"
+        "flaga",
+        "spån"
       ],
-      "definition": "svullnad på huden som innehåller vätska",
+      "definition": "liten vass träpinne, träflisa",
       "word_definitions": [
-        "anhopning av vätska i kroppen som ofta ger svullnad",
-        "svullnad (på huden)"
+        "liten flisa",
+        "liten flisa som bildas vid bearbetning av trä eller järn"
       ]
     },
     {
-      "title": "FESTKLÄDSEL",
+      "title": "GARNVERKTYG",
       "words": [
-        "skrud",
-        "toalett"
+        "virknål",
+        "skyttel"
       ],
-      "definition": "påkostad klänning",
+      "definition": "(metall)pinne att tillverka saker av garn med",
       "word_definitions": [
-        "praktfull klädsel (använd vid ceremonier o.d.)",
-        "kvinnlig festklädsel"
+        "kraftig nål med krok i ena ändan som används vid virkning",
+        "anordning som för tyg eller garn genom väv"
       ]
     },
     {
-      "title": "VINDENS RÖRELSE",
+      "title": "GÖRA HÅL",
       "words": [
-        "yra",
-        "susa"
+        "rista",
+        "punktera"
       ],
-      "definition": "naturligt strömma fram luft parallellt med jordytan",
+      "definition": "trycka in spetsigt föremål i något; ge stick",
       "word_definitions": [
-        "virvlar runt i luften",
-        "låter som när vinden blåser i ett träd"
+        "skär in tecken med spetsigt föremål",
+        "sticker hål på"
       ]
     },
     {
-      "title": "BEDRÄGA",
+      "title": "FÖRA IN",
       "words": [
-        "svindla",
-        "dupera"
+        "proppa",
+        "trycka"
       ],
-      "definition": "lura, lura av",
+      "definition": "föra in, stoppa",
       "word_definitions": [
-        "lurar",
-        "för bakom ljuset, lurar, bedrar"
+        "stoppar (full), packar (full)",
+        "utövar tryck, pressar"
       ]
     }
   ]

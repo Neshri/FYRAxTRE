@@ -1,52 +1,52 @@
 {
-  "pivot": "siktar",
+  "pivot": "punkt",
   "categories": [
     {
-      "title": "RIKTA VAPEN",
+      "title": "SKILJETECKEN",
       "words": [
-        "rikta",
-        "måtta"
+        "komma",
+        "parentes"
       ],
-      "definition": "riktar ett vapen e.d. mot ett mål, måttar",
+      "definition": "tecken för slutet på en mening (.)",
       "word_definitions": [
-        "vänder åt visst håll; siktar",
-        "siktar"
+        "ett skiljetecken (,)",
+        "tecknet ( ) eller det som står inom det"
       ]
     },
     {
-      "title": "HA SOM MÅL",
+      "title": "AVSLUTNING",
       "words": [
-        "avse",
-        "sträva"
+        "ände",
+        "final"
       ],
-      "definition": "inriktar sig på, har som sitt mål",
+      "definition": "slut",
       "word_definitions": [
-        "tänker på, har som mål, ämnar",
-        "arbetar träget, anstränger sig för att uppnå"
+        "yttersta del, slut",
+        "avslutning"
       ]
     },
     {
-      "title": "FÅ SYN PÅ",
+      "title": "POSITION ELLER PLATS",
       "words": [
-        "upptäcka",
-        "märka"
+        "position",
+        "placering"
       ],
-      "definition": "får syn på",
+      "definition": "plats, läge (i rum eller tid)",
       "word_definitions": [
-        "lägger märke till, observerar",
-        "får se, observerar"
+        "ställning, läge",
+        "plats (ofta i någon sorts rangordning)"
       ]
     },
     {
-      "title": "RENSA GENOM SIL",
+      "title": "DEL AV HELHET",
       "words": [
-        "sila",
-        "filtrera"
+        "avsnitt",
+        "moment"
       ],
-      "definition": "låter passera genom en sikt",
+      "definition": "avsnitt, del, inslag",
       "word_definitions": [
-        "låter passera genom sil",
-        "häller genom filter; silar, renar"
+        "del, avdelning, stycke",
+        "beståndsdel; avsnitt"
       ]
     }
   ]

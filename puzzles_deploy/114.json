@@ -1,52 +1,52 @@
 {
-  "pivot": "rätt",
+  "pivot": "syn",
   "categories": [
     {
-      "title": "RIKTIGT OCH SANT",
+      "title": "UPPFATTNINGSFÖRMÅGA",
       "words": [
-        "riktig",
-        "sann"
+        "sinne",
+        "förnuft"
       ],
-      "definition": "riktig, korrekt",
+      "definition": "förmåga att se (eller tänka sig)",
       "word_definitions": [
-        "felfri, korrekt",
-        "riktig, äkta"
+        "förmåga att se, höra, känna, lukta eller smaka",
+        "förmåga att tänka, förstånd"
       ]
     },
     {
-      "title": "MORALISKT KORREKT",
+      "title": "VISUELL FÖRETEELSE",
       "words": [
-        "anständig",
-        "moralisk"
+        "vy",
+        "företeelse"
       ],
-      "definition": "moraliskt riktig",
+      "definition": "något som man ser",
       "word_definitions": [
-        "(moraliskt) passande; korrekt, hederlig",
-        "som bygger på moral"
+        "utsikt, syn",
+        "något som finns"
       ]
     },
     {
-      "title": "FÖLJA LAGEN",
+      "title": "PERSONLIG ÅSIKT",
       "words": [
-        "efterlevnad",
-        "tillämpning"
+        "mening",
+        "uppfattning"
       ],
-      "definition": "det att lagarna gäller och används",
+      "definition": "uppfattning, åsikt",
       "word_definitions": [
-        "det att följa lagar och regler",
-        "(praktisk) användning av regler och föreskrifter"
+        "åsikt, uppfattning",
+        "mening, åsikt"
       ]
     },
     {
-      "title": "EN DOMSTOL",
+      "title": "MÄNSKLIGT ANSIKTE",
       "words": [
-        "domstol",
-        "tribunal"
+        "nylle",
+        "anlete"
       ],
-      "definition": "domstol",
+      "definition": "ansikte",
       "word_definitions": [
-        "myndighet som dömer i rättsfall",
-        "(revolutions)domstol"
+        "ansikte",
+        "ansikte"
       ]
     }
   ]

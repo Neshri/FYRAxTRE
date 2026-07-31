@@ -1,52 +1,52 @@
 {
-  "pivot": "följer",
+  "pivot": "mening",
   "categories": [
     {
-      "title": "TA ÖVER ROLL",
+      "title": "PERSONLIG UPPFATTNING",
       "words": [
-        "ersätta",
-        "avlösa"
+        "åsikt",
+        "uppfattning"
       ],
-      "definition": "efterträder",
+      "definition": "åsikt, uppfattning",
       "word_definitions": [
-        "vikarierar för; efterträder",
-        "efterträder, ersätter, löser av"
+        "det som man tycker om något, mening, uppfattning",
+        "mening, åsikt"
       ]
     },
     {
-      "title": "VARA SÄLLSKAP ÅT",
+      "title": "ORDETS BETYDELSE",
       "words": [
-        "ledsaga",
-        "sällskapa"
+        "innebörd",
+        "bemärkelse"
       ],
-      "definition": "gör sällskap med",
+      "definition": "betydelse",
       "word_definitions": [
-        "följer med på vägen",
-        "är sällskap åt; är partner till"
+        "betydelse, mening",
+        "betydelse, avseende"
       ]
     },
     {
-      "title": "LYDA INSTRUKTIONER",
+      "title": "SYFTE OCH AVSIKT",
       "words": [
-        "hörsamma",
-        "lyda"
+        "syfte",
+        "avsikt"
       ],
-      "definition": "rättar sig efter, lyder",
+      "definition": "avsikt, syfte",
       "word_definitions": [
-        "rättar sig efter, lyder",
-        "gör som man blir tillsagd"
+        "avsikt, ändamål",
+        "syfte, mening"
       ]
     },
     {
-      "title": "LÄGGA MÄRKE TILL",
+      "title": "TEXTENHET",
       "words": [
-        "iaktta",
-        "märka"
+        "formulering",
+        "sats"
       ],
-      "definition": "observerar, hänger med i",
+      "definition": "en eller flera satser som uttrycker en tanke (och som i skrift brukar avslutas med punkt)",
       "word_definitions": [
-        "följer, visar, tar hänsyn till",
-        "får se, observerar"
+        "sätt att uttrycka sig (i tal eller skrift)",
+        "större del av en mening (som ofta själv kan utgöra en mening)"
       ]
     }
   ]

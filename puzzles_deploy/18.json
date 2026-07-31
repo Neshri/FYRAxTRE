@@ -1,52 +1,52 @@
 {
-  "pivot": "dragning",
+  "pivot": "så",
   "categories": [
     {
-      "title": "SLUMPMÄSSIGT VAL",
+      "title": "PLANTERA VÄXTER",
       "words": [
-        "tombola",
-        "lottning"
+        "plantera",
+        "odla"
       ],
-      "definition": "ett sätt att få fram vinnaren i ett lotteri; lottning",
+      "definition": "sprida frön i jordmån för att de ska gro",
       "word_definitions": [
-        "ett lotteri med en roterande låda som man drar lotterna ur",
-        "handlingen att lotta"
+        "sätter växt (eller frö) i jorden",
+        "producerar växter; brukar jorden"
       ]
     },
     {
-      "title": "BÖJELSE OCH ATTRAKTION",
+      "title": "DJURENS DRICKKÄRL",
       "words": [
-        "förkärlek",
-        "lockelse"
+        "tråg",
+        "kar"
       ],
-      "definition": "böjelse, attraktion",
+      "definition": "dryckeskärl för boskap",
       "word_definitions": [
-        "särskild böjelse eller smak",
-        "(något som har) förmåga att dra till sig intresse eller väcka begär"
+        "ett avlångt, fyrkantigt kärl",
+        "stor öppen behållare för vatten (eller annan vätska)"
       ]
     },
     {
-      "title": "NYANS AV FÄRG",
+      "title": "GRAD AV NÅGOT",
       "words": [
-        "skiftning",
-        "schattering"
+        "mycket",
+        "väldigt"
       ],
-      "definition": "nyans, skiftning",
+      "definition": "till den grad, lika",
       "word_definitions": [
-        "nyans",
-        "färgskiftning"
+        "i hög grad",
+        "mycket"
       ]
     },
     {
-      "title": "MANÖVER I HOCKEY",
+      "title": "LOGISK FÖLJD",
       "words": [
-        "dribbling",
-        "fint"
+        "alltså",
+        "därmed"
       ],
-      "definition": "dribbling i ishockey",
+      "definition": "följaktligen",
       "word_definitions": [
-        "handlingen att dribbla",
-        "knep, påhitt"
+        "således, följaktligen",
+        "Som en följd av det som just nämnts; därför eller på det sättet."
       ]
     }
   ]

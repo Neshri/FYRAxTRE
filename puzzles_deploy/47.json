@@ -1,52 +1,52 @@
 {
-  "pivot": "går",
+  "pivot": "skrapa",
   "categories": [
     {
-      "title": "FORFLYTTA SIG TILL FOTS",
+      "title": "ENKLA REDSKAP",
       "words": [
-        "vandra",
-        "promenera"
+        "kniv",
+        "spade"
       ],
-      "definition": "förflyttar sig till fots (utan att springa)",
+      "definition": "redskap att skrapa med",
       "word_definitions": [
-        "förflyttar sig",
-        "går (särskilt för nöjes skull), spatserar"
+        "ett redskap att skära med",
+        "ett redskap att gräva med"
       ]
     },
     {
-      "title": "FUNGERA SOM TÄNKT",
+      "title": "STRÄNGA ORD",
       "words": [
-        "funka",
-        "verka"
+        "varning",
+        "reprimand"
       ],
-      "definition": "fungerar; avlöper",
+      "definition": "tillrättavisning",
       "word_definitions": [
-        "fungerar",
-        "arbetar"
+        "tillrättavisning",
+        "(officiell) tillrättavisning"
       ]
     },
     {
-      "title": "UTÖVA ETT SCENKONSTVERK",
+      "title": "JÄMNA TILL YTOR",
       "words": [
-        "spela",
-        "agera"
+        "finslipa",
+        "hyvla"
       ],
-      "definition": "spelas",
+      "definition": "(med vasst föremål) ta bort ojämnheter",
       "word_definitions": [
-        "ägnar sig åt spel",
-        "spelar (rollen av)"
+        "gör färdig genom att slipa av de sista ojämnheterna",
+        "jämnar till med hyvel"
       ]
     },
     {
-      "title": "HA PLATS FÖR",
+      "title": "SAMLA IHOP",
       "words": [
-        "innehålla",
-        "härbärgera"
+        "samla",
+        "inhämta"
       ],
-      "definition": "får plats, ryms",
+      "definition": "samla ihop",
       "word_definitions": [
-        "har som innehåll, rymmer",
-        "ger plats åt"
+        "för samman (viss typ av) saker i ett visst syfte",
+        "skaffar sig, tillägnar sig; ser till att få igen, hämtar in"
       ]
     }
   ]

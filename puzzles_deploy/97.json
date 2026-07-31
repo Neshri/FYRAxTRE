@@ -1,52 +1,52 @@
 {
-  "pivot": "parti",
+  "pivot": "minne",
   "categories": [
     {
-      "title": "DEL AV HELHET",
+      "title": "MENTAL FÖRMÅGA",
       "words": [
-        "bit",
-        "segment"
+        "lokalsinne",
+        "intelligens"
       ],
-      "definition": "avgränsad del, stycke",
+      "definition": "förmåga att komma ihåg, (tänkt) plats för det man kommer ihåg",
       "word_definitions": [
-        "del, stycke, avsnitt",
-        "avgränsad del av något"
+        "förmåga att hitta rätt på en plats eller i ett område där man inte varit förut",
+        "förmåga till tänkande och analys, begåvning"
       ]
     },
     {
-      "title": "POLITISK SAMMANSLUTNING",
+      "title": "DATALAGRING",
       "words": [
-        "block",
-        "allians"
+        "hårddisk",
+        "cd"
       ],
-      "definition": "politisk sammanslutning (med viss ideologi)",
+      "definition": "ställe för lagring av data i en dator",
       "word_definitions": [
-        "sammanslutning av organisationer eller partier",
-        "(politiskt) förbund"
+        "skiva i en dator där information lagras",
+        "skiva som används för digital lagring av musik, bilder och text"
       ]
     },
     {
-      "title": "OMGÅNG I SPEL",
+      "title": "HÅGKOMST",
       "words": [
-        "set",
-        "rond"
+        "åtanke",
+        "återblick"
       ],
-      "definition": "omgång, spel",
+      "definition": "något man kommer ihåg, hågkomst",
       "word_definitions": [
-        "omgång (i tennis och andra racketspel)",
-        "period av boxningsmatch; omgång"
+        "minne, hågkomst",
+        "skildring av något som hänt i det förflutna, tillbakablick"
       ]
     },
     {
-      "title": "MÄNGD AV VARA",
+      "title": "MINNESFÖREMÅL",
       "words": [
-        "laddning",
-        "sändning"
+        "souvenir",
+        "klenod"
       ],
-      "definition": "mängd av en viss vara",
+      "definition": "souvenir",
       "word_definitions": [
-        "(stor) mängd av något",
-        "parti av varor som sänds"
+        "föremål som man bevarar som minne (t.ex. från en resa)",
+        "dyrbart föremål"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "jämn",
+  "pivot": "känslig",
   "categories": [
     {
-      "title": "SLÄT YTA",
+      "title": "MEDICINSKT SÅRBAR",
       "words": [
-        "platt",
-        "plan"
+        "mottaglig",
+        "sårbar"
       ],
-      "definition": "plan, slät",
+      "definition": "som lätt råkar ut för infektioner",
       "word_definitions": [
-        "plan, slät",
-        "jämn och slät"
+        "som lätt angrips av sjukdomar",
+        "möjlig eller lätt att såra"
       ]
     },
     {
-      "title": "REGELBUNGEN TAKT",
+      "title": "LÄTT PÅVERKAD",
       "words": [
-        "periodisk",
-        "regelbunden"
+        "lättledd",
+        "formbar"
       ],
-      "definition": "som fördelar sig regelbundet; hela tiden lika stor",
+      "definition": "som lätt påverkas",
       "word_definitions": [
-        "som förekommer regelbundet",
-        "som förekommer med jämna mellanrum"
+        "En person som är lätt att övertala eller styra; någon som saknar motståndskraft mot andras påverkan.",
+        "som kan formas"
       ]
     },
     {
-      "title": "LIKA ODDS",
+      "title": "KÄNSLOMESSIGT SKÖR",
       "words": [
-        "balanserad",
-        "likvärdig"
+        "tunnhudad",
+        "bräcklig"
       ],
-      "definition": "som inte domineras av någon part; som väger lika",
+      "definition": "som lätt blir ledsen",
       "word_definitions": [
-        "I jämvikt; som inte lutar åt något håll eller domineras av en part.",
-        "som har liknande värde, jämngod"
+        "känslig, lättretlig",
+        "som lätt går sönder, skör"
       ]
     },
     {
-      "title": "EXAKT TID",
+      "title": "PROBLEMATISK SITUATION",
       "words": [
-        "precis",
-        "exakt"
+        "problematisk",
+        "bekymmersam"
       ],
-      "definition": "exakt, precis",
+      "definition": "som lätt kan vålla problem",
       "word_definitions": [
-        "exakt",
-        "precis, noggrann"
+        "som innebär problem",
+        "som orsakar bekymmer, problematisk"
       ]
     }
   ]

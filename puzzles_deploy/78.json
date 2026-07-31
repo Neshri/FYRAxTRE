@@ -1,52 +1,52 @@
 {
-  "pivot": "lopp",
+  "pivot": "bank",
   "categories": [
     {
-      "title": "LÖPTÄVLINGAR",
+      "title": "UNDERSJÖISK UPPHÖJNING",
       "words": [
-        "stafett",
-        "heat"
+        "vall",
+        "grund"
       ],
-      "definition": "enskild tävling i löpning e.d.",
+      "definition": "upphöjning av botten (i hav eller sjö)",
       "word_definitions": [
-        "en sorts lagtävling (i t.ex. löpning och simning) där de tävlande inom samma lag avlöser varandra",
-        "tidig omgång av löptävling eller simtävling (där de sämre slås ut)"
+        "långsträckt upphöjning (ofta av jord eller sand)",
+        "underlag, botten"
       ]
     },
     {
-      "title": "UTVECKLINGSPROCESS",
+      "title": "MOLNFORMATIONER",
       "words": [
-        "process",
-        "led"
+        "sky",
+        "dimma"
       ],
-      "definition": "(tidens) gång , förlopp",
+      "definition": "kompakt samling av moln",
       "word_definitions": [
-        "förlopp, utveckling",
-        "del i ett förlopp"
+        "moln",
+        "en sorts moln nära marken, dis, tjocka"
       ]
     },
     {
-      "title": "GEVÄRSDELAR",
+      "title": "FINANSIELLA INSTITUTIONER",
       "words": [
-        "kolv",
-        "avtryckare"
+        "finansiär",
+        "kreditinstitut"
       ],
-      "definition": "insidan av gevärspipa",
+      "definition": "företag som lånar och lånar ut pengar",
       "word_definitions": [
-        "bakre del av handeldvapen",
-        "del av skjutvapen som man trycker på för att avlossa ett skott"
+        "person som finansierar något",
+        "Ett finansiellt företag som bedriver verksamhet med att bevilja krediter och ofta ta emot insättningar, exempelvis en bank eller ett kreditmarknadsbolag."
       ]
     },
     {
-      "title": "VATTENDRAG",
+      "title": "LAGRINGSPLATSER",
       "words": [
-        "älv",
-        "flod"
+        "lager",
+        "magasin"
       ],
-      "definition": "utsträckning av vattendrag",
+      "definition": "förråd",
       "word_definitions": [
-        "större vattendrag, flod",
-        "större vattendrag (utanför Sverige), älv, å"
+        "förråd, magasin",
+        "förrådshus, förvaringsrum"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "röra",
+  "pivot": "fäller",
   "categories": [
     {
-      "title": "AVSACKNAD AV STRUKTUR",
+      "title": "FÅ NÅGOT ATT FALLA",
       "words": [
-        "anarki",
-        "sammelsurium"
+        "välta",
+        "stjälpa"
       ],
-      "definition": "brist på ordning, avsaknad av struktur",
+      "definition": "slår omkull, får något att falla",
       "word_definitions": [
-        "frånvaro av regering; oordning",
-        "röra, oordning"
+        "gör så att något faller omkull; stjälper",
+        "lägger (sig) på sidan, välter"
       ]
     },
     {
-      "title": "ÄNDRA POSITION",
+      "title": "MEDDELA DOM",
       "words": [
-        "flytta",
-        "vända"
+        "döma",
+        "avgöra"
       ],
-      "definition": "låta, i synnerhet en kroppsdel, byta eller ändra position/läge (i rummet)",
+      "definition": "dömer",
       "word_definitions": [
-        "för till en annan plats",
-        "ändrar läge eller riktning"
+        "fäller dom över, är domare (vid)",
+        "fäller utslag, bestämmer"
       ]
     },
     {
-      "title": "GÖRA OM",
+      "title": "UTTRYCKA SIG",
       "words": [
-        "förändra",
-        "omforma"
+        "säga",
+        "påstå"
       ],
-      "definition": "(bildligt) förändra",
+      "definition": "yttrar, säger",
       "word_definitions": [
-        "ändrar, förvandlar",
-        "gör om, ändrar"
+        "meddelar i ord, uttalar",
+        "yttrar som ett faktum"
       ]
     },
     {
-      "title": "BLANDAD MASSA",
+      "title": "TAPPA I FÄRG",
       "words": [
-        "mix",
-        "smet"
+        "vitna",
+        "blekna"
       ],
-      "definition": "blandning, mos",
+      "definition": "förlorar färg",
       "word_definitions": [
-        "blandning",
-        "(kladdig) blandning som ska gräddas"
+        "blir vit",
+        "blir blek (ofta av skräck)"
       ]
     }
   ]

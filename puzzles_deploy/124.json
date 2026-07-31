@@ -1,52 +1,52 @@
 {
-  "pivot": "skala",
+  "pivot": "vara",
   "categories": [
     {
-      "title": "MUSIKALISKA FÖLJDER",
+      "title": "HANDELSVAROR",
       "words": [
-        "melodi",
-        "tongång"
+        "ting",
+        "sak"
       ],
-      "definition": "stegvis ordnad följd av toner (eller färger)",
+      "definition": "föremål som köps eller säljs, artikel",
       "word_definitions": [
-        "ordnad följd av toner som bildar en musikalisk helhet",
-        "följd av toner, melodi"
+        "sak, föremål",
+        "föremål"
       ]
     },
     {
-      "title": "VÄRDESKALA",
+      "title": "EXISTENS / TILLVARA",
       "words": [
-        "grad",
-        "nivå"
+        "tillvaro",
+        "verklighet"
       ],
-      "definition": "ordnad följd av värden i informella måttenheter",
+      "definition": "tillstånd att existera; det som existerar",
       "word_definitions": [
-        "en måttenhet för vinklar",
-        "läge i höjdled"
+        "existens, liv",
+        "det som existerar eller är sant, realitet"
       ]
     },
     {
-      "title": "RENSA BORT",
+      "title": "VÅRD OCH FÖRVARING",
       "words": [
-        "eliminera",
-        "slopa"
+        "förvaring",
+        "skötsel"
       ],
-      "definition": "ta bort något ytligt, onödigt eller oväsentligt",
+      "definition": "vård, förvar",
       "word_definitions": [
-        "tar bort, avlägsnar",
-        "tar bort, avskaffar"
+        "förvar",
+        "vård"
       ]
     },
     {
-      "title": "FÄRGSPEKTRUM",
+      "title": "PLACERING I RUMMET",
       "words": [
-        "spektrum",
-        "nyans"
+        "vistas",
+        "ligga"
       ],
-      "definition": "färgskala",
+      "definition": "ha eller ta en plats i tid eller rum; befinna sig",
       "word_definitions": [
-        "ljusets färgskala",
-        "färgton"
+        "uppehåller sig, bor tillfälligt",
+        "är i vågrätt läge, vilar; är placerad"
       ]
     }
   ]

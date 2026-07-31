@@ -1,52 +1,52 @@
 {
-  "pivot": "affär",
+  "pivot": "går",
   "categories": [
     {
-      "title": "EKONOMISKA ÅTGÄRDER",
+      "title": "FORFLYTTA SIG TILL FOTS",
       "words": [
-        "insats",
-        "transaktion"
+        "vandra",
+        "promenera"
       ],
-      "definition": "ekonomisk åtgärd",
+      "definition": "förflyttar sig till fots (utan att springa)",
       "word_definitions": [
-        "åtgärd, prestation",
-        "ekonomisk uppgörelse"
+        "förflyttar sig",
+        "går (särskilt för nöjes skull), spatserar"
       ]
     },
     {
-      "title": "FÖRSÄLJNINGSSTÄLLEN",
+      "title": "FUNGERA SOM TÄNKT",
       "words": [
-        "handel",
-        "kiosk"
+        "funka",
+        "verka"
       ],
-      "definition": "ställe med försäljning, butik",
+      "definition": "fungerar; avlöper",
       "word_definitions": [
-        "affär, butik",
-        "litet hus med försäljning av tidningar, godsaker m.m. (ibland även mat)"
+        "fungerar",
+        "arbetar"
       ]
     },
     {
-      "title": "PERSONLIGA ÄRENDEN",
+      "title": "UTÖVA ETT SCENKONSTVERK",
       "words": [
-        "sak",
-        "ärende"
+        "spela",
+        "agera"
       ],
-      "definition": "angelägenheter",
+      "definition": "spelas",
       "word_definitions": [
-        "angelägenhet, ärende",
-        "(mindre) uppdrag; något man gör, t.ex. inköp"
+        "ägnar sig åt spel",
+        "spelar (rollen av)"
       ]
     },
     {
-      "title": "OLIKA HÄNDELSER",
+      "title": "HA PLATS FÖR",
       "words": [
-        "tilldragelse",
-        "begivenhet"
+        "innehålla",
+        "härbärgera"
       ],
-      "definition": "uppmärksammad händelse",
+      "definition": "får plats, ryms",
       "word_definitions": [
-        "händelse",
-        "stor händelse, evenemang"
+        "har som innehåll, rymmer",
+        "ger plats åt"
       ]
     }
   ]

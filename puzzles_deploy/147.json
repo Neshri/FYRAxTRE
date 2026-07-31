@@ -1,52 +1,52 @@
 {
-  "pivot": "står",
+  "pivot": "mark",
   "categories": [
     {
-      "title": "KROPPENS POSITION",
+      "title": "OBEBYGDA LANDOMRÅDEN",
       "words": [
-        "sitta",
-        "ligga"
+        "obygd",
+        "slätt"
       ],
-      "definition": "vilar upprätt",
+      "definition": "obebyggt landområde, terräng",
       "word_definitions": [
-        "vilar på bakdelen med överkroppen upprätt (ofta på en stol)",
-        "är i vågrätt läge, vilar; är placerad"
+        "obebyggd trakt, ödemark",
+        "större område med plan mark (utan många träd)"
       ]
     },
     {
-      "title": "SLUTA FUNGERA",
+      "title": "ÄGDA FASTIGHETER",
       "words": [
-        "stanna",
-        "klicka"
+        "fastighet",
+        "egendom"
       ],
-      "definition": "rör sig inte, fungerar inte",
+      "definition": "ägt landområde, ägor",
       "word_definitions": [
-        "slutar att förflytta sig; blir orörlig",
-        "fungerar inte"
+        "ett markområde, ofta med en byggnad; fast egendom",
+        "tillhörighet, ägodel"
       ]
     },
     {
-      "title": "FINNAS I TEXT",
+      "title": "JORDENS YTA",
       "words": [
-        "finnas",
-        "lyda"
+        "jordskorpa",
+        "yta"
       ],
-      "definition": "är skrivet; finns, är",
+      "definition": "jordens yta",
       "word_definitions": [
-        "är, existerar, förekommer",
-        "uppgår till, är"
+        "det yttre, hårda lagret på jordklotet",
+        "sida som syns utåt, yttersta lager"
       ]
     },
     {
-      "title": "VARA ANSVARIG",
+      "title": "VALUTOR",
       "words": [
-        "ansvara",
-        "sköta"
+        "krona",
+        "euro"
       ],
-      "definition": "ansvarar (för ett handlande)",
+      "definition": "en äldre valuta (före euron) i Tyskland och Finland",
       "word_definitions": [
-        "tar ansvar, har ansvaret",
-        "vårdar, ger tillsyn; ansvarar för, tar hand om"
+        "valutan i Sverige (och vissa andra nordiska länder)",
+        "den gemensamma valutan för många länder i EU"
       ]
     }
   ]

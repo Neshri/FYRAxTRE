@@ -1,52 +1,52 @@
 {
-  "pivot": "för",
+  "pivot": "ställning",
   "categories": [
     {
-      "title": "I HÖG GRAD",
+      "title": "KROPPSLIG POSITION",
       "words": [
-        "omåttligt",
-        "utomordentligt"
+        "pose",
+        "hållning"
       ],
-      "definition": "i väl hög grad, alltför",
+      "definition": "sätt att stå eller sitta eller ligga",
       "word_definitions": [
-        "oerhört, mycket",
-        "mycket, ytterst"
+        "konstlad eller utstuderad ställning",
+        "sätt att hålla kroppen (upprätt)"
       ]
     },
     {
-      "title": "ORSAKSLIG KONJUNKTION",
+      "title": "ÅSIKTSVINKEL",
       "words": [
-        "eftersom",
-        "då"
+        "synpunkt",
+        "aspekt"
       ],
-      "definition": "ty",
+      "definition": "ståndpunkt",
       "word_definitions": [
-        "därför att, emedan",
-        "när"
+        "ståndpunkt, åsikt, bedömning",
+        "synpunkt; synvinkel"
       ]
     },
     {
-      "title": "MED HJÄLP AV",
+      "title": "SOCIAL STATUS",
       "words": [
-        "genom",
-        "medelst"
+        "rang",
+        "status"
       ],
-      "definition": "med hjälp av",
+      "definition": "social position",
       "word_definitions": [
-        "med hjälp av, med",
-        "med hjälp av, genom"
+        "(social) ställning i en grupp",
+        "(högt) socialt anseende"
       ]
     },
     {
-      "title": "BÅTENS FRONT",
+      "title": "BYGGNADSKONSTRUKTION",
       "words": [
-        "bog",
-        "stäv"
+        "konstruktion",
+        "uppbyggnad"
       ],
-      "definition": "främre delen av en båt",
+      "definition": "konstruktion",
       "word_definitions": [
-        "främsta delen (fören) på en båt",
-        "ett fartygs för eller akter"
+        "konstruerad produkt",
+        "konstruktion, struktur"
       ]
     }
   ]

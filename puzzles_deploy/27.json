@@ -1,52 +1,52 @@
 {
-  "pivot": "faller",
+  "pivot": "lugn",
   "categories": [
     {
-      "title": "TAPPA BALANSEN",
+      "title": "FRIDFULLA EGENSKAPER",
       "words": [
-        "ramla",
-        "trilla"
+        "stillsam",
+        "fredlig"
       ],
-      "definition": "ramlar, trillar",
+      "definition": "som rör sig mycket lite; fridfull",
       "word_definitions": [
-        "faller, trillar",
-        "ramlar, faller"
+        "stilla, fridsam, lugn (mest om person)",
+        "lugn, stillsam, fridsam"
       ]
     },
     {
-      "title": "SJUNKA NEDÅT",
+      "title": "SJÄLVBEHÄRSKAD",
       "words": [
-        "dala",
-        "digna"
+        "samlad",
+        "stoisk"
       ],
-      "definition": "dalar, sjunker",
+      "definition": "behärskad",
       "word_definitions": [
-        "minskar",
-        "sjunker ner, sviktar"
+        "behärskad",
+        "lugn och behärskad"
       ]
     },
     {
-      "title": "MISTA LIVET",
+      "title": "STILLA TILLSTÅND",
       "words": [
-        "dö",
-        "stupa"
+        "frid",
+        "ro"
       ],
-      "definition": "dör, stupar, omkommer",
+      "definition": "mycket lite rörelse; fridfullt tillstånd",
       "word_definitions": [
-        "slutar att leva, mister livet, går bort",
-        "faller i strid, dör"
+        "lugn, ro, fred, stillhet",
+        "lugn och stillhet"
       ]
     },
     {
-      "title": "HAMNA I TILLSTÅND",
+      "title": "KÄNSLOMÄSSIG KONTROLL",
       "words": [
-        "hamna",
-        "landa"
+        "behärskning",
+        "besinning"
       ],
-      "definition": "hamnar (i visst tillstånd)",
+      "definition": "behärskning av känslor",
       "word_definitions": [
-        "kommer (händelsevis), blir placerad",
-        "tar mark, går ner på marken (om flygplan och fåglar)"
+        "kontroll över egna känslor, lugn",
+        "eftertanke, självbehärskning"
       ]
     }
   ]

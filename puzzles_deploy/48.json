@@ -1,52 +1,52 @@
 {
-  "pivot": "hacka",
+  "pivot": "på",
   "categories": [
     {
-      "title": "HUGGA OCH SKÄRA",
+      "title": "RIKTNING MOT",
       "words": [
-        "hugga",
-        "skära"
+        "emot",
+        "kontra"
       ],
-      "definition": "använda sig av en hacka; bearbeta med ett vasst föremål för att sönderdela, göra hål e.d.",
+      "definition": "mot",
       "word_definitions": [
-        "slår med vasst föremål (för att sönderdela, skada m.m.)",
-        "bearbetar med kniv (för att dela upp eller skilja ifrån något)"
+        "mot",
+        "mot, gentemot"
       ]
     },
     {
-      "title": "LÅGA SPELKORT",
+      "title": "POSITION",
       "words": [
-        "tvåa",
-        "trea"
+        "över",
+        "vid"
       ],
-      "definition": "kort av låg valör inom kortspel",
+      "definition": "i anslutning till, ovanpå",
       "word_definitions": [
-        "siffran 2; nummer 2 i ordningen",
-        "siffran 3; nummer 3 i ordningen"
+        "ovanför, ovanpå",
+        "omkring, ungefär; i samband med"
       ]
     },
     {
-      "title": "OJÄMN MOTORGÅNG",
+      "title": "TIDSRYMD",
       "words": [
-        "strutta",
-        "sputtra"
+        "om",
+        "under"
       ],
-      "definition": "ryckig och ojämn motordrift",
+      "definition": "under, inom (anger tidpunkt eller tidsrymd)",
       "word_definitions": [
-        "går med ryckiga rörelser",
-        "Att ge ifrån sig korta, oregelbundna ljud eller utsläpp; i samband med en motor innebär det att den går ryckigt och ojämnt."
+        "på; inom en tid av",
+        "medan något varar"
       ]
     },
     {
-      "title": "JORDBRUKSREDSKAP",
+      "title": "ANGÅENDE ÄMNE",
       "words": [
-        "harv",
-        "plog"
+        "beträffande",
+        "angående"
       ],
-      "definition": "redskap som används inom jordbruket för att luckra upp jorden och ta bort ogräs",
+      "definition": "när det gäller",
       "word_definitions": [
-        "ett redskap för uppluckring av jorden",
-        "ett redskap som används för att vända jord eller röja undan snö"
+        "i fråga om, angående",
+        "om, beträffande"
       ]
     }
   ]

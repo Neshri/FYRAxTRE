@@ -1,52 +1,52 @@
 {
-  "pivot": "bana",
+  "pivot": "klar",
   "categories": [
     {
-      "title": "TRANSPORTINFRASTRUKTUR",
+      "title": "LJUS OCH GENOMSIKTIG",
       "words": [
-        "viadukt",
-        "motorväg"
+        "blank",
+        "transparent"
       ],
-      "definition": "väg; järnväg",
+      "definition": "ljus, lysande, genomskinlig",
       "word_definitions": [
-        "bro över en väg, järnväg eller dal",
-        "mycket bred väg för snabb trafik, autostrada"
+        "glänsande, skinande",
+        "genomskinlig"
       ]
     },
     {
-      "title": "FÄRDVÄG",
+      "title": "LÄTT ATT FÖRSTÅ",
       "words": [
-        "rutt",
-        "stråk"
+        "åskådlig",
+        "uppenbar"
       ],
-      "definition": "färdväg",
+      "definition": "lätt att förstå, tydlig",
       "word_definitions": [
-        "resväg",
-        "väg"
+        "lätt att förstå, tydlig",
+        "som alla inser, tydlig"
       ]
     },
     {
-      "title": "YRKESLIV",
+      "title": "VÄLDIGT STOR",
       "words": [
-        "profession",
-        "yrke"
+        "enorm",
+        "rejäl"
       ],
-      "definition": "karriär",
+      "definition": "tydlig, stor",
       "word_definitions": [
-        "yrke",
-        "arbete som man utbildats för och får sin inkomst av"
+        "mycket stor",
+        "stor, kraftig"
       ]
     },
     {
-      "title": "IDROTTSANLÄGGNING",
+      "title": "FÄRDIG OCH REDO",
       "words": [
-        "arena",
-        "stadion"
+        "beredd",
+        "redo"
       ],
-      "definition": "anläggning med plant underlag (särskilt för tävlingar)",
+      "definition": "färdig",
       "word_definitions": [
-        "plats för tävling eller skådespel",
-        "stor idrottsplats"
+        "färdig, redo",
+        "färdig, beredd"
       ]
     }
   ]

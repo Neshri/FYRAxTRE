@@ -1,52 +1,52 @@
 {
-  "pivot": "sticka",
+  "pivot": "skola",
   "categories": [
     {
-      "title": "TRÄFLISOR",
+      "title": "SKOLBYGGNADER",
       "words": [
-        "flaga",
-        "spån"
+        "institut",
+        "campus"
       ],
-      "definition": "liten vass träpinne, träflisa",
+      "definition": "byggnad avsedd att bedriva utbildning i",
       "word_definitions": [
-        "liten flisa",
-        "liten flisa som bildas vid bearbetning av trä eller järn"
+        "inrättning för forskning eller utbildning",
+        "skolområde eller skolbyggnader (särskilt rörande eftergymnasial utbildning), oftast inkluderande hela området och andra tillhörande byggnader"
       ]
     },
     {
-      "title": "GARNVERKTYG",
+      "title": "STILRIKTNINGAR",
       "words": [
-        "virknål",
-        "skyttel"
+        "barock",
+        "rokoko"
       ],
-      "definition": "(metall)pinne att tillverka saker av garn med",
+      "definition": "stilriktning inom konst, litteratur etc.",
       "word_definitions": [
-        "kraftig nål med krok i ena ändan som används vid virkning",
-        "anordning som för tyg eller garn genom väv"
+        "en stil inom konst, musik och litteratur under 1600-talet och en del av 1700-talet",
+        "en stil (inom bl.a. konsten och arkitekturen) med rundade ornament och vanligen ljusa färger"
       ]
     },
     {
-      "title": "GÖRA HÅL",
+      "title": "PÅSTÅENDEVERB",
       "words": [
-        "rista",
-        "punktera"
+        "heta",
+        "hävda"
       ],
-      "definition": "trycka in spetsigt föremål i något; ge stick",
+      "definition": "lär, vad som påstås",
       "word_definitions": [
-        "skär in tecken med spetsigt föremål",
-        "sticker hål på"
+        "påstås",
+        "påstår"
       ]
     },
     {
-      "title": "FÖRA IN",
+      "title": "AVSIKTSVERB",
       "words": [
-        "proppa",
-        "trycka"
+        "tänka",
+        "avse"
       ],
-      "definition": "föra in, stoppa",
+      "definition": "ämna, ha för avsikt att (ofta om förflyttning)",
       "word_definitions": [
-        "stoppar (full), packar (full)",
-        "utövar tryck, pressar"
+        "planerar att, ämnar",
+        "tänker på, har som mål, ämnar"
       ]
     }
   ]

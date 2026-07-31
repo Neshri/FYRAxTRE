@@ -1,52 +1,52 @@
 {
-  "pivot": "vila",
+  "pivot": "skiva",
   "categories": [
     {
-      "title": "TILLSTÅND AV LUGN",
+      "title": "FESTLIGHETER",
       "words": [
-        "frid",
-        "ro"
+        "festlighet",
+        "sjöslag"
       ],
-      "definition": "tillstånd då någon eller något vilar, stillhet, avkoppling",
+      "definition": "fest, partaj",
       "word_definitions": [
-        "lugn, ro, fred, stillhet",
-        "lugn och stillhet"
+        "egenskapen att vara festlig",
+        "vild fest"
       ]
     },
     {
-      "title": "VARA STATISK",
+      "title": "MUSIKINSPELNINGAR",
       "words": [
-        "stanna",
-        "dröja"
+        "demo",
+        "soundtrack"
       ],
-      "definition": "vara kvar i samma läge i förhållande till något annat",
+      "definition": "inspelning, till exempel av ett antal musikstycken, på ett gripbart föremål såsom en grammofonskiva eller CD-skiva, vanligtvis avsedd att säljas",
       "word_definitions": [
-        "blir kvar",
-        "avvaktar, väntar"
+        "cd-skiva e.d. med provisorisk inspelning",
+        "(skiva som innehåller) musiken till film eller dataspel"
       ]
     },
     {
-      "title": "SÖMN OCH ÅTERHÄMTNING",
+      "title": "MATLAGNINGSVERB",
       "words": [
-        "sova",
-        "konvalescera"
+        "snitta",
+        "tärna"
       ],
-      "definition": "vara (mer eller mindre) inaktiv i syfte att återhämta sig",
+      "definition": "skära i skivor",
       "word_definitions": [
-        "är i ett tillstånd av sömn, slumrar",
-        "Att återhämta sig efter en sjukdom eller skada."
+        "Att göra grunda snitt eller skåror i ytan på något, till exempel på ett bröd innan gräddning.",
+        "skär i tärningar"
       ]
     },
     {
-      "title": "VARA STÖDD AV",
+      "title": "AVKAPPADE BITAR",
       "words": [
-        "ligga",
-        "luta"
+        "flak",
+        "folie"
       ],
-      "definition": "stödjas mot; hållas uppe av; bäras av",
+      "definition": "del från ett större objekt som skurits av till en jämntjock och relativt tunn bit",
       "word_definitions": [
-        "är i vågrätt läge, vilar; är placerad",
-        "står snett"
+        "stor jämntjock skiva",
+        "mycket tunt skikt av metall eller plast"
       ]
     }
   ]

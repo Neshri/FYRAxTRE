@@ -1,52 +1,52 @@
 {
-  "pivot": "fäller",
+  "pivot": "tjänst",
   "categories": [
     {
-      "title": "FÅ NÅGOT ATT FALLA",
+      "title": "ARBETSPLATSER",
       "words": [
-        "välta",
-        "stjälpa"
+        "plats",
+        "jobb"
       ],
-      "definition": "slår omkull, får något att falla",
+      "definition": "anställning",
       "word_definitions": [
-        "gör så att något faller omkull; stjälper",
-        "lägger (sig) på sidan, välter"
+        "anställning",
+        "anställning; arbetstillfälle"
       ]
     },
     {
-      "title": "MEDDELA DOM",
+      "title": "SYSSLOR OCH ARBETE",
       "words": [
-        "döma",
-        "avgöra"
+        "arbete",
+        "göromål"
       ],
-      "definition": "dömer",
+      "definition": "arbete, tjänstgöring",
       "word_definitions": [
-        "fäller dom över, är domare (vid)",
-        "fäller utslag, bestämmer"
+        "verksamhet, jobb",
+        "syssla, arbete"
       ]
     },
     {
-      "title": "UTTRYCKA SIG",
+      "title": "SERVICE OCH UNDERHÅLL",
       "words": [
-        "säga",
-        "påstå"
+        "support",
+        "skötsel"
       ],
-      "definition": "yttrar, säger",
+      "definition": "service",
       "word_definitions": [
-        "meddelar i ord, uttalar",
-        "yttrar som ett faktum"
+        "stöd",
+        "vård"
       ]
     },
     {
-      "title": "TAPPA I FÄRG",
+      "title": "HJÄLP OCH STÖD",
       "words": [
-        "vitna",
-        "blekna"
+        "uppbackning",
+        "stöd"
       ],
-      "definition": "förlorar färg",
+      "definition": "hjälp, hjälpinsats",
       "word_definitions": [
-        "blir vit",
-        "blir blek (ofta av skräck)"
+        "stöd, hjälp",
+        "hjälp, understöd"
       ]
     }
   ]

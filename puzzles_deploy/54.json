@@ -1,52 +1,52 @@
 {
-  "pivot": "inställd",
+  "pivot": "drar",
   "categories": [
     {
-      "title": "ATTITYD ELLER INSTÄLNING",
+      "title": "UTVINNA NÅGOT",
       "words": [
-        "sinnad",
-        "hängiven"
+        "extrahera",
+        "bryta"
       ],
-      "definition": "som har en viss attityd",
+      "definition": "utvinner, extraherar",
       "word_definitions": [
-        "som har viss attityd",
-        "som helt hänger sig (åt något), entusiastisk"
+        "utvinner, drar",
+        "får att gå i bitar; utvinner"
       ]
     },
     {
-      "title": "AVBOKADE HÄNDELSER",
+      "title": "FÖRFLYTTA SIG",
       "words": [
-        "avbokad",
-        "upphävd"
+        "vandra",
+        "åka"
       ],
-      "definition": "som inte blir av, avblåst",
+      "definition": "förflyttar sig",
       "word_definitions": [
-        "; (om bokning) som har tagits bort",
-        "Ogiltigförklarad eller återkallad; används ofta om beslut, lagar eller avtal som inte längre gäller."
+        "förflyttar sig",
+        "förflyttas, faller"
       ]
     },
     {
-      "title": "KLAR FÖR START",
+      "title": "DRA I NÅGOT",
       "words": [
-        "redo",
-        "förberedd"
+        "rycka",
+        "slita"
       ],
-      "definition": "beredd",
+      "definition": "för till sig med handen",
       "word_definitions": [
-        "färdig, beredd",
-        "; som förberetts"
+        "drar hastigt ur sitt läge",
+        "drar, rycker"
       ]
     },
     {
-      "title": "JUSTERAD ELLER ÄNDRAD",
+      "title": "SLÄPA NÅGOT",
       "words": [
-        "kalibrerad",
-        "anpassad"
+        "bogsera",
+        "hasa"
       ],
-      "definition": "justerad",
+      "definition": "släpar, bogserar",
       "word_definitions": [
-        "Justerad för att stämma överens med en känd standard eller skala, vanligtvis för att säkerställa att ett mätinstrument ger korrekta värden.",
-        "Gjord lämplig för ett visst ändamål, en viss person eller en särskild situation genom förändring eller justering."
+        "drar, släpar",
+        "släpar"
       ]
     }
   ]

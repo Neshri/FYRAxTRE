@@ -1,52 +1,52 @@
 {
-  "pivot": "plan",
+  "pivot": "division",
   "categories": [
     {
-      "title": "ARBETSPLANERING",
+      "title": "UPPDELNING AV NÅGOT",
       "words": [
-        "program",
-        "instruktion"
+        "fördelning",
+        "splittring"
       ],
-      "definition": "anvisningar eller tankar om utformning av verksamhet",
+      "definition": "handlingen att dividera",
       "word_definitions": [
-        "plan eller översikt över hur något ska genomföras",
-        "anvisning om hur man ska göra något"
+        "handlingen att fördela något; uppdelning",
+        "handlingen att splittra något"
       ]
     },
     {
-      "title": "OMRÅDESBILD",
+      "title": "MILITÄRA FÖRBAND",
       "words": [
-        "karta",
-        "ritning"
+        "brigad",
+        "regemente"
       ],
-      "definition": "bild över ett område",
+      "definition": "större militär avdelning",
       "word_definitions": [
-        "starkt förminskad bild (med speciella symboler) av jordytan eller annat område",
-        "ritad plan (t.ex. för konstruktion av hus)"
+        "stort förband inom en armé",
+        "den högsta administrativa militära enheten på lokal nivå"
       ]
     },
     {
-      "title": "HUSVÅNING",
+      "title": "FÖRETAGSAVDELNINGAR",
       "words": [
-        "våning",
-        "etage"
+        "sektion",
+        "filial"
       ],
-      "definition": "våning",
+      "definition": "avdelning inom företag",
       "word_definitions": [
-        "plan i ett hus",
-        "våning, plan"
+        "avsnitt, avdelning",
+        "(ganska självständig) avdelning"
       ]
     },
     {
-      "title": "LUFTFARTSDON",
+      "title": "NIVÅ I SERIESYSTEM",
       "words": [
-        "jumbojet",
-        "luftfarkost"
+        "serie",
+        "klass"
       ],
-      "definition": "flygplan",
+      "definition": "klass i seriesystem",
       "word_definitions": [
-        "ett slags stort flygplan",
-        "farkost för transport genom luften"
+        "tävlingsform där lag tävlar mot varandra efter en viss ordning",
+        "grupp av personer eller företeelser"
       ]
     }
   ]

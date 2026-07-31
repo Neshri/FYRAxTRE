@@ -1,52 +1,52 @@
 {
-  "pivot": "på",
+  "pivot": "siktar",
   "categories": [
     {
-      "title": "RIKTNING MOT",
+      "title": "RIKTA VAPEN",
       "words": [
-        "emot",
-        "kontra"
+        "rikta",
+        "måtta"
       ],
-      "definition": "mot",
+      "definition": "riktar ett vapen e.d. mot ett mål, måttar",
       "word_definitions": [
-        "mot",
-        "mot, gentemot"
+        "vänder åt visst håll; siktar",
+        "siktar"
       ]
     },
     {
-      "title": "POSITION",
+      "title": "HA SOM MÅL",
       "words": [
-        "över",
-        "vid"
+        "avse",
+        "sträva"
       ],
-      "definition": "i anslutning till, ovanpå",
+      "definition": "inriktar sig på, har som sitt mål",
       "word_definitions": [
-        "ovanför, ovanpå",
-        "omkring, ungefär; i samband med"
+        "tänker på, har som mål, ämnar",
+        "arbetar träget, anstränger sig för att uppnå"
       ]
     },
     {
-      "title": "TIDSRYMD",
+      "title": "FÅ SYN PÅ",
       "words": [
-        "om",
-        "under"
+        "upptäcka",
+        "märka"
       ],
-      "definition": "under, inom (anger tidpunkt eller tidsrymd)",
+      "definition": "får syn på",
       "word_definitions": [
-        "på; inom en tid av",
-        "medan något varar"
+        "lägger märke till, observerar",
+        "får se, observerar"
       ]
     },
     {
-      "title": "ANGÅENDE ÄMNE",
+      "title": "RENSA GENOM SIL",
       "words": [
-        "beträffande",
-        "angående"
+        "sila",
+        "filtrera"
       ],
-      "definition": "när det gäller",
+      "definition": "låter passera genom en sikt",
       "word_definitions": [
-        "i fråga om, angående",
-        "om, beträffande"
+        "låter passera genom sil",
+        "häller genom filter; silar, renar"
       ]
     }
   ]

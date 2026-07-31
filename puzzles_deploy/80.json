@@ -1,52 +1,52 @@
 {
-  "pivot": "lur",
+  "pivot": "skada",
   "categories": [
     {
-      "title": "BLÅSINSTRUMENT",
+      "title": "KROPPSSKADA",
       "words": [
-        "flöjt",
-        "horn"
+        "blessyr",
+        "fraktur"
       ],
-      "definition": "ett blåsinstrument",
+      "definition": "(ben)brott; sår",
       "word_definitions": [
-        "ett blåsinstrument",
-        "ett blåsinstrument"
+        "(lättare) sår",
+        "brott i skelettets ben, benbrott"
       ]
     },
     {
-      "title": "KORT SÖMN",
+      "title": "MATERIELL ÅVERKAN",
       "words": [
-        "slummer",
-        "dvala"
+        "vandalism",
+        "rasering"
       ],
-      "definition": "en stunds sömn",
+      "definition": "åverkan",
       "word_definitions": [
-        "lätt (och kort) sömn, lur",
-        "slummer, sömn"
+        "meningslös förstörelse",
+        "Handlingen att riva, förstöra eller jämna med marken en fysisk struktur eller byggnad."
       ]
     },
     {
-      "title": "TELEFONAPPARATER",
+      "title": "BEKLAGLIGT FÖRHÅLLANDE",
       "words": [
-        "mobil",
-        "telefon"
+        "olycka",
+        "tragedi"
       ],
-      "definition": "mobiltelefon",
+      "definition": "förhållande som man beklagar, synd",
       "word_definitions": [
-        "mobiltelefon",
-        "apparat för överföring av samtal över långa avstånd"
+        "plågsam eller tragisk händelse som inträffar utan mänskligt uppsåt",
+        "sorglig händelse"
       ]
     },
     {
-      "title": "BEDRÄGERI ELLER SKÄMT",
+      "title": "TEKNISK BRIST",
       "words": [
-        "spratt",
-        "bluff"
+        "fel",
+        "defekt"
       ],
-      "definition": "i uttrycket det är bara lur: att luras, skämta; lurendrejeri",
+      "definition": "fel på något eller något som gått sönder eller blivit förstört (som orsakats vid ett särskilt tillfälle)",
       "word_definitions": [
-        "skämt för att lura någon",
-        "försök att luras, skoj, bedrägeri"
+        "handling som inte är korrekt, misstag",
+        "fel, brist"
       ]
     }
   ]

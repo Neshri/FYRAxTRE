@@ -1,52 +1,52 @@
 {
-  "pivot": "drar",
+  "pivot": "styrka",
   "categories": [
     {
-      "title": "RITA EN BILD",
+      "title": "FYSISK OCH PSYKISK KRAFT",
       "words": [
-        "teckna",
-        "rita"
+        "kraft",
+        "vigör"
       ],
-      "definition": "ritar, tecknar",
+      "definition": "fysisk eller psykisk kraft",
       "word_definitions": [
-        "gör teckningar, ritar",
-        "skapar en bild med penna e.d."
+        "styrka, energi",
+        "hälsa, kraft"
       ]
     },
     {
-      "title": "VINDEN BLÅSER",
+      "title": "GRAD AV INTENSITET",
       "words": [
-        "blåsa",
-        "fläkta"
+        "grad",
+        "utsträckning"
       ],
-      "definition": "blåser, fläktar",
+      "definition": "procenthalt, grad, intensitet",
       "word_definitions": [
-        "rör sig (om luft), fläktar",
-        "blåser lätt"
+        "utsträckning, omfattning",
+        "omfattning, grad"
       ]
     },
     {
-      "title": "FÖRBRUKA RESURSER",
+      "title": "SAMARBETANDE GRUPP",
       "words": [
-        "konsumera",
-        "åtgå"
+        "team",
+        "kollektiv"
       ],
-      "definition": "förbrukar, behöver",
+      "definition": "grupp som arbetar tillsammans",
       "word_definitions": [
-        "använder, förbrukar",
-        "tar slut, förbrukas, går åt"
+        "(arbets)lag, grupp",
+        "grupp människor som har gemensamma intressen (och som ibland bor och äter tillsammans)"
       ]
     },
     {
-      "title": "LÄMNA EN PLATS",
+      "title": "MILITÄR ENHET",
       "words": [
-        "lämna",
-        "gå"
+        "trupp",
+        "pluton"
       ],
-      "definition": "lämnar en lokal",
+      "definition": "militär grupp",
       "word_definitions": [
-        "avlägsnar sig från",
-        "avlägsnar sig"
+        "grupp soldater eller idrottsmän",
+        "grupp soldater på ca 30 till 50 man"
       ]
     }
   ]

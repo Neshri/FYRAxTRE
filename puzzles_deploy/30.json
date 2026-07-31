@@ -1,52 +1,52 @@
 {
-  "pivot": "fil",
+  "pivot": "handlar",
   "categories": [
     {
-      "title": "VERKTYG FÖR MATERIALBEARBETNING",
+      "title": "VIDTA ÅTGÄRDER",
       "words": [
-        "hyvel",
-        "mejsel"
+        "agera",
+        "utföra"
       ],
-      "definition": "ett verktyg av stål som används för att slipa ytor jämna",
+      "definition": "gör något, agerar",
       "word_definitions": [
-        "ett verktyg för att göra ytor jämna",
-        "ett verktyg som man slår på med hammare för att bearbeta hårda material; skruvmejsel"
+        "vidtar åtgärder, handlar",
+        "gör, genomför"
       ]
     },
     {
-      "title": "DELAR AV VÄG",
+      "title": "KÖPA NÅGOT",
       "words": [
-        "cykelväg",
-        "trottoar"
+        "införskaffa",
+        "förvärva"
       ],
-      "definition": "körbana, körfält",
+      "definition": "köper",
       "word_definitions": [
-        "cykelbana",
-        "gångbana bredvid körbana"
+        "förser sig med, köper",
+        "lyckas skaffa sig"
       ]
     },
     {
-      "title": "DIGITALA FILTYPER",
+      "title": "BEDRIVA HANDEL",
       "words": [
-        "dokument",
-        "bild"
+        "kränga",
+        "avyttra"
       ],
-      "definition": "del av datorminne där enheter som hör ihop lagras",
+      "definition": "gör affärer",
       "word_definitions": [
-        "skrift, handling (ofta av juridisk eller historisk betydelse)",
-        "foto, teckning, målning etc."
+        "säljer",
+        "säljer"
       ]
     },
     {
-      "title": "SYRLIGA MJÖLKPRODUKTER",
+      "title": "HANDLA OM",
       "words": [
-        "yoghurt",
-        "kefir"
+        "röra",
+        "kretsa"
       ],
-      "definition": "surmjölk, filmjölk",
+      "definition": "har som ämne, rör sig om",
       "word_definitions": [
-        "ett slags surmjölk",
-        "rysk filmjölk, en form av kulturmjölk som tillverkas med hjälp av kefirkorn eller kefirgryn"
+        "handlar om, gäller",
+        "rör sig runt något"
       ]
     }
   ]

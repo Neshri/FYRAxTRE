@@ -1,52 +1,52 @@
 {
-  "pivot": "leda",
+  "pivot": "fil",
   "categories": [
     {
-      "title": "KÄNSLA AV UTTRÅKNING",
+      "title": "VERKTYG FÖR MATERIALBEARBETNING",
       "words": [
-        "uttråkning",
-        "trötthet"
+        "hyvel",
+        "mejsel"
       ],
-      "definition": "känsla av att vara uttråkad",
+      "definition": "ett verktyg av stål som används för att slipa ytor jämna",
       "word_definitions": [
-        "tillståndet att vara uttråkad",
-        "det att vara trött"
+        "ett verktyg för att göra ytor jämna",
+        "ett verktyg som man slår på med hammare för att bearbeta hårda material; skruvmejsel"
       ]
     },
     {
-      "title": "HA ÖVERTAGET",
+      "title": "DELAR AV VÄG",
       "words": [
-        "dominera",
-        "överträffa"
+        "cykelväg",
+        "trottoar"
       ],
-      "definition": "ligga först; ha övertag",
+      "definition": "körbana, körfält",
       "word_definitions": [
-        "är starkt framträdande i visst sammanhang; behärskar",
-        "är bättre eller större än"
+        "cykelbana",
+        "gångbana bredvid körbana"
       ]
     },
     {
-      "title": "LEDA FLÖDE",
+      "title": "DIGITALA FILTYPER",
       "words": [
-        "kanalisera",
-        "slussa"
+        "dokument",
+        "bild"
       ],
-      "definition": "föra (i viss riktning)",
+      "definition": "del av datorminne där enheter som hör ihop lagras",
       "word_definitions": [
-        "leder i viss riktning",
-        "låter gå genom en sluss"
+        "skrift, handling (ofta av juridisk eller historisk betydelse)",
+        "foto, teckning, målning etc."
       ]
     },
     {
-      "title": "BÖJA NÅGOT",
+      "title": "SYRLIGA MJÖLKPRODUKTER",
       "words": [
-        "kröka",
-        "bocka"
+        "yoghurt",
+        "kefir"
       ],
-      "definition": "böja en led",
+      "definition": "surmjölk, filmjölk",
       "word_definitions": [
-        "gör krokig, böjer",
-        "böjer (t.ex. en metallstång)"
+        "ett slags surmjölk",
+        "rysk filmjölk, en form av kulturmjölk som tillverkas med hjälp av kefirkorn eller kefirgryn"
       ]
     }
   ]

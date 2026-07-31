@@ -1,52 +1,52 @@
 {
-  "pivot": "arbete",
+  "pivot": "lyder",
   "categories": [
     {
-      "title": "YRKESMÄSSIG ROLL",
+      "title": "LYDA ORDER",
       "words": [
-        "jobb",
-        "befattning"
+        "följa",
+        "underordna"
       ],
-      "definition": "tjänst, anställning, yrke",
+      "definition": "gör som man blir tillsagd",
       "word_definitions": [
-        "anställning; arbetstillfälle",
-        "sysselsättning, (högre) tjänst, arbete"
+        "rättar sig efter, lyder",
+        "låter bli beroende av"
       ]
     },
     {
-      "title": "PLATS FÖR ARBETE",
+      "title": "HÖRA TILL",
       "words": [
-        "kontor",
-        "verkstad"
+        "tillhöra",
+        "ingå"
       ],
-      "definition": "arbetsplats, jobb",
+      "definition": "hör till, sorterar (under)",
       "word_definitions": [
-        "arbetsplats för tjänstemän, expedition",
-        "arbetsplats för mekaniska arbeten"
+        "kan räknas till; är medlem av",
+        "utgör en del, är inräknad"
       ]
     },
     {
-      "title": "SKAPAT RESULTAT",
+      "title": "VARA FORMULERAD",
       "words": [
-        "verk",
-        "alster"
+        "formuleras",
+        "låta"
       ],
-      "definition": "produkt, alster, verk",
+      "definition": "har en viss lydelse",
       "word_definitions": [
-        "produkt av arbete, alster",
-        "något som skapats, produkt"
+        "uttrycka i ord på visst sätt; ge form åt",
+        "hörs, ljuder"
       ]
     },
     {
-      "title": "AKTIV VERKSAMHET",
+      "title": "UPPÅ TILL EN SUMMA",
       "words": [
-        "aktivitet",
-        "operation"
+        "utgöra",
+        "vara"
       ],
-      "definition": "verksamhet, jobb",
+      "definition": "uppgår till, är",
       "word_definitions": [
-        "verksamhet, sysselsättning",
-        "uppgift, arbete"
+        "fungerar som, är; uppgår till (en viss summa)",
+        "befinner sig, finns"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "styrka",
+  "pivot": "hög",
   "categories": [
     {
-      "title": "FYSISK OCH PSYKISK KRAFT",
+      "title": "STARK LJUDSTYRKA",
       "words": [
-        "kraft",
-        "vigör"
+        "öronbedövande",
+        "rungande"
       ],
-      "definition": "fysisk eller psykisk kraft",
+      "definition": "kraftig (om ljud)",
       "word_definitions": [
-        "styrka, energi",
-        "hälsa, kraft"
+        "ytterst kraftig (om ljud)",
+        "som ljuder starkt, kraftig; bestämd"
       ]
     },
     {
-      "title": "GRAD AV INTENSITET",
+      "title": "SOCIAL STÄLLNING",
       "words": [
-        "grad",
-        "utsträckning"
+        "inflytelserik",
+        "uppsatt"
       ],
-      "definition": "procenthalt, grad, intensitet",
+      "definition": "som har inflytelserik ställning",
       "word_definitions": [
-        "utsträckning, omfattning",
-        "omfattning, grad"
+        "som har stort inflytande",
+        "som har viss (hög) ställning i samhället"
       ]
     },
     {
-      "title": "SAMARBETANDE GRUPP",
+      "title": "AVANCERAD NIVÅ",
       "words": [
-        "team",
-        "kollektiv"
+        "försigkommen",
+        "sofistikerad"
       ],
-      "definition": "grupp som arbetar tillsammans",
+      "definition": "avancerad",
       "word_definitions": [
-        "(arbets)lag, grupp",
-        "grupp människor som har gemensamma intressen (och som ibland bor och äter tillsammans)"
+        "väl utvecklad, avancerad",
+        "förfinad"
       ]
     },
     {
-      "title": "MILITÄR ENHET",
+      "title": "SAMLING AV MATERIAL",
       "words": [
-        "trupp",
-        "pluton"
+        "stapel",
+        "trave"
       ],
-      "definition": "militär grupp",
+      "definition": "anhopning av material",
       "word_definitions": [
-        "grupp soldater eller idrottsmän",
-        "grupp soldater på ca 30 till 50 man"
+        "hög av staplat material, trave",
+        "hög av föremål"
       ]
     }
   ]

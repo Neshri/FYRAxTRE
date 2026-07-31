@@ -1,52 +1,52 @@
 {
-  "pivot": "utgår",
+  "pivot": "spricka",
   "categories": [
     {
-      "title": "PÅBÖRJA NÅGOT",
+      "title": "SMALA RÄNNOR",
       "words": [
-        "börja",
-        "inleda"
+        "råk",
+        "dike"
       ],
-      "definition": "startar",
+      "definition": "smal ränna",
       "word_definitions": [
-        "startar, inleder, sätter igång",
-        "påbörjar, startar"
+        "öppen ränna i is",
+        "grävd ränna i marken (ofta på båda sidor av en väg)"
       ]
     },
     {
-      "title": "BASERA PÅ",
+      "title": "OENIGHET",
       "words": [
-        "grunda",
-        "anta"
+        "strid",
+        "tvist"
       ],
-      "definition": "har som utgångspunkt, förutsätter",
+      "definition": "oenighet",
       "word_definitions": [
-        "har som grund för, stöder",
-        "tänker sig, förmodar"
+        "tvist, oenighet",
+        "oenighet, stridighet"
       ]
     },
     {
-      "title": "BETALA PENGAR",
+      "title": "ÖPPNINGAR I MATERIAL",
       "words": [
-        "erlägga",
-        "pröjsa"
+        "glipa",
+        "klyfta"
       ],
-      "definition": "betalas ut",
+      "definition": "långsmal delning i material bildad av påfrestning på hårt och ofta sprött material",
       "word_definitions": [
-        "betalar",
-        "betalar"
+        "spricka, springa, öppning",
+        "spricka"
       ]
     },
     {
-      "title": "UPPHÖRA MED",
+      "title": "GÅ SÖNDER",
       "words": [
-        "upphöra",
-        "sluta"
+        "bräcka",
+        "bryta"
       ],
-      "definition": "tar slut, upphör, går ut",
+      "definition": "rämna, brytas sönder och bilda långsmal öppning",
       "word_definitions": [
-        "slutar, hör upp",
-        "tar slut, upphör"
+        "knäcker, bryter",
+        "får att spricka sönder i två delar (ofta genom kraftig böjning)"
       ]
     }
   ]

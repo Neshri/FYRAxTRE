@@ -1,52 +1,52 @@
 {
-  "pivot": "få",
+  "pivot": "klubba",
   "categories": [
     {
-      "title": "VARA TVUNGEN",
+      "title": "GÖRA BEHOV",
       "words": [
-        "måste",
-        "behöva"
+        "skita",
+        "bajsa"
       ],
-      "definition": "tillåtas eller måste",
+      "definition": "göra sig av med avföring (\"bajsa\")",
       "word_definitions": [
-        "indikerar att det finns ett krav på att subjektet i meningen ska göra något; uttrycker nödvändighet",
-        "är tvungen att"
+        "har avföring",
+        "har avföring, skiter"
       ]
     },
     {
-      "title": "GÖRA SÅ ATT",
+      "title": "SPORTSREDSKAP",
       "words": [
-        "föranleda",
-        "låta"
+        "racket",
+        "paddel"
       ],
-      "definition": "orsaka; göra så att eller se till att någon utför en handling eller att något händer",
+      "definition": "avlångt redskap avsett att föra eller slå eller skjuta iväg bollen eller pucken inom hockeyliknande sporter (bandy, innebandy, ishockey, landhockey, lacrosse, krocket)",
       "word_definitions": [
-        "leder till, orsakar",
-        "ser till att något blir gjort"
+        "ett redskap att slå på en boll med",
+        "en sorts åra (för kanot) med ett brett blad i ena eller båda ändarna"
       ]
     },
     {
-      "title": "HITTA SVAR",
+      "title": "GODISBITAR",
       "words": [
-        "utröna",
-        "lösa"
+        "polkagris",
+        "snask"
       ],
-      "definition": "komma fram till (ett svar)",
+      "definition": "godsak i form av en pinne med en stor karamell- eller godisbit fäst på översta änden",
       "word_definitions": [
-        "tar reda på",
-        "kommer tillrätta med, klarar"
+        "en karamell (ibland i form av en stång) med röda och vita ränder och frisk smak",
+        "sötsaker, godis, karameller"
       ]
     },
     {
-      "title": "LURA NÅGON",
+      "title": "CEREMONIELT FÖREMÅL",
       "words": [
-        "bluffa",
-        "svindla"
+        "spira",
+        "krona"
       ],
-      "definition": "lura, få någon att gå på ett trick",
+      "definition": "redskap med bara ceremoniell betydelse (ordförandeklubba eller auktionsklubba) som slås mot bordet eller ett särskilt underlag för att påkalla uppmärksamhet (vanligtvis då man förklarar och fastslår ett visst beslut)",
       "word_definitions": [
-        "försöker luras, skojar, bedrar",
-        "lurar"
+        "smal rund stav (särskilt om en av kungens maktsymboler)",
+        "föremål som har symbolisk betydelse när det bärs på huvudet"
       ]
     }
   ]

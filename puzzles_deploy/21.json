@@ -1,52 +1,52 @@
 {
-  "pivot": "drift",
+  "pivot": "inställd",
   "categories": [
     {
-      "title": "SKÖTSEL AV VERKSAMHET",
+      "title": "ATTITYD ELLER INSTÄLNING",
       "words": [
-        "verksamhet",
-        "förvaltning"
+        "sinnad",
+        "hängiven"
       ],
-      "definition": "skötsel (t.ex. av en anläggning eller ett företag)",
+      "definition": "som har en viss attityd",
       "word_definitions": [
-        "fortlöpande sysselsättning, arbete",
-        "administration"
+        "som har viss attityd",
+        "som helt hänger sig (åt något), entusiastisk"
       ]
     },
     {
-      "title": "INRE DRIVKRAFT",
+      "title": "AVBOKADE HÄNDELSER",
       "words": [
-        "hunger",
-        "drivkraft"
+        "avbokad",
+        "upphävd"
       ],
-      "definition": "instinkt, begär",
+      "definition": "som inte blir av, avblåst",
       "word_definitions": [
-        "begär, längtan",
-        "omständighet som inspirerar till hårdare arbete"
+        "; (om bokning) som har tagits bort",
+        "Ogiltigförklarad eller återkallad; används ofta om beslut, lagar eller avtal som inte längre gäller."
       ]
     },
     {
-      "title": "FÖRLÖJLIGANDE",
+      "title": "KLAR FÖR START",
       "words": [
-        "hån",
-        "löje"
+        "redo",
+        "förberedd"
       ],
-      "definition": "skämt, förlöjligande",
+      "definition": "beredd",
       "word_definitions": [
-        "elak kritik, förlöjligande",
-        "hånfull munterhet"
+        "färdig, beredd",
+        "; som förberetts"
       ]
     },
     {
-      "title": "DÅLIGA VANOR",
+      "title": "JUSTERAD ELLER ÄNDRAD",
       "words": [
-        "olater",
-        "last"
+        "kalibrerad",
+        "anpassad"
       ],
-      "definition": "dåligt sällskap, dåliga vanor",
+      "definition": "justerad",
       "word_definitions": [
-        "dåliga vanor",
-        "dålig vana"
+        "Justerad för att stämma överens med en känd standard eller skala, vanligtvis för att säkerställa att ett mätinstrument ger korrekta värden.",
+        "Gjord lämplig för ett visst ändamål, en viss person eller en särskild situation genom förändring eller justering."
       ]
     }
   ]

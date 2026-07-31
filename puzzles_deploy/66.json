@@ -1,52 +1,52 @@
 {
-  "pivot": "komma",
+  "pivot": "dragning",
   "categories": [
     {
-      "title": "SKILJETECKEN",
+      "title": "SLUMPMÄSSIGT VAL",
       "words": [
-        "frågetecken",
-        "tankstreck"
+        "tombola",
+        "lottning"
       ],
-      "definition": "skiljetecknet ,",
+      "definition": "ett sätt att få fram vinnaren i ett lotteri; lottning",
       "word_definitions": [
-        "skiljetecknet ?",
-        "skiljetecknet – (som ofta markerar någon sorts kontrast)"
+        "ett lotteri med en roterande låda som man drar lotterna ur",
+        "handlingen att lotta"
       ]
     },
     {
-      "title": "INTRÄFFA ELLER SKE",
+      "title": "BÖJELSE OCH ATTRAKTION",
       "words": [
-        "ske",
-        "tillstöta"
+        "förkärlek",
+        "lockelse"
       ],
-      "definition": "kunna förutses inträffa eller råka i tillståndet (som framgår av sammanhanget)",
+      "definition": "böjelse, attraktion",
       "word_definitions": [
-        "äger rum, händer, inträffar",
-        "inträffar (oväntat)"
+        "särskild böjelse eller smak",
+        "(något som har) förmåga att dra till sig intresse eller väcka begär"
       ]
     },
     {
-      "title": "BLI FRISK",
+      "title": "NYANS AV FÄRG",
       "words": [
-        "tillfriskna",
-        "läka"
+        "skiftning",
+        "schattering"
       ],
-      "definition": "tillfriskna",
+      "definition": "nyans, skiftning",
       "word_definitions": [
-        "blir frisk igen, frisknar till",
-        "blir bra (igen)"
+        "nyans",
+        "färgskiftning"
       ]
     },
     {
-      "title": "ORSAKSMÄSSIGT SAMMANHANG",
+      "title": "MANÖVER I HOCKEY",
       "words": [
-        "sammanhänga",
-        "föranleda"
+        "dribbling",
+        "fint"
       ],
-      "definition": "ske; hänga samman orsaksmässigt",
+      "definition": "dribbling i ishockey",
       "word_definitions": [
-        "har att göra med, hänger ihop, hänger samman",
-        "leder till, orsakar"
+        "handlingen att dribbla",
+        "knep, påhitt"
       ]
     }
   ]

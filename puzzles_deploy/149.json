@@ -1,52 +1,52 @@
 {
-  "pivot": "säker",
+  "pivot": "driver",
   "categories": [
     {
-      "title": "UTOM FARA",
+      "title": "TVINGA NÅGON",
       "words": [
-        "riskfri",
-        "trygg"
+        "förplikta",
+        "nödga"
       ],
-      "definition": "utom fara, skyddad, trygg",
+      "definition": "föser, tvingar",
       "word_definitions": [
-        "som inte innebär någon risk, säker",
-        "säker (om människans omgivning)"
+        "ålägger, tvingar",
+        "tvingar, förmår"
       ]
     },
     {
-      "title": "PÅLITLIG",
+      "title": "UTÖVA PÅVERKAN",
       "words": [
-        "trovärdig",
-        "reko"
+        "inverka",
+        "influera"
       ],
-      "definition": "tillförlitlig",
+      "definition": "påverkar",
       "word_definitions": [
-        "som man kan tro på, pålitlig, tillförlitlig",
-        "pålitlig, hederlig"
+        "påverkar",
+        "inverkar på, påverkar"
       ]
     },
     {
-      "title": "ÖVERTYGAD",
+      "title": "UTÖVA VERKSAMHET",
       "words": [
-        "viss",
-        "övertygad"
+        "utöva",
+        "idka"
       ],
-      "definition": "övertygad, förvissad",
+      "definition": "ägnar sig åt, bedriver",
       "word_definitions": [
-        "säker, övertygad",
-        "som är säker på sin sak; om någon som anser sig veta vad som stämmer"
+        "bedriver verksamhet",
+        "sysslar med, bedriver"
       ]
     },
     {
-      "title": "OBESTRIDLIG",
+      "title": "SKÄMTA OCH SKOJA",
       "words": [
-        "omisskännlig",
-        "obestridlig"
+        "skoja",
+        "skämta"
       ],
-      "definition": "otvivelaktig",
+      "definition": "skojar, skämtar",
       "word_definitions": [
-        "otvetydig, uppenbar",
-        "som inte kan ifrågasättas"
+        "skämtar",
+        "säger lustigheter, skojar"
       ]
     }
   ]

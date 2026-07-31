@@ -1,52 +1,52 @@
 {
-  "pivot": "bock",
+  "pivot": "röra",
   "categories": [
     {
-      "title": "HANAR AV DJUR",
+      "title": "AVSACKNAD AV STRUKTUR",
       "words": [
-        "bagge",
-        "galt"
+        "anarki",
+        "sammelsurium"
       ],
-      "definition": "hane av get",
+      "definition": "brist på ordning, avsaknad av struktur",
       "word_definitions": [
-        "hane av får",
-        "hane av gris"
+        "frånvaro av regering; oordning",
+        "röra, oordning"
       ]
     },
     {
-      "title": "SEXUELLT AKTIVA MÄN",
+      "title": "ÄNDRA POSITION",
       "words": [
-        "playboy",
-        "kvinnotjusare"
+        "flytta",
+        "vända"
       ],
-      "definition": "sexuellt (alltför) aktiv man",
+      "definition": "låta, i synnerhet en kroppsdel, byta eller ändra position/läge (i rummet)",
       "word_definitions": [
-        "(rik) man som ägnar sig enbart åt nöjen (särskilt kärleksaffärer)",
-        "person som tjusar kvinnor"
+        "för till en annan plats",
+        "ändrar läge eller riktning"
       ]
     },
     {
-      "title": "STÖDREDSKAP",
+      "title": "GÖRA OM",
       "words": [
-        "ställ",
-        "stativ"
+        "förändra",
+        "omforma"
       ],
-      "definition": "stöd (med fyra ben) under t.ex. en bordsskiva",
+      "definition": "(bildligt) förändra",
       "word_definitions": [
-        "plats där man ställer något, stöd",
-        "ställ, ställning"
+        "ändrar, förvandlar",
+        "gör om, ändrar"
       ]
     },
     {
-      "title": "GYMNASTIKREDSKAP",
+      "title": "BLANDAD MASSA",
       "words": [
-        "ribbstol",
-        "trapets"
+        "mix",
+        "smet"
       ],
-      "definition": "ett gymnastikredskap",
+      "definition": "blandning, mos",
       "word_definitions": [
-        "ett gymnastikredskap som liknar en stege",
-        "stång som hänger i två rep och som används för gymnastiska övningar och uppvisningar"
+        "blandning",
+        "(kladdig) blandning som ska gräddas"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "fel",
+  "pivot": "väger",
   "categories": [
     {
-      "title": "FELAKTIG",
+      "title": "ANGE MÅTT OCH VÄRDE",
       "words": [
-        "oriktig",
-        "falsk"
+        "kosta",
+        "mäta"
       ],
-      "definition": "inte rätt, felaktig",
+      "definition": "har som vikt",
       "word_definitions": [
-        "felaktig",
-        "inte sann, oriktig"
+        "har som pris",
+        "har en viss storlek eller längd"
       ]
     },
     {
-      "title": "EN MISSTAGSHANDLING",
+      "title": "VARA VIKTIG",
       "words": [
-        "fadäs",
-        "blunder"
+        "betyda",
+        "räknas"
       ],
-      "definition": "handling som inte är korrekt, misstag",
+      "definition": "har betydelse",
       "word_definitions": [
-        "dumhet, misstag",
-        "misstag, fel"
+        "är viktig",
+        "gäller"
       ]
     },
     {
-      "title": "ANSVAR FÖR FEL",
+      "title": "SKAPA BALANS",
       "words": [
-        "skuld",
-        "ansvar"
+        "utjämna",
+        "balansera"
       ],
-      "definition": "ansvar för ett misstag, skuld",
+      "definition": "balanserar",
       "word_definitions": [
-        "ansvar för brott eller fel",
-        "skyldighet att ta på sig skulden (om något går fel)"
+        "gör jämnt fördelad; balanserar, jämnar ut",
+        "håller jämvikten"
       ]
     },
     {
-      "title": "EN BRIST",
+      "title": "VARA OSÄKER",
       "words": [
-        "defekt",
-        "skavank"
+        "tveka",
+        "vackla"
       ],
-      "definition": "skada, brist, skavank",
+      "definition": "är oviss",
       "word_definitions": [
-        "ofullständig, bristfällig",
-        "liten skada"
+        "har svårt att bestämma sig för ett av flera alternativ",
+        "tvekar"
       ]
     }
   ]

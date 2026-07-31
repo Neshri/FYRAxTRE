@@ -1,52 +1,52 @@
 {
-  "pivot": "division",
+  "pivot": "program",
   "categories": [
     {
-      "title": "UPPDELNING AV NÅGOT",
+      "title": "PLAN FÖR GENOMFÖRANDE",
       "words": [
-        "fördelning",
-        "splittring"
+        "strategi",
+        "handlingsplan"
       ],
-      "definition": "handlingen att dividera",
+      "definition": "plan eller översikt över hur något ska genomföras",
       "word_definitions": [
-        "handlingen att fördela något; uppdelning",
-        "handlingen att splittra något"
+        "långsiktig plan för att genomföra något",
+        "plan för verksamhet (som finns till eller skapas för att man vill förändra något)"
       ]
     },
     {
-      "title": "MILITÄRA FÖRBAND",
+      "title": "TV- OCH RADIOPROGRAM",
       "words": [
-        "brigad",
-        "regemente"
+        "magasin",
+        "feature"
       ],
-      "definition": "större militär avdelning",
+      "definition": "enskild sändning i radio eller tv",
       "word_definitions": [
-        "stort förband inom en armé",
-        "den högsta administrativa militära enheten på lokal nivå"
+        "program i radio eller tv; tidskrift",
+        "radio- eller tv-program med inslag av dokumentärt och dramatiserat material; stort reportage i tidning"
       ]
     },
     {
-      "title": "FÖRETAGSAVDELNINGAR",
+      "title": "DATORKOD",
       "words": [
-        "sektion",
-        "filial"
+        "mjukvara",
+        "källkod"
       ],
-      "definition": "avdelning inom företag",
+      "definition": "instruktion för en dator",
       "word_definitions": [
-        "avsnitt, avdelning",
-        "(ganska självständig) avdelning"
+        "program till en dator, programvara",
+        "instruktioner i ett visst programspråk"
       ]
     },
     {
-      "title": "NIVÅ I SERIESYSTEM",
+      "title": "UTBILDNINGSVAL",
       "words": [
-        "serie",
-        "klass"
+        "linje",
+        "profil"
       ],
-      "definition": "klass i seriesystem",
+      "definition": "inriktning av utbildning (särskilt på gymnasiet och universitetet)",
       "word_definitions": [
-        "tävlingsform där lag tävlar mot varandra efter en viss ordning",
-        "grupp av personer eller företeelser"
+        "kurs, inriktning",
+        "typiskt kännetecken, karaktär"
       ]
     }
   ]

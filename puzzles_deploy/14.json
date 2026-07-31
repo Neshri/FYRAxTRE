@@ -1,52 +1,52 @@
 {
-  "pivot": "disk",
+  "pivot": "fält",
   "categories": [
     {
-      "title": "SERVICEBORD",
+      "title": "ÖPPNA LANDOMRÅDEN",
       "words": [
-        "kassa",
-        "reception"
+        "slätt",
+        "mark"
       ],
-      "definition": "smalt och högt bord (i butik, bank etc.) där kunderna betjänas",
+      "definition": "öppet, plant område; åker; yta",
       "word_definitions": [
-        "avdelning (i affär eller bank) där man betalar eller tar emot pengar",
-        "plats på hotell e.d. (innanför entrén) där gäster tas emot"
+        "större område med plan mark (utan många träd)",
+        "jordens yta"
       ]
     },
     {
-      "title": "SAKER SOM DISKAS",
+      "title": "KVADRATISKA FORMER",
       "words": [
-        "porslin",
-        "matsilver"
+        "fyrkant",
+        "ruta"
       ],
-      "definition": "bestick, tallrikar o.d. som diskas",
+      "definition": "liten kvadrat",
       "word_definitions": [
-        "material (i koppar, tallrikar etc.) av tunn hård keramik",
-        "bestick i silver"
+        "ruta, kvadrat",
+        "(liten) fyrkant"
       ]
     },
     {
-      "title": "DATALAGRING",
+      "title": "VERKSAMHETSOMRÅDEN",
       "words": [
-        "minne",
-        "band"
+        "fack",
+        "gren"
       ],
-      "definition": "skiva där man lagrar data",
+      "definition": "område för viss verksamhet",
       "word_definitions": [
-        "ställe för lagring av data i en dator",
-        "långsmalt (tyg)stycke (som man ofta binder med); bana för transport"
+        "verksamhetsområde, ämne, yrke",
+        "förgrening, avdelning"
       ]
     },
     {
-      "title": "RYGGRADENS DELAR",
+      "title": "MILITÄRA PLATSER",
       "words": [
-        "kota",
-        "ryggmärg"
+        "bas",
+        "front"
       ],
-      "definition": "en sorts platta mellan ryggradens kotor",
+      "definition": "(plats för) krig eller militär övning",
       "word_definitions": [
-        "ben i ryggraden",
-        "del av centrala nervsystemet i ryggradens översta del"
+        "militär anläggning (ofta utanför det egna landet)",
+        "främsta stridslinje"
       ]
     }
   ]

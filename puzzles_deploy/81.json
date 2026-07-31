@@ -1,52 +1,52 @@
 {
-  "pivot": "lyder",
+  "pivot": "kort",
   "categories": [
     {
-      "title": "LYDA ORDER",
+      "title": "LITEN STORLEK",
       "words": [
-        "följa",
-        "underordna"
+        "tunn",
+        "låg"
       ],
-      "definition": "gör som man blir tillsagd",
+      "definition": "som har liten längd (i tid eller rum)",
       "word_definitions": [
-        "rättar sig efter, lyder",
-        "låter bli beroende av"
+        "som har liten tjocklek, smal",
+        "som har liten höjd"
       ]
     },
     {
-      "title": "HÖRA TILL",
+      "title": "PAPPERSBITAR",
       "words": [
-        "tillhöra",
-        "ingå"
+        "lapp",
+        "kupong"
       ],
-      "definition": "hör till, sorterar (under)",
+      "definition": "litet stycke papper eller plast med viss funktion",
       "word_definitions": [
-        "kan räknas till; är medlem av",
-        "utgör en del, är inräknad"
+        "litet stycke papper",
+        "bit papper som har ett visst värde"
       ]
     },
     {
-      "title": "VARA FORMULERAD",
+      "title": "KORTLEKENS FIGURER",
       "words": [
-        "formuleras",
-        "låta"
+        "kung",
+        "dam"
       ],
-      "definition": "har en viss lydelse",
+      "definition": "spelkort",
       "word_definitions": [
-        "uttrycka i ord på visst sätt; ge form åt",
-        "hörs, ljuder"
+        "ett högt spelkort; den viktigaste pjäsen i schack",
+        "ett högt spelkort"
       ]
     },
     {
-      "title": "UPPÅ TILL EN SUMMA",
+      "title": "BILDTYPER",
       "words": [
-        "utgöra",
-        "vara"
+        "illustration",
+        "tavla"
       ],
-      "definition": "uppgår till, är",
+      "definition": "foto, bild",
       "word_definitions": [
-        "fungerar som, är; uppgår till (en viss summa)",
-        "befinner sig, finns"
+        "bild",
+        "bild, målning"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "pjäs",
+  "pivot": "kors",
   "categories": [
     {
-      "title": "PYRDNADSFÖREMÅL",
+      "title": "UTROP AV FÖRVÅNING",
       "words": [
-        "ornament",
-        "figurin"
+        "oj",
+        "nej"
       ],
-      "definition": "föremål som är uppställt som prydnad",
+      "definition": "uttrycker förvåning",
       "word_definitions": [
-        "utsmyckning, prydnadsmönster",
-        "mindre prydnadsfigur ofta avbild av djur eller människa"
+        "uttrycker förvåning",
+        "utrop, uttryckande besvikelse"
       ]
     },
     {
-      "title": "TEATERSTYCKEN",
+      "title": "DELAR AV BÅLEN",
       "words": [
-        "drama",
-        "komedi"
+        "bäcken",
+        "svank"
       ],
-      "definition": "teaterstycke, skådespel",
+      "definition": "del av bålen över bäcken och de främre svanskotorna hos ryggradsdjur eller människan (där ryggrad och höftben tillsammans bildar ett kors)",
       "word_definitions": [
-        "skådespel, pjäs",
-        "roligt teaterstycke (eller rolig film)"
+        "(benstommen vid) nedre delen av bålen",
+        "område i ryggradens nedre del som är böjt inåt"
       ]
     },
     {
-      "title": "SCHACKPJÄSER",
+      "title": "BÖRDA ELLER STRAFF",
       "words": [
-        "kung",
-        "löpare"
+        "ok",
+        "vedergällning"
       ],
-      "definition": "figur som man flyttar på ett spelbräde (särskilt i schack)",
+      "definition": "börda; bestraffning",
       "word_definitions": [
-        "ett högt spelkort; den viktigaste pjäsen i schack",
-        "en pjäs i schack"
+        "börda, förtryck",
+        "hämnd, bestraffning (ofta militär)"
       ]
     },
     {
-      "title": "TUNGA ELDVAPEN",
+      "title": "AVRÄKTNINGSSTÄLLNINGAR",
       "words": [
-        "kanon",
-        "morter"
+        "galge",
+        "krucifix"
       ],
-      "definition": "tyngre eldvapen",
+      "definition": "ställning (formad som ett kors) där Jesus hängdes upp för att dö (enligt Bibeln); krucifix",
       "word_definitions": [
-        "en kraftig artilleripjäs",
-        "Ett tungt eldvapen med kort pipa och stor kaliber som skjuter projektiler i hög bana för att träffa mål bakom hinder."
+        "ställning där dödsdömda häng(de)s",
+        "skulptur av Jesus på korset"
       ]
     }
   ]

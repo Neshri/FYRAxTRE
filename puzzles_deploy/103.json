@@ -1,52 +1,52 @@
 {
-  "pivot": "plats",
+  "pivot": "resa",
   "categories": [
     {
-      "title": "GEOGRAFISK POSITION",
+      "title": "SEMESTER OCH LEDIGHET",
       "words": [
-        "läge",
-        "position"
+        "semester",
+        "vistelse"
       ],
-      "definition": "område med ett bestämt läge",
+      "definition": "semester på annan ort",
       "word_definitions": [
-        "placering",
-        "ställning, läge"
+        "betald ledighet från arbetet",
+        "den tid man vistas någonstans, uppehåll"
       ]
     },
     {
-      "title": "LEDIGT UTRYMME",
+      "title": "UPPFÖRA BYGGNAD",
       "words": [
-        "rum",
-        "yta"
+        "bygga",
+        "anlägga"
       ],
-      "definition": "ledigt utrymme",
+      "definition": "uppföra, bygga upp (staty, byggnad, altare); slå upp (tält)",
       "word_definitions": [
-        "plats, utrymme",
-        "areal, area; utrymme"
+        "konstruerar och uppför en byggnad e.d.",
+        "bygger, uppför"
       ]
     },
     {
-      "title": "ARBETSROLL",
+      "title": "NÅ EN POSITION",
       "words": [
-        "tjänst",
-        "jobb"
+        "stiga",
+        "avancera"
       ],
-      "definition": "anställning",
+      "definition": "lifta eller höja sig till en dominerande ställning",
       "word_definitions": [
-        "anställning",
-        "anställning; arbetstillfälle"
+        "ökar, höjer sig",
+        "går framåt; blir befordrad"
       ]
     },
     {
-      "title": "TÄVLINGSRESULTAT",
+      "title": "KOMMA ÅTER",
       "words": [
-        "ställning",
-        "rangordning"
+        "tillfriskna",
+        "återhämta"
       ],
-      "definition": "placering i tävling",
+      "definition": "komma på fötter igen",
       "word_definitions": [
-        "läge i en tävling",
-        "placering efter rang"
+        "blir frisk igen, frisknar till",
+        "vila upp sig efter något fysiskt eller psykologiskt ansträngande"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "linje",
+  "pivot": "rörelse",
   "categories": [
     {
-      "title": "GEOMETRISKA FIGURER",
+      "title": "KROPPSRÖRELSER",
       "words": [
-        "diagonal",
-        "kurva"
+        "dans",
+        "motion"
       ],
-      "definition": "figur med utsträckning åt bara ett håll",
+      "definition": "det att en kroppsdel rör sig, kroppsrörelse",
       "word_definitions": [
-        "sträcka som går från hörn till hörn i en geometrisk figur",
-        "krökt linje, båge"
+        "rytmiska kroppsrörelser till musik",
+        "träning, kroppsrörelser (för hälsans skull)"
       ]
     },
     {
-      "title": "TRAFIKSTRÄCKOR",
+      "title": "FÖRETAG",
       "words": [
-        "led",
-        "rutt"
+        "firma",
+        "bolag"
       ],
-      "definition": "sträcka som trafikeras med allmänna kommunikationer",
+      "definition": "företag",
       "word_definitions": [
-        "sträcka där man kan vandra eller färdas",
-        "resväg"
+        "företag, bolag",
+        "ekonomisk sammanslutning; företag"
       ]
     },
     {
-      "title": "KURS OCH RIKTNING",
+      "title": "SAMARBETSGRUPPER",
       "words": [
-        "inriktning",
-        "orientering"
+        "kollektiv",
+        "team"
       ],
-      "definition": "kurs, inriktning",
+      "definition": "grupp människor som samarbetar för ett (ideellt) mål",
       "word_definitions": [
-        "mål för ett arbete; kurs, orientering",
-        "inriktning (efter väderstreck)"
+        "grupp människor som har gemensamma intressen (och som ibland bor och äter tillsammans)",
+        "(arbets)lag, grupp"
       ]
     },
     {
-      "title": "UPPSTÄLNINGAR",
+      "title": "STARK KÄNSLA",
       "words": [
-        "rad",
-        "fil"
+        "patos",
+        "gripenhet"
       ],
-      "definition": "uppställning i en rad (på bredden)",
+      "definition": "stark känsla av ömhet, gripenhet",
       "word_definitions": [
-        "uppställning av saker bredvid (eller bakom) varandra",
-        "rad"
+        "stark känsla",
+        "egenskapen att vara gripen"
       ]
     }
   ]

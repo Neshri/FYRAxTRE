@@ -1,52 +1,52 @@
 {
-  "pivot": "klubba",
+  "pivot": "tro",
   "categories": [
     {
-      "title": "GÖRA BEHOV",
+      "title": "RELIGIÖS LÄRA",
       "words": [
-        "skita",
-        "bajsa"
+        "teologi",
+        "religion"
       ],
-      "definition": "göra sig av med avföring (\"bajsa\")",
+      "definition": "religiös övertygelse, lära, religion",
       "word_definitions": [
-        "har avföring",
-        "har avföring, skiter"
+        "vetenskapen om religioner (särskilt kristendomen)",
+        "dyrkan av övernaturliga makter, gudstro"
       ]
     },
     {
-      "title": "SPORTSREDSKAP",
+      "title": "BEKRÄFTA SANNING",
       "words": [
-        "racket",
-        "paddel"
+        "attestera",
+        "vitsorda"
       ],
-      "definition": "avlångt redskap avsett att föra eller slå eller skjuta iväg bollen eller pucken inom hockeyliknande sporter (bandy, innebandy, ishockey, landhockey, lacrosse, krocket)",
+      "definition": "hålla något för sant, vara övertygad om något (på mer eller mindre rationella grunder)",
       "word_definitions": [
-        "ett redskap att slå på en boll med",
-        "en sorts åra (för kanot) med ett brett blad i ena eller båda ändarna"
+        "intygar att något är riktigt, godkänner",
+        "ger vitsord om, bekräftar, intygar"
       ]
     },
     {
-      "title": "GODISBITAR",
+      "title": "FÖRESTÄLLA SIG",
       "words": [
-        "polkagris",
-        "snask"
+        "fantisera",
+        "inbilla"
       ],
-      "definition": "godsak i form av en pinne med en stor karamell- eller godisbit fäst på översta änden",
+      "definition": "inbilla sig, föreställa sig",
       "word_definitions": [
-        "en karamell (ibland i form av en stång) med röda och vita ränder och frisk smak",
-        "sötsaker, godis, karameller"
+        "inbillar sig, drömmer",
+        "felaktigt tro, föreställa sig"
       ]
     },
     {
-      "title": "CEREMONIELT FÖREMÅL",
+      "title": "FÖRMODAN",
       "words": [
-        "spira",
-        "krona"
+        "gissning",
+        "hypotes"
       ],
-      "definition": "redskap med bara ceremoniell betydelse (ordförandeklubba eller auktionsklubba) som slås mot bordet eller ett särskilt underlag för att påkalla uppmärksamhet (vanligtvis då man förklarar och fastslår ett visst beslut)",
+      "definition": "det att hålla något sannolikt, förmodan",
       "word_definitions": [
-        "smal rund stav (särskilt om en av kungens maktsymboler)",
-        "föremål som har symbolisk betydelse när det bärs på huvudet"
+        "antagande, förmodan",
+        "antagande, teori"
       ]
     }
   ]

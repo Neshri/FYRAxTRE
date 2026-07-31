@@ -1,52 +1,52 @@
 {
-  "pivot": "stoppar",
+  "pivot": "koloni",
   "categories": [
     {
-      "title": "LAGA KLÄDER",
+      "title": "UTLANDSBESITTNING",
       "words": [
-        "laga",
-        "sy"
+        "imperium",
+        "protektorat"
       ],
-      "definition": "lagar hål i kläder",
+      "definition": "ett lands besittning utomlands; samhälle av nybyggare",
       "word_definitions": [
-        "reparerar",
-        "arbetar med nål och tråd (för att fästa ihop något)"
+        "väldigt område som tillhör ett land (och som uppstått genom imperialism)",
+        "skyddat område; land som står under ett annat lands överhöghet"
       ]
     },
     {
-      "title": "FYLLA MED MATERIAL",
+      "title": "BARNLÄGER",
       "words": [
-        "fylla",
-        "vaddera"
+        "feriehem",
+        "sommarläger"
       ],
-      "definition": "fyller med mjukt material",
+      "definition": "sommarhem för barn, kollo",
       "word_definitions": [
-        "gör full",
-        "fyller med vadd"
+        "privat hem som under sommaren tar emot barn i yngre skolåldern",
+        "plats där barn kan tillbringa sitt sommarlov"
       ]
     },
     {
-      "title": "SÄTTA IN NÅGOT",
+      "title": "DJURGRUPP",
       "words": [
-        "sticka",
-        "trycka"
+        "flock",
+        "svärm"
       ],
-      "definition": "sticker (in), för (in)",
+      "definition": "samling av människor, djur eller växter",
       "word_definitions": [
-        "stoppar, för",
-        "utövar tryck, pressar"
+        "grupp, klunga, skara, samling (särskilt av vissa djur)",
+        "grupp av flygande djur (särskilt insekter)"
       ]
     },
     {
-      "title": "UPHÖRA ATT RÖRA SIG",
+      "title": "LITEN TRÄDGÅRD",
       "words": [
-        "tvärstanna",
-        "sluta"
+        "trädgård",
+        "odlingslott"
       ],
-      "definition": "slutar gå, stannar",
+      "definition": "kolonilott",
       "word_definitions": [
-        "stannar plötsligt",
-        "tar slut, upphör"
+        "område med odlade växter",
+        "andel av en trädgård eller annan odlingsmark, där man kan odla sina egna grönsaker eller andra växter"
       ]
     }
   ]

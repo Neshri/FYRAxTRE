@@ -1,52 +1,52 @@
 {
-  "pivot": "klubba",
+  "pivot": "form",
   "categories": [
     {
-      "title": "BESLUTA OFFICIELLT",
+      "title": "TYPER AV BEHÅLLARE",
       "words": [
-        "fastställa",
-        "utropa"
+        "kärl",
+        "kar"
       ],
-      "definition": "genom slag med klubba förklara och fastslå (beslut) eller, vid auktion, utse en viss köpare",
+      "definition": "behållare (för t.ex. gjutning och bakning)",
       "word_definitions": [
-        "bestämmer, föreskriver; konstaterar",
-        "bjuder ut till försäljning på auktion, ropar ut"
+        "mindre behållare som används i hushållet",
+        "stor öppen behållare för vatten (eller annan vätska)"
       ]
     },
     {
-      "title": "NÄRSTRIDSVAPEN",
+      "title": "KATEGORI ELLER SORT",
       "words": [
-        "batong",
-        "spjut"
+        "slag",
+        "sort"
       ],
-      "definition": "redskap i form av en kraftig påk avsett som närstridsvapen",
+      "definition": "typ, sort",
       "word_definitions": [
-        "en sorts stav (ofta av hårt gummi) som används som vapen (särskilt av polisen)",
-        "ett vapen eller idrottsredskap i form av en vass stång som stöts eller kastas"
+        "sort, typ",
+        "slag, typ"
       ]
     },
     {
-      "title": "SLÅ MED VERKTYG",
+      "title": "FYSISK KONDITION",
       "words": [
-        "knacka",
-        "hamra"
+        "kondition",
+        "prestation"
       ],
-      "definition": "slå med klubba",
+      "definition": "fysiskt tillstånd, förmåga att nå bra (idrotts)resultat",
       "word_definitions": [
-        "slår med korta upprepade slag",
-        "slår med hammare, bankar, bultar, dunkar"
+        "fysisk och psykisk hälsa; uthållighet",
+        "det som någon presterar (särskilt om något bra som åstadkommits)"
       ]
     },
     {
-      "title": "SÖTSAKER",
+      "title": "GRAMMATISK FORM",
       "words": [
-        "karamell",
-        "gott"
+        "böjning",
+        "tempus"
       ],
-      "definition": "pinne med godis att slicka eller suga på",
+      "definition": "ett ords utseende när det böjs",
       "word_definitions": [
-        "liten bit godis, (hård) sötsak",
-        "karameller, choklad etc., godis"
+        "de olika former som ett ord kan uppträda i",
+        "böjningsform hos verb som har att göra med tiden (presens och imperfekt)"
       ]
     }
   ]

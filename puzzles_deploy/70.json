@@ -1,52 +1,52 @@
 {
-  "pivot": "lager",
+  "pivot": "hacka",
   "categories": [
     {
-      "title": "FÖRVARINGSPLATS",
+      "title": "HUGGA OCH SKÄRA",
       "words": [
-        "magasin",
-        "depå"
+        "hugga",
+        "skära"
       ],
-      "definition": "förråd, magasin",
+      "definition": "använda sig av en hacka; bearbeta med ett vasst föremål för att sönderdela, göra hål e.d.",
       "word_definitions": [
-        "förrådshus, förvaringsrum",
-        "förvaringsplats för förråd av ngt"
+        "slår med vasst föremål (för att sönderdela, skada m.m.)",
+        "bearbetar med kniv (för att dela upp eller skilja ifrån något)"
       ]
     },
     {
-      "title": "TUNNA SKIKT",
+      "title": "LÅGA SPELKORT",
       "words": [
-        "hinna",
-        "hud"
+        "tvåa",
+        "trea"
       ],
-      "definition": "skikt",
+      "definition": "kort av låg valör inom kortspel",
       "word_definitions": [
-        "tunt skikt",
-        "yttersta, skyddande skikt på människor och djur"
+        "siffran 2; nummer 2 i ordningen",
+        "siffran 3; nummer 3 i ordningen"
       ]
     },
     {
-      "title": "ROTERANDE MASKINDELAR",
+      "title": "OJÄMN MOTORGÅNG",
       "words": [
-        "axel",
-        "tapp"
+        "strutta",
+        "sputtra"
       ],
-      "definition": "del av en maskin som bär upp en roterande axel",
+      "definition": "ryckig och ojämn motordrift",
       "word_definitions": [
-        "stång som ett hjul roterar kring",
-        "utskjutande axel som något vrids omkring"
+        "går med ryckiga rörelser",
+        "Att ge ifrån sig korta, oregelbundna ljud eller utsläpp; i samband med en motor innebär det att den går ryckigt och ojämnt."
       ]
     },
     {
-      "title": "VÄLDOFTANDE VÄXTER",
+      "title": "JORDBRUKSREDSKAP",
       "words": [
-        "hägg",
-        "jasmin"
+        "harv",
+        "plog"
       ],
-      "definition": "ett träd (eller en buske) med blanka, väldoftande blad (Laurus nobilis)",
+      "definition": "redskap som används inom jordbruket för att luckra upp jorden och ta bort ogräs",
       "word_definitions": [
-        "en stor buske (eller ett litet träd) med väldoftande vita blommor i klasar (Prunus padus)",
-        "en buske med väldoftande blommor (släktet Jasminum)"
+        "ett redskap för uppluckring av jorden",
+        "ett redskap som används för att vända jord eller röja undan snö"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "resa",
+  "pivot": "tunn",
   "categories": [
     {
-      "title": "SEMESTER OCH LEDIGHET",
+      "title": "LITEN TJOCKLEK",
       "words": [
-        "semester",
-        "vistelse"
+        "spinkig",
+        "fin"
       ],
-      "definition": "semester på annan ort",
+      "definition": "som har liten tjocklek, smal",
       "word_definitions": [
-        "betald ledighet från arbetet",
-        "den tid man vistas någonstans, uppehåll"
+        "smal, mager (om person eller kroppsdel)",
+        "tunn, smal"
       ]
     },
     {
-      "title": "UPPFÖRA BYGGNAD",
+      "title": "GLES FÖREKOMST",
       "words": [
-        "bygga",
-        "anlägga"
+        "utspridd",
+        "gles"
       ],
-      "definition": "uppföra, bygga upp (staty, byggnad, altare); slå upp (tält)",
+      "definition": "sparsamt förekommande, gles",
       "word_definitions": [
-        "konstruerar och uppför en byggnad e.d.",
-        "bygger, uppför"
+        "inte samlad, gles",
+        "inte tät, utspridd"
       ]
     },
     {
-      "title": "NÅ EN POSITION",
+      "title": "UTSPÄDD VÄTSKA",
       "words": [
-        "stiga",
-        "avancera"
+        "urlakad",
+        "utspädd"
       ],
-      "definition": "lifta eller höja sig till en dominerande ställning",
+      "definition": "vattnig, utspädd",
       "word_definitions": [
-        "ökar, höjer sig",
-        "går framåt; blir befordrad"
+        "urvattnad",
+        "blandad med vatten"
       ]
     },
     {
-      "title": "KOMMA ÅTER",
+      "title": "SACKNAR SUBSTANS",
       "words": [
-        "tillfriskna",
-        "återhämta"
+        "tom",
+        "ytlig"
       ],
-      "definition": "komma på fötter igen",
+      "definition": "som saknar substans",
       "word_definitions": [
-        "blir frisk igen, frisknar till",
-        "vila upp sig efter något fysiskt eller psykologiskt ansträngande"
+        "som saknar innehåll",
+        "som inte går på djupet, flyktig"
       ]
     }
   ]

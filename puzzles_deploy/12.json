@@ -1,52 +1,52 @@
 {
-  "pivot": "bryter",
+  "pivot": "vapen",
   "categories": [
     {
-      "title": "AVBRYTA EN ANSLUTNING",
+      "title": "STRIDSREDSKAP",
       "words": [
-        "frånkoppla",
-        "suspendera"
+        "spjut",
+        "svärd"
       ],
-      "definition": "bringar ur kontakt; stänger av",
+      "definition": "redskap för att skada eller döda (vid anfall eller försvar)",
       "word_definitions": [
-        "frigör från anslutning, kopplar ifrån",
-        "stänger av från tjänst för viss tid"
+        "ett vapen eller idrottsredskap i form av en vass stång som stöts eller kastas",
+        "ett långsmalt vapen att hugga eller sticka med"
       ]
     },
     {
-      "title": "ÖVERVINNA MOTSTÅND",
+      "title": "STRATEGISK FÖRDEL",
       "words": [
-        "tränga",
-        "trotsa"
+        "trumfkort",
+        "ess"
       ],
-      "definition": "forcerar ett motstånd",
+      "definition": "tillgång (som ger stor fördel)",
       "word_definitions": [
-        "banar sig väg trots motstånd",
-        "gör öppet motstånd mot, sätter sig upp mot"
+        "mycket värdefull resurs eller tillgång",
+        "det högsta kortet i en av de fyra kortsviterna (färgerna)"
       ]
     },
     {
-      "title": "UTVINNA RESURSER",
+      "title": "MILITÄR VAPENGREN",
       "words": [
-        "extrahera",
-        "dra"
+        "infanteri",
+        "kavalleri"
       ],
-      "definition": "får att gå i bitar; utvinner",
+      "definition": "försvarsgren",
       "word_definitions": [
-        "utvinner, drar",
-        "utvinner, extraherar"
+        "ett truppslag som strider till fots",
+        "militär trupp till häst"
       ]
     },
     {
-      "title": "AVBRYTA KONTAKTER",
+      "title": "HERALDISK SYMBOL",
       "words": [
-        "kapa",
-        "avsluta"
+        "emblem",
+        "sigill"
       ],
-      "definition": "avbryter; avbryter kontakt",
+      "definition": "tecken (på sköld) för en släkt, stad eller stat",
       "word_definitions": [
-        "hugger eller skär eller sågar av",
-        "slutar, fullbordar"
+        "sinnebildligt märke",
+        "(stämpel för) avtryck i lack vid försegling"
       ]
     }
   ]

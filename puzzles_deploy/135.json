@@ -1,52 +1,52 @@
 {
-  "pivot": "snurra",
+  "pivot": "bana",
   "categories": [
     {
-      "title": "BARNLEKSAKER",
+      "title": "TRANSPORTINFRASTRUKTUR",
       "words": [
-        "drake",
-        "skallra"
+        "viadukt",
+        "motorväg"
       ],
-      "definition": "en leksak som snurrar snabbt",
+      "definition": "väg; järnväg",
       "word_definitions": [
-        "en leksak som fungerar som ett slags segelflygplan",
-        "skramlande leksak för spädbarn"
+        "bro över en väg, järnväg eller dal",
+        "mycket bred väg för snabb trafik, autostrada"
       ]
     },
     {
-      "title": "DRIVSYSTEM",
+      "title": "FÄRDVÄG",
       "words": [
-        "dieselmotor",
-        "turbin"
+        "rutt",
+        "stråk"
       ],
-      "definition": "utombordsmotor",
+      "definition": "färdväg",
       "word_definitions": [
-        "motor som drivs med dieselolja",
-        "anordning som omvandlar energin från strömmande vatten eller gas till elektricitet"
+        "resväg",
+        "väg"
       ]
     },
     {
-      "title": "SÄTTA I RÖRELSE",
+      "title": "YRKESLIV",
       "words": [
-        "dreja",
-        "vispa"
+        "profession",
+        "yrke"
       ],
-      "definition": "få något att rotera",
+      "definition": "karriär",
       "word_definitions": [
-        "formar lergods på roterande skiva",
-        "får att rotera eller virvla (med visp)"
+        "yrke",
+        "arbete som man utbildats för och får sin inkomst av"
       ]
     },
     {
-      "title": "PRATA STRUNT",
+      "title": "IDROTTSANLÄGGNING",
       "words": [
-        "svamla",
-        "yra"
+        "arena",
+        "stadion"
       ],
-      "definition": "prata strunt; trassla in sig i ett resonemang",
+      "definition": "anläggning med plant underlag (särskilt för tävlingar)",
       "word_definitions": [
-        "pratar strunt",
-        "pratar strunt"
+        "plats för tävling eller skådespel",
+        "stor idrottsplats"
       ]
     }
   ]

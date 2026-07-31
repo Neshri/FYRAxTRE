@@ -1,52 +1,52 @@
 {
-  "pivot": "dryg",
+  "pivot": "jämn",
   "categories": [
     {
-      "title": "STORT MÅTT",
+      "title": "SLÄT YTA",
       "words": [
-        "ymnig",
-        "generös"
+        "platt",
+        "plan"
       ],
-      "definition": "riklig, rundlig (om tid, mått och vikt)",
+      "definition": "plan, slät",
       "word_definitions": [
-        "överflödande, riklig",
-        "frikostig, rundhänt, givmild; storsint"
+        "plan, slät",
+        "jämn och slät"
       ]
     },
     {
-      "title": "LÅNGVARIGT",
+      "title": "REGELBUNGEN TAKT",
       "words": [
-        "långvarig",
-        "hållbar"
+        "periodisk",
+        "regelbunden"
       ],
-      "definition": "som räcker länge",
+      "definition": "som fördelar sig regelbundet; hela tiden lika stor",
       "word_definitions": [
-        "som varar länge",
-        "som inte lätt förstörs"
+        "som förekommer regelbundet",
+        "som förekommer med jämna mellanrum"
       ]
     },
     {
-      "title": "BESVÄRLIGT",
+      "title": "LIKA ODDS",
       "words": [
-        "jobbig",
-        "mödosam"
+        "balanserad",
+        "likvärdig"
       ],
-      "definition": "besvärlig, betungande",
+      "definition": "som inte domineras av någon part; som väger lika",
       "word_definitions": [
-        "besvärlig",
-        "ansträngande, besvärlig"
+        "I jämvikt; som inte lutar åt något håll eller domineras av en part.",
+        "som har liknande värde, jämngod"
       ]
     },
     {
-      "title": "HÖGFÄRDIGT",
+      "title": "EXAKT TID",
       "words": [
-        "uppblåst",
-        "kaxig"
+        "precis",
+        "exakt"
       ],
-      "definition": "högfärdig, mallig",
+      "definition": "exakt, precis",
       "word_definitions": [
-        "högfärdig, mallig",
-        "som försöker hävda sig, mallig, tuff"
+        "exakt",
+        "precis, noggrann"
       ]
     }
   ]

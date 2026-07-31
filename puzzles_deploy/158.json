@@ -1,52 +1,52 @@
 {
-  "pivot": "tryck",
+  "pivot": "operation",
   "categories": [
     {
-      "title": "FYSISKA STORHETER",
+      "title": "SÄTT ATT LÖSA NÅGOT",
       "words": [
-        "styrka",
-        "intensitet"
+        "metod",
+        "strategi"
       ],
-      "definition": "kraft per ytenhet",
+      "definition": "(komplicerad) procedur för att nå ett visst resultat",
       "word_definitions": [
-        "fysisk eller psykisk kraft",
-        "stor kraft eller styrka"
+        "(systematiskt) sätt att utföra något",
+        "långsiktig plan för att genomföra något"
       ]
     },
     {
-      "title": "SÅTT ATT PÅVERKA",
+      "title": "MEDICINSKA INGREPP",
       "words": [
-        "inflytande",
-        "påverkan"
+        "kejsarsnitt",
+        "amputation"
       ],
-      "definition": "påverkan, påtryckning",
+      "definition": "kirurgiskt ingrepp",
       "word_definitions": [
-        "möjlighet att påverka",
-        "inflytande som leder till förändring"
+        "förlossning genom ett kirurgiskt ingrepp",
+        "operation som innebär att man tar bort någon kroppsdel"
       ]
     },
     {
-      "title": "TALETS BETONING",
+      "title": "MILITÄRA MANÖVRER",
       "words": [
-        "accent",
-        "betoning"
+        "marsch",
+        "framryckning"
       ],
-      "definition": "betoning av ord, tonvikt",
+      "definition": "militär handling för att uppnå ett visst syfte, t.ex. att förflytta en trupp soldater",
       "word_definitions": [
-        "betoning (av ett ord eller en del av ett ord), tonvikt, tryck",
-        "tonvikt, accent"
+        "gång eller förflyttning i takt och i jämn fart (särskilt om truppförflyttning)",
+        "handlingen att rycka fram (särskilt militärt)"
       ]
     },
     {
-      "title": "TRYCKTA VERK",
+      "title": "UPPGIFTER OCH SYSSLOR",
       "words": [
-        "publikation",
-        "bok"
+        "mission",
+        "göromål"
       ],
-      "definition": "tryckning (t.ex. av böcker); tryckt skrift",
+      "definition": "uppgift, arbete",
       "word_definitions": [
-        "tryckt skrift, bok, tidning",
-        "tryckt skrift, volym, band"
+        "uppgift",
+        "syssla, arbete"
       ]
     }
   ]

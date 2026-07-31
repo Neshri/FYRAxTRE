@@ -1,52 +1,52 @@
 {
-  "pivot": "operation",
+  "pivot": "tal",
   "categories": [
     {
-      "title": "SÄTT ATT LÖSA NÅGOT",
+      "title": "TALFÖRMÅGA",
       "words": [
-        "metod",
-        "strategi"
+        "mål",
+        "retorik"
       ],
-      "definition": "(komplicerad) procedur för att nå ett visst resultat",
+      "definition": "det att tala; förmåga att tala",
       "word_definitions": [
-        "(systematiskt) sätt att utföra något",
-        "långsiktig plan för att genomföra något"
+        "förmåga att tala; språk",
+        "konsten att tala väl och övertyga andra"
       ]
     },
     {
-      "title": "MEDICINSKA INGREPP",
+      "title": "MUNTLIGT FRAMTRÄDANDE",
       "words": [
-        "kejsarsnitt",
-        "amputation"
+        "föreläsning",
+        "presentation"
       ],
-      "definition": "kirurgiskt ingrepp",
+      "definition": "muntligt framträdande inför publik",
       "word_definitions": [
-        "förlossning genom ett kirurgiskt ingrepp",
-        "operation som innebär att man tar bort någon kroppsdel"
+        "muntlig framställning över ett visst ämne, föredrag",
+        "handlingen att presentera någon eller något"
       ]
     },
     {
-      "title": "MILITÄRA MANÖVRER",
+      "title": "MATEMATISKA SYMBOLER",
       "words": [
-        "marsch",
-        "framryckning"
+        "siffra",
+        "nummer"
       ],
-      "definition": "militär handling för att uppnå ett visst syfte, t.ex. att förflytta en trupp soldater",
+      "definition": "matematisk symbol som bl.a. betecknar antal",
       "word_definitions": [
-        "gång eller förflyttning i takt och i jämn fart (särskilt om truppförflyttning)",
-        "handlingen att rycka fram (särskilt militärt)"
+        "antal, summa",
+        "siffra eller grupp av siffror (som t.ex. anger plats i ordningsföljd eller storlek)"
       ]
     },
     {
-      "title": "UPPGIFTER OCH SYSSLOR",
+      "title": "MATTEUPPGIFT",
       "words": [
-        "mission",
-        "göromål"
+        "övning",
+        "problem"
       ],
-      "definition": "uppgift, arbete",
+      "definition": "matematisk uppgift",
       "word_definitions": [
         "uppgift",
-        "syssla, arbete"
+        "något som kräver (logiskt) tänkande, gåta"
       ]
     }
   ]

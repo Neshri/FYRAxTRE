@@ -1,52 +1,52 @@
 {
-  "pivot": "växlar",
+  "pivot": "sänka",
   "categories": [
     {
-      "title": "VARIERA STÄNDIGT",
+      "title": "GEOGRAFISKA DALAR",
       "words": [
-        "fluktuera",
-        "svänga"
+        "dal",
+        "klyfta"
       ],
-      "definition": "förändras ständigt, varierar",
+      "definition": "dal, dalgång",
       "word_definitions": [
-        "varierar",
-        "rör sig i en båge fram och tillbaka"
+        "långsmalt, lägre område mellan två höjder, sänka",
+        "spricka"
       ]
     },
     {
-      "title": "BYTA UT NÅGOT",
+      "title": "MEDICINSKA PROV",
       "words": [
-        "kvitta",
-        "ersätta"
+        "blodprov",
+        "biopsi"
       ],
-      "definition": "byter något mot något annat",
+      "definition": "ett slags blodprov",
       "word_definitions": [
-        "betalar något, t.ex. en skuld, genom byte mot något annat",
-        "vikarierar för; efterträder"
+        "prov av blod för medicinsk undersökning",
+        "(tagning av ett) vävnadsprov"
       ]
     },
     {
-      "title": "VÄXLA VALUTA",
+      "title": "MINSKA INTENSITET",
       "words": [
-        "konvertera",
-        "omvandla"
+        "minska",
+        "reducera"
       ],
-      "definition": "byter sedlar eller mynt till andra valörer av sedlar eller mynt; köper annan valuta",
+      "definition": "minska omfattningen/storleken av (styrka, intensitet, frekvens et c. hos)",
       "word_definitions": [
-        "går över till en annan religiös lära",
-        "får att ändra form, förvandlar"
+        "gör mindre, reducerar",
+        "minskar"
       ]
     },
     {
-      "title": "BYTA VÄXEL",
+      "title": "GÖRA MÅL",
       "words": [
-        "byta",
-        "skifta"
+        "sätta",
+        "träffa"
       ],
-      "definition": "lägger in en (ny) växel",
+      "definition": "sätta (bollen) (ned i mål)",
       "word_definitions": [
-        "ger något och får något annat istället, (ut)växlar",
-        "byter, växlar"
+        "placerar",
+        "prickar med ett skott"
       ]
     }
   ]

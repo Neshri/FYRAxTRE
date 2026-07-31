@@ -1,52 +1,52 @@
 {
-  "pivot": "liv",
+  "pivot": "prick",
   "categories": [
     {
-      "title": "EXISTENS",
+      "title": "HELT EXAKT",
       "words": [
-        "tillvaro",
-        "existens"
+        "just",
+        "blankt"
       ],
-      "definition": "det att leva, levnad",
+      "definition": "precis, exakt",
       "word_definitions": [
-        "existens, liv",
-        "tillvaro, liv; försörjning"
+        "precis, exakt",
+        "precis, exakt"
       ]
     },
     {
-      "title": "VERKSAMHET",
+      "title": "LITET MÄRKE",
       "words": [
-        "arbete",
-        "aktion"
+        "spår",
+        "punkt"
       ],
-      "definition": "verksamhet",
+      "definition": "punkt, märke",
       "word_definitions": [
-        "verksamhet, jobb",
-        "aktiv handling, verksamhet"
+        "avtryck, märke",
+        "tecken för slutet på en mening (.)"
       ]
     },
     {
-      "title": "OVÄSEN",
+      "title": "TYP AV PERSON",
       "words": [
-        "ståhej",
-        "buller"
+        "original",
+        "raring"
       ],
-      "definition": "livlig verksamhet; oväsen",
+      "definition": "person",
       "word_definitions": [
-        "bråk, liv, oväsen",
-        "störande ljud, oväsen"
+        "originell person",
+        "rar person"
       ]
     },
     {
-      "title": "DELAR AV EN KLÄNNING",
+      "title": "FLÄCK ELLER FEL",
       "words": [
-        "ärm",
-        "kjol"
+        "plump",
+        "plätt"
       ],
-      "definition": "del av ett klädesplagg som räcker från halsen till midjan",
+      "definition": "anmärkning, fläck",
       "word_definitions": [
-        "del av ett klädesplagg som täcker armen",
-        "ett kvinnoplagg som går från midjan och ner över benen"
+        "fläck",
+        "liten plats, fläck"
       ]
     }
   ]

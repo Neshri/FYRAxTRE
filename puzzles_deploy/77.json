@@ -1,52 +1,52 @@
 {
-  "pivot": "ljus",
+  "pivot": "skärpa",
   "categories": [
     {
-      "title": "LJUSA EGENSKAPER",
+      "title": "ALLVAR OCH BESTÄMDHET",
       "words": [
-        "klar",
-        "strålande"
+        "fasthet",
+        "allvar"
       ],
-      "definition": "som ger ifrån sig mycket ljus; upplyst",
+      "definition": "allvar, bestämdhet",
       "word_definitions": [
-        "ljus, lysande, genomskinlig",
-        "mycket bra, utomordentlig"
+        "egenskapen att vara bestämd, viljestyrka",
+        "uppriktig mening"
       ]
     },
     {
-      "title": "POSITIV INSTÄLLNING",
+      "title": "LOGISK FÖRMÅGA",
       "words": [
-        "optimistisk",
-        "hoppfull"
+        "intelligens",
+        "förstånd"
       ],
-      "definition": "hoppfull",
+      "definition": "förmågan att dra korrekta logiska slutsatser",
       "word_definitions": [
-        "präglad av optimism, hoppfull",
-        "som har gott hopp, optimistisk"
+        "förmåga till tänkande och analys, begåvning",
+        "förmåga att förstå"
       ]
     },
     {
-      "title": "LJUSFENOMEN",
+      "title": "GÖRA TYDLIGARE",
       "words": [
-        "glans",
-        "glitter"
+        "precisera",
+        "förtydliga"
       ],
-      "definition": "vågrörelse som gör att man kan se, sken",
+      "definition": "göra skarpare; göra så att ett givet påstående innehåller mer information",
       "word_definitions": [
-        "skimmer, sken",
-        "ljus med snabbt växlande sken"
+        "anger mer detaljerat, gör mera precis",
+        "gör tydligare, förklarar"
       ]
     },
     {
-      "title": "LJUSKÄLLOR",
+      "title": "KONCENTRERA UPMÄRKSAMHETEN",
       "words": [
-        "lampa",
-        "laser"
+        "fokusera",
+        "samla"
       ],
-      "definition": "ljuskälla, belysning",
+      "definition": "fokusera, koncentrera",
       "word_definitions": [
-        "anordning för belysning, glödlampa",
-        "apparat som alstrar och sänder ut en intensiv stråle av ljus"
+        "koncentrerar uppmärksamheten",
+        "för samman (viss typ av) saker i ett visst syfte"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "bryter",
+  "pivot": "block",
   "categories": [
     {
-      "title": "FÅR NÅGOT ATT GÅ SÖNDER",
+      "title": "MASSIVA MATERIALSTYCKEN",
       "words": [
-        "spräcka",
-        "krossa"
+        "tacka",
+        "platta"
       ],
-      "definition": "får att spricka sönder i två delar (ofta genom kraftig böjning)",
+      "definition": "sammanhängande helhet (av hårt material, t.ex. sten)",
       "word_definitions": [
-        "får att spricka",
-        "slår sönder, splittrar; mosar"
+        "gjutet stycke av metall",
+        "jämnt och tunt stycke, skiva"
       ]
     },
     {
-      "title": "BRYTA MOT LAGEN",
+      "title": "POLITISKA SAMMANSLUTNINGAR",
       "words": [
-        "överträda",
-        "kränka"
+        "union",
+        "förbund"
       ],
-      "definition": "kommer i konflikt med lagen, uppfyller inte, kränker",
+      "definition": "sammanslutning av organisationer eller partier",
       "word_definitions": [
-        "bryter mot bestämmelser",
-        "respekterar inte"
+        "sammanslutning av stater, förbund",
+        "förening av organisationer"
       ]
     },
     {
-      "title": "BLANDA FÄRGER ELLER SMAKER",
+      "title": "PAPPERSHÄFTEN",
       "words": [
-        "sammanblanda",
-        "nyansera"
+        "anteckningsbok",
+        "broschyr"
       ],
-      "definition": "blandar (med avvikande färg eller smak)",
+      "definition": "häfte med pappersark",
       "word_definitions": [
-        "förväxlar, blandar ihop, blandar samman",
-        "ger (en framställning) nyanser"
+        "bok i vilken man för anteckningar",
+        "tryckt häfte, folder"
       ]
     },
     {
-      "title": "ÄNDRA RIKTNING",
+      "title": "LYFTANORDNINGAR",
       "words": [
-        "kantra",
-        "vända"
+        "talja",
+        "vinsch"
       ],
-      "definition": "får att ändra riktning",
+      "definition": "lyftanordning med lina och en eller flera trissor",
       "word_definitions": [
-        "ändrar riktning",
-        "ändrar läge eller riktning"
+        "lyftanordning med en lina mellan två block",
+        "anordning som används för att lyfta eller fira ner last, spel"
       ]
     }
   ]

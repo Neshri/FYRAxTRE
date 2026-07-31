@@ -1,52 +1,52 @@
 {
-  "pivot": "stämmer",
+  "pivot": "dam",
   "categories": [
     {
-      "title": "VARA KORREKT",
+      "title": "BENÄMNINGAR PÅ KVINNA",
       "words": [
-        "matcha",
-        "passa"
+        "gumma",
+        "blondin"
       ],
-      "definition": "är korrekt",
+      "definition": "kvinna",
       "word_definitions": [
-        "passar bra ihop med",
-        "är lämplig"
+        "gammal kvinna",
+        "ljushårig kvinna"
       ]
     },
     {
-      "title": "STÄMMA INSTRUMENT",
+      "title": "HÖGA SPELKORT",
       "words": [
-        "intonera",
-        "justera"
+        "kung",
+        "ess"
       ],
-      "definition": "justerar tonhöjder (på instrument)",
+      "definition": "ett högt spelkort",
       "word_definitions": [
-        "ange ton",
-        "avhjälper mindre fel hos, rättar till"
+        "ett högt spelkort; den viktigaste pjäsen i schack",
+        "det högsta kortet i en av de fyra kortsviterna (färgerna)"
       ]
     },
     {
-      "title": "SÄTTA INFÖR RÄTT",
+      "title": "SCHACKPJÄSER",
       "words": [
-        "åtala",
-        "processa"
+        "löpare",
+        "springare"
       ],
-      "definition": "drar inför domstol",
+      "definition": "en värdefull schackpjäs, drottning",
       "word_definitions": [
-        "anklagar inför domstol",
-        "driver en rättegång (mot någon)"
+        "en pjäs i schack",
+        "en schackpjäs, häst"
       ]
     },
     {
-      "title": "AVTALA MÖTE",
+      "title": "BRÄDSPEL",
       "words": [
-        "överenskomma",
-        "boka"
+        "schack",
+        "domino"
       ],
-      "definition": "avtalar (möte)",
+      "definition": "ett spel med brickor på schackbräde",
       "word_definitions": [
-        "bestämmer något tillsammans, kommer överens",
-        "beställer"
+        "ett spel med 32 figurer på ett bräde med 64 rutor",
+        "ett spel med brickor med två fält"
       ]
     }
   ]

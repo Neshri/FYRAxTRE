@@ -1,52 +1,52 @@
 {
-  "pivot": "volym",
+  "pivot": "stämmer",
   "categories": [
     {
-      "title": "RUMSLIG STORLEK",
+      "title": "VARA KORREKT",
       "words": [
-        "vidd",
-        "mått"
+        "matcha",
+        "passa"
       ],
-      "definition": "omfång i tre dimensioner, rymd",
+      "definition": "är korrekt",
       "word_definitions": [
-        "omfång; utsträckning",
-        "storlek, dimension"
+        "passar bra ihop med",
+        "är lämplig"
       ]
     },
     {
-      "title": "OMFATTNING",
+      "title": "STÄMMA INSTRUMENT",
       "words": [
-        "utsträckning",
-        "grad"
+        "intonera",
+        "justera"
       ],
-      "definition": "omfattning",
+      "definition": "justerar tonhöjder (på instrument)",
       "word_definitions": [
-        "omfattning, grad",
-        "utsträckning, omfattning"
+        "ange ton",
+        "avhjälper mindre fel hos, rättar till"
       ]
     },
     {
-      "title": "LJUDSTYRKA",
+      "title": "SÄTTA INFÖR RÄTT",
       "words": [
-        "decibel",
-        "intensitet"
+        "åtala",
+        "processa"
       ],
-      "definition": "tonstyrka",
+      "definition": "drar inför domstol",
       "word_definitions": [
-        "en måttenhet för ljudstyrka",
-        "stor kraft eller styrka"
+        "anklagar inför domstol",
+        "driver en rättegång (mot någon)"
       ]
     },
     {
-      "title": "TRYCKT VERK",
+      "title": "AVTALA MÖTE",
       "words": [
-        "skrift",
-        "häfte"
+        "överenskomma",
+        "boka"
       ],
-      "definition": "bok(band)",
+      "definition": "avtalar (möte)",
       "word_definitions": [
-        "publicerat arbete, bok",
-        "tunn bok"
+        "bestämmer något tillsammans, kommer överens",
+        "beställer"
       ]
     }
   ]

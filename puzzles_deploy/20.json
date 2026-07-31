@@ -1,52 +1,52 @@
 {
-  "pivot": "drar",
+  "pivot": "rör",
   "categories": [
     {
-      "title": "UTVINNA NÅGOT",
+      "title": "NUDDA VID",
       "words": [
-        "extrahera",
-        "bryta"
+        "nudda",
+        "tangera"
       ],
-      "definition": "utvinner, extraherar",
+      "definition": "berör, nuddar",
       "word_definitions": [
-        "utvinner, drar",
-        "får att gå i bitar; utvinner"
+        "berör lätt, snuddar",
+        "snuddar vid"
       ]
     },
     {
-      "title": "FÖRFLYTTA SIG",
+      "title": "VISPA MATEN",
       "words": [
-        "vandra",
-        "åka"
+        "vispa",
+        "piska"
       ],
-      "definition": "förflyttar sig",
+      "definition": "vispar",
       "word_definitions": [
-        "förflyttar sig",
-        "förflyttas, faller"
+        "får att rotera eller virvla (med visp)",
+        "slår med piska"
       ]
     },
     {
-      "title": "DRA I NÅGOT",
+      "title": "VÄCKA KÄNSLOR",
       "words": [
-        "rycka",
-        "slita"
+        "gripa",
+        "frappera"
       ],
-      "definition": "för till sig med handen",
+      "definition": "berör känslomässigt, griper",
       "word_definitions": [
-        "drar hastigt ur sitt läge",
-        "drar, rycker"
+        "berör känslomässigt",
+        "gör starkt intryck på, förvånar"
       ]
     },
     {
-      "title": "SLÄPA NÅGOT",
+      "title": "GÄLLA NÅGOT",
       "words": [
-        "bogsera",
-        "hasa"
+        "handla",
+        "gälla"
       ],
-      "definition": "släpar, bogserar",
+      "definition": "handlar om, gäller",
       "word_definitions": [
-        "drar, släpar",
-        "släpar"
+        "har som ämne, rör sig om",
+        "är giltig, är i kraft"
       ]
     }
   ]

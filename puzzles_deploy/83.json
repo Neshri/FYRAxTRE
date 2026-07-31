@@ -1,52 +1,52 @@
 {
-  "pivot": "låter",
+  "pivot": "grov",
   "categories": [
     {
-      "title": "GE IFRÅN SIG LJUD",
+      "title": "KRAFTIG OCH BASTANT",
       "words": [
-        "ljuda",
-        "klinga"
+        "massiv",
+        "rejäl"
       ],
-      "definition": "hörs, ljuder",
+      "definition": "tjock, kraftig, bastant",
       "word_definitions": [
-        "hörs, låter",
-        "ger ifrån sig klara toner"
+        "tung, kraftig",
+        "stor, kraftig"
       ]
     },
     {
-      "title": "FÖREFALLA VARA",
+      "title": "OJÄMN YTA",
       "words": [
-        "tyckas",
-        "verka"
+        "sträv",
+        "ojämn"
       ],
-      "definition": "verkar vara, förefaller",
+      "definition": "ojämn, skrovlig; inte bearbetad (i detalj)",
       "word_definitions": [
-        "verkar, synes, förefaller",
-        "ser ut, tycks, förefaller"
+        "som har ojämn eller hård eller grov yta",
+        "inte jämn eller slät (om yta)"
       ]
     },
     {
-      "title": "TILLLÅTA NÅGOT",
+      "title": "OHYFSAT BETEENDE",
       "words": [
-        "medge",
-        "sanktionera"
+        "plump",
+        "oborstad"
       ],
-      "definition": "går med på, tillåter",
+      "definition": "ohyfsad, rå",
       "word_definitions": [
-        "ger möjlighet till, tillåter",
-        "tillåter, godtar"
+        "rå och ohyfsad",
+        "ohyfsad"
       ]
     },
     {
-      "title": "SE TILL ATT",
+      "title": "ALLVARLIG GRAD",
       "words": [
-        "tillse",
-        "verkställa"
+        "grav",
+        "allvarlig"
       ],
-      "definition": "ser till att något blir gjort",
+      "definition": "svår, allvarlig",
       "word_definitions": [
-        "tar på sig ansvaret för, ser till",
-        "ser till att ett beslut blir genomfört"
+        "allvarlig, svår",
+        "högtidlig, sträng, allvarsam"
       ]
     }
   ]

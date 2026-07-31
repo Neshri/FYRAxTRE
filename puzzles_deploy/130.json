@@ -1,52 +1,52 @@
 {
-  "pivot": "skrapa",
+  "pivot": "fälla",
   "categories": [
     {
-      "title": "ENKLA REDSKAP",
+      "title": "FÅ NÅGON ATT FALLA",
       "words": [
-        "kniv",
-        "spade"
+        "kullkasta",
+        "välta"
       ],
-      "definition": "redskap att skrapa med",
+      "definition": "få att falla genom att använda fysisk kraft",
       "word_definitions": [
-        "ett redskap att skära med",
-        "ett redskap att gräva med"
+        "vederlägger; omintetgör",
+        "gör så att något faller omkull; stjälper"
       ]
     },
     {
-      "title": "STRÄNGA ORD",
+      "title": "SÄGA NÅGOT",
       "words": [
-        "varning",
-        "reprimand"
+        "säga",
+        "yttra"
       ],
-      "definition": "tillrättavisning",
+      "definition": "(tillfälligtvis) yttra, uttala något",
       "word_definitions": [
-        "tillrättavisning",
-        "(officiell) tillrättavisning"
+        "meddelar i ord, uttalar",
+        "säger, uttalar, framför"
       ]
     },
     {
-      "title": "JÄMNA TILL YTOR",
+      "title": "MEKANISKA FÄLLOR",
       "words": [
-        "finslipa",
-        "hyvla"
+        "sax",
+        "flugsmälla"
       ],
-      "definition": "(med vasst föremål) ta bort ojämnheter",
+      "definition": "fångsredskap ofta försett med lockbete för att locka och medelst fallucka eller annat som faller igen fånga eller innestänga ett djur",
       "word_definitions": [
-        "gör färdig genom att slipa av de sista ojämnheterna",
-        "jämnar till med hyvel"
+        "ett fångstredskap",
+        "ett redskap att döda flugor med"
       ]
     },
     {
-      "title": "SAMLA IHOP",
+      "title": "BESEGRA NÅGON",
       "words": [
-        "samla",
-        "inhämta"
+        "övermanna",
+        "klå"
       ],
-      "definition": "samla ihop",
+      "definition": "besegra, kullkasta, avsätta",
       "word_definitions": [
-        "för samman (viss typ av) saker i ett visst syfte",
-        "skaffar sig, tillägnar sig; ser till att få igen, hämtar in"
+        "besegrar, tar tillfånga",
+        "slår; besegrar"
       ]
     }
   ]

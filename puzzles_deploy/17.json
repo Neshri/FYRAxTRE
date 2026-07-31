@@ -1,52 +1,52 @@
 {
-  "pivot": "drag",
+  "pivot": "ovan",
   "categories": [
     {
-      "title": "ANSIKTSUTTRYCK OCH UTSEENDE",
+      "title": "HÖG POSITION",
       "words": [
-        "uppsyn",
-        "min"
+        "uppe",
+        "överst"
       ],
-      "definition": "ansiktsuttryck; utseende",
+      "definition": "på en plats högre upp",
       "word_definitions": [
-        "utseende, min",
-        "uttryck i ansiktet"
+        "i ett läge högt upp",
+        "längst upp"
       ]
     },
     {
-      "title": "PERSONLIG EGENSKAP",
+      "title": "TEXTMÄSSIG PLACERING",
       "words": [
-        "egenhet",
-        "dygd"
+        "tidigare",
+        "förut"
       ],
-      "definition": "inre egenskap",
+      "definition": "tidigare i texten",
       "word_definitions": [
-        "avvikande egenskap eller företeelse",
-        "god egenskap, förtjänst"
+        "före tidpunkten för kommunikationen eller en annan specificerad tidpunkt",
+        "förr, tidigare"
       ]
     },
     {
-      "title": "MEDVETEN ÅTGÄRD",
+      "title": "PLACERING ÖVER",
       "words": [
-        "insats",
-        "åtgärd"
+        "över",
+        "på"
       ],
-      "definition": "åtgärd, manöver",
+      "definition": "över, ovanför",
       "word_definitions": [
-        "åtgärd, prestation",
-        "handling (för att nå ett visst syfte), ingripande, behandling"
+        "ovanför, ovanpå",
+        "i anslutning till, ovanpå"
       ]
     },
     {
-      "title": "RUMMETS STÄMNING",
+      "title": "BRIST PÅ VANA",
       "words": [
-        "anda",
-        "atmosfär"
+        "oerfaren",
+        "okunnig"
       ],
-      "definition": "hög stämning",
+      "definition": "inte van",
       "word_definitions": [
-        "stämning, atmosfär",
-        "stämning, anda"
+        "inte erfaren, ovan",
+        "som saknar kunskap, oerfaren"
       ]
     }
   ]

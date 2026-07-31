@@ -1,52 +1,52 @@
 {
-  "pivot": "växel",
+  "pivot": "nära",
   "categories": [
     {
-      "title": "PLATSER FÖR OMDIRIGERING",
+      "title": "KORT AVSTÅND",
       "words": [
-        "korsning",
-        "förgrening"
+        "kort",
+        "tät"
       ],
-      "definition": "ställe där något kopplas om",
+      "definition": "på litet avstånd (i tid eller rum)",
       "word_definitions": [
-        "ställe där två gator eller spår korsar varandra",
-        "ställe där något förgrenar sig; nätverk"
+        "som har liten längd (i tid eller rum)",
+        "utan stora mellanrum; kompakt, koncentrerad"
       ]
     },
     {
-      "title": "DELAR I DRIVLINJEN",
+      "title": "NÄSTAN ELLER UNGEFÄR",
       "words": [
-        "koppling",
-        "kardan"
+        "nästan",
+        "bortåt"
       ],
-      "definition": "anordning som reglerar hjulens varvtal i förhållande till motorns",
+      "definition": "så gott som, nästan",
       "word_definitions": [
-        "anordning som förmedlar överföringen av kraft i en bil",
-        "anordning för överföring av kraft på en bil"
+        "så gott som, närapå",
+        "så gott som, nästan"
       ]
     },
     {
-      "title": "PENGAR I SMÅ VALÖRER",
+      "title": "EXAKT ELLER PRECIS",
       "words": [
-        "mynt",
-        "fickpengar"
+        "precis",
+        "just"
       ],
-      "definition": "pengar i mindre valörer, växelpengar",
+      "definition": "(mer) exakt",
       "word_definitions": [
-        "betalningsmedel av metall, peng, slant",
-        "småpengar (för barn), veckopengar"
+        "noggrann, exakt",
+        "precis, exakt"
       ]
     },
     {
-      "title": "FORMELLA SKULDFÖRBINDELSER",
+      "title": "GE NÄRING",
       "words": [
-        "obligation",
-        "skuldebrev"
+        "berika",
+        "göda"
       ],
-      "definition": "en sorts skuldförbindelse (särskilt i äldre tid)",
+      "definition": "ge näring",
       "word_definitions": [
-        "skuldförbindelse som utgör del i större statligt eller kommunalt lån (obligationslån)",
-        "skriftlig förbindelse att betala en skuld, revers"
+        "tillför näring",
+        "gör fet; tillför växter näringsämnen"
       ]
     }
   ]

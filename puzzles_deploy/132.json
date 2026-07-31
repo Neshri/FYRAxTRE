@@ -1,52 +1,52 @@
 {
-  "pivot": "skärpa",
+  "pivot": "god",
   "categories": [
     {
-      "title": "BILDKVALITET",
+      "title": "KÄRLIGA KÄNSLOR",
       "words": [
-        "upplösning",
-        "kontrast"
+        "förälskad",
+        "förtjust"
       ],
-      "definition": "egenskapen att ha skarpa linjer; förmågan hos bilden att ge en skarp bild",
+      "definition": "kär",
       "word_definitions": [
-        "ett mått på bildkvaliteten hos bildskärm, kamera e.d.",
-        "tydlig olikhet, motsats"
+        "kär",
+        "förälskad"
       ]
     },
     {
-      "title": "GÖRA VASSARE",
+      "title": "MORALISK KARAKTÄR",
       "words": [
-        "bryna",
-        "slipa"
+        "ädel",
+        "sedlig"
       ],
-      "definition": "vässa, göra vassare",
+      "definition": "moraliskt högtstående",
       "word_definitions": [
-        "gör vassare eller skarpare",
-        "gör (en egg) vass, vässar"
+        "moraliskt högtstående, ridderlig",
+        "moraliskt högtstående (i sexuellt avseende)"
       ]
     },
     {
-      "title": "SKÄRPA STRAFFEN",
+      "title": "SÖTA EGENSKAPER",
       "words": [
-        "höja",
-        "förstärka"
+        "gullig",
+        "älskvärd"
       ],
-      "definition": "ge strängare straff",
+      "definition": "tilltalande, söt",
       "word_definitions": [
-        "gör högre (1, 2); ökar",
-        "gör starkare"
+        "rar, söt",
+        "vänlig, charmerande"
       ]
     },
     {
-      "title": "BÄTTRA SIG",
+      "title": "VÄLSMAKANDE MAT",
       "words": [
-        "förbättra",
-        "disciplinera"
+        "delikat",
+        "aptitlig"
       ],
-      "definition": "bete sig bättre, på ett mer korrekt och kontrollerat sätt",
+      "definition": "välsmakande, läcker",
       "word_definitions": [
-        "gör bättre, hjälper upp",
-        "vänja vid tukt och ordning"
+        "läcker, välsmakande",
+        "som smakar gott, välsmakande"
       ]
     }
   ]

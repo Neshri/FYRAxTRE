@@ -1,52 +1,52 @@
 {
-  "pivot": "ton",
+  "pivot": "skola",
   "categories": [
     {
-      "title": "MUSIKALISKA GRUNDELEMENT",
+      "title": "SKOLTYPER",
       "words": [
-        "rytm",
-        "melodi"
+        "gymnasium",
+        "daghem"
       ],
-      "definition": "ljud av sångröst eller instrument i konstant läge på skalan",
+      "definition": "institution för utbildning, i synnerhet av barn, och i synnerhet om det samhällssystem för ofta obligatorisk utbildning av barnen i ett givet lands befolkning eller om en enskild lokal institution i detta system",
       "word_definitions": [
-        "regelbunden rörelse i musik; takt",
-        "ordnad följd av toner som bildar en musikalisk helhet"
+        "utbildning efter grundskolan med sikte på studentexamen",
+        "en form av kommunal förskola, dagis"
       ]
     },
     {
-      "title": "SÄTT ATT UPPAFÖRA SIG",
+      "title": "KONSTRIKTNINGAR",
       "words": [
-        "fason",
-        "uppförande"
+        "genre",
+        "realism"
       ],
-      "definition": "sätt att tala och uppträda",
+      "definition": "riktning inom konst, vetenskap etc.",
       "word_definitions": [
-        "uppträdande, (dåligt) uppförande",
-        "sätt att uppföra sig, beteende"
+        "typ av ämne som en författare, en konstnär e.d. behandlar",
+        "en konstnärlig och litterär riktning som beskriver verkligheten förhållandevis exakt"
       ]
     },
     {
-      "title": "FÄRGNYANSER",
+      "title": "TVÅNGSVERB",
       "words": [
-        "nyans",
-        "kulör"
+        "behöva",
+        "nödgas"
       ],
-      "definition": "färgnyans",
+      "definition": "vara tvungen att",
       "word_definitions": [
-        "färgton",
-        "färg"
+        "är tvungen att",
+        "är tvungen"
       ]
     },
     {
-      "title": "VIKTENHETER",
+      "title": "PLANTERINGSVERB",
       "words": [
-        "kilo",
-        "gram"
+        "ympa",
+        "sätta"
       ],
-      "definition": "ett viktmått (=1 000 kg)",
+      "definition": "plantera om växt, i synnerhet på plantskola",
       "word_definitions": [
-        "ett viktmått (=1 000 gram)",
-        "en måttenhet för vikt (1/1000 kilo)"
+        "planterar in en del av en växt i en annan växt",
+        "planterar"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "mening",
+  "pivot": "skiva",
   "categories": [
     {
-      "title": "PERSONLIG UPPFATTNING",
+      "title": "FESTLIGT TILLFÄLLE",
       "words": [
-        "åsikt",
-        "uppfattning"
+        "partaj",
+        "samkväm"
       ],
-      "definition": "åsikt, uppfattning",
+      "definition": "fest",
       "word_definitions": [
-        "det som man tycker om något, mening, uppfattning",
-        "mening, åsikt"
+        "party",
+        "enklare fest"
       ]
     },
     {
-      "title": "ORDETS BETYDELSE",
+      "title": "MUSIKBÄRARE",
       "words": [
-        "innebörd",
-        "bemärkelse"
+        "stenkaka",
+        "cd"
       ],
-      "definition": "betydelse",
+      "definition": "grammofonskiva eller cd-skiva",
       "word_definitions": [
-        "betydelse, mening",
-        "betydelse, avseende"
+        "gammal grammofonskiva",
+        "cd-spelare"
       ]
     },
     {
-      "title": "SYFTE OCH AVSIKT",
+      "title": "RYGGENS BROSK",
       "words": [
-        "syfte",
-        "avsikt"
+        "disk",
+        "menisk"
       ],
-      "definition": "avsikt, syfte",
+      "definition": "platta av brosk mellan kotorna i ryggraden",
       "word_definitions": [
-        "avsikt, ändamål",
-        "syfte, mening"
+        "en sorts platta mellan ryggradens kotor",
+        "en sorts skiva av brosk i knäleden"
       ]
     },
     {
-      "title": "TEXTENHET",
+      "title": "RUNDA FÖREMÅL",
       "words": [
-        "formulering",
-        "sats"
+        "ring",
+        "tallrik"
       ],
-      "definition": "en eller flera satser som uttrycker en tanke (och som i skrift brukar avslutas med punkt)",
+      "definition": "platt föremål, eller föremål som förefaller platt, ofta cirkelformat och/eller roterande",
       "word_definitions": [
-        "sätt att uttrycka sig (i tal eller skrift)",
-        "större del av en mening (som ofta själv kan utgöra en mening)"
+        "(föremål med) form som liknar en cirkel",
+        "(mindre) fat där maten till en person läggs upp, fat"
       ]
     }
   ]

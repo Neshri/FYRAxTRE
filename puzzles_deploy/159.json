@@ -1,52 +1,52 @@
 {
-  "pivot": "tunn",
+  "pivot": "följer",
   "categories": [
     {
-      "title": "LITEN TJOCKLEK",
+      "title": "TA ÖVER ROLL",
       "words": [
-        "spinkig",
-        "fin"
+        "ersätta",
+        "avlösa"
       ],
-      "definition": "som har liten tjocklek, smal",
+      "definition": "efterträder",
       "word_definitions": [
-        "smal, mager (om person eller kroppsdel)",
-        "tunn, smal"
+        "vikarierar för; efterträder",
+        "efterträder, ersätter, löser av"
       ]
     },
     {
-      "title": "GLES FÖREKOMST",
+      "title": "VARA SÄLLSKAP ÅT",
       "words": [
-        "utspridd",
-        "gles"
+        "ledsaga",
+        "sällskapa"
       ],
-      "definition": "sparsamt förekommande, gles",
+      "definition": "gör sällskap med",
       "word_definitions": [
-        "inte samlad, gles",
-        "inte tät, utspridd"
+        "följer med på vägen",
+        "är sällskap åt; är partner till"
       ]
     },
     {
-      "title": "UTSPÄDD VÄTSKA",
+      "title": "LYDA INSTRUKTIONER",
       "words": [
-        "urlakad",
-        "utspädd"
+        "hörsamma",
+        "lyda"
       ],
-      "definition": "vattnig, utspädd",
+      "definition": "rättar sig efter, lyder",
       "word_definitions": [
-        "urvattnad",
-        "blandad med vatten"
+        "rättar sig efter, lyder",
+        "gör som man blir tillsagd"
       ]
     },
     {
-      "title": "SACKNAR SUBSTANS",
+      "title": "LÄGGA MÄRKE TILL",
       "words": [
-        "tom",
-        "ytlig"
+        "iaktta",
+        "märka"
       ],
-      "definition": "som saknar substans",
+      "definition": "observerar, hänger med i",
       "word_definitions": [
-        "som saknar innehåll",
-        "som inte går på djupet, flyktig"
+        "följer, visar, tar hänsyn till",
+        "får se, observerar"
       ]
     }
   ]

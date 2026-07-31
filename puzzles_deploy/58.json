@@ -1,52 +1,52 @@
 {
-  "pivot": "klen",
+  "pivot": "resa",
   "categories": [
     {
-      "title": "SPÄD FORM",
+      "title": "FÖRFLYTTA SIG",
       "words": [
-        "skir",
-        "spenslig"
+        "färdas",
+        "vandra"
       ],
-      "definition": "tunn, späd",
+      "definition": "(kanske till fots men vanligtvis medelst en följd av höghastighetsfordon) förflytta sig från en plats till en annan (med ett så stort avstånd mellan platserna att det tar förhållandevis lång tid)",
       "word_definitions": [
-        "späd, tunn",
-        "smal, tunn (om kroppsbyggnad eller person)"
+        "reser, tar sig fram",
+        "går till fots"
       ]
     },
     {
-      "title": "ÖMTÅLIG HÄLSA",
+      "title": "GÖRA UPRÄTT",
       "words": [
-        "eländig",
-        "delikat"
+        "ställa",
+        "lyfta"
       ],
-      "definition": "sjuk, ömtålig",
+      "definition": "höja upp (från ett liggande) till (mer) upprätt läge",
       "word_definitions": [
-        "sjuk, dålig",
-        "ömtålig, känslig"
+        "placerar upprätt eller stående; placerar",
+        "för till en högre nivå, för uppåt"
       ]
     },
     {
-      "title": "BRIST PÅ KRAFT",
+      "title": "SKAPA HINDER",
       "words": [
-        "skraltig",
-        "kraftlös"
+        "hindra",
+        "motarbeta"
       ],
-      "definition": "svag",
+      "definition": "lägga hinder eller svårigheter i vägen",
       "word_definitions": [
-        "svag och dålig",
-        "som saknar kraft, svag"
+        "utgör hinder för",
+        "lägger hinder i vägen för, bekämpar"
       ]
     },
     {
-      "title": "OBETYDLIG STORLEK",
+      "title": "STÄLLA KRAV",
       "words": [
-        "ringa",
-        "futtig"
+        "kräva",
+        "yrka"
       ],
-      "definition": "svag, obetydlig",
+      "definition": "framföra krav, anspråk e.d.",
       "word_definitions": [
-        "liten, obetydlig",
-        "obetydlig"
+        "framför som krav, fordrar",
+        "begär, kräver"
       ]
     }
   ]

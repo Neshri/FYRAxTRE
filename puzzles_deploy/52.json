@@ -1,52 +1,52 @@
 {
-  "pivot": "hård",
+  "pivot": "få",
   "categories": [
     {
-      "title": "FYSISK HÅRDHET",
+      "title": "VARA TVUNGEN",
       "words": [
-        "fast",
-        "stiv"
+        "måste",
+        "behöva"
       ],
-      "definition": "som inte ger efter för tryck eller böjning",
+      "definition": "tillåtas eller måste",
       "word_definitions": [
-        "hård, massiv",
-        "Hård och orörlig; som inte kan böjas eller formas lätt."
+        "indikerar att det finns ett krav på att subjektet i meningen ska göra något; uttrycker nödvändighet",
+        "är tvungen att"
       ]
     },
     {
-      "title": "STRÄNG KARAKTÄR",
+      "title": "GÖRA SÅ ATT",
       "words": [
-        "kall",
-        "strikt"
+        "föranleda",
+        "låta"
       ],
-      "definition": "okänslig, sträng",
+      "definition": "orsaka; göra så att eller se till att någon utför en handling eller att något händer",
       "word_definitions": [
-        "hård, okänslig",
-        "sträng; korrekt; som ska följas noggrant"
+        "leder till, orsakar",
+        "ser till att något blir gjort"
       ]
     },
     {
-      "title": "KRÄVANDE SITUATION",
+      "title": "HITTA SVAR",
       "words": [
-        "jobbig",
-        "tung"
+        "utröna",
+        "lösa"
       ],
-      "definition": "intensiv, påfrestande",
+      "definition": "komma fram till (ett svar)",
       "word_definitions": [
-        "ansträngande, påfrestande",
-        "svår, besvärlig"
+        "tar reda på",
+        "kommer tillrätta med, klarar"
       ]
     },
     {
-      "title": "KRAFTIG OCH STARK",
+      "title": "LURA NÅGON",
       "words": [
-        "massiv",
-        "rejäl"
+        "bluffa",
+        "svindla"
       ],
-      "definition": "kraftig",
+      "definition": "lura, få någon att gå på ett trick",
       "word_definitions": [
-        "tung, kraftig",
-        "stor, kraftig"
+        "försöker luras, skojar, bedrar",
+        "lurar"
       ]
     }
   ]

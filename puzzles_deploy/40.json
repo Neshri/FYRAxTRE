@@ -1,52 +1,52 @@
 {
-  "pivot": "får",
+  "pivot": "drar",
   "categories": [
     {
-      "title": "TA EMOT NÅGOT",
+      "title": "RITA EN BILD",
       "words": [
-        "erhålla",
-        "motta"
+        "teckna",
+        "rita"
       ],
-      "definition": "tar emot, erhåller",
+      "definition": "ritar, tecknar",
       "word_definitions": [
-        "tar emot, får",
-        "välkomnar, tar emot"
+        "gör teckningar, ritar",
+        "skapar en bild med penna e.d."
       ]
     },
     {
-      "title": "VARA TVUNGEN TILL",
+      "title": "VINDEN BLÅSER",
       "words": [
-        "behöva",
-        "nödgas"
+        "blåsa",
+        "fläkta"
       ],
-      "definition": "är tvungen, måste",
+      "definition": "blåser, fläktar",
       "word_definitions": [
-        "är tvungen att",
-        "är tvungen"
+        "rör sig (om luft), fläktar",
+        "blåser lätt"
       ]
     },
     {
-      "title": "HUSDJUR",
+      "title": "FÖRBRUKA RESURSER",
       "words": [
-        "get",
-        "ko"
+        "konsumera",
+        "åtgå"
       ],
-      "definition": "ett däggdjur av släktet Ovis som hålls för ullens, köttets och till viss del mjölkens skull",
+      "definition": "förbrukar, behöver",
       "word_definitions": [
-        "ett husdjur som ger mjölk och ost (släktet Capra)",
-        "ett husdjur som ger mjölk"
+        "använder, förbrukar",
+        "tar slut, förbrukas, går åt"
       ]
     },
     {
-      "title": "DUM PERSON",
+      "title": "LÄMNA EN PLATS",
       "words": [
-        "tjockskalle",
-        "nöt"
+        "lämna",
+        "gå"
       ],
-      "definition": "person som anses dum i huvudet",
+      "definition": "lämnar en lokal",
       "word_definitions": [
-        "dum person",
-        "person som verkar dum eller tankspridd"
+        "avlägsnar sig från",
+        "avlägsnar sig"
       ]
     }
   ]

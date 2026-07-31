@@ -1,52 +1,52 @@
 {
-  "pivot": "föda",
+  "pivot": "affär",
   "categories": [
     {
-      "title": "SAKER MAN ÄTER",
+      "title": "EKONOMISKA ÅTGÄRDER",
       "words": [
-        "livsmedel",
-        "proviant"
+        "insats",
+        "transaktion"
       ],
-      "definition": "mat och dryck; livsmedel; sådant man äter, för att få i sig näring",
+      "definition": "ekonomisk åtgärd",
       "word_definitions": [
-        "mat, föda",
-        "förråd av mat (särskilt på en resa), livsmedel"
+        "åtgärd, prestation",
+        "ekonomisk uppgörelse"
       ]
     },
     {
-      "title": "GE UPPHOP TILL",
+      "title": "FÖRSÄLJNINGSSTÄLLEN",
       "words": [
-        "grundlägga",
-        "väcka"
+        "handel",
+        "kiosk"
       ],
-      "definition": "ge upphov till",
+      "definition": "ställe med försäljning, butik",
       "word_definitions": [
-        "inrättar; ger upphov till",
-        "ger upphov till, framkallar"
+        "affär, butik",
+        "litet hus med försäljning av tidningar, godsaker m.m. (ibland även mat)"
       ]
     },
     {
-      "title": "GE MAT TILL DJUR",
+      "title": "PERSONLIGA ÄRENDEN",
       "words": [
-        "fodra",
-        "mata"
+        "sak",
+        "ärende"
       ],
-      "definition": "utfodra",
+      "definition": "angelägenheter",
       "word_definitions": [
-        "ger foder",
-        "ger mat eller foder åt"
+        "angelägenhet, ärende",
+        "(mindre) uppdrag; något man gör, t.ex. inköp"
       ]
     },
     {
-      "title": "FÖRSÖRJA MED MAT",
+      "title": "OLIKA HÄNDELSER",
       "words": [
-        "försörja",
-        "nära"
+        "tilldragelse",
+        "begivenhet"
       ],
-      "definition": "(om gårdar, landsändor, länder, och jorden) tillhandahålla mat till",
+      "definition": "uppmärksammad händelse",
       "word_definitions": [
-        "ansvarar för uppehälle för",
-        "ger föda, ger näring"
+        "händelse",
+        "stor händelse, evenemang"
       ]
     }
   ]

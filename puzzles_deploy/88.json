@@ -1,52 +1,52 @@
 {
-  "pivot": "medel",
+  "pivot": "ren",
   "categories": [
     {
-      "title": "KEMISKA ÄMNEN",
+      "title": "FLÄCKFRI OCH REN",
       "words": [
-        "preparat",
-        "syra"
+        "obefläckad",
+        "hygienisk"
       ],
-      "definition": "hjälpmedel (ofta en kemisk substans)",
+      "definition": "inte smutsig, fläckfri",
       "word_definitions": [
-        "ämne som framställts på kemisk väg, kemisk produkt",
-        "en sorts kemisk förening med (vanligen) sur smak"
+        "ren; fläckfri",
+        "som har att göra med hygien; renlig"
       ]
     },
     {
-      "title": "MEDICINER",
+      "title": "HELT OCH FULLSTÄNDIGT",
       "words": [
-        "medicin",
-        "piller"
+        "absolut",
+        "total"
       ],
-      "definition": "medicin",
+      "definition": "oförfalskad, äkta; fullständig, total",
       "word_definitions": [
-        "läkemedel",
-        "liten tablett som innehåller medicin"
+        "fullständigt, helt; ovillkorligt",
+        "i sin helhet, fullständig; sammanlagd"
       ]
     },
     {
-      "title": "EKONOMISKA TILLGÅNGAR",
+      "title": "HJORTDJUR",
       "words": [
-        "kapital",
-        "förmögenhet"
+        "rådjur",
+        "dovhjort"
       ],
-      "definition": "tillgångar, pengar",
+      "definition": "ett (i viss mån tamt) hjortdjur som lever långt norrut (Rangifer tarandus)",
       "word_definitions": [
-        "pengar och andra tillgångar",
-        "tillgångar som räknas i pengar"
+        "ett hjortdjur med ljusbrun päls (Capreolus capreolus)",
+        "en brun hjort som får vita fläckar på sommaren (Cervus dama)"
       ]
     },
     {
-      "title": "SÄTT ATT GÖRA NÅGOT",
+      "title": "KANT VID VÄGEN",
       "words": [
-        "metod",
-        "väg"
+        "bank",
+        "dike"
       ],
-      "definition": "sätt, metod",
+      "definition": "kant vid väg eller åker",
       "word_definitions": [
-        "(systematiskt) sätt att utföra något",
-        "sätt, metod"
+        "underlag för väg eller järnväg, vall",
+        "grävd ränna i marken (ofta på båda sidor av en väg)"
       ]
     }
   ]

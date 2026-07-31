@@ -1,52 +1,52 @@
 {
-  "pivot": "syn",
+  "pivot": "akt",
   "categories": [
     {
-      "title": "UPPFATTNINGSFÖRMÅGA",
+      "title": "HÖGTIDLIG CEREMONI",
       "words": [
-        "sinne",
-        "förnuft"
+        "ritual",
+        "invigning"
       ],
-      "definition": "förmåga att se (eller tänka sig)",
+      "definition": "ceremoni",
       "word_definitions": [
-        "förmåga att se, höra, känna, lukta eller smaka",
-        "förmåga att tänka, förstånd"
+        "fastställd ordning (ofta för en religiös handling), ceremoni",
+        "ceremoni då någon eller något invigs"
       ]
     },
     {
-      "title": "VISUELL FÖRETEELSE",
+      "title": "MEDVETEN HANDLING",
       "words": [
-        "vy",
-        "företeelse"
+        "dåd",
+        "gärning"
       ],
-      "definition": "något som man ser",
+      "definition": "handling, process",
       "word_definitions": [
-        "utsikt, syn",
-        "något som finns"
+        "handling",
+        "handling, verk, dåd"
       ]
     },
     {
-      "title": "PERSONLIG ÅSIKT",
+      "title": "DEL AV PJÄS",
       "words": [
-        "mening",
-        "uppfattning"
+        "scen",
+        "tablå"
       ],
-      "definition": "uppfattning, åsikt",
+      "definition": "del av en teaterpjäs",
       "word_definitions": [
-        "åsikt, uppfattning",
-        "mening, åsikt"
+        "den del av en teater där skådespelarna visar sig, estrad",
+        "del av akt i en pjäs"
       ]
     },
     {
-      "title": "MÄNSKLIGT ANSIKTE",
+      "title": "OFFICIELLT DOKUMENT",
       "words": [
-        "nylle",
-        "anlete"
+        "urkund",
+        "intyg"
       ],
-      "definition": "ansikte",
+      "definition": "dokument",
       "word_definitions": [
-        "ansikte",
-        "ansikte"
+        "skriftligt dokument",
+        "dokument som intygar något, bevis"
       ]
     }
   ]

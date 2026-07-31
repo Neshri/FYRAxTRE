@@ -1,52 +1,52 @@
 {
-  "pivot": "hög",
+  "pivot": "intresse",
   "categories": [
     {
-      "title": "STARK LJUDSTYRKA",
+      "title": "LUST OCH IVRIGHET",
       "words": [
-        "öronbedövande",
-        "rungande"
+        "klåda",
+        "håg"
       ],
-      "definition": "kraftig (om ljud)",
+      "definition": "lust att ägna något sin uppmärksamhet",
       "word_definitions": [
-        "ytterst kraftig (om ljud)",
-        "som ljuder starkt, kraftig; bestämd"
+        "lust att göra något",
+        "lust"
       ]
     },
     {
-      "title": "SOCIAL STÄLLNING",
+      "title": "FRITIDSSYSSLA",
       "words": [
-        "inflytelserik",
-        "uppsatt"
+        "sysselsättning",
+        "hobby"
       ],
-      "definition": "som har inflytelserik ställning",
+      "definition": "något man gärna sysslar med, hobby",
       "word_definitions": [
-        "som har stort inflytande",
-        "som har viss (hög) ställning i samhället"
+        "handlingen att sysselsätta sig med något, arbete",
+        "sysselsättning på fritiden"
       ]
     },
     {
-      "title": "AVANCERAD NIVÅ",
+      "title": "ATTRAKTIONSKRAFT",
       "words": [
-        "försigkommen",
-        "sofistikerad"
+        "lockelse",
+        "utstrålning"
       ],
-      "definition": "avancerad",
+      "definition": "förmåga att fånga uppmärksamhet",
       "word_definitions": [
-        "väl utvecklad, avancerad",
-        "förfinad"
+        "(något som har) förmåga att dra till sig intresse eller väcka begär",
+        "förmåga (hos en person) att göra ett starkt intryck, karisma"
       ]
     },
     {
-      "title": "SAMLING AV MATERIAL",
+      "title": "NYTTA OCH FÖRDEL",
       "words": [
-        "stapel",
-        "trave"
+        "nytta",
+        "fördel"
       ],
-      "definition": "anhopning av material",
+      "definition": "något som man kan ha fördel av, engagemang",
       "word_definitions": [
-        "hög av staplat material, trave",
-        "hög av föremål"
+        "något som har god effekt, fördel",
+        "det som gynnar någon, positiv egenskap"
       ]
     }
   ]

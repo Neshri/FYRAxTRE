@@ -1,52 +1,52 @@
 {
-  "pivot": "akt",
+  "pivot": "öppen",
   "categories": [
     {
-      "title": "HÖGTIDLIG CEREMONI",
+      "title": "INTE TÄCKT",
       "words": [
-        "ritual",
-        "invigning"
+        "bar",
+        "naken"
       ],
-      "definition": "ceremoni",
+      "definition": "inte stängd eller låst eller täckt",
       "word_definitions": [
-        "fastställd ordning (ofta för en religiös handling), ceremoni",
-        "ceremoni då någon eller något invigs"
+        "inte täckt, öppen, naken",
+        "inte täckt eller skyddad"
       ]
     },
     {
-      "title": "MEDVETEN HANDLING",
+      "title": "OFFENTLIG",
       "words": [
-        "dåd",
-        "gärning"
+        "offentlig",
+        "allmän"
       ],
-      "definition": "handling, process",
+      "definition": "tillgänglig eller synlig för alla, allmän, offentlig",
       "word_definitions": [
-        "handling",
-        "handling, verk, dåd"
+        "som gäller allmänheten, allmän, officiell",
+        "som delas av eller gäller alla, generell"
       ]
     },
     {
-      "title": "DEL AV PJÄS",
+      "title": "EJ BESLUTAD",
       "words": [
-        "scen",
-        "tablå"
+        "oavgjord",
+        "olöst"
       ],
-      "definition": "del av en teaterpjäs",
+      "definition": "inte avgjord",
       "word_definitions": [
-        "den del av en teater där skådespelarna visar sig, estrad",
-        "del av akt i en pjäs"
+        "inte avgjord, utan någon segrare",
+        "som inte har lösts"
       ]
     },
     {
-      "title": "OFFICIELLT DOKUMENT",
+      "title": "UPPRIKTIG",
       "words": [
-        "urkund",
-        "intyg"
+        "frank",
+        "rättfram"
       ],
-      "definition": "dokument",
+      "definition": "uppriktig",
       "word_definitions": [
-        "skriftligt dokument",
-        "dokument som intygar något, bevis"
+        "uppriktig",
+        "uppriktig, frimodig"
       ]
     }
   ]

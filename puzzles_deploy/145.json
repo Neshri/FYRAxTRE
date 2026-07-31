@@ -1,52 +1,52 @@
 {
-  "pivot": "stämma",
+  "pivot": "drag",
   "categories": [
     {
-      "title": "RÖSTENS EGENSKAPER",
+      "title": "TECKNING ELLER LINJE",
       "words": [
-        "klang",
-        "ton"
+        "streck",
+        "skiss"
       ],
-      "definition": "röst",
+      "definition": "teckning, linje",
       "word_definitions": [
-        "ljud som klingar, ton",
-        "ljud av sångröst eller instrument i konstant läge på skalan"
+        "tunn linje",
+        "(förberedande) teckning"
       ]
     },
     {
-      "title": "MUSIKALISKA ELEMENT",
+      "title": "SPELOMGÅNGENS FLYTT",
       "words": [
-        "melodi",
-        "rytm"
+        "rörelse",
+        "flytt"
       ],
-      "definition": "linje i en musikalisk sats",
+      "definition": "flyttning av spelpjäs",
       "word_definitions": [
-        "ordnad följd av toner som bildar en musikalisk helhet",
-        "regelbunden rörelse i musik; takt"
+        "förflyttning",
+        "moment som består av en pjäsförflyttning i vissa brädspel, exempelvis i backgammon och det gamla svenska spelet bräde; jämför drag inom schacket"
       ]
     },
     {
-      "title": "FORMELLA SAMMANKOMSTER",
+      "title": "FISKEBETE",
       "words": [
-        "möte",
-        "kongress"
+        "blink",
+        "bete"
       ],
-      "definition": "(större) sammankomst",
+      "definition": "liten bit metall med krokar som används vid fiske",
       "word_definitions": [
-        "sammanträffande (särskilt mellan bilar)",
-        "(större) sammankomst med valda ombud (t.ex. politiker)"
+        "Ett glänsande metallbeten som reflekterar ljus för att locka till sig fisk.",
+        "medel att locka djur i fälla, agn"
       ]
     },
     {
-      "title": "KOMMA ÖVERENS",
+      "title": "RÖRLIG LUFT",
       "words": [
-        "överenskomma",
-        "fastställa"
+        "vind",
+        "pust"
       ],
-      "definition": "bestämma; avtala",
+      "definition": "(kall) luftström",
       "word_definitions": [
-        "bestämmer något tillsammans, kommer överens",
-        "bestämmer, föreskriver; konstaterar"
+        "naturlig luft i rörelse, blåst",
+        "kort stöt (särskilt av luft)"
       ]
     }
   ]

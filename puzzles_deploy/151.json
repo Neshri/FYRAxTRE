@@ -1,52 +1,52 @@
 {
-  "pivot": "så",
+  "pivot": "drag",
   "categories": [
     {
-      "title": "PLANTERA VÄXTER",
+      "title": "ANSIKTSUTTRYCK OCH UTSEENDE",
       "words": [
-        "plantera",
-        "odla"
+        "uppsyn",
+        "min"
       ],
-      "definition": "sprida frön i jordmån för att de ska gro",
+      "definition": "ansiktsuttryck; utseende",
       "word_definitions": [
-        "sätter växt (eller frö) i jorden",
-        "producerar växter; brukar jorden"
+        "utseende, min",
+        "uttryck i ansiktet"
       ]
     },
     {
-      "title": "DJURENS DRICKKÄRL",
+      "title": "PERSONLIG EGENSKAP",
       "words": [
-        "tråg",
-        "kar"
+        "egenhet",
+        "dygd"
       ],
-      "definition": "dryckeskärl för boskap",
+      "definition": "inre egenskap",
       "word_definitions": [
-        "ett avlångt, fyrkantigt kärl",
-        "stor öppen behållare för vatten (eller annan vätska)"
+        "avvikande egenskap eller företeelse",
+        "god egenskap, förtjänst"
       ]
     },
     {
-      "title": "GRAD AV NÅGOT",
+      "title": "MEDVETEN ÅTGÄRD",
       "words": [
-        "mycket",
-        "väldigt"
+        "insats",
+        "åtgärd"
       ],
-      "definition": "till den grad, lika",
+      "definition": "åtgärd, manöver",
       "word_definitions": [
-        "i hög grad",
-        "mycket"
+        "åtgärd, prestation",
+        "handling (för att nå ett visst syfte), ingripande, behandling"
       ]
     },
     {
-      "title": "LOGISK FÖLJD",
+      "title": "RUMMETS STÄMNING",
       "words": [
-        "alltså",
-        "därmed"
+        "anda",
+        "atmosfär"
       ],
-      "definition": "följaktligen",
+      "definition": "hög stämning",
       "word_definitions": [
-        "således, följaktligen",
-        "Som en följd av det som just nämnts; därför eller på det sättet."
+        "stämning, atmosfär",
+        "stämning, anda"
       ]
     }
   ]

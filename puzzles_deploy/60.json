@@ -1,52 +1,52 @@
 {
-  "pivot": "klippa",
+  "pivot": "fel",
   "categories": [
     {
-      "title": "KARG NATUR",
+      "title": "FELAKTIG",
       "words": [
-        "öken",
-        "hed"
+        "oriktig",
+        "falsk"
       ],
-      "definition": "berg utan växtlighet",
+      "definition": "inte rätt, felaktig",
       "word_definitions": [
-        "område med mycket torrt klimat och mycket sparsam växtlighet",
-        "slättmark utan träd"
+        "felaktig",
+        "inte sann, oriktig"
       ]
     },
     {
-      "title": "TA BORT HÅR",
+      "title": "EN MISSTAGSHANDLING",
       "words": [
-        "raka",
-        "plocka"
+        "fadäs",
+        "blunder"
       ],
-      "definition": "ta bort hår från (oftast med sax)",
+      "definition": "handling som inte är korrekt, misstag",
       "word_definitions": [
-        "skär bort skägg eller hår",
-        "rycker loss hår eller fjädrar från"
+        "dumhet, misstag",
+        "misstag, fel"
       ]
     },
     {
-      "title": "FILMPRODUKTION",
+      "title": "ANSVAR FÖR FEL",
       "words": [
-        "montera",
-        "redigera"
+        "skuld",
+        "ansvar"
       ],
-      "definition": "sammanfoga olika delar av en film eller ett ljudband för att framställa en enhet; speciellt bestämma sig för var en viss scen eller ett visst inslag ska avslutas",
+      "definition": "ansvar för ett misstag, skuld",
       "word_definitions": [
-        "sätter ihop (delar till ett helt); installerar",
-        "bearbetar formen i text, film e.d."
+        "ansvar för brott eller fel",
+        "skyldighet att ta på sig skulden (om något går fel)"
       ]
     },
     {
-      "title": "GRIPA BROTTSLING",
+      "title": "EN BRIST",
       "words": [
-        "gripa",
-        "arrestera"
+        "defekt",
+        "skavank"
       ],
-      "definition": "gripa (kriminell)",
+      "definition": "skada, brist, skavank",
       "word_definitions": [
-        "tar fast, fångar, häktar",
-        "griper, anhåller"
+        "ofullständig, bristfällig",
+        "liten skada"
       ]
     }
   ]

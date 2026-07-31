@@ -1,52 +1,52 @@
 {
-  "pivot": "handlar",
+  "pivot": "väg",
   "categories": [
     {
-      "title": "VIDTA ÅTGÄRDER",
+      "title": "VÄGTYPER",
       "words": [
-        "agera",
-        "utföra"
+        "aveny",
+        "stig"
       ],
-      "definition": "gör något, agerar",
+      "definition": "långt, smalt stycke (belagd) mark som man kan färdas på med fordon, gata",
       "word_definitions": [
-        "vidtar åtgärder, handlar",
-        "gör, genomför"
+        "bred gata (ofta med träd), boulevard",
+        "smal gångväg (ofta i skogen)"
       ]
     },
     {
-      "title": "KÖPA NÅGOT",
+      "title": "AVSTÅNDSMÅTT",
       "words": [
-        "införskaffa",
-        "förvärva"
+        "distans",
+        "sträcka"
       ],
-      "definition": "köper",
+      "definition": "resa; avstånd, distans",
       "word_definitions": [
-        "förser sig med, köper",
-        "lyckas skaffa sig"
+        "avstånd, sträcka",
+        "stycke väg, avstånd"
       ]
     },
     {
-      "title": "BEDRIVA HANDEL",
+      "title": "RUTTER OCH BANOR",
       "words": [
-        "kränga",
-        "avyttra"
+        "bana",
+        "stråk"
       ],
-      "definition": "gör affärer",
+      "definition": "färdriktning, färdväg",
       "word_definitions": [
-        "säljer",
-        "säljer"
+        "färdväg",
+        "väg"
       ]
     },
     {
-      "title": "HANDLA OM",
+      "title": "METODER OCH SÄTT",
       "words": [
-        "röra",
-        "kretsa"
+        "medel",
+        "metod"
       ],
-      "definition": "har som ämne, rör sig om",
+      "definition": "sätt, metod",
       "word_definitions": [
-        "handlar om, gäller",
-        "rör sig runt något"
+        "sätt, metod",
+        "(systematiskt) sätt att utföra något"
       ]
     }
   ]

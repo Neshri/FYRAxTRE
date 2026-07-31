@@ -1,52 +1,52 @@
 {
-  "pivot": "leda",
+  "pivot": "utgår",
   "categories": [
     {
-      "title": "STARK MOTVILJA",
+      "title": "PÅBÖRJA NÅGOT",
       "words": [
-        "avsky",
-        "äckel"
+        "börja",
+        "inleda"
       ],
-      "definition": "känsla av stark olust, motvilja eller uttråkning för att man har fått för mycket av något",
+      "definition": "startar",
       "word_definitions": [
-        "motvilja, avsmak, hat",
-        "(känsla av) illamående, avsky"
+        "startar, inleder, sätter igång",
+        "påbörjar, startar"
       ]
     },
     {
-      "title": "ANSVARA FÖR",
+      "title": "BASERA PÅ",
       "words": [
-        "förvalta",
-        "sköta"
+        "grunda",
+        "anta"
       ],
-      "definition": "styra (andra människor, individuellt eller en grupp); ha bestämmande inflytande över; ansvara för",
+      "definition": "har som utgångspunkt, förutsätter",
       "word_definitions": [
-        "sköter eller tar hand om någons egendom, administrerar",
-        "vårdar, ger tillsyn; ansvarar för, tar hand om"
+        "har som grund för, stöder",
+        "tänker sig, förmodar"
       ]
     },
     {
-      "title": "VISA VÄGEN",
+      "title": "BETALA PENGAR",
       "words": [
-        "lotsa",
-        "hjälpa"
+        "erlägga",
+        "pröjsa"
       ],
-      "definition": "vägleda, visa vägen, hjälpa",
+      "definition": "betalas ut",
       "word_definitions": [
-        "vägleder",
-        "ger hjälp, bistår"
+        "betalar",
+        "betalar"
       ]
     },
     {
-      "title": "ÖVERFÖRA ENERGI",
+      "title": "UPPHÖRA MED",
       "words": [
-        "överföra",
-        "transportera"
+        "upphöra",
+        "sluta"
       ],
-      "definition": "överföra, (ha förmåga att) vidarebefordra elektricitet eller värme",
+      "definition": "tar slut, upphör, går ut",
       "word_definitions": [
-        "flyttar från en punkt till en annan",
-        "förflyttar gods eller passagerare"
+        "slutar, hör upp",
+        "tar slut, upphör"
       ]
     }
   ]

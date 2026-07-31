@@ -1,52 +1,52 @@
 {
-  "pivot": "skala",
+  "pivot": "komma",
   "categories": [
     {
-      "title": "MUSIKALISKA TONARTER",
+      "title": "SKILJETECKEN",
       "words": [
-        "dur",
-        "moll"
+        "kolon",
+        "parentes"
       ],
-      "definition": "ordnad följd av toner i viss tonart",
+      "definition": "ett skiljetecken (,)",
       "word_definitions": [
-        "en typ av tonart med helt tonsteg mellan andra och tredje tonen i skalan (uppfattas ofta som glad)",
-        "en grupp tonarter med ett litet tonsteg mellan andra och tredje tonen i skalan (som ofta uppfattas som sorgsna)"
+        "ett skiljetecken (:)",
+        "tecknet ( ) eller det som står inom det"
       ]
     },
     {
-      "title": "MÄTINSTRUMENT",
+      "title": "ANLÄNNA EN PLATS",
       "words": [
-        "termometer",
-        "tumstock"
+        "nå",
+        "anlända"
       ],
-      "definition": "graderad anordning att mäta något med",
+      "definition": "anlända eller nå fram till en plats",
       "word_definitions": [
-        "ett instrument som mäter temperatur",
-        "ett mätverktyg som kan fällas ihop"
+        "kommer fram till, anländer till",
+        "kommer fram, ankommer"
       ]
     },
     {
-      "title": "AVLÄGSNA HÖLJE",
+      "title": "ÖVERGÅ TILL",
       "words": [
-        "skrapa",
-        "flå"
+        "bli",
+        "övergå"
       ],
-      "definition": "avlägsna skalet eller annat hölje från något (t.ex. potatis)",
+      "definition": "av en händelse övergå till visst (framtida) skeende eller tillstånd",
       "word_definitions": [
-        "tar bort ojämnheter (med ett vasst föremål); skaver, river",
-        "tar av skinnet på djur"
+        "börjar vara, kommer att vara",
+        "överstiger"
       ]
     },
     {
-      "title": "STORLEKSFÖRHÅLLANDE",
+      "title": "KOMMA IHÅG",
       "words": [
-        "proportion",
-        "kvot"
+        "minnas",
+        "återkalla"
       ],
-      "definition": "storleksförhållandet mellan en avbildning och det avbildade föremålet eller området, särskilt i kartsammanhang",
+      "definition": "i betydelsen komma ihåg",
       "word_definitions": [
-        "överensstämmelse mellan storlekarna på olika delar",
-        "resultat av en division"
+        "kommer ihåg",
+        "minnas, komma ihåg"
       ]
     }
   ]

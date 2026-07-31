@@ -1,52 +1,52 @@
 {
-  "pivot": "pass",
+  "pivot": "led",
   "categories": [
     {
-      "title": "RESEDOKUMENT",
+      "title": "UTTRÅKAD OCH TRÖTT",
       "words": [
-        "visum",
-        "id-kort"
+        "sliten",
+        "matt"
       ],
-      "definition": "dokument som man ibland måste visa upp när man reser utomlands",
+      "definition": "uttråkad, trött",
       "word_definitions": [
-        "dokument som ger tillstånd att resa in i och vistas i ett visst land (när det inte räcker med pass)",
-        "identitetskort"
+        "trött",
+        "trött, kraftlös"
       ]
     },
     {
-      "title": "BERGSTERRÄNG",
+      "title": "ELAK KARAKTÄR",
       "words": [
-        "ravin",
-        "dal"
+        "stygg",
+        "taskig"
       ],
-      "definition": "trång väg mellan berg",
+      "definition": "otäck, elak",
       "word_definitions": [
-        "djup klyfta i berg",
-        "långsmalt, lägre område mellan två höjder, sänka"
+        "ful, otäck",
+        "okamratlig, elak"
       ]
     },
     {
-      "title": "ARBETSTID",
+      "title": "FÄRDVÄG",
       "words": [
-        "arbetsdag",
-        "skift"
+        "väg",
+        "stig"
       ],
-      "definition": "det antal timmar som någon arbetar vid visst tillfälle",
+      "definition": "sträcka där man kan vandra eller färdas",
       "word_definitions": [
-        "tiden man arbetar under en dag",
-        "arbetspass mellan två ombyten av arbetskraft"
+        "färdriktning, färdväg",
+        "smal gångväg (ofta i skogen)"
       ]
     },
     {
-      "title": "KORTSPELSTERMER",
+      "title": "MÄNNISKOR PÅ RAD",
       "words": [
-        "utspel",
-        "bud"
+        "fil",
+        "kö"
       ],
-      "definition": "inget bud (i kortspel)",
+      "definition": "rad (av personer)",
       "word_definitions": [
-        "första spelade kortet i en omgång i kortspel",
-        "erbjudande, anbud"
+        "rad",
+        "rad av väntande personer"
       ]
     }
   ]

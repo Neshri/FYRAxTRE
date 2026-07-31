@@ -1,52 +1,52 @@
 {
-  "pivot": "färg",
+  "pivot": "tar",
   "categories": [
     {
-      "title": "FÄRGNYANSER",
+      "title": "TA TAG I",
       "words": [
-        "orange",
-        "lila"
+        "gripa",
+        "knipa"
       ],
-      "definition": "ett slags synintryck (rött, grönt etc.); kulör, nyans",
+      "definition": "skaffar sig kontroll över, griper, fattar",
       "word_definitions": [
-        "en färg som är ett mellanting mellan rött och gult",
-        "(blandning av) rött och blått, violett"
+        "tar fast, fångar, häktar",
+        "får tag i, skaffar sig"
       ]
     },
     {
-      "title": "ÅSIKTSRIKTNINGAR",
+      "title": "ANVÄNDA NÅGOT",
       "words": [
-        "strömning",
-        "ståndpunkt"
+        "utnyttja",
+        "begagna"
       ],
-      "definition": "åsiktsriktning",
+      "definition": "använder sig av",
       "word_definitions": [
-        "samling idéer, åsiktsriktning",
-        "ställningstagande, åsikt"
+        "drar nytta av, använder",
+        "använder, brukar, utnyttjar, handskas med"
       ]
     },
     {
-      "title": "STÄMNING",
+      "title": "TA TID I ANSPRÅK",
       "words": [
-        "atmosfär",
-        "anda"
+        "dröja",
+        "söla"
       ],
-      "definition": "positiv stämning",
+      "definition": "dröjer, upptar (tid)",
       "word_definitions": [
-        "stämning, anda",
-        "stämning, atmosfär"
+        "drar ut på tiden, tar tid",
+        "är långsam, dröjer"
       ]
     },
     {
-      "title": "KORTLEKENS FÄRGER",
+      "title": "TRANSPORTERA GODS",
       "words": [
-        "hjärter",
-        "spader"
+        "frakta",
+        "befordra"
       ],
-      "definition": "en av serierna hjärter, spader, ruter och klöver i en kortlek",
+      "definition": "för, transporterar",
       "word_definitions": [
-        "en av de fyra färgerna i en kortlek",
-        "(kort i) en av de fyra färgerna i kortspel"
+        "transporterar gods",
+        "transporterar"
       ]
     }
   ]

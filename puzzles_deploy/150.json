@@ -1,52 +1,52 @@
 {
-  "pivot": "sänka",
+  "pivot": "pjäs",
   "categories": [
     {
-      "title": "GEOGRAFISKA DALAR",
+      "title": "PYRDNADSFÖREMÅL",
       "words": [
-        "dal",
-        "klyfta"
+        "ornament",
+        "figurin"
       ],
-      "definition": "dal, dalgång",
+      "definition": "föremål som är uppställt som prydnad",
       "word_definitions": [
-        "långsmalt, lägre område mellan två höjder, sänka",
-        "spricka"
+        "utsmyckning, prydnadsmönster",
+        "mindre prydnadsfigur ofta avbild av djur eller människa"
       ]
     },
     {
-      "title": "MEDICINSKA PROV",
+      "title": "TEATERSTYCKEN",
       "words": [
-        "blodprov",
-        "biopsi"
+        "drama",
+        "komedi"
       ],
-      "definition": "ett slags blodprov",
+      "definition": "teaterstycke, skådespel",
       "word_definitions": [
-        "prov av blod för medicinsk undersökning",
-        "(tagning av ett) vävnadsprov"
+        "skådespel, pjäs",
+        "roligt teaterstycke (eller rolig film)"
       ]
     },
     {
-      "title": "MINSKA INTENSITET",
+      "title": "SCHACKPJÄSER",
       "words": [
-        "minska",
-        "reducera"
+        "kung",
+        "löpare"
       ],
-      "definition": "minska omfattningen/storleken av (styrka, intensitet, frekvens et c. hos)",
+      "definition": "figur som man flyttar på ett spelbräde (särskilt i schack)",
       "word_definitions": [
-        "gör mindre, reducerar",
-        "minskar"
+        "ett högt spelkort; den viktigaste pjäsen i schack",
+        "en pjäs i schack"
       ]
     },
     {
-      "title": "GÖRA MÅL",
+      "title": "TUNGA ELDVAPEN",
       "words": [
-        "sätta",
-        "träffa"
+        "kanon",
+        "morter"
       ],
-      "definition": "sätta (bollen) (ned i mål)",
+      "definition": "tyngre eldvapen",
       "word_definitions": [
-        "placerar",
-        "prickar med ett skott"
+        "en kraftig artilleripjäs",
+        "Ett tungt eldvapen med kort pipa och stor kaliber som skjuter projektiler i hög bana för att träffa mål bakom hinder."
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "löser",
+  "pivot": "växel",
   "categories": [
     {
-      "title": "GÖRA FRI",
+      "title": "PLATSER FÖR OMDIRIGERING",
       "words": [
-        "befria",
-        "lossa"
+        "korsning",
+        "förgrening"
       ],
-      "definition": "ger fri",
+      "definition": "ställe där något kopplas om",
       "word_definitions": [
-        "gör fri, räddar",
-        "löser, frigör"
+        "ställe där två gator eller spår korsar varandra",
+        "ställe där något förgrenar sig; nätverk"
       ]
     },
     {
-      "title": "FÅ MOT BETALNING",
+      "title": "DELAR I DRIVLINJEN",
       "words": [
-        "köpa",
-        "förvärva"
+        "koppling",
+        "kardan"
       ],
-      "definition": "får mot betalning",
+      "definition": "anordning som reglerar hjulens varvtal i förhållande till motorns",
       "word_definitions": [
-        "skaffar sig något genom att betala, handlar",
-        "lyckas skaffa sig"
+        "anordning som förmedlar överföringen av kraft i en bil",
+        "anordning för överföring av kraft på en bil"
       ]
     },
     {
-      "title": "BLANDA SAMMAN",
+      "title": "PENGAR I SMÅ VALÖRER",
       "words": [
-        "sammanblanda",
-        "späda"
+        "mynt",
+        "fickpengar"
       ],
-      "definition": "blandar upp",
+      "definition": "pengar i mindre valörer, växelpengar",
       "word_definitions": [
-        "förväxlar, blandar ihop, blandar samman",
-        "blandar med vatten, gör mer utspädd"
+        "betalningsmedel av metall, peng, slant",
+        "småpengar (för barn), veckopengar"
       ]
     },
     {
-      "title": "KLARA AV",
+      "title": "FORMELLA SKULDFÖRBINDELSER",
       "words": [
-        "avhjälpa",
-        "lyckas"
+        "obligation",
+        "skuldebrev"
       ],
-      "definition": "kommer tillrätta med, klarar",
+      "definition": "en sorts skuldförbindelse (särskilt i äldre tid)",
       "word_definitions": [
-        "rättar till",
-        "har framgång; klarar av"
+        "skuldförbindelse som utgör del i större statligt eller kommunalt lån (obligationslån)",
+        "skriftlig förbindelse att betala en skuld, revers"
       ]
     }
   ]

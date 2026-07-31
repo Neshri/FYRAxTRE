@@ -1,52 +1,52 @@
 {
-  "pivot": "lugn",
+  "pivot": "om",
   "categories": [
     {
-      "title": "FRIDFULLA EGENSKAPER",
+      "title": "EN GÅNG TILL",
       "words": [
-        "stillsam",
-        "fredlig"
+        "igen",
+        "åter"
       ],
-      "definition": "som rör sig mycket lite; fridfull",
+      "definition": "på nytt, ännu en gång, om igen",
       "word_definitions": [
-        "stilla, fridsam, lugn (mest om person)",
-        "lugn, stillsam, fridsam"
+        "ännu en gång, åter",
+        "än en gång, igen, på nytt"
       ]
     },
     {
-      "title": "SJÄLVBEHÄRSKAD",
+      "title": "VILLKORLIG KONJUNKTION",
       "words": [
-        "samlad",
-        "stoisk"
+        "ifall",
+        "såvitt"
       ],
-      "definition": "behärskad",
+      "definition": "ifall, såvida",
       "word_definitions": [
-        "behärskad",
-        "lugn och behärskad"
+        "om, såvida",
+        "såvida, om"
       ]
     },
     {
-      "title": "STILLA TILLSTÅND",
+      "title": "RUNT NÅGOT",
       "words": [
-        "frid",
-        "ro"
+        "runt",
+        "kring"
       ],
-      "definition": "mycket lite rörelse; fridfullt tillstånd",
+      "definition": "omkring, runt",
       "word_definitions": [
-        "lugn, ro, fred, stillhet",
-        "lugn och stillhet"
+        "omkring",
+        "runtom"
       ]
     },
     {
-      "title": "KÄNSLOMÄSSIG KONTROLL",
+      "title": "HANDLAR OM",
       "words": [
-        "behärskning",
-        "besinning"
+        "angående",
+        "rörande"
       ],
-      "definition": "behärskning av känslor",
+      "definition": "angående, beträffande",
       "word_definitions": [
-        "kontroll över egna känslor, lugn",
-        "eftertanke, självbehärskning"
+        "om, beträffande",
+        "angående, beträffande"
       ]
     }
   ]

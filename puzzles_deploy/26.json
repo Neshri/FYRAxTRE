@@ -1,52 +1,52 @@
 {
-  "pivot": "fall",
+  "pivot": "vara",
   "categories": [
     {
-      "title": "SÄTT ATT STÖRTA",
+      "title": "KOMMERCIELLA PRODUKTER",
       "words": [
-        "haveri",
-        "ras"
+        "produkt",
+        "artikel"
       ],
-      "definition": "handlingen att störta ner eller ramla",
+      "definition": "ting som köps och säljs",
       "word_definitions": [
-        "det att ett fartyg går under eller ett flygplan störtar",
-        "skred (särskilt av jord, snö eller sten)"
+        "resultat av tillverkning",
+        "(typ av) vara"
       ]
     },
     {
-      "title": "TOTAL UNDERGÅNG",
+      "title": "EXISTERA / FINNAS",
       "words": [
-        "ruin",
-        "kollaps"
+        "finnas",
+        "föreligga"
       ],
-      "definition": "undergång, undergång",
+      "definition": "existera/finnas (i tid eller rum)",
       "word_definitions": [
-        "(ekonomisk) undergång; bankrutt",
-        "plötsligt sammanbrott"
+        "är, existerar, förekommer",
+        "finns, existerar"
       ]
     },
     {
-      "title": "BRANT NEDGÅNG",
+      "title": "SPELA EN ROLL",
       "words": [
-        "brant",
-        "avgrund"
+        "agera",
+        "spela"
       ],
-      "definition": "fors; stup",
+      "definition": "ha eller spela en viss roll i en lek, t.ex. vara den som letar i kurragömma",
       "word_definitions": [
-        "brant sluttning, stup",
-        "stor klyfta, stup"
+        "spelar (rollen av)",
+        "uppför en viss teaterpjäs, agerar i en teaterpjäs eller film"
       ]
     },
     {
-      "title": "HÄNDELSE",
+      "title": "FORTSÄTTA / BESTÅ",
       "words": [
-        "tilldragelse",
-        "begivenhet"
+        "fortsätta",
+        "förbli"
       ],
-      "definition": "händelse, tillfälle; exempel",
+      "definition": "fortsätta verka, hålla i sig",
       "word_definitions": [
-        "händelse",
-        "stor händelse, evenemang"
+        "håller på, håller igång",
+        "är fortfarande, fortsätter att vara"
       ]
     }
   ]

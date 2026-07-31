@@ -1,52 +1,52 @@
 {
-  "pivot": "rak",
+  "pivot": "serie",
   "categories": [
     {
-      "title": "RÄT LINJE",
+      "title": "RAD ELLER FÖLJD",
       "words": [
-        "rät",
-        "linjär"
+        "räcka",
+        "fil"
       ],
-      "definition": "rät",
+      "definition": "rad, följd",
       "word_definitions": [
-        "rak",
-        "som rör räta linjer"
+        "rad, följd",
+        "rad"
       ]
     },
     {
-      "title": "UTAN OMGÅNGSVÄGAR",
+      "title": "TV-FORMAT",
       "words": [
-        "omedelbar",
-        "obetingad"
+        "program",
+        "magasin"
       ],
-      "definition": "absolut, direkt",
+      "definition": "flera sammanhängande tv-program",
       "word_definitions": [
-        "direkt, ögonblicklig",
-        "ovillkorlig, absolut"
+        "radiokanal eller tv-kanal",
+        "program i radio eller tv; tidskrift"
       ]
     },
     {
-      "title": "ÄRLIG OCH TYDLIG",
+      "title": "BILDBERÄTTELSER",
       "words": [
-        "osminkad",
-        "renhårig"
+        "anime",
+        "bilderbok"
       ],
-      "definition": "ärlig, tydlig",
+      "definition": "följd av tecknade bilder som berättar en historia",
       "word_definitions": [
-        "ärlig, verklig",
-        "ärlig, rättvis"
+        "en sorts tecknad film med ursprung i Japan",
+        "bok med mycket bilder"
       ]
     },
     {
-      "title": "I FÖLJD",
+      "title": "TÄVLINGSFORMER",
       "words": [
-        "successiv",
-        "påföljande"
+        "liga",
+        "turnering"
       ],
-      "definition": "i följd, efter varandra",
+      "definition": "tävlingsform där lag tävlar mot varandra efter en viss ordning",
       "word_definitions": [
-        "gradvis, stegvis",
-        "efterkommande"
+        "(icke-svensk) serietävling (särskilt i fotboll)",
+        "tävling där de tävlande (lagen) möts två och två och efterhand blir färre"
       ]
     }
   ]

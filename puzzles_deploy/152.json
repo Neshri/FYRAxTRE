@@ -1,52 +1,52 @@
 {
-  "pivot": "tal",
+  "pivot": "slag",
   "categories": [
     {
-      "title": "TALFÖRMÅGA",
+      "title": "SORT ELLER TYP",
       "words": [
-        "mål",
-        "retorik"
+        "sort",
+        "typ"
       ],
-      "definition": "det att tala; förmåga att tala",
+      "definition": "sort, typ",
       "word_definitions": [
-        "förmåga att tala; språk",
-        "konsten att tala väl och övertyga andra"
+        "slag, typ",
+        "sort, kategori, slag"
       ]
     },
     {
-      "title": "MUNTLIGT FRAMTRÄDANDE",
+      "title": "VIKAD DEL AV PLAGG",
       "words": [
-        "föreläsning",
-        "presentation"
+        "brätte",
+        "revers"
       ],
-      "definition": "muntligt framträdande inför publik",
+      "definition": "del av klädesplagg som vikts (och lagts uppåt eller utåt)",
       "word_definitions": [
-        "muntlig framställning över ett visst ämne, föredrag",
-        "handlingen att presentera någon eller något"
+        "nedre, vågrät del av en hatt (som har vikts ut)",
+        "skuldebrev"
       ]
     },
     {
-      "title": "MATEMATISKA SYMBOLER",
+      "title": "HJÄRNSKADA",
       "words": [
-        "siffra",
-        "nummer"
+        "stroke",
+        "hjärninfarkt"
       ],
-      "definition": "matematisk symbol som bl.a. betecknar antal",
+      "definition": "(anfall av) hjärnblödning",
       "word_definitions": [
-        "antal, summa",
-        "siffra eller grupp av siffror (som t.ex. anger plats i ordningsföljd eller storlek)"
+        "hjärninfarkt; hjärnblödning",
+        "En typ av stroke som uppstår när ett blodkärl i hjärnan täpps till, vilket leder till syrebrist och vävnadsdöd."
       ]
     },
     {
-      "title": "MATTEUPPGIFT",
+      "title": "KORT TIDSRYMD",
       "words": [
-        "övning",
-        "problem"
+        "ögonblick",
+        "sekund"
       ],
-      "definition": "matematisk uppgift",
+      "definition": "kort stund",
       "word_definitions": [
-        "uppgift",
-        "något som kräver (logiskt) tänkande, gåta"
+        "mycket kort tidsperiod",
+        "1/60 minut; kort ögonblick"
       ]
     }
   ]

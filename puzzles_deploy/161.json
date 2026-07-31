@@ -1,52 +1,52 @@
 {
-  "pivot": "täcker",
+  "pivot": "parti",
   "categories": [
     {
-      "title": "TÄCKA NÅGOT",
+      "title": "DEL AV HELHET",
       "words": [
-        "maskera",
-        "bekläda"
+        "bit",
+        "segment"
       ],
-      "definition": "lägger över (för att skydda eller dölja)",
+      "definition": "avgränsad del, stycke",
       "word_definitions": [
-        "förser med förklädnad; kamouflerar, döljer",
-        "innehar"
+        "del, stycke, avsnitt",
+        "avgränsad del av något"
       ]
     },
     {
-      "title": "UTBREDA SIG",
+      "title": "POLITISK SAMMANSLUTNING",
       "words": [
-        "expandera",
-        "löpa"
+        "block",
+        "allians"
       ],
-      "definition": "breder ut sig över",
+      "definition": "politisk sammanslutning (med viss ideologi)",
       "word_definitions": [
-        "breder ut sig, utvidgas, växer",
-        "sträcker sig"
+        "sammanslutning av organisationer eller partier",
+        "(politiskt) förbund"
       ]
     },
     {
-      "title": "BETALA EN SUMMA",
+      "title": "OMGÅNG I SPEL",
       "words": [
-        "bestrida",
-        "pröjsa"
+        "set",
+        "rond"
       ],
-      "definition": "betalar",
+      "definition": "omgång, spel",
       "word_definitions": [
-        "betalar",
-        "betalar"
+        "omgång (i tennis och andra racketspel)",
+        "period av boxningsmatch; omgång"
       ]
     },
     {
-      "title": "JOURNALISTISK BEVAKNING",
+      "title": "MÄNGD AV VARA",
       "words": [
-        "bevaka",
-        "rapportera"
+        "laddning",
+        "sändning"
       ],
-      "definition": "bevakar (som journalist)",
+      "definition": "mängd av en viss vara",
       "word_definitions": [
-        "vaktar; övervakar (och skildrar)",
-        "redogör för"
+        "(stor) mängd av något",
+        "parti av varor som sänds"
       ]
     }
   ]

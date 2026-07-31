@@ -1,52 +1,52 @@
 {
-  "pivot": "block",
+  "pivot": "bock",
   "categories": [
     {
-      "title": "MASSIVA MATERIALSTYCKEN",
+      "title": "HANAR AV DJUR",
       "words": [
-        "tacka",
-        "platta"
+        "bagge",
+        "galt"
       ],
-      "definition": "sammanhängande helhet (av hårt material, t.ex. sten)",
+      "definition": "hane av get",
       "word_definitions": [
-        "gjutet stycke av metall",
-        "jämnt och tunt stycke, skiva"
+        "hane av får",
+        "hane av gris"
       ]
     },
     {
-      "title": "POLITISKA SAMMANSLUTNINGAR",
+      "title": "SEXUELLT AKTIVA MÄN",
       "words": [
-        "union",
-        "förbund"
+        "playboy",
+        "kvinnotjusare"
       ],
-      "definition": "sammanslutning av organisationer eller partier",
+      "definition": "sexuellt (alltför) aktiv man",
       "word_definitions": [
-        "sammanslutning av stater, förbund",
-        "förening av organisationer"
+        "(rik) man som ägnar sig enbart åt nöjen (särskilt kärleksaffärer)",
+        "person som tjusar kvinnor"
       ]
     },
     {
-      "title": "PAPPERSHÄFTEN",
+      "title": "STÖDREDSKAP",
       "words": [
-        "anteckningsbok",
-        "broschyr"
+        "ställ",
+        "stativ"
       ],
-      "definition": "häfte med pappersark",
+      "definition": "stöd (med fyra ben) under t.ex. en bordsskiva",
       "word_definitions": [
-        "bok i vilken man för anteckningar",
-        "tryckt häfte, folder"
+        "plats där man ställer något, stöd",
+        "ställ, ställning"
       ]
     },
     {
-      "title": "LYFTANORDNINGAR",
+      "title": "GYMNASTIKREDSKAP",
       "words": [
-        "talja",
-        "vinsch"
+        "ribbstol",
+        "trapets"
       ],
-      "definition": "lyftanordning med lina och en eller flera trissor",
+      "definition": "ett gymnastikredskap",
       "word_definitions": [
-        "lyftanordning med en lina mellan två block",
-        "anordning som används för att lyfta eller fira ner last, spel"
+        "ett gymnastikredskap som liknar en stege",
+        "stång som hänger i två rep och som används för gymnastiska övningar och uppvisningar"
       ]
     }
   ]

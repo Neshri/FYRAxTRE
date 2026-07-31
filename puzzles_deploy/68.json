@@ -1,52 +1,52 @@
 {
-  "pivot": "kort",
+  "pivot": "post",
   "categories": [
     {
-      "title": "LITEN STORLEK",
+      "title": "KORRESPONDENS",
       "words": [
-        "tunn",
-        "låg"
+        "brev",
+        "mejl"
       ],
-      "definition": "som har liten längd (i tid eller rum)",
+      "definition": "brev eller paket som sänds till en adressat",
       "word_definitions": [
-        "som har liten tjocklek, smal",
-        "som har liten höjd"
+        "skrivet meddelande som läggs i kuvert och skickas med posten",
+        "meddelande som sänds med e-post"
       ]
     },
     {
-      "title": "PAPPERSBITAR",
+      "title": "BOKFÖRINGSTERM",
       "words": [
-        "lapp",
-        "kupong"
+        "saldo",
+        "avgift"
       ],
-      "definition": "litet stycke papper eller plast med viss funktion",
+      "definition": "belopp (i räkenskap e.d.)",
       "word_definitions": [
-        "litet stycke papper",
-        "bit papper som har ett visst värde"
+        "behållning (eller underskott) på ett konto",
+        "ersättning (för en rättighet), betalning, pris"
       ]
     },
     {
-      "title": "KORTLEKENS FIGURER",
+      "title": "DEL AV DÖRRKARM",
       "words": [
-        "kung",
-        "dam"
+        "tröskel",
+        "gångjärn"
       ],
-      "definition": "spelkort",
+      "definition": "lodrät del av karm (till dörr eller fönster)",
       "word_definitions": [
-        "ett högt spelkort; den viktigaste pjäsen i schack",
-        "ett högt spelkort"
+        "upphöjd bräda på golvet i dörröppning",
+        "anordning som en dörr eller ett fönster hänger på"
       ]
     },
     {
-      "title": "BILDTYPER",
+      "title": "YRKESROLL",
       "words": [
-        "illustration",
-        "tavla"
+        "befattning",
+        "ämbete"
       ],
-      "definition": "foto, bild",
+      "definition": "(högre) tjänst",
       "word_definitions": [
-        "bild",
-        "bild, målning"
+        "sysselsättning, (högre) tjänst, arbete",
+        "(hög) statlig eller kyrklig tjänst"
       ]
     }
   ]

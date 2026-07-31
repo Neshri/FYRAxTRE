@@ -1,52 +1,52 @@
 {
-  "pivot": "grund",
+  "pivot": "rak",
   "categories": [
     {
-      "title": "LÅGT DJUP",
+      "title": "RÄT LINJE",
       "words": [
-        "ytlig",
-        "flack"
+        "rät",
+        "linjär"
       ],
-      "definition": "inte djup",
+      "definition": "rät",
       "word_definitions": [
-        "som inte går på djupet, flyktig",
-        "plan och öppen, jämn"
+        "rak",
+        "som rör räta linjer"
       ]
     },
     {
-      "title": "BAS OCH UNDERLAG",
+      "title": "UTAN OMGÅNGSVÄGAR",
       "words": [
-        "fundament",
-        "sockel"
+        "omedelbar",
+        "obetingad"
       ],
-      "definition": "underlag, botten",
+      "definition": "absolut, direkt",
       "word_definitions": [
-        "grund, underlag",
-        "underlag, fundament"
+        "direkt, ögonblicklig",
+        "ovillkorlig, absolut"
       ]
     },
     {
-      "title": "ORSAK TILL NÅGOT",
+      "title": "ÄRLIG OCH TYDLIG",
       "words": [
-        "skäl",
-        "orsak"
+        "osminkad",
+        "renhårig"
       ],
-      "definition": "orsak, anledning",
+      "definition": "ärlig, tydlig",
       "word_definitions": [
-        "anledning, orsak",
-        "skäl, anledning"
+        "ärlig, verklig",
+        "ärlig, rättvis"
       ]
     },
     {
-      "title": "UNDERVATTENHINDER",
+      "title": "I FÖLJD",
       "words": [
-        "rev",
-        "sandbank"
+        "successiv",
+        "påföljande"
       ],
-      "definition": "skär, rev, grynna",
+      "definition": "i följd, efter varandra",
       "word_definitions": [
-        "långsträckt grund",
-        "ansamling av sand eller grus /i vattendrag eller hav/"
+        "gradvis, stegvis",
+        "efterkommande"
       ]
     }
   ]

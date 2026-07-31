@@ -1,52 +1,52 @@
 {
-  "pivot": "program",
+  "pivot": "dryg",
   "categories": [
     {
-      "title": "PLAN FÖR GENOMFÖRANDE",
+      "title": "STORT MÅTT",
       "words": [
-        "strategi",
-        "handlingsplan"
+        "ymnig",
+        "generös"
       ],
-      "definition": "plan eller översikt över hur något ska genomföras",
+      "definition": "riklig, rundlig (om tid, mått och vikt)",
       "word_definitions": [
-        "långsiktig plan för att genomföra något",
-        "plan för verksamhet (som finns till eller skapas för att man vill förändra något)"
+        "överflödande, riklig",
+        "frikostig, rundhänt, givmild; storsint"
       ]
     },
     {
-      "title": "TV- OCH RADIOPROGRAM",
+      "title": "LÅNGVARIGT",
       "words": [
-        "magasin",
-        "feature"
+        "långvarig",
+        "hållbar"
       ],
-      "definition": "enskild sändning i radio eller tv",
+      "definition": "som räcker länge",
       "word_definitions": [
-        "program i radio eller tv; tidskrift",
-        "radio- eller tv-program med inslag av dokumentärt och dramatiserat material; stort reportage i tidning"
+        "som varar länge",
+        "som inte lätt förstörs"
       ]
     },
     {
-      "title": "DATORKOD",
+      "title": "BESVÄRLIGT",
       "words": [
-        "mjukvara",
-        "källkod"
+        "jobbig",
+        "mödosam"
       ],
-      "definition": "instruktion för en dator",
+      "definition": "besvärlig, betungande",
       "word_definitions": [
-        "program till en dator, programvara",
-        "instruktioner i ett visst programspråk"
+        "besvärlig",
+        "ansträngande, besvärlig"
       ]
     },
     {
-      "title": "UTBILDNINGSVAL",
+      "title": "HÖGFÄRDIGT",
       "words": [
-        "linje",
-        "profil"
+        "uppblåst",
+        "kaxig"
       ],
-      "definition": "inriktning av utbildning (särskilt på gymnasiet och universitetet)",
+      "definition": "högfärdig, mallig",
       "word_definitions": [
-        "kurs, inriktning",
-        "typiskt kännetecken, karaktär"
+        "högfärdig, mallig",
+        "som försöker hävda sig, mallig, tuff"
       ]
     }
   ]

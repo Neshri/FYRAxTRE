@@ -1,52 +1,52 @@
 {
-  "pivot": "sats",
+  "pivot": "vid",
   "categories": [
     {
-      "title": "LINGVISTISKA ENHETER",
+      "title": "STOR UTSTRÄCKNING",
       "words": [
-        "fras",
-        "ord"
+        "bred",
+        "rymlig"
       ],
-      "definition": "större del av en mening (som ofta själv kan utgöra en mening)",
+      "definition": "som har stor omkrets eller stor utbredning",
       "word_definitions": [
-        "del av mening, talesätt, uttryck",
-        "minsta självständiga enhet i en text (med mellanrum före och efter)"
+        "stor, omfattande; mångsidig",
+        "som rymmer mycket, stor, vid"
       ]
     },
     {
-      "title": "SAMLING AV SAKER",
+      "title": "NÄRA NÅGOT",
       "words": [
-        "set",
-        "parti"
+        "intill",
+        "jämte"
       ],
-      "definition": "uppsättning av något, omgång",
+      "definition": "bredvid, intill",
       "word_definitions": [
-        "omgång (i tennis och andra racketspel)",
-        "omgång, spel"
+        "bredvid, invid",
+        "bredvid"
       ]
     },
     {
-      "title": "BESTÄMD ANDEL",
+      "title": "UNGEFÄRLIGT",
       "words": [
-        "kvot",
-        "tilldelning"
+        "cirka",
+        "ungefär"
       ],
-      "definition": "bestämd andel",
+      "definition": "omkring, ungefär; i samband med",
       "word_definitions": [
-        "bestämt antal",
-        "vars och ens fastställda andel, ranson"
+        "ungefär, omkring",
+        "omkring, cirka"
       ]
     },
     {
-      "title": "DELAR AV ETT KONSTVERK",
+      "title": "GÄLLENDE NÅGOT",
       "words": [
-        "final",
-        "akt"
+        "beträffande",
+        "angående"
       ],
-      "definition": "del av ett större musikverk",
+      "definition": "med avseende på, när det gäller, ifråga om",
       "word_definitions": [
-        "sista del av musikstycke",
-        "del av en teaterpjäs"
+        "i fråga om, angående",
+        "om, beträffande"
       ]
     }
   ]

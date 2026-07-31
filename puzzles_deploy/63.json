@@ -1,52 +1,52 @@
 {
-  "pivot": "knäpper",
+  "pivot": "lätt",
   "categories": [
     {
-      "title": "SKARPA LJUD",
+      "title": "BEKYMMERSLÖS",
       "words": [
-        "klicka",
-        "smälla"
+        "sorglös",
+        "avslappnad"
       ],
-      "definition": "ger ifrån sig ett knäpp",
+      "definition": "obekymrad",
       "word_definitions": [
-        "knäpper metalliskt",
-        "ger ifrån sig en hård knall"
+        "bekymmerslös, glad",
+        "lugn, avspänd"
       ]
     },
     {
-      "title": "TA BILDER",
+      "title": "ENKELT OCH RAKT",
       "words": [
-        "fotografera",
-        "trycka"
+        "enkel",
+        "okomplicerad"
       ],
-      "definition": "trycker på knappen på kameran (för att ta ett foto)",
+      "definition": "enkel, okomplicerad",
       "word_definitions": [
-        "tar bilder med kamera, fotar",
-        "utövar tryck, pressar"
+        "lätt att förstå, okomplicerad",
+        "inte komplicerad, enkel"
       ]
     },
     {
-      "title": "AVFYRA VAPEN",
+      "title": "OBETYDLIG",
       "words": [
-        "panga",
-        "lossa"
+        "ringa",
+        "marginell"
       ],
-      "definition": "skjuter ner",
+      "definition": "obetydlig",
       "word_definitions": [
-        "smäller, skjuter",
-        "skjuter av, avlossar"
+        "liten, obetydlig",
+        "inte viktig, obetydlig"
       ]
     },
     {
-      "title": "FÄSTA IHOP",
+      "title": "OFTA ELLER GÄRNA",
       "words": [
-        "knyta",
-        "binda"
+        "gärna",
+        "vanligen"
       ],
-      "definition": "fäster ihop med en knapp; knyter samman",
+      "definition": "ofta; gärna",
       "word_definitions": [
-        "binder ihop med en knut, pressar samman",
-        "knyter, fäster, surrar"
+        "ofta, lätt",
+        "för det mesta, oftast, mestadels, vanligtvis"
       ]
     }
   ]

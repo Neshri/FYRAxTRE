@@ -1,52 +1,52 @@
 {
-  "pivot": "väg",
+  "pivot": "plats",
   "categories": [
     {
-      "title": "VÄGTYPER",
+      "title": "GEOGRAFISK POSITION",
       "words": [
-        "aveny",
-        "stig"
+        "läge",
+        "position"
       ],
-      "definition": "långt, smalt stycke (belagd) mark som man kan färdas på med fordon, gata",
+      "definition": "område med ett bestämt läge",
       "word_definitions": [
-        "bred gata (ofta med träd), boulevard",
-        "smal gångväg (ofta i skogen)"
+        "placering",
+        "ställning, läge"
       ]
     },
     {
-      "title": "AVSTÅNDSMÅTT",
+      "title": "LEDIGT UTRYMME",
       "words": [
-        "distans",
-        "sträcka"
+        "rum",
+        "yta"
       ],
-      "definition": "resa; avstånd, distans",
+      "definition": "ledigt utrymme",
       "word_definitions": [
-        "avstånd, sträcka",
-        "stycke väg, avstånd"
+        "plats, utrymme",
+        "areal, area; utrymme"
       ]
     },
     {
-      "title": "RUTTER OCH BANOR",
+      "title": "ARBETSROLL",
       "words": [
-        "bana",
-        "stråk"
+        "tjänst",
+        "jobb"
       ],
-      "definition": "färdriktning, färdväg",
+      "definition": "anställning",
       "word_definitions": [
-        "färdväg",
-        "väg"
+        "anställning",
+        "anställning; arbetstillfälle"
       ]
     },
     {
-      "title": "METODER OCH SÄTT",
+      "title": "TÄVLINGSRESULTAT",
       "words": [
-        "medel",
-        "metod"
+        "ställning",
+        "rangordning"
       ],
-      "definition": "sätt, metod",
+      "definition": "placering i tävling",
       "word_definitions": [
-        "sätt, metod",
-        "(systematiskt) sätt att utföra något"
+        "läge i en tävling",
+        "placering efter rang"
       ]
     }
   ]

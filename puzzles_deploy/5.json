@@ -1,52 +1,52 @@
 {
-  "pivot": "bank",
+  "pivot": "blåsa",
   "categories": [
     {
-      "title": "UNDERSJÖISK UPPHÖJNING",
+      "title": "HUDUTSLAG",
       "words": [
-        "vall",
-        "grund"
+        "utslag",
+        "böld"
       ],
-      "definition": "upphöjning av botten (i hav eller sjö)",
+      "definition": "liten rundad böld på huden som innehåller vätska, orsakad av retning eller infektion",
       "word_definitions": [
-        "långsträckt upphöjning (ofta av jord eller sand)",
-        "underlag, botten"
+        "blåsor eller irritation på huden",
+        "varbildning, bulnad"
       ]
     },
     {
-      "title": "MOLNFORMATIONER",
+      "title": "KVINNOLIG KLÄDSEL",
       "words": [
-        "sky",
-        "dimma"
+        "dress",
+        "stass"
       ],
-      "definition": "kompakt samling av moln",
+      "definition": "klänning",
       "word_definitions": [
-        "moln",
-        "en sorts moln nära marken, dis, tjocka"
+        "dräkt",
+        "fina kläder"
       ]
     },
     {
-      "title": "FINANSIELLA INSTITUTIONER",
+      "title": "UTANDNINGSHANDLING",
       "words": [
-        "finansiär",
-        "kreditinstitut"
+        "utandas",
+        "frusta"
       ],
-      "definition": "företag som lånar och lånar ut pengar",
+      "definition": "skicka ut en kraftig luftström genom munnen med hjälp av lungorna; andas ut kraftigt",
       "word_definitions": [
-        "person som finansierar något",
-        "Ett finansiellt företag som bedriver verksamhet med att bevilja krediter och ofta ta emot insättningar, exempelvis en bank eller ett kreditmarknadsbolag."
+        "låter luften strömma ut ur lungorna, andas ut",
+        "stöter ut luft genom nästan sluten mun"
       ]
     },
     {
-      "title": "LAGRINGSPLATSER",
+      "title": "INRE ORGAN",
       "words": [
-        "lager",
-        "magasin"
+        "magsäck",
+        "lunga"
       ],
-      "definition": "förråd",
+      "definition": "inre rundad bildning för vätska eller gas, som självständigt ord ofta om urinblåsan",
       "word_definitions": [
-        "förråd, magasin",
-        "förrådshus, förvaringsrum"
+        "ett organ i kroppen där maten hamnar och delas upp, mage",
+        "organ att andas med hos människan (och de högre djuren)"
       ]
     }
   ]

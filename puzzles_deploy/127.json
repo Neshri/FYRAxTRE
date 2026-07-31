@@ -1,52 +1,52 @@
 {
-  "pivot": "skjuter",
+  "pivot": "tur",
   "categories": [
     {
-      "title": "AVFYRA VAPEN",
+      "title": "KORT RESA",
       "words": [
-        "avlossa",
-        "fälla"
+        "utflykt",
+        "tripp"
       ],
-      "definition": "avlossar skott (ibland så att någon dör)",
+      "definition": "kort resa, utflykt, tripp",
       "word_definitions": [
-        "skjuter ett skott, avfyrar",
-        "dödar"
+        "kort resa för nöjes skull",
+        "kort nöjesresa, tur"
       ]
     },
     {
-      "title": "FÖRFLYTTA NÅGOT",
+      "title": "SCHEMALAGD RESA",
       "words": [
-        "dra",
-        "föra"
+        "avgång",
+        "förbindelse"
       ],
-      "definition": "förflyttar (utan att lyfta)",
+      "definition": "färd enligt tidtabell",
       "word_definitions": [
-        "förflyttar sig",
-        "fraktar, förflyttar"
+        "avfärd från en plats, start",
+        "samband, kontakt"
       ]
     },
     {
-      "title": "DRÖJA MED NÅGOT",
+      "title": "LYCKA OCH SLUMP",
       "words": [
-        "förhala",
-        "senarelägga"
+        "medgång",
+        "lycka"
       ],
-      "definition": "senarelägger, uppskjuter",
+      "definition": "det att gynnas av slumpen, lycka",
       "word_definitions": [
-        "fördröjer, uppskjuter",
-        "uppskjuter"
+        "framgång, lycka",
+        "tur, framgång"
       ]
     },
     {
-      "title": "RÖRA SIG SNABBT",
+      "title": "ORDNINGSFÖLJD",
       "words": [
-        "susa",
-        "rusa"
+        "ordning",
+        "placering"
       ],
-      "definition": "rör sig snabbt",
+      "definition": "plats i en viss följd, ordning",
       "word_definitions": [
-        "rör sig snabbt",
-        "springer mycket fort"
+        "normal följd, turordning",
+        "plats (ofta i någon sorts rangordning)"
       ]
     }
   ]

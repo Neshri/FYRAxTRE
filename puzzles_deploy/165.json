@@ -1,52 +1,52 @@
 {
-  "pivot": "vara",
+  "pivot": "hacka",
   "categories": [
     {
-      "title": "HANDELSVAROR",
+      "title": "TRÄDGARDSREDSKAP",
       "words": [
-        "ting",
-        "sak"
+        "kratta",
+        "spade"
       ],
-      "definition": "föremål som köps eller säljs, artikel",
+      "definition": "ett verktyg som används för att luckra upp jord",
       "word_definitions": [
-        "sak, föremål",
-        "föremål"
+        "ett redskap för att rensa och jämna ut jord",
+        "ett redskap att gräva med"
       ]
     },
     {
-      "title": "EXISTENS / TILLVARA",
+      "title": "DATORINTRÅNG",
       "words": [
-        "tillvaro",
-        "verklighet"
+        "knäcka",
+        "intränga"
       ],
-      "definition": "tillstånd att existera; det som existerar",
+      "definition": "bryta sig in i olika system",
       "word_definitions": [
-        "existens, liv",
-        "det som existerar eller är sant, realitet"
+        "besegrar, bryter ner",
+        "obehörig beträda"
       ]
     },
     {
-      "title": "VÅRD OCH FÖRVARING",
+      "title": "FYSISK ATTACK",
       "words": [
-        "förvaring",
-        "skötsel"
+        "picka",
+        "knipa"
       ],
-      "definition": "vård, förvar",
+      "definition": "angripa varandra med näbben, nypas, trakassera",
       "word_definitions": [
-        "förvar",
-        "vård"
+        "plockar upp föda med näbben",
+        "klämmer, nyper"
       ]
     },
     {
-      "title": "PLACERING I RUMMET",
+      "title": "PENGAR SLANG",
       "words": [
-        "vistas",
-        "ligga"
+        "kosing",
+        "klöver"
       ],
-      "definition": "ha eller ta en plats i tid eller rum; befinna sig",
+      "definition": "mindre summa pengar",
       "word_definitions": [
-        "uppehåller sig, bor tillfälligt",
-        "är i vågrätt läge, vilar; är placerad"
+        "pengar",
+        "pengar"
       ]
     }
   ]

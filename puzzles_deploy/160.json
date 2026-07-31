@@ -1,52 +1,52 @@
 {
-  "pivot": "tur",
+  "pivot": "vila",
   "categories": [
     {
-      "title": "KORT RESA",
+      "title": "TILLSTÅND AV LUGN",
       "words": [
-        "utflykt",
-        "tripp"
+        "frid",
+        "ro"
       ],
-      "definition": "kort resa, utflykt, tripp",
+      "definition": "tillstånd då någon eller något vilar, stillhet, avkoppling",
       "word_definitions": [
-        "kort resa för nöjes skull",
-        "kort nöjesresa, tur"
+        "lugn, ro, fred, stillhet",
+        "lugn och stillhet"
       ]
     },
     {
-      "title": "SCHEMALAGD RESA",
+      "title": "VARA STATISK",
       "words": [
-        "avgång",
-        "förbindelse"
+        "stanna",
+        "dröja"
       ],
-      "definition": "färd enligt tidtabell",
+      "definition": "vara kvar i samma läge i förhållande till något annat",
       "word_definitions": [
-        "avfärd från en plats, start",
-        "samband, kontakt"
+        "blir kvar",
+        "avvaktar, väntar"
       ]
     },
     {
-      "title": "LYCKA OCH SLUMP",
+      "title": "SÖMN OCH ÅTERHÄMTNING",
       "words": [
-        "medgång",
-        "lycka"
+        "sova",
+        "konvalescera"
       ],
-      "definition": "det att gynnas av slumpen, lycka",
+      "definition": "vara (mer eller mindre) inaktiv i syfte att återhämta sig",
       "word_definitions": [
-        "framgång, lycka",
-        "tur, framgång"
+        "är i ett tillstånd av sömn, slumrar",
+        "Att återhämta sig efter en sjukdom eller skada."
       ]
     },
     {
-      "title": "ORDNINGSFÖLJD",
+      "title": "VARA STÖDD AV",
       "words": [
-        "ordning",
-        "placering"
+        "ligga",
+        "luta"
       ],
-      "definition": "plats i en viss följd, ordning",
+      "definition": "stödjas mot; hållas uppe av; bäras av",
       "word_definitions": [
-        "normal följd, turordning",
-        "plats (ofta i någon sorts rangordning)"
+        "är i vågrätt läge, vilar; är placerad",
+        "står snett"
       ]
     }
   ]

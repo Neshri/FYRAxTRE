@@ -1,52 +1,52 @@
 {
-  "pivot": "god",
+  "pivot": "med",
   "categories": [
     {
-      "title": "KÄRLIGA KÄNSLOR",
+      "title": "I SÄLLSKAP",
       "words": [
-        "förälskad",
-        "förtjust"
+        "tillsammans",
+        "ihop"
       ],
-      "definition": "kär",
+      "definition": "i samverkan, i sällskap",
       "word_definitions": [
-        "kär",
-        "förälskad"
+        "i sällskap, ihop",
+        "tillsammans, samman"
       ]
     },
     {
-      "title": "MORALISK KARAKTÄR",
+      "title": "YTTERLIGARE TILLÄGG",
       "words": [
-        "ädel",
-        "sedlig"
+        "även",
+        "också"
       ],
-      "definition": "moraliskt högtstående",
+      "definition": "också",
       "word_definitions": [
-        "moraliskt högtstående, ridderlig",
-        "moraliskt högtstående (i sexuellt avseende)"
+        "också",
+        "även, dessutom"
       ]
     },
     {
-      "title": "SÖTA EGENSKAPER",
+      "title": "MED HJÄLP AV",
       "words": [
-        "gullig",
-        "älskvärd"
+        "medelst",
+        "genom"
       ],
-      "definition": "tilltalande, söt",
+      "definition": "genom att använda",
       "word_definitions": [
-        "rar, söt",
-        "vänlig, charmerande"
+        "med hjälp av, genom",
+        "med hjälp av, med"
       ]
     },
     {
-      "title": "VÄLSMAKANDE MAT",
+      "title": "GLIDSKENA",
       "words": [
-        "delikat",
-        "aptitlig"
+        "räls",
+        "skena"
       ],
-      "definition": "välsmakande, läcker",
+      "definition": "skena som en spark eller en kälke glider på",
       "word_definitions": [
-        "läcker, välsmakande",
-        "som smakar gott, välsmakande"
+        "spår, skena",
+        "långt och smalt (metall)stycke som något glider på, räls"
       ]
     }
   ]

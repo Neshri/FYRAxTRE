@@ -1,52 +1,52 @@
 {
-  "pivot": "driver",
+  "pivot": "arbete",
   "categories": [
     {
-      "title": "TVINGA NÅGON",
+      "title": "YRKESMÄSSIG ROLL",
       "words": [
-        "förplikta",
-        "nödga"
+        "jobb",
+        "befattning"
       ],
-      "definition": "föser, tvingar",
+      "definition": "tjänst, anställning, yrke",
       "word_definitions": [
-        "ålägger, tvingar",
-        "tvingar, förmår"
+        "anställning; arbetstillfälle",
+        "sysselsättning, (högre) tjänst, arbete"
       ]
     },
     {
-      "title": "UTÖVA PÅVERKAN",
+      "title": "PLATS FÖR ARBETE",
       "words": [
-        "inverka",
-        "influera"
+        "kontor",
+        "verkstad"
       ],
-      "definition": "påverkar",
+      "definition": "arbetsplats, jobb",
       "word_definitions": [
-        "påverkar",
-        "inverkar på, påverkar"
+        "arbetsplats för tjänstemän, expedition",
+        "arbetsplats för mekaniska arbeten"
       ]
     },
     {
-      "title": "UTÖVA VERKSAMHET",
+      "title": "SKAPAT RESULTAT",
       "words": [
-        "utöva",
-        "idka"
+        "verk",
+        "alster"
       ],
-      "definition": "ägnar sig åt, bedriver",
+      "definition": "produkt, alster, verk",
       "word_definitions": [
-        "bedriver verksamhet",
-        "sysslar med, bedriver"
+        "produkt av arbete, alster",
+        "något som skapats, produkt"
       ]
     },
     {
-      "title": "SKÄMTA OCH SKOJA",
+      "title": "AKTIV VERKSAMHET",
       "words": [
-        "skoja",
-        "skämta"
+        "aktivitet",
+        "operation"
       ],
-      "definition": "skojar, skämtar",
+      "definition": "verksamhet, jobb",
       "word_definitions": [
-        "skämtar",
-        "säger lustigheter, skojar"
+        "verksamhet, sysselsättning",
+        "uppgift, arbete"
       ]
     }
   ]

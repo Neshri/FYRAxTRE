@@ -1,52 +1,52 @@
 {
-  "pivot": "skada",
+  "pivot": "snurra",
   "categories": [
     {
-      "title": "KROPPSSKADA",
+      "title": "BARNLEKSAKER",
       "words": [
-        "blessyr",
-        "fraktur"
+        "drake",
+        "skallra"
       ],
-      "definition": "(ben)brott; sår",
+      "definition": "en leksak som snurrar snabbt",
       "word_definitions": [
-        "(lättare) sår",
-        "brott i skelettets ben, benbrott"
+        "en leksak som fungerar som ett slags segelflygplan",
+        "skramlande leksak för spädbarn"
       ]
     },
     {
-      "title": "MATERIELL ÅVERKAN",
+      "title": "DRIVSYSTEM",
       "words": [
-        "vandalism",
-        "rasering"
+        "dieselmotor",
+        "turbin"
       ],
-      "definition": "åverkan",
+      "definition": "utombordsmotor",
       "word_definitions": [
-        "meningslös förstörelse",
-        "Handlingen att riva, förstöra eller jämna med marken en fysisk struktur eller byggnad."
+        "motor som drivs med dieselolja",
+        "anordning som omvandlar energin från strömmande vatten eller gas till elektricitet"
       ]
     },
     {
-      "title": "BEKLAGLIGT FÖRHÅLLANDE",
+      "title": "SÄTTA I RÖRELSE",
       "words": [
-        "olycka",
-        "tragedi"
+        "dreja",
+        "vispa"
       ],
-      "definition": "förhållande som man beklagar, synd",
+      "definition": "få något att rotera",
       "word_definitions": [
-        "plågsam eller tragisk händelse som inträffar utan mänskligt uppsåt",
-        "sorglig händelse"
+        "formar lergods på roterande skiva",
+        "får att rotera eller virvla (med visp)"
       ]
     },
     {
-      "title": "TEKNISK BRIST",
+      "title": "PRATA STRUNT",
       "words": [
-        "fel",
-        "defekt"
+        "svamla",
+        "yra"
       ],
-      "definition": "fel på något eller något som gått sönder eller blivit förstört (som orsakats vid ett särskilt tillfälle)",
+      "definition": "prata strunt; trassla in sig i ett resonemang",
       "word_definitions": [
-        "handling som inte är korrekt, misstag",
-        "fel, brist"
+        "pratar strunt",
+        "pratar strunt"
       ]
     }
   ]

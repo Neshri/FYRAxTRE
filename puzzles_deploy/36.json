@@ -1,52 +1,52 @@
 {
-  "pivot": "fält",
+  "pivot": "föda",
   "categories": [
     {
-      "title": "ÖPPNA LANDOMRÅDEN",
+      "title": "SAKER MAN ÄTER",
       "words": [
-        "slätt",
-        "mark"
+        "livsmedel",
+        "proviant"
       ],
-      "definition": "öppet, plant område; åker; yta",
+      "definition": "mat och dryck; livsmedel; sådant man äter, för att få i sig näring",
       "word_definitions": [
-        "större område med plan mark (utan många träd)",
-        "jordens yta"
+        "mat, föda",
+        "förråd av mat (särskilt på en resa), livsmedel"
       ]
     },
     {
-      "title": "KVADRATISKA FORMER",
+      "title": "GE UPPHOP TILL",
       "words": [
-        "fyrkant",
-        "ruta"
+        "grundlägga",
+        "väcka"
       ],
-      "definition": "liten kvadrat",
+      "definition": "ge upphov till",
       "word_definitions": [
-        "ruta, kvadrat",
-        "(liten) fyrkant"
+        "inrättar; ger upphov till",
+        "ger upphov till, framkallar"
       ]
     },
     {
-      "title": "VERKSAMHETSOMRÅDEN",
+      "title": "GE MAT TILL DJUR",
       "words": [
-        "fack",
-        "gren"
+        "fodra",
+        "mata"
       ],
-      "definition": "område för viss verksamhet",
+      "definition": "utfodra",
       "word_definitions": [
-        "verksamhetsområde, ämne, yrke",
-        "förgrening, avdelning"
+        "ger foder",
+        "ger mat eller foder åt"
       ]
     },
     {
-      "title": "MILITÄRA PLATSER",
+      "title": "FÖRSÖRJA MED MAT",
       "words": [
-        "bas",
-        "front"
+        "försörja",
+        "nära"
       ],
-      "definition": "(plats för) krig eller militär övning",
+      "definition": "(om gårdar, landsändor, länder, och jorden) tillhandahålla mat till",
       "word_definitions": [
-        "militär anläggning (ofta utanför det egna landet)",
-        "främsta stridslinje"
+        "ansvarar för uppehälle för",
+        "ger föda, ger näring"
       ]
     }
   ]

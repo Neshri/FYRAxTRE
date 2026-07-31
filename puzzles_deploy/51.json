@@ -1,52 +1,52 @@
 {
-  "pivot": "håller",
+  "pivot": "leda",
   "categories": [
     {
-      "title": "TA TAG I",
+      "title": "STARK MOTVILJA",
       "words": [
-        "gripa",
-        "fatta"
+        "avsky",
+        "äckel"
       ],
-      "definition": "har i handen, griper, fattar",
+      "definition": "känsla av stark olust, motvilja eller uttråkning för att man har fått för mycket av något",
       "word_definitions": [
-        "hugger tag i, tar, fattar",
-        "tar, griper"
+        "motvilja, avsmak, hat",
+        "(känsla av) illamående, avsky"
       ]
     },
     {
-      "title": "STOPPA RÖRELSE",
+      "title": "ANSVARA FÖR",
       "words": [
-        "hejda",
-        "blockera"
+        "förvalta",
+        "sköta"
       ],
-      "definition": "hindrar från att röra sig",
+      "definition": "styra (andra människor, individuellt eller en grupp); ha bestämmande inflytande över; ansvara för",
       "word_definitions": [
-        "stoppar, hindrar",
-        "spärrar av, hindrar"
+        "sköter eller tar hand om någons egendom, administrerar",
+        "vårdar, ger tillsyn; ansvarar för, tar hand om"
       ]
     },
     {
-      "title": "TÅLA SLITAGE",
+      "title": "VISA VÄGEN",
       "words": [
-        "tåla",
-        "bestå"
+        "lotsa",
+        "hjälpa"
       ],
-      "definition": "blir inte förstörd, går inte sönder, är stark nog",
+      "definition": "vägleda, visa vägen, hjälpa",
       "word_definitions": [
-        "är inte känslig eller allergisk mot",
-        "står fast, är oförändrad"
+        "vägleder",
+        "ger hjälp, bistår"
       ]
     },
     {
-      "title": "GENOMFÖRA EVENT",
+      "title": "ÖVERFÖRA ENERGI",
       "words": [
-        "arrangera",
-        "utföra"
+        "överföra",
+        "transportera"
       ],
-      "definition": "utför; anordnar",
+      "definition": "överföra, (ha förmåga att) vidarebefordra elektricitet eller värme",
       "word_definitions": [
-        "anordnar, ordnar, planerar",
-        "gör, genomför"
+        "flyttar från en punkt till en annan",
+        "förflyttar gods eller passagerare"
       ]
     }
   ]

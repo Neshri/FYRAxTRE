@@ -1,52 +1,52 @@
 {
-  "pivot": "skiva",
+  "pivot": "låter",
   "categories": [
     {
-      "title": "FESTLIGT TILLFÄLLE",
+      "title": "GE IFRÅN SIG LJUD",
       "words": [
-        "partaj",
-        "samkväm"
+        "ljuda",
+        "klinga"
       ],
-      "definition": "fest",
+      "definition": "hörs, ljuder",
       "word_definitions": [
-        "party",
-        "enklare fest"
+        "hörs, låter",
+        "ger ifrån sig klara toner"
       ]
     },
     {
-      "title": "MUSIKBÄRARE",
+      "title": "FÖREFALLA VARA",
       "words": [
-        "stenkaka",
-        "cd"
+        "tyckas",
+        "verka"
       ],
-      "definition": "grammofonskiva eller cd-skiva",
+      "definition": "verkar vara, förefaller",
       "word_definitions": [
-        "gammal grammofonskiva",
-        "cd-spelare"
+        "verkar, synes, förefaller",
+        "ser ut, tycks, förefaller"
       ]
     },
     {
-      "title": "RYGGENS BROSK",
+      "title": "TILLLÅTA NÅGOT",
       "words": [
-        "disk",
-        "menisk"
+        "medge",
+        "sanktionera"
       ],
-      "definition": "platta av brosk mellan kotorna i ryggraden",
+      "definition": "går med på, tillåter",
       "word_definitions": [
-        "en sorts platta mellan ryggradens kotor",
-        "en sorts skiva av brosk i knäleden"
+        "ger möjlighet till, tillåter",
+        "tillåter, godtar"
       ]
     },
     {
-      "title": "RUNDA FÖREMÅL",
+      "title": "SE TILL ATT",
       "words": [
-        "ring",
-        "tallrik"
+        "tillse",
+        "verkställa"
       ],
-      "definition": "platt föremål, eller föremål som förefaller platt, ofta cirkelformat och/eller roterande",
+      "definition": "ser till att något blir gjort",
       "word_definitions": [
-        "(föremål med) form som liknar en cirkel",
-        "(mindre) fat där maten till en person läggs upp, fat"
+        "tar på sig ansvaret för, ser till",
+        "ser till att ett beslut blir genomfört"
       ]
     }
   ]

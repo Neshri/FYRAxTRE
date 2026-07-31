@@ -22,8 +22,22 @@ or just don't commit them to the deployed branch).
 """
 
 import argparse
+import hashlib
 import json
 from pathlib import Path
+
+
+def get_puzzle_hash(path: Path) -> str:
+    """
+    Returns a deterministic SHA-256 hash of a JSON puzzle file.
+    Normalizes the JSON (sorted keys, no spaces) before hashing so that
+    trivial formatting differences don't change the hash.
+    """
+    with path.open(encoding="utf-8") as f:
+        puzzle = json.load(f)
+    
+    normalized_json = json.dumps(puzzle, ensure_ascii=False, sort_keys=True, separators=(',', ':'))
+    return hashlib.sha256(normalized_json.encode("utf-8")).hexdigest()
 
 
 def main():
@@ -45,7 +59,17 @@ def main():
     files = [f for f in files if f.name != "index.json"]  # skip old build_puzzles.py index, if present
     words = [f.stem for f in files]
 
-    new_words = sorted(w for w in words if w not in id_map)
+    # Find new words that need an ID
+    new_words_unsorted = [w for w in words if w not in id_map]
+    
+    # Sort new words by the hash of their puzzle content.
+    # We use a tuple (hash, word) to guarantee stable determinism in the rare event of a hash collision.
+    def sort_key(word):
+        path = args.source_dir / f"{word}.json"
+        return (get_puzzle_hash(path), word)
+        
+    new_words = sorted(new_words_unsorted, key=sort_key)
+
     next_id = (max(id_map.values()) + 1) if id_map else 1
     for w in new_words:
         id_map[w] = next_id

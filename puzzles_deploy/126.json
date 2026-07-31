@@ -1,52 +1,52 @@
 {
-  "pivot": "skiva",
+  "pivot": "driva",
   "categories": [
     {
-      "title": "FESTLIGHETER",
+      "title": "VANDRA UTAN MÅL",
       "words": [
-        "festlighet",
-        "sjöslag"
+        "strosa",
+        "ströva"
       ],
-      "definition": "fest, partaj",
+      "definition": "röra sig utan mål",
       "word_definitions": [
-        "egenskapen att vara festlig",
-        "vild fest"
+        "vandrar omkring utan mål",
+        "vandrar omkring utan mål"
       ]
     },
     {
-      "title": "MUSIKINSPELNINGAR",
+      "title": "PUTTA FRAMÅT",
       "words": [
-        "demo",
-        "soundtrack"
+        "fösa",
+        "putta"
       ],
-      "definition": "inspelning, till exempel av ett antal musikstycken, på ett gripbart föremål såsom en grammofonskiva eller CD-skiva, vanligtvis avsedd att säljas",
+      "definition": "föra; fösa",
       "word_definitions": [
-        "cd-skiva e.d. med provisorisk inspelning",
-        "(skiva som innehåller) musiken till film eller dataspel"
+        "driver framför sig",
+        "knuffar lätt"
       ]
     },
     {
-      "title": "MATLAGNINGSVERB",
+      "title": "HÖGAR AV MATERIAL",
       "words": [
-        "snitta",
-        "tärna"
+        "sanddyn",
+        "vall"
       ],
-      "definition": "skära i skivor",
+      "definition": "hög av snö (eller sand)",
       "word_definitions": [
-        "Att göra grunda snitt eller skåror i ytan på något, till exempel på ett bröd innan gräddning.",
-        "skär i tärningar"
+        "kulle av sand",
+        "långsträckt upphöjning (ofta av jord eller sand)"
       ]
     },
     {
-      "title": "AVKAPPADE BITAR",
+      "title": "STORA MÄNGDER",
       "words": [
-        "flak",
-        "folie"
+        "lass",
+        "kvantum"
       ],
-      "definition": "del från ett större objekt som skurits av till en jämntjock och relativt tunn bit",
+      "definition": "större ansamling av något, t.ex. snö",
       "word_definitions": [
-        "stor jämntjock skiva",
-        "mycket tunt skikt av metall eller plast"
+        "last (på en kärra e.d.); stor mängd",
+        "åtskiljbar enhet av någonting"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "skola",
+  "pivot": "leda",
   "categories": [
     {
-      "title": "SKOLTYPER",
+      "title": "KÄNSLA AV UTTRÅKNING",
       "words": [
-        "gymnasium",
-        "daghem"
+        "uttråkning",
+        "trötthet"
       ],
-      "definition": "institution för utbildning, i synnerhet av barn, och i synnerhet om det samhällssystem för ofta obligatorisk utbildning av barnen i ett givet lands befolkning eller om en enskild lokal institution i detta system",
+      "definition": "känsla av att vara uttråkad",
       "word_definitions": [
-        "utbildning efter grundskolan med sikte på studentexamen",
-        "en form av kommunal förskola, dagis"
+        "tillståndet att vara uttråkad",
+        "det att vara trött"
       ]
     },
     {
-      "title": "KONSTRIKTNINGAR",
+      "title": "HA ÖVERTAGET",
       "words": [
-        "genre",
-        "realism"
+        "dominera",
+        "överträffa"
       ],
-      "definition": "riktning inom konst, vetenskap etc.",
+      "definition": "ligga först; ha övertag",
       "word_definitions": [
-        "typ av ämne som en författare, en konstnär e.d. behandlar",
-        "en konstnärlig och litterär riktning som beskriver verkligheten förhållandevis exakt"
+        "är starkt framträdande i visst sammanhang; behärskar",
+        "är bättre eller större än"
       ]
     },
     {
-      "title": "TVÅNGSVERB",
+      "title": "LEDA FLÖDE",
       "words": [
-        "behöva",
-        "nödgas"
+        "kanalisera",
+        "slussa"
       ],
-      "definition": "vara tvungen att",
+      "definition": "föra (i viss riktning)",
       "word_definitions": [
-        "är tvungen att",
-        "är tvungen"
+        "leder i viss riktning",
+        "låter gå genom en sluss"
       ]
     },
     {
-      "title": "PLANTERINGSVERB",
+      "title": "BÖJA NÅGOT",
       "words": [
-        "ympa",
-        "sätta"
+        "kröka",
+        "bocka"
       ],
-      "definition": "plantera om växt, i synnerhet på plantskola",
+      "definition": "böja en led",
       "word_definitions": [
-        "planterar in en del av en växt i en annan växt",
-        "planterar"
+        "gör krokig, böjer",
+        "böjer (t.ex. en metallstång)"
       ]
     }
   ]

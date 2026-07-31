@@ -1,52 +1,52 @@
 {
-  "pivot": "rör",
+  "pivot": "stoppar",
   "categories": [
     {
-      "title": "NUDDA VID",
+      "title": "LAGA KLÄDER",
       "words": [
-        "nudda",
-        "tangera"
+        "laga",
+        "sy"
       ],
-      "definition": "berör, nuddar",
+      "definition": "lagar hål i kläder",
       "word_definitions": [
-        "berör lätt, snuddar",
-        "snuddar vid"
+        "reparerar",
+        "arbetar med nål och tråd (för att fästa ihop något)"
       ]
     },
     {
-      "title": "VISPA MATEN",
+      "title": "FYLLA MED MATERIAL",
       "words": [
-        "vispa",
-        "piska"
+        "fylla",
+        "vaddera"
       ],
-      "definition": "vispar",
+      "definition": "fyller med mjukt material",
       "word_definitions": [
-        "får att rotera eller virvla (med visp)",
-        "slår med piska"
+        "gör full",
+        "fyller med vadd"
       ]
     },
     {
-      "title": "VÄCKA KÄNSLOR",
+      "title": "SÄTTA IN NÅGOT",
       "words": [
-        "gripa",
-        "frappera"
+        "sticka",
+        "trycka"
       ],
-      "definition": "berör känslomässigt, griper",
+      "definition": "sticker (in), för (in)",
       "word_definitions": [
-        "berör känslomässigt",
-        "gör starkt intryck på, förvånar"
+        "stoppar, för",
+        "utövar tryck, pressar"
       ]
     },
     {
-      "title": "GÄLLA NÅGOT",
+      "title": "UPHÖRA ATT RÖRA SIG",
       "words": [
-        "handla",
-        "gälla"
+        "tvärstanna",
+        "sluta"
       ],
-      "definition": "handlar om, gäller",
+      "definition": "slutar gå, stannar",
       "word_definitions": [
-        "har som ämne, rör sig om",
-        "är giltig, är i kraft"
+        "stannar plötsligt",
+        "tar slut, upphör"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "resa",
+  "pivot": "fin",
   "categories": [
     {
-      "title": "FÖRFLYTTA SIG",
+      "title": "VACKER OCH SNYGG",
       "words": [
-        "färdas",
-        "vandra"
+        "tjusig",
+        "stilig"
       ],
-      "definition": "(kanske till fots men vanligtvis medelst en följd av höghastighetsfordon) förflytta sig från en plats till en annan (med ett så stort avstånd mellan platserna att det tar förhållandevis lång tid)",
+      "definition": "snygg, vacker",
       "word_definitions": [
-        "reser, tar sig fram",
-        "går till fots"
+        "vacker, elegant",
+        "som har stil, elegant, vacker"
       ]
     },
     {
-      "title": "GÖRA UPRÄTT",
+      "title": "MYCKET BRA",
       "words": [
-        "ställa",
-        "lyfta"
+        "förträfflig",
+        "briljant"
       ],
-      "definition": "höja upp (från ett liggande) till (mer) upprätt läge",
+      "definition": "bra, utmärkt",
       "word_definitions": [
-        "placerar upprätt eller stående; placerar",
-        "för till en högre nivå, för uppåt"
+        "mycket bra, utmärkt",
+        "lysande, utmärkt"
       ]
     },
     {
-      "title": "SKAPA HINDER",
+      "title": "SMAL OCH TUNN",
       "words": [
-        "hindra",
-        "motarbeta"
+        "slank",
+        "spenslig"
       ],
-      "definition": "lägga hinder eller svårigheter i vägen",
+      "definition": "tunn, smal",
       "word_definitions": [
-        "utgör hinder för",
-        "lägger hinder i vägen för, bekämpar"
+        "smal, smärt",
+        "smal, tunn (om kroppsbyggnad eller person)"
       ]
     },
     {
-      "title": "STÄLLA KRAV",
+      "title": "DISKRET OCH DÄMPAD",
       "words": [
-        "kräva",
-        "yrka"
+        "sober",
+        "lågmäld"
       ],
-      "definition": "framföra krav, anspråk e.d.",
+      "definition": "diskret, subtil",
       "word_definitions": [
-        "framför som krav, fordrar",
-        "begär, kräver"
+        "smakfull; diskret",
+        "stillsam, försynt"
       ]
     }
   ]

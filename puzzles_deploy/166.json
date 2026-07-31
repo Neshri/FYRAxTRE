@@ -1,52 +1,52 @@
 {
-  "pivot": "vara",
+  "pivot": "rätt",
   "categories": [
     {
-      "title": "KOMMERCIELLA PRODUKTER",
+      "title": "EN MATPORTION",
       "words": [
-        "produkt",
-        "artikel"
+        "portion",
+        "matbit"
       ],
-      "definition": "ting som köps och säljs",
+      "definition": "portion med mat",
       "word_definitions": [
-        "resultat av tillverkning",
-        "(typ av) vara"
+        "mängd mat för en person",
+        "(ganska liten) portion mat"
       ]
     },
     {
-      "title": "EXISTERA / FINNAS",
+      "title": "GRADAVVISANDE ORD",
       "words": [
-        "finnas",
-        "föreligga"
+        "tämligen",
+        "någorlunda"
       ],
-      "definition": "existera/finnas (i tid eller rum)",
+      "definition": "ganska",
       "word_definitions": [
-        "är, existerar, förekommer",
-        "finns, existerar"
+        "ganska",
+        "tämligen, ganska"
       ]
     },
     {
-      "title": "SPELA EN ROLL",
+      "title": "RAKT OCH DIREKT",
       "words": [
-        "agera",
-        "spela"
+        "tvärs",
+        "direkt"
       ],
-      "definition": "ha eller spela en viss roll i en lek, t.ex. vara den som letar i kurragömma",
+      "definition": "utan vidare, rakt",
       "word_definitions": [
-        "spelar (rollen av)",
-        "uppför en viss teaterpjäs, agerar i en teaterpjäs eller film"
+        "på tvären; mitt, rakt",
+        "utan omväg, rak, omedelbar"
       ]
     },
     {
-      "title": "FORTSÄTTA / BESTÅ",
+      "title": "LAGLIG RÄTTIGHET",
       "words": [
-        "fortsätta",
-        "förbli"
+        "befogenhet",
+        "privilegium"
       ],
-      "definition": "fortsätta verka, hålla i sig",
+      "definition": "rättighet",
       "word_definitions": [
-        "håller på, håller igång",
-        "är fortfarande, fortsätter att vara"
+        "rättighet; behörighet",
+        "förmån"
       ]
     }
   ]

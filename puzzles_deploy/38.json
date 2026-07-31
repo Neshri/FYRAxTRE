@@ -1,52 +1,52 @@
 {
-  "pivot": "få",
+  "pivot": "håller",
   "categories": [
     {
-      "title": "LITE ANTAL",
-      "words": [
-        "knapp",
-        "sparsam"
-      ],
-      "definition": "inte många men fler än två; bara några; ett litet antal",
-      "word_definitions": [
-        "otillräcklig, begränsad, liten",
-        "inte mycket, fåtalig"
-      ]
-    },
-    {
-      "title": "TA EMOT",
-      "words": [
-        "motta",
-        "erhålla"
-      ],
-      "definition": "erhålla, motta, bekomma, vinna; bli given",
-      "word_definitions": [
-        "välkomnar, tar emot",
-        "tar emot, får"
-      ]
-    },
-    {
-      "title": "FÅNGA NÅGON",
+      "title": "TA TAG I",
       "words": [
         "gripa",
-        "snärja"
+        "fatta"
       ],
-      "definition": "fånga (fisk, byte, brottslingar)",
+      "definition": "har i handen, griper, fattar",
       "word_definitions": [
-        "tar fast, fångar, häktar",
-        "fångar djur (i snara)"
+        "hugger tag i, tar, fattar",
+        "tar, griper"
       ]
     },
     {
-      "title": "HINNA MED",
+      "title": "STOPPA RÖRELSE",
       "words": [
-        "hinna",
-        "räcka"
+        "hejda",
+        "blockera"
       ],
-      "definition": "hinna med",
+      "definition": "hindrar från att röra sig",
       "word_definitions": [
-        "har tillräckligt mycket tid",
-        "når"
+        "stoppar, hindrar",
+        "spärrar av, hindrar"
+      ]
+    },
+    {
+      "title": "TÅLA SLITAGE",
+      "words": [
+        "tåla",
+        "bestå"
+      ],
+      "definition": "blir inte förstörd, går inte sönder, är stark nog",
+      "word_definitions": [
+        "är inte känslig eller allergisk mot",
+        "står fast, är oförändrad"
+      ]
+    },
+    {
+      "title": "GENOMFÖRA EVENT",
+      "words": [
+        "arrangera",
+        "utföra"
+      ],
+      "definition": "utför; anordnar",
+      "word_definitions": [
+        "anordnar, ordnar, planerar",
+        "gör, genomför"
       ]
     }
   ]

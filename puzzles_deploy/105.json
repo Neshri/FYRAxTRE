@@ -1,52 +1,52 @@
 {
-  "pivot": "prick",
+  "pivot": "disk",
   "categories": [
     {
-      "title": "HELT EXAKT",
+      "title": "SERVICEBORD",
       "words": [
-        "just",
-        "blankt"
+        "kassa",
+        "reception"
       ],
-      "definition": "precis, exakt",
+      "definition": "smalt och högt bord (i butik, bank etc.) där kunderna betjänas",
       "word_definitions": [
-        "precis, exakt",
-        "precis, exakt"
+        "avdelning (i affär eller bank) där man betalar eller tar emot pengar",
+        "plats på hotell e.d. (innanför entrén) där gäster tas emot"
       ]
     },
     {
-      "title": "LITET MÄRKE",
+      "title": "SAKER SOM DISKAS",
       "words": [
-        "spår",
-        "punkt"
+        "porslin",
+        "matsilver"
       ],
-      "definition": "punkt, märke",
+      "definition": "bestick, tallrikar o.d. som diskas",
       "word_definitions": [
-        "avtryck, märke",
-        "tecken för slutet på en mening (.)"
+        "material (i koppar, tallrikar etc.) av tunn hård keramik",
+        "bestick i silver"
       ]
     },
     {
-      "title": "TYP AV PERSON",
+      "title": "DATALAGRING",
       "words": [
-        "original",
-        "raring"
+        "minne",
+        "band"
       ],
-      "definition": "person",
+      "definition": "skiva där man lagrar data",
       "word_definitions": [
-        "originell person",
-        "rar person"
+        "ställe för lagring av data i en dator",
+        "långsmalt (tyg)stycke (som man ofta binder med); bana för transport"
       ]
     },
     {
-      "title": "FLÄCK ELLER FEL",
+      "title": "RYGGRADENS DELAR",
       "words": [
-        "plump",
-        "plätt"
+        "kota",
+        "ryggmärg"
       ],
-      "definition": "anmärkning, fläck",
+      "definition": "en sorts platta mellan ryggradens kotor",
       "word_definitions": [
-        "fläck",
-        "liten plats, fläck"
+        "ben i ryggraden",
+        "del av centrala nervsystemet i ryggradens översta del"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "post",
+  "pivot": "lager",
   "categories": [
     {
-      "title": "KORRESPONDENS",
+      "title": "FÖRVARINGSPLATS",
       "words": [
-        "brev",
-        "mejl"
+        "magasin",
+        "depå"
       ],
-      "definition": "brev eller paket som sänds till en adressat",
+      "definition": "förråd, magasin",
       "word_definitions": [
-        "skrivet meddelande som läggs i kuvert och skickas med posten",
-        "meddelande som sänds med e-post"
+        "förrådshus, förvaringsrum",
+        "förvaringsplats för förråd av ngt"
       ]
     },
     {
-      "title": "BOKFÖRINGSTERM",
+      "title": "TUNNA SKIKT",
       "words": [
-        "saldo",
-        "avgift"
+        "hinna",
+        "hud"
       ],
-      "definition": "belopp (i räkenskap e.d.)",
+      "definition": "skikt",
       "word_definitions": [
-        "behållning (eller underskott) på ett konto",
-        "ersättning (för en rättighet), betalning, pris"
+        "tunt skikt",
+        "yttersta, skyddande skikt på människor och djur"
       ]
     },
     {
-      "title": "DEL AV DÖRRKARM",
+      "title": "ROTERANDE MASKINDELAR",
       "words": [
-        "tröskel",
-        "gångjärn"
+        "axel",
+        "tapp"
       ],
-      "definition": "lodrät del av karm (till dörr eller fönster)",
+      "definition": "del av en maskin som bär upp en roterande axel",
       "word_definitions": [
-        "upphöjd bräda på golvet i dörröppning",
-        "anordning som en dörr eller ett fönster hänger på"
+        "stång som ett hjul roterar kring",
+        "utskjutande axel som något vrids omkring"
       ]
     },
     {
-      "title": "YRKESROLL",
+      "title": "VÄLDOFTANDE VÄXTER",
       "words": [
-        "befattning",
-        "ämbete"
+        "hägg",
+        "jasmin"
       ],
-      "definition": "(högre) tjänst",
+      "definition": "ett träd (eller en buske) med blanka, väldoftande blad (Laurus nobilis)",
       "word_definitions": [
-        "sysselsättning, (högre) tjänst, arbete",
-        "(hög) statlig eller kyrklig tjänst"
+        "en stor buske (eller ett litet träd) med väldoftande vita blommor i klasar (Prunus padus)",
+        "en buske med väldoftande blommor (släktet Jasminum)"
       ]
     }
   ]

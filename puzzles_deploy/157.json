@@ -1,52 +1,52 @@
 {
-  "pivot": "tro",
+  "pivot": "klen",
   "categories": [
     {
-      "title": "RELIGIÖS LÄRA",
+      "title": "SPÄD FORM",
       "words": [
-        "teologi",
-        "religion"
+        "skir",
+        "spenslig"
       ],
-      "definition": "religiös övertygelse, lära, religion",
+      "definition": "tunn, späd",
       "word_definitions": [
-        "vetenskapen om religioner (särskilt kristendomen)",
-        "dyrkan av övernaturliga makter, gudstro"
+        "späd, tunn",
+        "smal, tunn (om kroppsbyggnad eller person)"
       ]
     },
     {
-      "title": "BEKRÄFTA SANNING",
+      "title": "ÖMTÅLIG HÄLSA",
       "words": [
-        "attestera",
-        "vitsorda"
+        "eländig",
+        "delikat"
       ],
-      "definition": "hålla något för sant, vara övertygad om något (på mer eller mindre rationella grunder)",
+      "definition": "sjuk, ömtålig",
       "word_definitions": [
-        "intygar att något är riktigt, godkänner",
-        "ger vitsord om, bekräftar, intygar"
+        "sjuk, dålig",
+        "ömtålig, känslig"
       ]
     },
     {
-      "title": "FÖRESTÄLLA SIG",
+      "title": "BRIST PÅ KRAFT",
       "words": [
-        "fantisera",
-        "inbilla"
+        "skraltig",
+        "kraftlös"
       ],
-      "definition": "inbilla sig, föreställa sig",
+      "definition": "svag",
       "word_definitions": [
-        "inbillar sig, drömmer",
-        "felaktigt tro, föreställa sig"
+        "svag och dålig",
+        "som saknar kraft, svag"
       ]
     },
     {
-      "title": "FÖRMODAN",
+      "title": "OBETYDLIG STORLEK",
       "words": [
-        "gissning",
-        "hypotes"
+        "ringa",
+        "futtig"
       ],
-      "definition": "det att hålla något sannolikt, förmodan",
+      "definition": "svag, obetydlig",
       "word_definitions": [
-        "antagande, förmodan",
-        "antagande, teori"
+        "liten, obetydlig",
+        "obetydlig"
       ]
     }
   ]

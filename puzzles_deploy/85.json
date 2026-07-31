@@ -1,52 +1,52 @@
 {
-  "pivot": "man",
+  "pivot": "färg",
   "categories": [
     {
-      "title": "MANLIG PERSON",
+      "title": "FÄRGNYANSER",
       "words": [
-        "kille",
-        "gubbe"
+        "orange",
+        "lila"
       ],
-      "definition": "vuxen person av hankön",
+      "definition": "ett slags synintryck (rött, grönt etc.); kulör, nyans",
       "word_definitions": [
-        "pojke",
-        "gammal man, gamling"
+        "en färg som är ett mellanting mellan rött och gult",
+        "(blandning av) rött och blått, violett"
       ]
     },
     {
-      "title": "GRUPPMEDLEM",
+      "title": "ÅSIKTSRIKTNINGAR",
       "words": [
-        "medlem",
-        "deltagare"
+        "strömning",
+        "ståndpunkt"
       ],
-      "definition": "medlem i en grupp (särskilt en trupp, ett lag etc.)",
+      "definition": "åsiktsriktning",
       "word_definitions": [
-        "person som tillhör en organisation eller en förening",
-        "person som medverkar (i en aktivitet)"
+        "samling idéer, åsiktsriktning",
+        "ställningstagande, åsikt"
       ]
     },
     {
-      "title": "ÄKTA MAKE",
+      "title": "STÄMNING",
       "words": [
-        "make",
-        "gemål"
+        "atmosfär",
+        "anda"
       ],
-      "definition": "make",
+      "definition": "positiv stämning",
       "word_definitions": [
-        "äkta man",
-        "maka eller make (särskilt till kunglig person)"
+        "stämning, anda",
+        "stämning, atmosfär"
       ]
     },
     {
-      "title": "DJURHÅR",
+      "title": "KORTLEKENS FÄRGER",
       "words": [
-        "ragg",
-        "tagel"
+        "hjärter",
+        "spader"
       ],
-      "definition": "långt hår i nacken på häst eller lejon",
+      "definition": "en av serierna hjärter, spader, ruter och klöver i en kortlek",
       "word_definitions": [
-        "strävt hår på vissa djur",
-        "hår från en häst (särskilt från svansen)"
+        "en av de fyra färgerna i en kortlek",
+        "(kort i) en av de fyra färgerna i kortspel"
       ]
     }
   ]

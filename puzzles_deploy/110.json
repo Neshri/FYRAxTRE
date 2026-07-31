@@ -1,52 +1,52 @@
 {
-  "pivot": "ren",
+  "pivot": "ton",
   "categories": [
     {
-      "title": "FLÄCKFRI OCH REN",
+      "title": "MUSIKALISKA GRUNDELEMENT",
       "words": [
-        "obefläckad",
-        "hygienisk"
+        "rytm",
+        "melodi"
       ],
-      "definition": "inte smutsig, fläckfri",
+      "definition": "ljud av sångröst eller instrument i konstant läge på skalan",
       "word_definitions": [
-        "ren; fläckfri",
-        "som har att göra med hygien; renlig"
+        "regelbunden rörelse i musik; takt",
+        "ordnad följd av toner som bildar en musikalisk helhet"
       ]
     },
     {
-      "title": "HELT OCH FULLSTÄNDIGT",
+      "title": "SÄTT ATT UPPAFÖRA SIG",
       "words": [
-        "absolut",
-        "total"
+        "fason",
+        "uppförande"
       ],
-      "definition": "oförfalskad, äkta; fullständig, total",
+      "definition": "sätt att tala och uppträda",
       "word_definitions": [
-        "fullständigt, helt; ovillkorligt",
-        "i sin helhet, fullständig; sammanlagd"
+        "uppträdande, (dåligt) uppförande",
+        "sätt att uppföra sig, beteende"
       ]
     },
     {
-      "title": "HJORTDJUR",
+      "title": "FÄRGNYANSER",
       "words": [
-        "rådjur",
-        "dovhjort"
+        "nyans",
+        "kulör"
       ],
-      "definition": "ett (i viss mån tamt) hjortdjur som lever långt norrut (Rangifer tarandus)",
+      "definition": "färgnyans",
       "word_definitions": [
-        "ett hjortdjur med ljusbrun päls (Capreolus capreolus)",
-        "en brun hjort som får vita fläckar på sommaren (Cervus dama)"
+        "färgton",
+        "färg"
       ]
     },
     {
-      "title": "KANT VID VÄGEN",
+      "title": "VIKTENHETER",
       "words": [
-        "bank",
-        "dike"
+        "kilo",
+        "gram"
       ],
-      "definition": "kant vid väg eller åker",
+      "definition": "ett viktmått (=1 000 kg)",
       "word_definitions": [
-        "underlag för väg eller järnväg, vall",
-        "grävd ränna i marken (ofta på båda sidor av en väg)"
+        "ett viktmått (=1 000 gram)",
+        "en måttenhet för vikt (1/1000 kilo)"
       ]
     }
   ]

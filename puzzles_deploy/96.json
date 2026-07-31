@@ -1,52 +1,52 @@
 {
-  "pivot": "ovan",
+  "pivot": "sats",
   "categories": [
     {
-      "title": "HÖG POSITION",
+      "title": "LINGVISTISKA ENHETER",
       "words": [
-        "uppe",
-        "överst"
+        "fras",
+        "ord"
       ],
-      "definition": "på en plats högre upp",
+      "definition": "större del av en mening (som ofta själv kan utgöra en mening)",
       "word_definitions": [
-        "i ett läge högt upp",
-        "längst upp"
+        "del av mening, talesätt, uttryck",
+        "minsta självständiga enhet i en text (med mellanrum före och efter)"
       ]
     },
     {
-      "title": "TEXTMÄSSIG PLACERING",
+      "title": "SAMLING AV SAKER",
       "words": [
-        "tidigare",
-        "förut"
+        "set",
+        "parti"
       ],
-      "definition": "tidigare i texten",
+      "definition": "uppsättning av något, omgång",
       "word_definitions": [
-        "före tidpunkten för kommunikationen eller en annan specificerad tidpunkt",
-        "förr, tidigare"
+        "omgång (i tennis och andra racketspel)",
+        "omgång, spel"
       ]
     },
     {
-      "title": "PLACERING ÖVER",
+      "title": "BESTÄMD ANDEL",
       "words": [
-        "över",
-        "på"
+        "kvot",
+        "tilldelning"
       ],
-      "definition": "över, ovanför",
+      "definition": "bestämd andel",
       "word_definitions": [
-        "ovanför, ovanpå",
-        "i anslutning till, ovanpå"
+        "bestämt antal",
+        "vars och ens fastställda andel, ranson"
       ]
     },
     {
-      "title": "BRIST PÅ VANA",
+      "title": "DELAR AV ETT KONSTVERK",
       "words": [
-        "oerfaren",
-        "okunnig"
+        "final",
+        "akt"
       ],
-      "definition": "inte van",
+      "definition": "del av ett större musikverk",
       "word_definitions": [
-        "inte erfaren, ovan",
-        "som saknar kunskap, oerfaren"
+        "sista del av musikstycke",
+        "del av en teaterpjäs"
       ]
     }
   ]

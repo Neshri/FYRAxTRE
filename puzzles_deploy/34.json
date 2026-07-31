@@ -1,52 +1,52 @@
 {
-  "pivot": "fälla",
+  "pivot": "man",
   "categories": [
     {
-      "title": "FÅ NÅGON ATT FALLA",
+      "title": "MANLIG PERSON",
       "words": [
-        "kullkasta",
-        "välta"
+        "kille",
+        "gubbe"
       ],
-      "definition": "få att falla genom att använda fysisk kraft",
+      "definition": "vuxen person av hankön",
       "word_definitions": [
-        "vederlägger; omintetgör",
-        "gör så att något faller omkull; stjälper"
+        "pojke",
+        "gammal man, gamling"
       ]
     },
     {
-      "title": "SÄGA NÅGOT",
+      "title": "GRUPPMEDLEM",
       "words": [
-        "säga",
-        "yttra"
+        "medlem",
+        "deltagare"
       ],
-      "definition": "(tillfälligtvis) yttra, uttala något",
+      "definition": "medlem i en grupp (särskilt en trupp, ett lag etc.)",
       "word_definitions": [
-        "meddelar i ord, uttalar",
-        "säger, uttalar, framför"
+        "person som tillhör en organisation eller en förening",
+        "person som medverkar (i en aktivitet)"
       ]
     },
     {
-      "title": "MEKANISKA FÄLLOR",
+      "title": "ÄKTA MAKE",
       "words": [
-        "sax",
-        "flugsmälla"
+        "make",
+        "gemål"
       ],
-      "definition": "fångsredskap ofta försett med lockbete för att locka och medelst fallucka eller annat som faller igen fånga eller innestänga ett djur",
+      "definition": "make",
       "word_definitions": [
-        "ett fångstredskap",
-        "ett redskap att döda flugor med"
+        "äkta man",
+        "maka eller make (särskilt till kunglig person)"
       ]
     },
     {
-      "title": "BESEGRA NÅGON",
+      "title": "DJURHÅR",
       "words": [
-        "övermanna",
-        "klå"
+        "ragg",
+        "tagel"
       ],
-      "definition": "besegra, kullkasta, avsätta",
+      "definition": "långt hår i nacken på häst eller lejon",
       "word_definitions": [
-        "besegrar, tar tillfånga",
-        "slår; besegrar"
+        "strävt hår på vissa djur",
+        "hår från en häst (särskilt från svansen)"
       ]
     }
   ]

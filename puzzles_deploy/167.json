@@ -1,52 +1,52 @@
 {
-  "pivot": "vid",
+  "pivot": "fall",
   "categories": [
     {
-      "title": "STOR UTSTRÄCKNING",
+      "title": "SÄTT ATT STÖRTA",
       "words": [
-        "bred",
-        "rymlig"
+        "haveri",
+        "ras"
       ],
-      "definition": "som har stor omkrets eller stor utbredning",
+      "definition": "handlingen att störta ner eller ramla",
       "word_definitions": [
-        "stor, omfattande; mångsidig",
-        "som rymmer mycket, stor, vid"
+        "det att ett fartyg går under eller ett flygplan störtar",
+        "skred (särskilt av jord, snö eller sten)"
       ]
     },
     {
-      "title": "NÄRA NÅGOT",
+      "title": "TOTAL UNDERGÅNG",
       "words": [
-        "intill",
-        "jämte"
+        "ruin",
+        "kollaps"
       ],
-      "definition": "bredvid, intill",
+      "definition": "undergång, undergång",
       "word_definitions": [
-        "bredvid, invid",
-        "bredvid"
+        "(ekonomisk) undergång; bankrutt",
+        "plötsligt sammanbrott"
       ]
     },
     {
-      "title": "UNGEFÄRLIGT",
+      "title": "BRANT NEDGÅNG",
       "words": [
-        "cirka",
-        "ungefär"
+        "brant",
+        "avgrund"
       ],
-      "definition": "omkring, ungefär; i samband med",
+      "definition": "fors; stup",
       "word_definitions": [
-        "ungefär, omkring",
-        "omkring, cirka"
+        "brant sluttning, stup",
+        "stor klyfta, stup"
       ]
     },
     {
-      "title": "GÄLLENDE NÅGOT",
+      "title": "HÄNDELSE",
       "words": [
-        "beträffande",
-        "angående"
+        "tilldragelse",
+        "begivenhet"
       ],
-      "definition": "med avseende på, när det gäller, ifråga om",
+      "definition": "händelse, tillfälle; exempel",
       "word_definitions": [
-        "i fråga om, angående",
-        "om, beträffande"
+        "händelse",
+        "stor händelse, evenemang"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "spricka",
+  "pivot": "skärpa",
   "categories": [
     {
-      "title": "SMALA RÄNNOR",
+      "title": "BILDKVALITET",
       "words": [
-        "råk",
-        "dike"
+        "upplösning",
+        "kontrast"
       ],
-      "definition": "smal ränna",
+      "definition": "egenskapen att ha skarpa linjer; förmågan hos bilden att ge en skarp bild",
       "word_definitions": [
-        "öppen ränna i is",
-        "grävd ränna i marken (ofta på båda sidor av en väg)"
+        "ett mått på bildkvaliteten hos bildskärm, kamera e.d.",
+        "tydlig olikhet, motsats"
       ]
     },
     {
-      "title": "OENIGHET",
+      "title": "GÖRA VASSARE",
       "words": [
-        "strid",
-        "tvist"
+        "bryna",
+        "slipa"
       ],
-      "definition": "oenighet",
+      "definition": "vässa, göra vassare",
       "word_definitions": [
-        "tvist, oenighet",
-        "oenighet, stridighet"
+        "gör vassare eller skarpare",
+        "gör (en egg) vass, vässar"
       ]
     },
     {
-      "title": "ÖPPNINGAR I MATERIAL",
+      "title": "SKÄRPA STRAFFEN",
       "words": [
-        "glipa",
-        "klyfta"
+        "höja",
+        "förstärka"
       ],
-      "definition": "långsmal delning i material bildad av påfrestning på hårt och ofta sprött material",
+      "definition": "ge strängare straff",
       "word_definitions": [
-        "spricka, springa, öppning",
-        "spricka"
+        "gör högre (1, 2); ökar",
+        "gör starkare"
       ]
     },
     {
-      "title": "GÅ SÖNDER",
+      "title": "BÄTTRA SIG",
       "words": [
-        "bräcka",
-        "bryta"
+        "förbättra",
+        "disciplinera"
       ],
-      "definition": "rämna, brytas sönder och bilda långsmal öppning",
+      "definition": "bete sig bättre, på ett mer korrekt och kontrollerat sätt",
       "word_definitions": [
-        "knäcker, bryter",
-        "får att spricka sönder i två delar (ofta genom kraftig böjning)"
+        "gör bättre, hjälper upp",
+        "vänja vid tukt och ordning"
       ]
     }
   ]

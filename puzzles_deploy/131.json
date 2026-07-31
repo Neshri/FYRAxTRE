@@ -1,52 +1,52 @@
 {
-  "pivot": "sky",
+  "pivot": "rätt",
   "categories": [
     {
-      "title": "MOLNFORMATIONER",
+      "title": "RIKTIGT OCH SANT",
       "words": [
-        "puff",
-        "bank"
+        "riktig",
+        "sann"
       ],
-      "definition": "moln",
+      "definition": "riktig, korrekt",
       "word_definitions": [
-        "rökmoln",
-        "kompakt samling av moln"
+        "felfri, korrekt",
+        "riktig, äkta"
       ]
     },
     {
-      "title": "HIMMELSRUMMET",
+      "title": "MORALISKT KORREKT",
       "words": [
-        "kosmos",
-        "zenit"
+        "anständig",
+        "moralisk"
       ],
-      "definition": "himmel",
+      "definition": "moraliskt riktig",
       "word_definitions": [
-        "universum",
-        "högsta punkten på himlen"
+        "(moraliskt) passande; korrekt, hederlig",
+        "som bygger på moral"
       ]
     },
     {
-      "title": "KÖTTSÅSER",
+      "title": "FÖLJA LAGEN",
       "words": [
-        "buljong",
-        "glace"
+        "efterlevnad",
+        "tillämpning"
       ],
-      "definition": "saft ur kött som steks, sorts klar sås",
+      "definition": "det att lagarna gäller och används",
       "word_definitions": [
-        "soppa av klart köttspad, fiskspad eller grönsaksspad",
-        "En kraftigt reducerad och koncentrerad köttfond som kokats tills den blivit tjock och glansig, används för att ge smak och fyllighet åt såser."
+        "det att följa lagar och regler",
+        "(praktisk) användning av regler och föreskrifter"
       ]
     },
     {
-      "title": "UNDVIKA KONTAKT",
+      "title": "EN DOMSTOL",
       "words": [
-        "undvika",
-        "fly"
+        "domstol",
+        "tribunal"
       ],
-      "definition": "undvika att möta eller komma i närheten av",
+      "definition": "domstol",
       "word_definitions": [
-        "håller sig borta från, avhåller sig från",
-        "rymmer, smiter"
+        "myndighet som dömer i rättsfall",
+        "(revolutions)domstol"
       ]
     }
   ]

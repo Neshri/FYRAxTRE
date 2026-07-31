@@ -1,52 +1,52 @@
 {
-  "pivot": "driva",
+  "pivot": "täcker",
   "categories": [
     {
-      "title": "VANDRA UTAN MÅL",
+      "title": "TÄCKA NÅGOT",
       "words": [
-        "strosa",
-        "ströva"
+        "maskera",
+        "bekläda"
       ],
-      "definition": "röra sig utan mål",
+      "definition": "lägger över (för att skydda eller dölja)",
       "word_definitions": [
-        "vandrar omkring utan mål",
-        "vandrar omkring utan mål"
+        "förser med förklädnad; kamouflerar, döljer",
+        "innehar"
       ]
     },
     {
-      "title": "PUTTA FRAMÅT",
+      "title": "UTBREDA SIG",
       "words": [
-        "fösa",
-        "putta"
+        "expandera",
+        "löpa"
       ],
-      "definition": "föra; fösa",
+      "definition": "breder ut sig över",
       "word_definitions": [
-        "driver framför sig",
-        "knuffar lätt"
+        "breder ut sig, utvidgas, växer",
+        "sträcker sig"
       ]
     },
     {
-      "title": "HÖGAR AV MATERIAL",
+      "title": "BETALA EN SUMMA",
       "words": [
-        "sanddyn",
-        "vall"
+        "bestrida",
+        "pröjsa"
       ],
-      "definition": "hög av snö (eller sand)",
+      "definition": "betalar",
       "word_definitions": [
-        "kulle av sand",
-        "långsträckt upphöjning (ofta av jord eller sand)"
+        "betalar",
+        "betalar"
       ]
     },
     {
-      "title": "STORA MÄNGDER",
+      "title": "JOURNALISTISK BEVAKNING",
       "words": [
-        "lass",
-        "kvantum"
+        "bevaka",
+        "rapportera"
       ],
-      "definition": "större ansamling av något, t.ex. snö",
+      "definition": "bevakar (som journalist)",
       "word_definitions": [
-        "last (på en kärra e.d.); stor mängd",
-        "åtskiljbar enhet av någonting"
+        "vaktar; övervakar (och skildrar)",
+        "redogör för"
       ]
     }
   ]

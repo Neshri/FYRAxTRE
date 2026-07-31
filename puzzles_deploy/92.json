@@ -1,52 +1,52 @@
 {
-  "pivot": "mål",
+  "pivot": "lur",
   "categories": [
     {
-      "title": "SYFTE OCH AVSIKT",
+      "title": "BLÅSINSTRUMENT",
       "words": [
-        "syfte",
-        "avsikt"
+        "flöjt",
+        "horn"
       ],
-      "definition": "ändamål, syfte",
+      "definition": "ett blåsinstrument",
       "word_definitions": [
-        "avsikt, ändamål",
-        "syfte, mening"
+        "ett blåsinstrument",
+        "ett blåsinstrument"
       ]
     },
     {
-      "title": "OLIKA MÅLTIDER",
+      "title": "KORT SÖMN",
       "words": [
-        "lunch",
-        "supé"
+        "slummer",
+        "dvala"
       ],
-      "definition": "den mängd mat man äter vid ett visst tillfälle, måltid",
+      "definition": "en stunds sömn",
       "word_definitions": [
-        "(lättare) måltid mitt på dagen",
-        "(finare) måltid på kvällen"
+        "lätt (och kort) sömn, lur",
+        "slummer, sömn"
       ]
     },
     {
-      "title": "JURIDISK PROCESS",
+      "title": "TELEFONAPPARATER",
       "words": [
-        "process",
-        "rättegång"
+        "mobil",
+        "telefon"
       ],
-      "definition": "rättegång, process",
+      "definition": "mobiltelefon",
       "word_definitions": [
-        "rättegång, mål",
-        "process inför domstol, mål"
+        "mobiltelefon",
+        "apparat för överföring av samtal över långa avstånd"
       ]
     },
     {
-      "title": "SPRÅKLIG FÖRMÅGA",
+      "title": "BEDRÄGERI ELLER SKÄMT",
       "words": [
-        "tal",
-        "språk"
+        "spratt",
+        "bluff"
       ],
-      "definition": "förmåga att tala; språk",
+      "definition": "i uttrycket det är bara lur: att luras, skämta; lurendrejeri",
       "word_definitions": [
-        "det att tala; förmåga att tala",
-        "människans sätt att meddela sig genom tal och skrift"
+        "skämt för att lura någon",
+        "försök att luras, skoj, bedrägeri"
       ]
     }
   ]

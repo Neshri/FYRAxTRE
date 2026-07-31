@@ -1,52 +1,52 @@
 {
-  "pivot": "mark",
+  "pivot": "klippa",
   "categories": [
     {
-      "title": "OBEBYGDA LANDOMRÅDEN",
+      "title": "STENFORMATIONER",
       "words": [
-        "obygd",
-        "slätt"
+        "berg",
+        "block"
       ],
-      "definition": "obebyggt landområde, terräng",
+      "definition": "stort stycke av sten eller bergart; del av urberg som går upp i dagen; klipphäll",
       "word_definitions": [
-        "obebyggd trakt, ödemark",
-        "större område med plan mark (utan många träd)"
+        "stor upphöjning av sten i jordytan, kulle; berggrund",
+        "sammanhängande helhet (av hårt material, t.ex. sten)"
       ]
     },
     {
-      "title": "ÄGDA FASTIGHETER",
+      "title": "VÅRDA HÅRET",
       "words": [
-        "fastighet",
-        "egendom"
+        "frisera",
+        "trimma"
       ],
-      "definition": "ägt landområde, ägor",
+      "definition": "låta någon, såsom en frisör, klippa ens hår",
       "word_definitions": [
-        "ett markområde, ofta med en byggnad; fast egendom",
-        "tillhörighet, ägodel"
+        "ordna hår på prydligt sätt genom att kamma, (låta) klippa eller permanenta hår",
+        "avlägsnar överflödigt hår från"
       ]
     },
     {
-      "title": "JORDENS YTA",
+      "title": "FÖRSTÖRA DOKUMENT",
       "words": [
-        "jordskorpa",
-        "yta"
+        "makulera",
+        "förstöra"
       ],
-      "definition": "jordens yta",
+      "definition": "förstöra ett kontokort eller dylikt på grund av att tillhörande tjänst avslutats, till exempel genom att med en sax dela kortet i flera små bitar",
       "word_definitions": [
-        "det yttre, hårda lagret på jordklotet",
-        "sida som syns utåt, yttersta lager"
+        "kasserar eller förstör (papper)",
+        "gör oduglig, fördärvar"
       ]
     },
     {
-      "title": "VALUTOR",
+      "title": "STARK PERSONLIGHET",
       "words": [
-        "krona",
-        "euro"
+        "stöttepelare",
+        "kämpe"
       ],
-      "definition": "en äldre valuta (före euron) i Tyskland och Finland",
+      "definition": "(överfört) tillförlitlig, orubblig person; person som lyckas trots motgångar",
       "word_definitions": [
-        "valutan i Sverige (och vissa andra nordiska länder)",
-        "den gemensamma valutan för många länder i EU"
+        "den viktigaste personen (t.ex. i ett lag)",
+        "person som kämpar"
       ]
     }
   ]

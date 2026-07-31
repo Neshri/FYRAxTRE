@@ -1,52 +1,52 @@
 {
-  "pivot": "dam",
+  "pivot": "modell",
   "categories": [
     {
-      "title": "BENÄMNINGAR PÅ KVINNA",
+      "title": "FÖREBILDER",
       "words": [
-        "gumma",
-        "blondin"
+        "ideal",
+        "förebild"
       ],
-      "definition": "kvinna",
+      "definition": "förebild, exempel",
       "word_definitions": [
-        "gammal kvinna",
-        "ljushårig kvinna"
+        "perfekt exempel (att efterlikna), förebild",
+        "mönster, modell; föredöme, ideal"
       ]
     },
     {
-      "title": "HÖGA SPELKORT",
+      "title": "MINIATYRER",
       "words": [
-        "kung",
-        "ess"
+        "avbild",
+        "miniatyr"
       ],
-      "definition": "ett högt spelkort",
+      "definition": "kopia i liten skala",
       "word_definitions": [
-        "ett högt spelkort; den viktigaste pjäsen i schack",
-        "det högsta kortet i en av de fyra kortsviterna (färgerna)"
+        "kopia",
+        "starkt förminskad modell av något"
       ]
     },
     {
-      "title": "SCHACKPJÄSER",
+      "title": "PRODUKTVARIANTER",
       "words": [
-        "löpare",
-        "springare"
+        "version",
+        "variant"
       ],
-      "definition": "en värdefull schackpjäs, drottning",
+      "definition": "(vanligt) utförande av en viss vara (t.ex. bilar, maskiner, kläder)",
       "word_definitions": [
-        "en pjäs i schack",
-        "en schackpjäs, häst"
+        "(alternativt) utförande, variant",
+        "alternativ (val)möjlighet"
       ]
     },
     {
-      "title": "BRÄDSPEL",
+      "title": "PERSONER SOM POSERAR",
       "words": [
-        "schack",
-        "domino"
+        "mannekäng",
+        "posör"
       ],
-      "definition": "ett spel med brickor på schackbräde",
+      "definition": "person (särskilt kvinna) som poserar eller gör reklam för något",
       "word_definitions": [
-        "ett spel med 32 figurer på ett bräde med 64 rutor",
-        "ett spel med brickor med två fält"
+        "person (särskilt kvinna) som är anställd för att bli fotograferad i nya kläder",
+        "den som gärna poserar, tillgjord människa"
       ]
     }
   ]

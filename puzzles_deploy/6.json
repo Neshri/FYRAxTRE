@@ -1,52 +1,52 @@
 {
-  "pivot": "bas",
+  "pivot": "skjuter",
   "categories": [
     {
-      "title": "SÅNGRÖSTER",
+      "title": "AVFYRA VAPEN",
       "words": [
-        "baryton",
-        "tenor"
+        "avlossa",
+        "fälla"
       ],
-      "definition": "(man med) sångröst i lågt tonläge",
+      "definition": "avlossar skott (ibland så att någon dör)",
       "word_definitions": [
-        "(man med) sångröst i läge mellan bas och tenor",
-        "(man med) stämma i högt tonläge"
+        "skjuter ett skott, avfyrar",
+        "dödar"
       ]
     },
     {
-      "title": "LEDARROLLER",
+      "title": "FÖRFLYTTA NÅGOT",
       "words": [
-        "direktör",
-        "ledare"
+        "dra",
+        "föra"
       ],
-      "definition": "förman, chef",
+      "definition": "förflyttar (utan att lyfta)",
       "word_definitions": [
-        "chef (för ett företag, en institution e.d.)",
-        "person som leder något; chef"
+        "förflyttar sig",
+        "fraktar, förflyttar"
       ]
     },
     {
-      "title": "MILITÄRA ANLÄGGNINGAR",
+      "title": "DRÖJA MED NÅGOT",
       "words": [
-        "garnison",
-        "kasern"
+        "förhala",
+        "senarelägga"
       ],
-      "definition": "militär anläggning (ofta utanför det egna landet)",
+      "definition": "senarelägger, uppskjuter",
       "word_definitions": [
-        "militärförläggning på en ort",
-        "permanent byggnad för militär trupp"
+        "fördröjer, uppskjuter",
+        "uppskjuter"
       ]
     },
     {
-      "title": "KEMISKA ÄMNEN",
+      "title": "RÖRA SIG SNABBT",
       "words": [
-        "soda",
-        "kalk"
+        "susa",
+        "rusa"
       ],
-      "definition": "kemiskt ämne som kan ta upp vätejoner",
+      "definition": "rör sig snabbt",
       "word_definitions": [
-        "ett ämne som används bl.a. i tvättmedel",
-        "ett hårt (vitt) ämne som innehåller kalcium"
+        "rör sig snabbt",
+        "springer mycket fort"
       ]
     }
   ]

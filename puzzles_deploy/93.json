@@ -1,52 +1,52 @@
 {
-  "pivot": "nära",
+  "pivot": "får",
   "categories": [
     {
-      "title": "KORT AVSTÅND",
+      "title": "TA EMOT NÅGOT",
       "words": [
-        "kort",
-        "tät"
+        "erhålla",
+        "motta"
       ],
-      "definition": "på litet avstånd (i tid eller rum)",
+      "definition": "tar emot, erhåller",
       "word_definitions": [
-        "som har liten längd (i tid eller rum)",
-        "utan stora mellanrum; kompakt, koncentrerad"
+        "tar emot, får",
+        "välkomnar, tar emot"
       ]
     },
     {
-      "title": "NÄSTAN ELLER UNGEFÄR",
+      "title": "VARA TVUNGEN TILL",
       "words": [
-        "nästan",
-        "bortåt"
+        "behöva",
+        "nödgas"
       ],
-      "definition": "så gott som, nästan",
+      "definition": "är tvungen, måste",
       "word_definitions": [
-        "så gott som, närapå",
-        "så gott som, nästan"
+        "är tvungen att",
+        "är tvungen"
       ]
     },
     {
-      "title": "EXAKT ELLER PRECIS",
+      "title": "HUSDJUR",
       "words": [
-        "precis",
-        "just"
+        "get",
+        "ko"
       ],
-      "definition": "(mer) exakt",
+      "definition": "ett däggdjur av släktet Ovis som hålls för ullens, köttets och till viss del mjölkens skull",
       "word_definitions": [
-        "noggrann, exakt",
-        "precis, exakt"
+        "ett husdjur som ger mjölk och ost (släktet Capra)",
+        "ett husdjur som ger mjölk"
       ]
     },
     {
-      "title": "GE NÄRING",
+      "title": "DUM PERSON",
       "words": [
-        "berika",
-        "göda"
+        "tjockskalle",
+        "nöt"
       ],
-      "definition": "ge näring",
+      "definition": "person som anses dum i huvudet",
       "word_definitions": [
-        "tillför näring",
-        "gör fet; tillför växter näringsämnen"
+        "dum person",
+        "person som verkar dum eller tankspridd"
       ]
     }
   ]

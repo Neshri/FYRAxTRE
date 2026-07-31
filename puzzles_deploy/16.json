@@ -1,52 +1,52 @@
 {
-  "pivot": "drag",
+  "pivot": "skala",
   "categories": [
     {
-      "title": "TECKNING ELLER LINJE",
+      "title": "MUSIKALISKA FÖLJDER",
       "words": [
-        "streck",
-        "skiss"
+        "melodi",
+        "tongång"
       ],
-      "definition": "teckning, linje",
+      "definition": "stegvis ordnad följd av toner (eller färger)",
       "word_definitions": [
-        "tunn linje",
-        "(förberedande) teckning"
+        "ordnad följd av toner som bildar en musikalisk helhet",
+        "följd av toner, melodi"
       ]
     },
     {
-      "title": "SPELOMGÅNGENS FLYTT",
+      "title": "VÄRDESKALA",
       "words": [
-        "rörelse",
-        "flytt"
+        "grad",
+        "nivå"
       ],
-      "definition": "flyttning av spelpjäs",
+      "definition": "ordnad följd av värden i informella måttenheter",
       "word_definitions": [
-        "förflyttning",
-        "moment som består av en pjäsförflyttning i vissa brädspel, exempelvis i backgammon och det gamla svenska spelet bräde; jämför drag inom schacket"
+        "en måttenhet för vinklar",
+        "läge i höjdled"
       ]
     },
     {
-      "title": "FISKEBETE",
+      "title": "RENSA BORT",
       "words": [
-        "blink",
-        "bete"
+        "eliminera",
+        "slopa"
       ],
-      "definition": "liten bit metall med krokar som används vid fiske",
+      "definition": "ta bort något ytligt, onödigt eller oväsentligt",
       "word_definitions": [
-        "Ett glänsande metallbeten som reflekterar ljus för att locka till sig fisk.",
-        "medel att locka djur i fälla, agn"
+        "tar bort, avlägsnar",
+        "tar bort, avskaffar"
       ]
     },
     {
-      "title": "RÖRLIG LUFT",
+      "title": "FÄRGSPEKTRUM",
       "words": [
-        "vind",
-        "pust"
+        "spektrum",
+        "nyans"
       ],
-      "definition": "(kall) luftström",
+      "definition": "färgskala",
       "word_definitions": [
-        "naturlig luft i rörelse, blåst",
-        "kort stöt (särskilt av luft)"
+        "ljusets färgskala",
+        "färgton"
       ]
     }
   ]

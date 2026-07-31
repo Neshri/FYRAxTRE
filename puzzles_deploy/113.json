@@ -1,52 +1,52 @@
 {
-  "pivot": "rätt",
+  "pivot": "knäpper",
   "categories": [
     {
-      "title": "EN MATPORTION",
+      "title": "SKARPA LJUD",
       "words": [
-        "portion",
-        "matbit"
+        "klicka",
+        "smälla"
       ],
-      "definition": "portion med mat",
+      "definition": "ger ifrån sig ett knäpp",
       "word_definitions": [
-        "mängd mat för en person",
-        "(ganska liten) portion mat"
+        "knäpper metalliskt",
+        "ger ifrån sig en hård knall"
       ]
     },
     {
-      "title": "GRADAVVISANDE ORD",
+      "title": "TA BILDER",
       "words": [
-        "tämligen",
-        "någorlunda"
+        "fotografera",
+        "trycka"
       ],
-      "definition": "ganska",
+      "definition": "trycker på knappen på kameran (för att ta ett foto)",
       "word_definitions": [
-        "ganska",
-        "tämligen, ganska"
+        "tar bilder med kamera, fotar",
+        "utövar tryck, pressar"
       ]
     },
     {
-      "title": "RAKT OCH DIREKT",
+      "title": "AVFYRA VAPEN",
       "words": [
-        "tvärs",
-        "direkt"
+        "panga",
+        "lossa"
       ],
-      "definition": "utan vidare, rakt",
+      "definition": "skjuter ner",
       "word_definitions": [
-        "på tvären; mitt, rakt",
-        "utan omväg, rak, omedelbar"
+        "smäller, skjuter",
+        "skjuter av, avlossar"
       ]
     },
     {
-      "title": "LAGLIG RÄTTIGHET",
+      "title": "FÄSTA IHOP",
       "words": [
-        "befogenhet",
-        "privilegium"
+        "knyta",
+        "binda"
       ],
-      "definition": "rättighet",
+      "definition": "fäster ihop med en knapp; knyter samman",
       "word_definitions": [
-        "rättighet; behörighet",
-        "förmån"
+        "binder ihop med en knut, pressar samman",
+        "knyter, fäster, surrar"
       ]
     }
   ]

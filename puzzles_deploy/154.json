@@ -1,52 +1,52 @@
 {
-  "pivot": "tjänst",
+  "pivot": "liv",
   "categories": [
     {
-      "title": "ARBETSPLATSER",
+      "title": "EXISTENS",
       "words": [
-        "plats",
-        "jobb"
+        "tillvaro",
+        "existens"
       ],
-      "definition": "anställning",
+      "definition": "det att leva, levnad",
       "word_definitions": [
-        "anställning",
-        "anställning; arbetstillfälle"
+        "existens, liv",
+        "tillvaro, liv; försörjning"
       ]
     },
     {
-      "title": "SYSSLOR OCH ARBETE",
+      "title": "VERKSAMHET",
       "words": [
         "arbete",
-        "göromål"
+        "aktion"
       ],
-      "definition": "arbete, tjänstgöring",
+      "definition": "verksamhet",
       "word_definitions": [
         "verksamhet, jobb",
-        "syssla, arbete"
+        "aktiv handling, verksamhet"
       ]
     },
     {
-      "title": "SERVICE OCH UNDERHÅLL",
+      "title": "OVÄSEN",
       "words": [
-        "support",
-        "skötsel"
+        "ståhej",
+        "buller"
       ],
-      "definition": "service",
+      "definition": "livlig verksamhet; oväsen",
       "word_definitions": [
-        "stöd",
-        "vård"
+        "bråk, liv, oväsen",
+        "störande ljud, oväsen"
       ]
     },
     {
-      "title": "HJÄLP OCH STÖD",
+      "title": "DELAR AV EN KLÄNNING",
       "words": [
-        "uppbackning",
-        "stöd"
+        "ärm",
+        "kjol"
       ],
-      "definition": "hjälp, hjälpinsats",
+      "definition": "del av ett klädesplagg som räcker från halsen till midjan",
       "word_definitions": [
-        "stöd, hjälp",
-        "hjälp, understöd"
+        "del av ett klädesplagg som täcker armen",
+        "ett kvinnoplagg som går från midjan och ner över benen"
       ]
     }
   ]

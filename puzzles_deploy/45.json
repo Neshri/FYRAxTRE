@@ -1,52 +1,52 @@
 {
-  "pivot": "grov",
+  "pivot": "medel",
   "categories": [
     {
-      "title": "KRAFTIG OCH BASTANT",
+      "title": "KEMISKA ÄMNEN",
       "words": [
-        "massiv",
-        "rejäl"
+        "preparat",
+        "syra"
       ],
-      "definition": "tjock, kraftig, bastant",
+      "definition": "hjälpmedel (ofta en kemisk substans)",
       "word_definitions": [
-        "tung, kraftig",
-        "stor, kraftig"
+        "ämne som framställts på kemisk väg, kemisk produkt",
+        "en sorts kemisk förening med (vanligen) sur smak"
       ]
     },
     {
-      "title": "OJÄMN YTA",
+      "title": "MEDICINER",
       "words": [
-        "sträv",
-        "ojämn"
+        "medicin",
+        "piller"
       ],
-      "definition": "ojämn, skrovlig; inte bearbetad (i detalj)",
+      "definition": "medicin",
       "word_definitions": [
-        "som har ojämn eller hård eller grov yta",
-        "inte jämn eller slät (om yta)"
+        "läkemedel",
+        "liten tablett som innehåller medicin"
       ]
     },
     {
-      "title": "OHYFSAT BETEENDE",
+      "title": "EKONOMISKA TILLGÅNGAR",
       "words": [
-        "plump",
-        "oborstad"
+        "kapital",
+        "förmögenhet"
       ],
-      "definition": "ohyfsad, rå",
+      "definition": "tillgångar, pengar",
       "word_definitions": [
-        "rå och ohyfsad",
-        "ohyfsad"
+        "pengar och andra tillgångar",
+        "tillgångar som räknas i pengar"
       ]
     },
     {
-      "title": "ALLVARLIG GRAD",
+      "title": "SÄTT ATT GÖRA NÅGOT",
       "words": [
-        "grav",
-        "allvarlig"
+        "metod",
+        "väg"
       ],
-      "definition": "svår, allvarlig",
+      "definition": "sätt, metod",
       "word_definitions": [
-        "allvarlig, svår",
-        "högtidlig, sträng, allvarsam"
+        "(systematiskt) sätt att utföra något",
+        "sätt, metod"
       ]
     }
   ]

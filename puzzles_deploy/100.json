@@ -1,52 +1,52 @@
 {
-  "pivot": "pipa",
+  "pivot": "torka",
   "categories": [
     {
-      "title": "BLÅSINSTRUMENT",
+      "title": "TORRT VÄDER",
       "words": [
-        "flöjt",
-        "trumpet"
+        "värmebölja",
+        "hetta"
       ],
-      "definition": "en typ av blåsinstrument",
+      "definition": "torr väderlek",
       "word_definitions": [
-        "ett blåsinstrument",
-        "ett blåsinstrument i ganska högt tonläge"
+        "period med mycket varmt väder",
+        "stark värme"
       ]
     },
     {
-      "title": "VAPENDELAR",
+      "title": "VÄXTERNAS UNDERGÅNG",
       "words": [
-        "kolv",
-        "avtryckare"
+        "skogsdöd",
+        "vissnande"
       ],
-      "definition": "avlångt, ihåligt föremål på ett mindre eldvapen genom vilket en projektil färdas",
+      "definition": "det att växtligheten torkar under torra, regnfria tidperioder, ofta i samband med att skog och växter bränns i solen",
       "word_definitions": [
-        "bakre del av handeldvapen",
-        "del av skjutvapen som man trycker på för att avlossa ett skott"
+        "det att skogar förstörs på grund av föroreningar",
+        "Processen då en växt förlorar sin spänst och torkar ut, vilket leder till att den slokar och dör."
       ]
     },
     {
-      "title": "LUFTHÅLIGHETER",
+      "title": "GÖRA TORR",
       "words": [
-        "håla",
-        "bubbla"
+        "avfukta",
+        "dränera"
       ],
-      "definition": "hålighet bildad av gas under produktionen av hårdost",
+      "definition": "(transitivt) få eller göra eller låta bli torr; ta bort fukt från (tyg, hår, trä, något icke-flytande föremål) (även för att konservera mat)",
       "word_definitions": [
-        "fördjupning, hålighet",
-        "liten mängd luft som (vanligen) omges av vatten"
+        "Att avlägsna fukt ur något (till exempel luft i ett rum eller ett material) för att göra det torrare.",
+        "leda bort vatten (eller annan vätska) från (ett område på marken eller annan plats)"
       ]
     },
     {
-      "title": "PIPINDE LJUD",
+      "title": "RENGÖRA YTA",
       "words": [
-        "vina",
-        "gnissla"
+        "putsa",
+        "gnugga"
       ],
-      "definition": "ge ifrån sig ett högfrekvent ljud",
+      "definition": "genom att dra ett ibland vått föremål längs ytan på ett annat föremål försöka rengöra det",
       "word_definitions": [
-        "ger ifrån sig ett starkt men pipigt ljud",
-        "ger ifrån sig ett skarpt och skärande ljud"
+        "polerar, gnider",
+        "gnider, gnor"
       ]
     }
   ]

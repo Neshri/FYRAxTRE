@@ -1,52 +1,52 @@
 {
-  "pivot": "röra",
+  "pivot": "sky",
   "categories": [
     {
-      "title": "TOTAL OORDNING",
+      "title": "MOLNFORMATIONER",
       "words": [
-        "kaos",
-        "virrvarr"
+        "puff",
+        "bank"
       ],
-      "definition": "oreda, oordning",
+      "definition": "moln",
       "word_definitions": [
-        "total förvirring, oreda",
-        "röra, oreda"
+        "rökmoln",
+        "kompakt samling av moln"
       ]
     },
     {
-      "title": "FYSISK KONTAKT",
+      "title": "HIMMELSRUMMET",
       "words": [
-        "känna",
-        "snudda"
+        "kosmos",
+        "zenit"
       ],
-      "definition": "ta i/på, vara eller befinna sig på eller i (fysisk) kontakt med",
+      "definition": "himmel",
       "word_definitions": [
-        "tar (på), rör (vid)",
-        "berör lätt, vidrör, touchar"
+        "universum",
+        "högsta punkten på himlen"
       ]
     },
     {
-      "title": "PÅVERKA KÄNSLOMÄSSIGT",
+      "title": "KÖTTSÅSER",
       "words": [
-        "gripa",
-        "påverka"
+        "buljong",
+        "glace"
       ],
-      "definition": "(särskilt i particip) påverka känslomässigt",
+      "definition": "saft ur kött som steks, sorts klar sås",
       "word_definitions": [
-        "berör känslomässigt",
-        "utövar påverkan på"
+        "soppa av klart köttspad, fiskspad eller grönsaksspad",
+        "En kraftigt reducerad och koncentrerad köttfond som kokats tills den blivit tjock och glansig, används för att ge smak och fyllighet åt såser."
       ]
     },
     {
-      "title": "HANDLA OM",
+      "title": "UNDVIKA KONTAKT",
       "words": [
-        "sammanhänga",
-        "gälla"
+        "undvika",
+        "fly"
       ],
-      "definition": "handla eller vara fråga om, knyta an till, ha med att göra",
+      "definition": "undvika att möta eller komma i närheten av",
       "word_definitions": [
-        "har att göra med, hänger ihop, hänger samman",
-        "handlar om, rör, angår"
+        "håller sig borta från, avhåller sig från",
+        "rymmer, smiter"
       ]
     }
   ]

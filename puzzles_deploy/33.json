@@ -1,52 +1,52 @@
 {
-  "pivot": "fräser",
+  "pivot": "bryter",
   "categories": [
     {
-      "title": "STEKA MAT",
+      "title": "AVBRYTA EN ANSLUTNING",
       "words": [
-        "steka",
-        "grädda"
+        "frånkoppla",
+        "suspendera"
       ],
-      "definition": "steker snabbt (i het panna)",
+      "definition": "bringar ur kontakt; stänger av",
       "word_definitions": [
-        "tillagar med matfett i stark hetta (i stekpanna)",
-        "bakar eller tillagar i ugn eller panna"
+        "frigör från anslutning, kopplar ifrån",
+        "stänger av från tjänst för viss tid"
       ]
     },
     {
-      "title": "HOTFULLA LJUD",
+      "title": "ÖVERVINNA MOTSTÅND",
       "words": [
-        "morra",
-        "väsa"
+        "tränga",
+        "trotsa"
       ],
-      "definition": "ger ifrån sig ett ilsket s-liknande ljud",
+      "definition": "forcerar ett motstånd",
       "word_definitions": [
-        "ger ifrån sig ett brummande, hotfullt ljud",
-        "ger ifrån sig ett pressat ljud, viskar"
+        "banar sig väg trots motstånd",
+        "gör öppet motstånd mot, sätter sig upp mot"
       ]
     },
     {
-      "title": "TILLRÄTTAVISA NÅGON",
+      "title": "UTVINNA RESURSER",
       "words": [
-        "förebrå",
-        "snäsa"
+        "extrahera",
+        "dra"
       ],
-      "definition": "snäser, tillrättavisar",
+      "definition": "får att gå i bitar; utvinner",
       "word_definitions": [
-        "klandrar, tillrättavisar",
-        "tillrättavisar på ett irriterat sätt"
+        "utvinner, drar",
+        "utvinner, extraherar"
       ]
     },
     {
-      "title": "BEARBETA MATERIAL",
+      "title": "AVBRYTA KONTAKTER",
       "words": [
-        "borra",
-        "slipa"
+        "kapa",
+        "avsluta"
       ],
-      "definition": "bearbetar (bort) med fräs",
+      "definition": "avbryter; avbryter kontakt",
       "word_definitions": [
-        "gör hål (med borr)",
-        "polerar"
+        "hugger eller skär eller sågar av",
+        "slutar, fullbordar"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "minne",
+  "pivot": "för",
   "categories": [
     {
-      "title": "MENTAL FÖRMÅGA",
+      "title": "I HÖG GRAD",
       "words": [
-        "lokalsinne",
-        "intelligens"
+        "omåttligt",
+        "utomordentligt"
       ],
-      "definition": "förmåga att komma ihåg, (tänkt) plats för det man kommer ihåg",
+      "definition": "i väl hög grad, alltför",
       "word_definitions": [
-        "förmåga att hitta rätt på en plats eller i ett område där man inte varit förut",
-        "förmåga till tänkande och analys, begåvning"
+        "oerhört, mycket",
+        "mycket, ytterst"
       ]
     },
     {
-      "title": "DATALAGRING",
+      "title": "ORSAKSLIG KONJUNKTION",
       "words": [
-        "hårddisk",
-        "cd"
+        "eftersom",
+        "då"
       ],
-      "definition": "ställe för lagring av data i en dator",
+      "definition": "ty",
       "word_definitions": [
-        "skiva i en dator där information lagras",
-        "skiva som används för digital lagring av musik, bilder och text"
+        "därför att, emedan",
+        "när"
       ]
     },
     {
-      "title": "HÅGKOMST",
+      "title": "MED HJÄLP AV",
       "words": [
-        "åtanke",
-        "återblick"
+        "genom",
+        "medelst"
       ],
-      "definition": "något man kommer ihåg, hågkomst",
+      "definition": "med hjälp av",
       "word_definitions": [
-        "minne, hågkomst",
-        "skildring av något som hänt i det förflutna, tillbakablick"
+        "med hjälp av, med",
+        "med hjälp av, genom"
       ]
     },
     {
-      "title": "MINNESFÖREMÅL",
+      "title": "BÅTENS FRONT",
       "words": [
-        "souvenir",
-        "klenod"
+        "bog",
+        "stäv"
       ],
-      "definition": "souvenir",
+      "definition": "främre delen av en båt",
       "word_definitions": [
-        "föremål som man bevarar som minne (t.ex. från en resa)",
-        "dyrbart föremål"
+        "främsta delen (fören) på en båt",
+        "ett fartygs för eller akter"
       ]
     }
   ]

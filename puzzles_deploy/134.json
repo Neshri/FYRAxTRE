@@ -1,52 +1,52 @@
 {
-  "pivot": "slag",
+  "pivot": "fräser",
   "categories": [
     {
-      "title": "SORT ELLER TYP",
+      "title": "STEKA MAT",
       "words": [
-        "sort",
-        "typ"
+        "steka",
+        "grädda"
       ],
-      "definition": "sort, typ",
+      "definition": "steker snabbt (i het panna)",
       "word_definitions": [
-        "slag, typ",
-        "sort, kategori, slag"
+        "tillagar med matfett i stark hetta (i stekpanna)",
+        "bakar eller tillagar i ugn eller panna"
       ]
     },
     {
-      "title": "VIKAD DEL AV PLAGG",
+      "title": "HOTFULLA LJUD",
       "words": [
-        "brätte",
-        "revers"
+        "morra",
+        "väsa"
       ],
-      "definition": "del av klädesplagg som vikts (och lagts uppåt eller utåt)",
+      "definition": "ger ifrån sig ett ilsket s-liknande ljud",
       "word_definitions": [
-        "nedre, vågrät del av en hatt (som har vikts ut)",
-        "skuldebrev"
+        "ger ifrån sig ett brummande, hotfullt ljud",
+        "ger ifrån sig ett pressat ljud, viskar"
       ]
     },
     {
-      "title": "HJÄRNSKADA",
+      "title": "TILLRÄTTAVISA NÅGON",
       "words": [
-        "stroke",
-        "hjärninfarkt"
+        "förebrå",
+        "snäsa"
       ],
-      "definition": "(anfall av) hjärnblödning",
+      "definition": "snäser, tillrättavisar",
       "word_definitions": [
-        "hjärninfarkt; hjärnblödning",
-        "En typ av stroke som uppstår när ett blodkärl i hjärnan täpps till, vilket leder till syrebrist och vävnadsdöd."
+        "klandrar, tillrättavisar",
+        "tillrättavisar på ett irriterat sätt"
       ]
     },
     {
-      "title": "KORT TIDSRYMD",
+      "title": "BEARBETA MATERIAL",
       "words": [
-        "ögonblick",
-        "sekund"
+        "borra",
+        "slipa"
       ],
-      "definition": "kort stund",
+      "definition": "bearbetar (bort) med fräs",
       "word_definitions": [
-        "mycket kort tidsperiod",
-        "1/60 minut; kort ögonblick"
+        "gör hål (med borr)",
+        "polerar"
       ]
     }
   ]

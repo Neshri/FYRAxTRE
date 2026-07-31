@@ -1,52 +1,52 @@
 {
-  "pivot": "öppen",
+  "pivot": "röra",
   "categories": [
     {
-      "title": "INTE TÄCKT",
+      "title": "TOTAL OORDNING",
       "words": [
-        "bar",
-        "naken"
+        "kaos",
+        "virrvarr"
       ],
-      "definition": "inte stängd eller låst eller täckt",
+      "definition": "oreda, oordning",
       "word_definitions": [
-        "inte täckt, öppen, naken",
-        "inte täckt eller skyddad"
+        "total förvirring, oreda",
+        "röra, oreda"
       ]
     },
     {
-      "title": "OFFENTLIG",
+      "title": "FYSISK KONTAKT",
       "words": [
-        "offentlig",
-        "allmän"
+        "känna",
+        "snudda"
       ],
-      "definition": "tillgänglig eller synlig för alla, allmän, offentlig",
+      "definition": "ta i/på, vara eller befinna sig på eller i (fysisk) kontakt med",
       "word_definitions": [
-        "som gäller allmänheten, allmän, officiell",
-        "som delas av eller gäller alla, generell"
+        "tar (på), rör (vid)",
+        "berör lätt, vidrör, touchar"
       ]
     },
     {
-      "title": "EJ BESLUTAD",
+      "title": "PÅVERKA KÄNSLOMÄSSIGT",
       "words": [
-        "oavgjord",
-        "olöst"
+        "gripa",
+        "påverka"
       ],
-      "definition": "inte avgjord",
+      "definition": "(särskilt i particip) påverka känslomässigt",
       "word_definitions": [
-        "inte avgjord, utan någon segrare",
-        "som inte har lösts"
+        "berör känslomässigt",
+        "utövar påverkan på"
       ]
     },
     {
-      "title": "UPPRIKTIG",
+      "title": "HANDLA OM",
       "words": [
-        "frank",
-        "rättfram"
+        "sammanhänga",
+        "gälla"
       ],
-      "definition": "uppriktig",
+      "definition": "handla eller vara fråga om, knyta an till, ha med att göra",
       "word_definitions": [
-        "uppriktig",
-        "uppriktig, frimodig"
+        "har att göra med, hänger ihop, hänger samman",
+        "handlar om, rör, angår"
       ]
     }
   ]

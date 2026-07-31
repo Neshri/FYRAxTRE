@@ -1,52 +1,52 @@
 {
-  "pivot": "fasta",
+  "pivot": "passar",
   "categories": [
     {
-      "title": "ANDLIG DISCIPLIN",
+      "title": "VARA LÄMPLIG",
       "words": [
-        "försakelse",
-        "asketism"
+        "duga",
+        "platsa"
       ],
-      "definition": "handlingen att fasta",
+      "definition": "är lämplig",
       "word_definitions": [
-        "handlingen att försaka något",
-        "det att vara asketisk, asketisk åskådning"
+        "är tillräckligt bra, passar",
+        "är tillräckligt bra"
       ]
     },
     {
-      "title": "KYRKLIGA PERIODER",
+      "title": "VAKTA NÅGON ELLER NÅGOT",
       "words": [
-        "karneval",
-        "pingst"
+        "bevaka",
+        "skydda"
       ],
-      "definition": "tiden före påsk (då många kristna fastar)",
+      "definition": "ser efter, vaktar",
       "word_definitions": [
-        "fest som kommer före fastan i katolska länder",
-        "en kristen högtid som infaller sju veckor efter påsk"
+        "vaktar; övervakar (och skildrar)",
+        "bevarar från fara eller skada, försvarar"
       ]
     },
     {
-      "title": "MATAVHÅLLEHET",
+      "title": "SPELA BOLL VIDARE",
       "words": [
-        "diet",
-        "avhållsamhet"
+        "slå",
+        "skicka"
       ],
-      "definition": "det att icke äta eller dricka",
+      "definition": "spelar bollen vidare",
       "word_definitions": [
-        "regler (ofta bestämda av läkare) för vad man får äta och dricka",
-        "det att vara avhållsam"
+        "ger ett slag, smäller till",
+        "sänder"
       ]
     },
     {
-      "title": "RELIGIÖSA FASTETIDER",
+      "title": "SÄGA PASS I SPEL",
       "words": [
-        "Ramadan",
-        "advent"
+        "avstå",
+        "vika"
       ],
-      "definition": "tidsperiod (fastetid) då man fastar, t.ex. fastan före påsk av kristna eller ramadan av muslimer",
+      "definition": "säger pass i kortspel",
       "word_definitions": [
-        "islamsk fastemånad som infaller den nionde månaden i det islamiska månåret, då det anses att Muhammed fick sin kallelse",
-        "de fyra veckorna före jul"
+        "låter bli, lämnar",
+        "drar sig tillbaka, ger efter"
       ]
     }
   ]

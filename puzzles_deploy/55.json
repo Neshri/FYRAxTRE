@@ -1,52 +1,52 @@
 {
-  "pivot": "intresse",
+  "pivot": "ljus",
   "categories": [
     {
-      "title": "LUST OCH IVRIGHET",
+      "title": "LJUSA EGENSKAPER",
       "words": [
-        "klåda",
-        "håg"
+        "klar",
+        "strålande"
       ],
-      "definition": "lust att ägna något sin uppmärksamhet",
+      "definition": "som ger ifrån sig mycket ljus; upplyst",
       "word_definitions": [
-        "lust att göra något",
-        "lust"
+        "ljus, lysande, genomskinlig",
+        "mycket bra, utomordentlig"
       ]
     },
     {
-      "title": "FRITIDSSYSSLA",
+      "title": "POSITIV INSTÄLLNING",
       "words": [
-        "sysselsättning",
-        "hobby"
+        "optimistisk",
+        "hoppfull"
       ],
-      "definition": "något man gärna sysslar med, hobby",
+      "definition": "hoppfull",
       "word_definitions": [
-        "handlingen att sysselsätta sig med något, arbete",
-        "sysselsättning på fritiden"
+        "präglad av optimism, hoppfull",
+        "som har gott hopp, optimistisk"
       ]
     },
     {
-      "title": "ATTRAKTIONSKRAFT",
+      "title": "LJUSFENOMEN",
       "words": [
-        "lockelse",
-        "utstrålning"
+        "glans",
+        "glitter"
       ],
-      "definition": "förmåga att fånga uppmärksamhet",
+      "definition": "vågrörelse som gör att man kan se, sken",
       "word_definitions": [
-        "(något som har) förmåga att dra till sig intresse eller väcka begär",
-        "förmåga (hos en person) att göra ett starkt intryck, karisma"
+        "skimmer, sken",
+        "ljus med snabbt växlande sken"
       ]
     },
     {
-      "title": "NYTTA OCH FÖRDEL",
+      "title": "LJUSKÄLLOR",
       "words": [
-        "nytta",
-        "fördel"
+        "lampa",
+        "laser"
       ],
-      "definition": "något som man kan ha fördel av, engagemang",
+      "definition": "ljuskälla, belysning",
       "word_definitions": [
-        "något som har god effekt, fördel",
-        "det som gynnar någon, positiv egenskap"
+        "anordning för belysning, glödlampa",
+        "apparat som alstrar och sänder ut en intensiv stråle av ljus"
       ]
     }
   ]

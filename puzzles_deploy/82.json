@@ -1,52 +1,52 @@
 {
-  "pivot": "lätt",
+  "pivot": "bryter",
   "categories": [
     {
-      "title": "BEKYMMERSLÖS",
+      "title": "FÅR NÅGOT ATT GÅ SÖNDER",
       "words": [
-        "sorglös",
-        "avslappnad"
+        "spräcka",
+        "krossa"
       ],
-      "definition": "obekymrad",
+      "definition": "får att spricka sönder i två delar (ofta genom kraftig böjning)",
       "word_definitions": [
-        "bekymmerslös, glad",
-        "lugn, avspänd"
+        "får att spricka",
+        "slår sönder, splittrar; mosar"
       ]
     },
     {
-      "title": "ENKELT OCH RAKT",
+      "title": "BRYTA MOT LAGEN",
       "words": [
-        "enkel",
-        "okomplicerad"
+        "överträda",
+        "kränka"
       ],
-      "definition": "enkel, okomplicerad",
+      "definition": "kommer i konflikt med lagen, uppfyller inte, kränker",
       "word_definitions": [
-        "lätt att förstå, okomplicerad",
-        "inte komplicerad, enkel"
+        "bryter mot bestämmelser",
+        "respekterar inte"
       ]
     },
     {
-      "title": "OBETYDLIG",
+      "title": "BLANDA FÄRGER ELLER SMAKER",
       "words": [
-        "ringa",
-        "marginell"
+        "sammanblanda",
+        "nyansera"
       ],
-      "definition": "obetydlig",
+      "definition": "blandar (med avvikande färg eller smak)",
       "word_definitions": [
-        "liten, obetydlig",
-        "inte viktig, obetydlig"
+        "förväxlar, blandar ihop, blandar samman",
+        "ger (en framställning) nyanser"
       ]
     },
     {
-      "title": "OFTA ELLER GÄRNA",
+      "title": "ÄNDRA RIKTNING",
       "words": [
-        "gärna",
-        "vanligen"
+        "kantra",
+        "vända"
       ],
-      "definition": "ofta; gärna",
+      "definition": "får att ändra riktning",
       "word_definitions": [
-        "ofta, lätt",
-        "för det mesta, oftast, mestadels, vanligtvis"
+        "ändrar riktning",
+        "ändrar läge eller riktning"
       ]
     }
   ]

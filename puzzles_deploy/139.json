@@ -1,52 +1,52 @@
 {
-  "pivot": "sticka",
+  "pivot": "fasta",
   "categories": [
     {
-      "title": "LÄMNA SMYGANDE",
+      "title": "ANDLIG DISCIPLIN",
       "words": [
-        "slinka",
-        "smita"
+        "försakelse",
+        "asketism"
       ],
-      "definition": "dra; gå (iväg, bortåt); smita; ge sig iväg",
+      "definition": "handlingen att fasta",
       "word_definitions": [
-        "smiter; går",
-        "avlägsnar sig omärkligt, smyger iväg"
+        "handlingen att försaka något",
+        "det att vara asketisk, asketisk åskådning"
       ]
     },
     {
-      "title": "HUDKÄNSLA",
+      "title": "KYRKLIGA PERIODER",
       "words": [
-        "pirra",
-        "domna"
+        "karneval",
+        "pingst"
       ],
-      "definition": "ge upphov till en känsla som av ett stort antal spetsiga föremål trycks in; ge en stickande känsla",
+      "definition": "tiden före påsk (då många kristna fastar)",
       "word_definitions": [
-        "kittlar, sticker, kryper",
-        "förlorar känseln"
+        "fest som kommer före fastan i katolska länder",
+        "en kristen högtid som infaller sju veckor efter påsk"
       ]
     },
     {
-      "title": "TRÄKLUBBOR",
+      "title": "MATAVHÅLLEHET",
       "words": [
-        "hammare",
-        "kavle"
+        "diet",
+        "avhållsamhet"
       ],
-      "definition": "klubba",
+      "definition": "det att icke äta eller dricka",
       "word_definitions": [
-        "ett verktyg att slå i spikar med",
-        "äldre variant till kavel"
+        "regler (ofta bestämda av läkare) för vad man får äta och dricka",
+        "det att vara avhållsam"
       ]
     },
     {
-      "title": "TEXTILTEKNIKER",
+      "title": "RELIGIÖSA FASTETIDER",
       "words": [
-        "virka",
-        "väva"
+        "Ramadan",
+        "advent"
       ],
-      "definition": "tillverka vävnad av garn för hand medelst en (rund-) eller flera stickor",
+      "definition": "tidsperiod (fastetid) då man fastar, t.ex. fastan före påsk av kristna eller ramadan av muslimer",
       "word_definitions": [
-        "tillverkar av garn med hjälp av virknål",
-        "fogar samman trådar (eller garn) till ett helt tygstycke"
+        "islamsk fastemånad som infaller den nionde månaden i det islamiska månåret, då det anses att Muhammed fick sin kallelse",
+        "de fyra veckorna före jul"
       ]
     }
   ]

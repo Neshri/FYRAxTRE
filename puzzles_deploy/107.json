@@ -1,52 +1,52 @@
 {
-  "pivot": "punkt",
+  "pivot": "växlar",
   "categories": [
     {
-      "title": "SKILJETECKEN",
+      "title": "VARIERA STÄNDIGT",
       "words": [
-        "komma",
-        "parentes"
+        "fluktuera",
+        "svänga"
       ],
-      "definition": "tecken för slutet på en mening (.)",
+      "definition": "förändras ständigt, varierar",
       "word_definitions": [
-        "ett skiljetecken (,)",
-        "tecknet ( ) eller det som står inom det"
+        "varierar",
+        "rör sig i en båge fram och tillbaka"
       ]
     },
     {
-      "title": "AVSLUTNING",
+      "title": "BYTA UT NÅGOT",
       "words": [
-        "ände",
-        "final"
+        "kvitta",
+        "ersätta"
       ],
-      "definition": "slut",
+      "definition": "byter något mot något annat",
       "word_definitions": [
-        "yttersta del, slut",
-        "avslutning"
+        "betalar något, t.ex. en skuld, genom byte mot något annat",
+        "vikarierar för; efterträder"
       ]
     },
     {
-      "title": "POSITION ELLER PLATS",
+      "title": "VÄXLA VALUTA",
       "words": [
-        "position",
-        "placering"
+        "konvertera",
+        "omvandla"
       ],
-      "definition": "plats, läge (i rum eller tid)",
+      "definition": "byter sedlar eller mynt till andra valörer av sedlar eller mynt; köper annan valuta",
       "word_definitions": [
-        "ställning, läge",
-        "plats (ofta i någon sorts rangordning)"
+        "går över till en annan religiös lära",
+        "får att ändra form, förvandlar"
       ]
     },
     {
-      "title": "DEL AV HELHET",
+      "title": "BYTA VÄXEL",
       "words": [
-        "avsnitt",
-        "moment"
+        "byta",
+        "skifta"
       ],
-      "definition": "avsnitt, del, inslag",
+      "definition": "lägger in en (ny) växel",
       "word_definitions": [
-        "del, avdelning, stycke",
-        "beståndsdel; avsnitt"
+        "ger något och får något annat istället, (ut)växlar",
+        "byter, växlar"
       ]
     }
   ]

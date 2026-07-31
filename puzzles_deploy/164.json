@@ -1,52 +1,52 @@
 {
-  "pivot": "vapen",
+  "pivot": "klubba",
   "categories": [
     {
-      "title": "STRIDSREDSKAP",
+      "title": "BESLUTA OFFICIELLT",
       "words": [
-        "spjut",
-        "svärd"
+        "fastställa",
+        "utropa"
       ],
-      "definition": "redskap för att skada eller döda (vid anfall eller försvar)",
+      "definition": "genom slag med klubba förklara och fastslå (beslut) eller, vid auktion, utse en viss köpare",
       "word_definitions": [
-        "ett vapen eller idrottsredskap i form av en vass stång som stöts eller kastas",
-        "ett långsmalt vapen att hugga eller sticka med"
+        "bestämmer, föreskriver; konstaterar",
+        "bjuder ut till försäljning på auktion, ropar ut"
       ]
     },
     {
-      "title": "STRATEGISK FÖRDEL",
+      "title": "NÄRSTRIDSVAPEN",
       "words": [
-        "trumfkort",
-        "ess"
+        "batong",
+        "spjut"
       ],
-      "definition": "tillgång (som ger stor fördel)",
+      "definition": "redskap i form av en kraftig påk avsett som närstridsvapen",
       "word_definitions": [
-        "mycket värdefull resurs eller tillgång",
-        "det högsta kortet i en av de fyra kortsviterna (färgerna)"
+        "en sorts stav (ofta av hårt gummi) som används som vapen (särskilt av polisen)",
+        "ett vapen eller idrottsredskap i form av en vass stång som stöts eller kastas"
       ]
     },
     {
-      "title": "MILITÄR VAPENGREN",
+      "title": "SLÅ MED VERKTYG",
       "words": [
-        "infanteri",
-        "kavalleri"
+        "knacka",
+        "hamra"
       ],
-      "definition": "försvarsgren",
+      "definition": "slå med klubba",
       "word_definitions": [
-        "ett truppslag som strider till fots",
-        "militär trupp till häst"
+        "slår med korta upprepade slag",
+        "slår med hammare, bankar, bultar, dunkar"
       ]
     },
     {
-      "title": "HERALDISK SYMBOL",
+      "title": "SÖTSAKER",
       "words": [
-        "emblem",
-        "sigill"
+        "karamell",
+        "gott"
       ],
-      "definition": "tecken (på sköld) för en släkt, stad eller stat",
+      "definition": "pinne med godis att slicka eller suga på",
       "word_definitions": [
-        "sinnebildligt märke",
-        "(stämpel för) avtryck i lack vid försegling"
+        "liten bit godis, (hård) sötsak",
+        "karameller, choklad etc., godis"
       ]
     }
   ]

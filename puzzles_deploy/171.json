@@ -1,52 +1,52 @@
 {
-  "pivot": "väger",
+  "pivot": "mål",
   "categories": [
     {
-      "title": "ANGE MÅTT OCH VÄRDE",
+      "title": "SYFTE OCH AVSIKT",
       "words": [
-        "kosta",
-        "mäta"
+        "syfte",
+        "avsikt"
       ],
-      "definition": "har som vikt",
+      "definition": "ändamål, syfte",
       "word_definitions": [
-        "har som pris",
-        "har en viss storlek eller längd"
+        "avsikt, ändamål",
+        "syfte, mening"
       ]
     },
     {
-      "title": "VARA VIKTIG",
+      "title": "OLIKA MÅLTIDER",
       "words": [
-        "betyda",
-        "räknas"
+        "lunch",
+        "supé"
       ],
-      "definition": "har betydelse",
+      "definition": "den mängd mat man äter vid ett visst tillfälle, måltid",
       "word_definitions": [
-        "är viktig",
-        "gäller"
+        "(lättare) måltid mitt på dagen",
+        "(finare) måltid på kvällen"
       ]
     },
     {
-      "title": "SKAPA BALANS",
+      "title": "JURIDISK PROCESS",
       "words": [
-        "utjämna",
-        "balansera"
+        "process",
+        "rättegång"
       ],
-      "definition": "balanserar",
+      "definition": "rättegång, process",
       "word_definitions": [
-        "gör jämnt fördelad; balanserar, jämnar ut",
-        "håller jämvikten"
+        "rättegång, mål",
+        "process inför domstol, mål"
       ]
     },
     {
-      "title": "VARA OSÄKER",
+      "title": "SPRÅKLIG FÖRMÅGA",
       "words": [
-        "tveka",
-        "vackla"
+        "tal",
+        "språk"
       ],
-      "definition": "är oviss",
+      "definition": "förmåga att tala; språk",
       "word_definitions": [
-        "har svårt att bestämma sig för ett av flera alternativ",
-        "tvekar"
+        "det att tala; förmåga att tala",
+        "människans sätt att meddela sig genom tal och skrift"
       ]
     }
   ]
