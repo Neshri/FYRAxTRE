@@ -2,27 +2,15 @@
   "pivot": "bank",
   "categories": [
     {
-      "title": "SJÖBOTTENFORMATIONER",
+      "title": "UNDERSJÖISK UPPHÖJNING",
       "words": [
         "vall",
-        "rev"
+        "grund"
       ],
       "definition": "upphöjning av botten (i hav eller sjö)",
       "word_definitions": [
         "långsträckt upphöjning (ofta av jord eller sand)",
-        "lina för fiske"
-      ]
-    },
-    {
-      "title": "VÄGUNDERLAG",
-      "words": [
-        "fundament",
-        "underbyggnad"
-      ],
-      "definition": "underlag för väg eller järnväg, vall",
-      "word_definitions": [
-        "grund, underlag",
-        "handlingen att underbygga något"
+        "underlag, botten"
       ]
     },
     {
@@ -38,15 +26,27 @@
       ]
     },
     {
-      "title": "RESURSFÖRRÅD",
+      "title": "FINANSIELLA INSTITUTIONER",
+      "words": [
+        "finansiär",
+        "kreditinstitut"
+      ],
+      "definition": "företag som lånar och lånar ut pengar",
+      "word_definitions": [
+        "person som finansierar något",
+        "Ett finansiellt företag som bedriver verksamhet med att bevilja krediter och ofta ta emot insättningar, exempelvis en bank eller ett kreditmarknadsbolag."
+      ]
+    },
+    {
+      "title": "LAGRINGSPLATSER",
       "words": [
         "lager",
-        "arsenal"
+        "magasin"
       ],
       "definition": "förråd",
       "word_definitions": [
         "förråd, magasin",
-        "förråd, lager"
+        "förrådshus, förvaringsrum"
       ]
     }
   ]

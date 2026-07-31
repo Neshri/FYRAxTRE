@@ -1,52 +1,52 @@
 {
-  "pivot": "rätt",
+  "pivot": "röra",
   "categories": [
     {
-      "title": "UTAN FEL",
+      "title": "AVSACKNAD AV STRUKTUR",
       "words": [
-        "ofelbart",
-        "perfekt"
+        "anarki",
+        "sammelsurium"
       ],
-      "definition": "utan fel",
+      "definition": "brist på ordning, avsaknad av struktur",
       "word_definitions": [
-        "utan minsta tvivel, säkert",
-        "; på ett perfekt sätt"
+        "frånvaro av regering; oordning",
+        "röra, oordning"
       ]
     },
     {
-      "title": "MORALISKT KORREKT",
+      "title": "ÄNDRA POSITION",
       "words": [
-        "anständig",
-        "moralisk"
+        "flytta",
+        "vända"
       ],
-      "definition": "moraliskt riktig",
+      "definition": "låta, i synnerhet en kroppsdel, byta eller ändra position/läge (i rummet)",
       "word_definitions": [
-        "(moraliskt) passande; korrekt, hederlig",
-        "som bygger på moral"
+        "för till en annan plats",
+        "ändrar läge eller riktning"
       ]
     },
     {
-      "title": "LAGLIG RÄTTIGHET",
+      "title": "GÖRA OM",
       "words": [
-        "befogenhet",
-        "privilegium"
+        "förändra",
+        "omforma"
       ],
-      "definition": "rättighet",
+      "definition": "(bildligt) förändra",
       "word_definitions": [
-        "rättighet; behörighet",
-        "förmån"
+        "ändrar, förvandlar",
+        "gör om, ändrar"
       ]
     },
     {
-      "title": "DOMSTOL",
+      "title": "BLANDAD MASSA",
       "words": [
-        "domstol",
-        "tribunal"
+        "mix",
+        "smet"
       ],
-      "definition": "domstol",
+      "definition": "blandning, mos",
       "word_definitions": [
-        "myndighet som dömer i rättsfall",
-        "(revolutions)domstol"
+        "blandning",
+        "(kladdig) blandning som ska gräddas"
       ]
     }
   ]

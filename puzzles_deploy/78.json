@@ -1,52 +1,52 @@
 {
-  "pivot": "leda",
+  "pivot": "lopp",
   "categories": [
     {
-      "title": "KÄNSLA AV UTTRÅKNING",
+      "title": "LÖPTÄVLINGAR",
       "words": [
-        "uttråkning",
-        "träsmak"
+        "stafett",
+        "heat"
       ],
-      "definition": "känsla av att vara uttråkad",
+      "definition": "enskild tävling i löpning e.d.",
       "word_definitions": [
-        "tillståndet att vara uttråkad",
-        "känsla av trötthet eller uttråkning"
+        "en sorts lagtävling (i t.ex. löpning och simning) där de tävlande inom samma lag avlöser varandra",
+        "tidig omgång av löptävling eller simtävling (där de sämre slås ut)"
       ]
     },
     {
-      "title": "FÖRA NÅGON",
+      "title": "UTVECKLINGSPROCESS",
       "words": [
-        "styra",
-        "lotsa"
+        "process",
+        "led"
       ],
-      "definition": "hålla i och föra (i viss riktning)",
+      "definition": "(tidens) gång , förlopp",
       "word_definitions": [
-        "låter ett fordon gå i viss riktning",
-        "styr ett fartyg genom besvärliga farvatten"
+        "förlopp, utveckling",
+        "del i ett förlopp"
       ]
     },
     {
-      "title": "STYRA FLÖDE",
+      "title": "GEVÄRSDELAR",
       "words": [
-        "kanalisera",
-        "dirigera"
+        "kolv",
+        "avtryckare"
       ],
-      "definition": "föra (i viss riktning)",
+      "definition": "insidan av gevärspipa",
       "word_definitions": [
-        "leder i viss riktning",
-        "leder orkester eller kör"
+        "bakre del av handeldvapen",
+        "del av skjutvapen som man trycker på för att avlossa ett skott"
       ]
     },
     {
-      "title": "BÖJA NÅGOT",
+      "title": "VATTENDRAG",
       "words": [
-        "kröka",
-        "bocka"
+        "älv",
+        "flod"
       ],
-      "definition": "böja en led",
+      "definition": "utsträckning av vattendrag",
       "word_definitions": [
-        "gör krokig, böjer",
-        "böjer (t.ex. en metallstång)"
+        "större vattendrag, flod",
+        "större vattendrag (utanför Sverige), älv, å"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "täcker",
+  "pivot": "vara",
   "categories": [
     {
-      "title": "TÄCKA EN YTA",
+      "title": "HANDELSVAROR",
       "words": [
-        "dölja",
-        "bekläda"
+        "ting",
+        "sak"
       ],
-      "definition": "lägger över (för att skydda eller dölja)",
+      "definition": "föremål som köps eller säljs, artikel",
       "word_definitions": [
-        "gömmer, täcker över",
-        "innehar"
+        "sak, föremål",
+        "föremål"
       ]
     },
     {
-      "title": "BREDA UT SIG",
+      "title": "EXISTENS / TILLVARA",
       "words": [
-        "expandera",
-        "utvidga"
+        "tillvaro",
+        "verklighet"
       ],
-      "definition": "breder ut sig över",
+      "definition": "tillstånd att existera; det som existerar",
       "word_definitions": [
-        "breder ut sig, utvidgas, växer",
-        "gör större, expanderar"
+        "existens, liv",
+        "det som existerar eller är sant, realitet"
       ]
     },
     {
-      "title": "BETALA EN SUMMA",
+      "title": "VÅRD OCH FÖRVARING",
       "words": [
-        "pröjsa",
-        "bekosta"
+        "förvaring",
+        "skötsel"
       ],
-      "definition": "betalar",
+      "definition": "vård, förvar",
       "word_definitions": [
-        "betalar",
-        "betalar för"
+        "förvar",
+        "vård"
       ]
     },
     {
-      "title": "JOURNALISTISK BEVAKNING",
+      "title": "PLACERING I RUMMET",
       "words": [
-        "bevaka",
-        "rapportera"
+        "vistas",
+        "ligga"
       ],
-      "definition": "bevakar (som journalist)",
+      "definition": "ha eller ta en plats i tid eller rum; befinna sig",
       "word_definitions": [
-        "vaktar; övervakar (och skildrar)",
-        "redogör för"
+        "uppehåller sig, bor tillfälligt",
+        "är i vågrätt läge, vilar; är placerad"
       ]
     }
   ]

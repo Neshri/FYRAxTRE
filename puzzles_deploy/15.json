@@ -1,52 +1,52 @@
 {
-  "pivot": "byte",
+  "pivot": "division",
   "categories": [
     {
-      "title": "VÄXLING ELLER ÄNDRING",
+      "title": "UPPDELNING AV NÅGOT",
       "words": [
-        "ändring",
-        "omvandling"
+        "fördelning",
+        "splittring"
       ],
-      "definition": "handlingen att byta något, utbyte",
+      "definition": "handlingen att dividera",
       "word_definitions": [
-        "handlingen att ändra något, förändring",
-        "handlingen att omvandla något"
+        "handlingen att fördela något; uppdelning",
+        "handlingen att splittra något"
       ]
     },
     {
-      "title": "FÅNGST VID JAKT",
+      "title": "MILITÄRA FÖRBAND",
       "words": [
-        "rov",
-        "vilt"
+        "brigad",
+        "regemente"
       ],
-      "definition": "fångst, rov",
+      "definition": "större militär avdelning",
       "word_definitions": [
-        "byte, fångst",
-        "vilda djur"
+        "stort förband inom en armé",
+        "den högsta administrativa militära enheten på lokal nivå"
       ]
     },
     {
-      "title": "ERBJUDANDE VID KÖP",
+      "title": "FÖRETAGSAVDELNINGAR",
       "words": [
-        "anbud",
-        "offert"
+        "sektion",
+        "filial"
       ],
-      "definition": "offer",
+      "definition": "avdelning inom företag",
       "word_definitions": [
-        "erbjudande, förslag",
-        "erbjudande om en vara eller tjänst till ett visst pris, anbud"
+        "avsnitt, avdelning",
+        "(ganska självständig) avdelning"
       ]
     },
     {
-      "title": "ENHETER FÖR DATA",
+      "title": "NIVÅ I SERIESYSTEM",
       "words": [
-        "bit",
-        "ord"
+        "serie",
+        "klass"
       ],
-      "definition": "åtta bits (i datasammanhang)",
+      "definition": "klass i seriesystem",
       "word_definitions": [
-        "siffra i binärt talsystem; enhet för information (i datorer)",
-        "minsta självständiga enhet i en text (med mellanrum före och efter)"
+        "tävlingsform där lag tävlar mot varandra efter en viss ordning",
+        "grupp av personer eller företeelser"
       ]
     }
   ]

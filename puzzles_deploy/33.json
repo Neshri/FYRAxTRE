@@ -1,52 +1,52 @@
 {
-  "pivot": "fil",
+  "pivot": "fräser",
   "categories": [
     {
-      "title": "VERKTYG FÖR FORMNING",
+      "title": "STEKA MAT",
       "words": [
-        "hyvel",
-        "mejsel"
+        "steka",
+        "grädda"
       ],
-      "definition": "ett verktyg av stål som används för att slipa ytor jämna",
+      "definition": "steker snabbt (i het panna)",
       "word_definitions": [
-        "ett verktyg för att göra ytor jämna",
-        "ett verktyg som man slår på med hammare för att bearbeta hårda material; skruvmejsel"
+        "tillagar med matfett i stark hetta (i stekpanna)",
+        "bakar eller tillagar i ugn eller panna"
       ]
     },
     {
-      "title": "VÄGENS DELAR",
+      "title": "HOTFULLA LJUD",
       "words": [
-        "cykelväg",
-        "trottoar"
+        "morra",
+        "väsa"
       ],
-      "definition": "körbana, körfält",
+      "definition": "ger ifrån sig ett ilsket s-liknande ljud",
       "word_definitions": [
-        "cykelbana",
-        "gångbana bredvid körbana"
+        "ger ifrån sig ett brummande, hotfullt ljud",
+        "ger ifrån sig ett pressat ljud, viskar"
       ]
     },
     {
-      "title": "DATALAGRING",
+      "title": "TILLRÄTTAVISA NÅGON",
       "words": [
-        "mapp",
-        "dokument"
+        "förebrå",
+        "snäsa"
       ],
-      "definition": "del av datorminne där enheter som hör ihop lagras",
+      "definition": "snäser, tillrättavisar",
       "word_definitions": [
-        "anordning för förvaring (ofta av lösa anteckningar o.d.)",
-        "skrift, handling (ofta av juridisk eller historisk betydelse)"
+        "klandrar, tillrättavisar",
+        "tillrättavisar på ett irriterat sätt"
       ]
     },
     {
-      "title": "SYRLIGA MJÖLKPRODUKTER",
+      "title": "BEARBETA MATERIAL",
       "words": [
-        "yoghurt",
-        "kefir"
+        "borra",
+        "slipa"
       ],
-      "definition": "surmjölk, filmjölk",
+      "definition": "bearbetar (bort) med fräs",
       "word_definitions": [
-        "ett slags surmjölk",
-        "rysk filmjölk, en form av kulturmjölk som tillverkas med hjälp av kefirkorn eller kefirgryn"
+        "gör hål (med borr)",
+        "polerar"
       ]
     }
   ]

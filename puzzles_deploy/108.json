@@ -1,52 +1,52 @@
 {
-  "pivot": "program",
+  "pivot": "på",
   "categories": [
     {
-      "title": "PLAN FÖR GENOMFÖRANDE",
+      "title": "RIKTNING MOT",
       "words": [
-        "strategi",
-        "handlingsplan"
+        "emot",
+        "kontra"
       ],
-      "definition": "plan eller översikt över hur något ska genomföras",
+      "definition": "mot",
       "word_definitions": [
-        "långsiktig plan för att genomföra något",
-        "plan för verksamhet (som finns till eller skapas för att man vill förändra något)"
+        "mot",
+        "mot, gentemot"
       ]
     },
     {
-      "title": "TYPER AV SÄNDNINGAR",
+      "title": "POSITION",
       "words": [
-        "magasin",
-        "feature"
+        "över",
+        "vid"
       ],
-      "definition": "enskild sändning i radio eller tv",
+      "definition": "i anslutning till, ovanpå",
       "word_definitions": [
-        "program i radio eller tv; tidskrift",
-        "radio- eller tv-program med inslag av dokumentärt och dramatiserat material; stort reportage i tidning"
+        "ovanför, ovanpå",
+        "omkring, ungefär; i samband med"
       ]
     },
     {
-      "title": "DATORKOD OCH PROGRAMVARA",
+      "title": "TIDSRYMD",
       "words": [
-        "mjukvara",
-        "källkod"
+        "om",
+        "under"
       ],
-      "definition": "instruktion för en dator",
+      "definition": "under, inom (anger tidpunkt eller tidsrymd)",
       "word_definitions": [
-        "program till en dator, programvara",
-        "instruktioner i ett visst programspråk"
+        "på; inom en tid av",
+        "medan något varar"
       ]
     },
     {
-      "title": "VAL AV UTBILDNING",
+      "title": "ANGÅENDE ÄMNE",
       "words": [
-        "linje",
-        "utbildning"
+        "beträffande",
+        "angående"
       ],
-      "definition": "inriktning av utbildning (särskilt på gymnasiet och universitetet)",
+      "definition": "när det gäller",
       "word_definitions": [
-        "kurs, inriktning",
-        "undervisning, studier (ofta med sikte på examen)"
+        "i fråga om, angående",
+        "om, beträffande"
       ]
     }
   ]

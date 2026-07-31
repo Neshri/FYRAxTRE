@@ -1,52 +1,52 @@
 {
-  "pivot": "slag",
+  "pivot": "spricka",
   "categories": [
     {
-      "title": "SORT ELLER TYP",
+      "title": "SMALA RÄNNOR",
       "words": [
-        "art",
-        "typ"
+        "råk",
+        "dike"
       ],
-      "definition": "sort, typ",
+      "definition": "smal ränna",
       "word_definitions": [
-        "sort, slag, typ",
-        "sort, kategori, slag"
+        "öppen ränna i is",
+        "grävd ränna i marken (ofta på båda sidor av en väg)"
       ]
     },
     {
-      "title": "VÄPNAD STRID",
+      "title": "OENIGHET",
       "words": [
-        "batalj",
-        "skärmytsling"
+        "strid",
+        "tvist"
       ],
-      "definition": "större strid, drabbning",
+      "definition": "oenighet",
       "word_definitions": [
-        "(fält)slag, strid",
-        "mindre strid"
+        "tvist, oenighet",
+        "oenighet, stridighet"
       ]
     },
     {
-      "title": "DEL AV PLAGG",
+      "title": "ÖPPNINGAR I MATERIAL",
       "words": [
-        "brätte",
-        "bräm"
+        "glipa",
+        "klyfta"
       ],
-      "definition": "del av klädesplagg som vikts (och lagts uppåt eller utåt)",
+      "definition": "långsmal delning i material bildad av påfrestning på hårt och ofta sprött material",
       "word_definitions": [
-        "nedre, vågrät del av en hatt (som har vikts ut)",
-        "kant (på kläder)"
+        "spricka, springa, öppning",
+        "spricka"
       ]
     },
     {
-      "title": "KORT TIDSRYMD",
+      "title": "GÅ SÖNDER",
       "words": [
-        "ögonblick",
-        "tag"
+        "bräcka",
+        "bryta"
       ],
-      "definition": "kort stund",
+      "definition": "rämna, brytas sönder och bilda långsmal öppning",
       "word_definitions": [
-        "mycket kort tidsperiod",
-        "stund, tidsperiod"
+        "knäcker, bryter",
+        "får att spricka sönder i två delar (ofta genom kraftig böjning)"
       ]
     }
   ]

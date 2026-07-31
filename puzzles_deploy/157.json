@@ -1,52 +1,52 @@
 {
-  "pivot": "tecknar",
+  "pivot": "tro",
   "categories": [
     {
-      "title": "MEDDELA MED TECKEN",
+      "title": "RELIGIÖS LÄRA",
       "words": [
-        "signalera",
-        "visa"
+        "teologi",
+        "religion"
       ],
-      "definition": "meddelar med tecken, signalerar",
+      "definition": "religiös övertygelse, lära, religion",
       "word_definitions": [
-        "ger signal, ger tecken",
-        "är tecken på"
+        "vetenskapen om religioner (särskilt kristendomen)",
+        "dyrkan av övernaturliga makter, gudstro"
       ]
     },
     {
-      "title": "RITA BILDER",
+      "title": "BEKRÄFTA SANNING",
       "words": [
-        "dra",
-        "rita"
+        "attestera",
+        "vitsorda"
       ],
-      "definition": "gör teckningar, ritar",
+      "definition": "hålla något för sant, vara övertygad om något (på mer eller mindre rationella grunder)",
       "word_definitions": [
-        "ritar, tecknar",
-        "skapar en bild med penna e.d."
+        "intygar att något är riktigt, godkänner",
+        "ger vitsord om, bekräftar, intygar"
       ]
     },
     {
-      "title": "GE NÅGOT",
+      "title": "FÖRESTÄLLA SIG",
       "words": [
-        "skänka",
-        "avge"
+        "fantisera",
+        "inbilla"
       ],
-      "definition": "skriver; ger",
+      "definition": "inbilla sig, föreställa sig",
       "word_definitions": [
-        "ger",
-        "lämnar, ger"
+        "inbillar sig, drömmer",
+        "felaktigt tro, föreställa sig"
       ]
     },
     {
-      "title": "SKRIVA UNDER",
+      "title": "FÖRMODAN",
       "words": [
-        "signera",
-        "kvittera"
+        "gissning",
+        "hypotes"
       ],
-      "definition": "binder sig juridiskt för något (genom att skriva sin namnteckning under ett kontrakt)",
+      "definition": "det att hålla något sannolikt, förmodan",
       "word_definitions": [
-        "sätter sitt namn eller märke på, undertecknar",
-        "skriver sin namnteckning för att bekräfta att man tagit emot något"
+        "antagande, förmodan",
+        "antagande, teori"
       ]
     }
   ]

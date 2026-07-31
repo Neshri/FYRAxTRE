@@ -1,52 +1,52 @@
 {
-  "pivot": "komma",
+  "pivot": "lager",
   "categories": [
     {
-      "title": "SKILJETECKEN",
+      "title": "FÖRVARINGSPLATS",
       "words": [
-        "semikolon",
-        "punkt"
+        "magasin",
+        "depå"
       ],
-      "definition": "ett skiljetecken (,)",
+      "definition": "förråd, magasin",
       "word_definitions": [
-        "ett skiljetecken (;)",
-        "tecken för slutet på en mening (.)"
+        "förrådshus, förvaringsrum",
+        "förvaringsplats för förråd av ngt"
       ]
     },
     {
-      "title": "ANLÄNDA EN PLATS",
+      "title": "TUNNA SKIKT",
       "words": [
-        "nå",
-        "anlända"
+        "hinna",
+        "hud"
       ],
-      "definition": "anlända eller nå fram till en plats",
+      "definition": "skikt",
       "word_definitions": [
-        "kommer fram till, anländer till",
-        "kommer fram, ankommer"
+        "tunt skikt",
+        "yttersta, skyddande skikt på människor och djur"
       ]
     },
     {
-      "title": "BLI NÅGOT",
+      "title": "ROTERANDE MASKINDELAR",
       "words": [
-        "bli",
-        "utvecklas"
+        "axel",
+        "tapp"
       ],
-      "definition": "av en händelse övergå till visst (framtida) skeende eller tillstånd",
+      "definition": "del av en maskin som bär upp en roterande axel",
       "word_definitions": [
-        "börjar vara, kommer att vara",
-        "blir större eller bättre, växer till"
+        "stång som ett hjul roterar kring",
+        "utskjutande axel som något vrids omkring"
       ]
     },
     {
-      "title": "MINNAS NÅGOT",
+      "title": "VÄLDOFTANDE VÄXTER",
       "words": [
-        "minnas",
-        "återkalla"
+        "hägg",
+        "jasmin"
       ],
-      "definition": "i betydelsen komma ihåg",
+      "definition": "ett träd (eller en buske) med blanka, väldoftande blad (Laurus nobilis)",
       "word_definitions": [
-        "kommer ihåg",
-        "kalla åter, hemkalla, ta tillbaka"
+        "en stor buske (eller ett litet träd) med väldoftande vita blommor i klasar (Prunus padus)",
+        "en buske med väldoftande blommor (släktet Jasminum)"
       ]
     }
   ]

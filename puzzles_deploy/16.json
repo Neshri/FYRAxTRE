@@ -1,52 +1,52 @@
 {
-  "pivot": "dam",
+  "pivot": "drag",
   "categories": [
     {
-      "title": "BETECKNINGAR FÖR KVINNA",
+      "title": "TECKNING ELLER LINJE",
       "words": [
-        "kvinna",
-        "tjej"
+        "streck",
+        "skiss"
       ],
-      "definition": "kvinna",
+      "definition": "teckning, linje",
       "word_definitions": [
-        "vuxen person av honkön",
-        "flicka, kvinna; flickvän"
+        "tunn linje",
+        "(förberedande) teckning"
       ]
     },
     {
-      "title": "HÖGKORT I KORTLEK",
+      "title": "SPELOMGÅNGENS FLYTT",
       "words": [
-        "kung",
-        "ess"
+        "rörelse",
+        "flytt"
       ],
-      "definition": "ett högt spelkort",
+      "definition": "flyttning av spelpjäs",
       "word_definitions": [
-        "ett högt spelkort; den viktigaste pjäsen i schack",
-        "det högsta kortet i en av de fyra kortsviterna (färgerna)"
+        "förflyttning",
+        "moment som består av en pjäsförflyttning i vissa brädspel, exempelvis i backgammon och det gamla svenska spelet bräde; jämför drag inom schacket"
       ]
     },
     {
-      "title": "PJÄSER I SCHACK",
+      "title": "FISKEBETE",
       "words": [
-        "löpare",
-        "bonde"
+        "blink",
+        "bete"
       ],
-      "definition": "en värdefull schackpjäs, drottning",
+      "definition": "liten bit metall med krokar som används vid fiske",
       "word_definitions": [
-        "en pjäs i schack",
-        "den svagaste pjäsen i schack"
+        "Ett glänsande metallbeten som reflekterar ljus för att locka till sig fisk.",
+        "medel att locka djur i fälla, agn"
       ]
     },
     {
-      "title": "KLASSISKA BRÄDSPEL",
+      "title": "RÖRLIG LUFT",
       "words": [
-        "schack",
-        "domino"
+        "vind",
+        "pust"
       ],
-      "definition": "ett spel med brickor på schackbräde",
+      "definition": "(kall) luftström",
       "word_definitions": [
-        "ett spel med 32 figurer på ett bräde med 64 rutor",
-        "ett spel med brickor med två fält"
+        "naturlig luft i rörelse, blåst",
+        "kort stöt (särskilt av luft)"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "röra",
+  "pivot": "sats",
   "categories": [
     {
-      "title": "TOTAL OORDNING",
+      "title": "LINGVISTISKA ENHETER",
       "words": [
-        "kaos",
-        "sammelsurium"
+        "fras",
+        "ord"
       ],
-      "definition": "oreda, oordning",
+      "definition": "större del av en mening (som ofta själv kan utgöra en mening)",
       "word_definitions": [
-        "total förvirring, oreda",
-        "röra, oordning"
+        "del av mening, talesätt, uttryck",
+        "minsta självständiga enhet i en text (med mellanrum före och efter)"
       ]
     },
     {
-      "title": "FYSISK KONTAKT",
+      "title": "SAMLING AV SAKER",
       "words": [
-        "känna",
-        "nudda"
+        "set",
+        "parti"
       ],
-      "definition": "ta i/på, vara eller befinna sig på eller i (fysisk) kontakt med",
+      "definition": "uppsättning av något, omgång",
       "word_definitions": [
-        "tar (på), rör (vid)",
-        "berör lätt, snuddar"
+        "omgång (i tennis och andra racketspel)",
+        "omgång, spel"
       ]
     },
     {
-      "title": "ÄNDRA POSITION",
+      "title": "BESTÄMD ANDEL",
       "words": [
-        "flytta",
-        "vicka"
+        "kvot",
+        "tilldelning"
       ],
-      "definition": "låta, i synnerhet en kroppsdel, byta eller ändra position/läge (i rummet)",
+      "definition": "bestämd andel",
       "word_definitions": [
-        "för till en annan plats",
-        "gör små rörelser"
+        "bestämt antal",
+        "vars och ens fastställda andel, ranson"
       ]
     },
     {
-      "title": "BRIST PÅ STRUKTUR",
+      "title": "DELAR AV ETT KONSTVERK",
       "words": [
-        "anarki",
-        "virrvarr"
+        "final",
+        "akt"
       ],
-      "definition": "brist på ordning, avsaknad av struktur",
+      "definition": "del av ett större musikverk",
       "word_definitions": [
-        "frånvaro av regering; oordning",
-        "röra, oreda"
+        "sista del av musikstycke",
+        "del av en teaterpjäs"
       ]
     }
   ]

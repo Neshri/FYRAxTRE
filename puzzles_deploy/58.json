@@ -1,52 +1,52 @@
 {
-  "pivot": "hög",
+  "pivot": "klen",
   "categories": [
     {
-      "title": "HÖG TON",
+      "title": "SPÄD FORM",
       "words": [
-        "ljus",
-        "gäll"
+        "skir",
+        "spenslig"
       ],
-      "definition": "som ligger långt upp på tonskalan",
+      "definition": "tunn, späd",
       "word_definitions": [
-        "som ger ifrån sig mycket ljus; upplyst",
-        "skarp, genomträngande"
+        "späd, tunn",
+        "smal, tunn (om kroppsbyggnad eller person)"
       ]
     },
     {
-      "title": "INFLYTELSERIK STÄLLNING",
+      "title": "ÖMTÅLIG HÄLSA",
       "words": [
-        "inflytelserik",
-        "betydelsefull"
+        "eländig",
+        "delikat"
       ],
-      "definition": "som har inflytelserik ställning",
+      "definition": "sjuk, ömtålig",
       "word_definitions": [
-        "som har stort inflytande",
-        "som har stor betydelse, viktig"
+        "sjuk, dålig",
+        "ömtålig, känslig"
       ]
     },
     {
-      "title": "AVANCERAD NIVÅ",
+      "title": "BRIST PÅ KRAFT",
       "words": [
-        "försigkommen",
-        "sofistikerad"
+        "skraltig",
+        "kraftlös"
       ],
-      "definition": "avancerad",
+      "definition": "svag",
       "word_definitions": [
-        "väl utvecklad, avancerad",
-        "förfinad"
+        "svag och dålig",
+        "som saknar kraft, svag"
       ]
     },
     {
-      "title": "ANHOPNING AV MATERIAL",
+      "title": "OBETYDLIG STORLEK",
       "words": [
-        "stapel",
-        "trave"
+        "ringa",
+        "futtig"
       ],
-      "definition": "anhopning av material",
+      "definition": "svag, obetydlig",
       "word_definitions": [
-        "hög av staplat material, trave",
-        "hög av föremål"
+        "liten, obetydlig",
+        "obetydlig"
       ]
     }
   ]

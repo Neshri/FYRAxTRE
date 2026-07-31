@@ -2,43 +2,7 @@
   "pivot": "bryter",
   "categories": [
     {
-      "title": "GÖRA SÖNDER",
-      "words": [
-        "spräcka",
-        "knäcka"
-      ],
-      "definition": "får att spricka sönder i två delar (ofta genom kraftig böjning)",
-      "word_definitions": [
-        "får att spricka",
-        "bryter hårt material genom kraftigt slag eller tryck"
-      ]
-    },
-    {
-      "title": "BRYTA MOT REGLER",
-      "words": [
-        "överträda",
-        "kränka"
-      ],
-      "definition": "kommer i konflikt med lagen, uppfyller inte, kränker",
-      "word_definitions": [
-        "bryter mot bestämmelser",
-        "respekterar inte"
-      ]
-    },
-    {
-      "title": "BLANDA FÄRGER",
-      "words": [
-        "färga",
-        "sammanblanda"
-      ],
-      "definition": "blandar (med avvikande färg eller smak)",
-      "word_definitions": [
-        "ger (en viss) färg åt",
-        "förväxlar, blandar ihop, blandar samman"
-      ]
-    },
-    {
-      "title": "KOPPLA BORT",
+      "title": "AVBRYTA EN ANSLUTNING",
       "words": [
         "frånkoppla",
         "suspendera"
@@ -47,6 +11,42 @@
       "word_definitions": [
         "frigör från anslutning, kopplar ifrån",
         "stänger av från tjänst för viss tid"
+      ]
+    },
+    {
+      "title": "ÖVERVINNA MOTSTÅND",
+      "words": [
+        "tränga",
+        "trotsa"
+      ],
+      "definition": "forcerar ett motstånd",
+      "word_definitions": [
+        "banar sig väg trots motstånd",
+        "gör öppet motstånd mot, sätter sig upp mot"
+      ]
+    },
+    {
+      "title": "UTVINNA RESURSER",
+      "words": [
+        "extrahera",
+        "dra"
+      ],
+      "definition": "får att gå i bitar; utvinner",
+      "word_definitions": [
+        "utvinner, drar",
+        "utvinner, extraherar"
+      ]
+    },
+    {
+      "title": "AVBRYTA KONTAKTER",
+      "words": [
+        "kapa",
+        "avsluta"
+      ],
+      "definition": "avbryter; avbryter kontakt",
+      "word_definitions": [
+        "hugger eller skär eller sågar av",
+        "slutar, fullbordar"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "vara",
+  "pivot": "väger",
   "categories": [
     {
-      "title": "FORTSÄTTA",
+      "title": "ANGE MÅTT OCH VÄRDE",
       "words": [
-        "fortsätta",
-        "pågå"
+        "kosta",
+        "mäta"
       ],
-      "definition": "fortsätta verka, hålla i sig",
+      "definition": "har som vikt",
       "word_definitions": [
-        "håller på, håller igång",
-        "håller på"
+        "har som pris",
+        "har en viss storlek eller längd"
       ]
     },
     {
-      "title": "BEFINNA SIG",
+      "title": "VARA VIKTIG",
       "words": [
-        "vistas",
-        "bo"
+        "betyda",
+        "räknas"
       ],
-      "definition": "ha eller ta en plats i tid eller rum; befinna sig",
+      "definition": "har betydelse",
       "word_definitions": [
-        "uppehåller sig, bor tillfälligt",
-        "har sin bostad"
+        "är viktig",
+        "gäller"
       ]
     },
     {
-      "title": "KOPULA VERB",
+      "title": "SKAPA BALANS",
       "words": [
-        "bli",
-        "verka"
+        "utjämna",
+        "balansera"
       ],
-      "definition": "verb som tillskriver subjektet en identitet eller egenskap",
+      "definition": "balanserar",
       "word_definitions": [
-        "börjar vara, kommer att vara",
-        "arbetar"
+        "gör jämnt fördelad; balanserar, jämnar ut",
+        "håller jämvikten"
       ]
     },
     {
-      "title": "HANDELSVARA",
+      "title": "VARA OSÄKER",
       "words": [
-        "produkt",
-        "pryl"
+        "tveka",
+        "vackla"
       ],
-      "definition": "ting som köps och säljs",
+      "definition": "är oviss",
       "word_definitions": [
-        "resultat av tillverkning",
-        "sak, grej"
+        "har svårt att bestämma sig för ett av flera alternativ",
+        "tvekar"
       ]
     }
   ]

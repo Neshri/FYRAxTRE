@@ -1,52 +1,52 @@
 {
-  "pivot": "led",
+  "pivot": "ljus",
   "categories": [
     {
-      "title": "KÄNSLA AV TRÖTTHET",
+      "title": "LJUSA EGENSKAPER",
       "words": [
-        "trött",
-        "sliten"
+        "klar",
+        "strålande"
       ],
-      "definition": "uttråkad, trött",
+      "definition": "som ger ifrån sig mycket ljus; upplyst",
       "word_definitions": [
-        "utled, uttråkad",
-        "trött"
+        "ljus, lysande, genomskinlig",
+        "mycket bra, utomordentlig"
       ]
     },
     {
-      "title": "ELAK KARAKTÄR",
+      "title": "POSITIV INSTÄLLNING",
       "words": [
-        "stygg",
-        "nedrig"
+        "optimistisk",
+        "hoppfull"
       ],
-      "definition": "otäck, elak",
+      "definition": "hoppfull",
       "word_definitions": [
-        "ful, otäck",
-        "elak"
+        "präglad av optimism, hoppfull",
+        "som har gott hopp, optimistisk"
       ]
     },
     {
-      "title": "FÄRDVÄG I NATUREN",
+      "title": "LJUSFENOMEN",
       "words": [
-        "väg",
-        "stig"
+        "glans",
+        "glitter"
       ],
-      "definition": "sträcka där man kan vandra eller färdas",
+      "definition": "vågrörelse som gör att man kan se, sken",
       "word_definitions": [
-        "färdriktning, färdväg",
-        "smal gångväg (ofta i skogen)"
+        "skimmer, sken",
+        "ljus med snabbt växlande sken"
       ]
     },
     {
-      "title": "MÄNNISKOR PÅ RAD",
+      "title": "LJUSKÄLLOR",
       "words": [
-        "fil",
-        "kö"
+        "lampa",
+        "laser"
       ],
-      "definition": "rad (av personer)",
+      "definition": "ljuskälla, belysning",
       "word_definitions": [
-        "rad",
-        "rad av väntande personer"
+        "anordning för belysning, glödlampa",
+        "apparat som alstrar och sänder ut en intensiv stråle av ljus"
       ]
     }
   ]

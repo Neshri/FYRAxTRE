@@ -1,52 +1,52 @@
 {
-  "pivot": "knut",
+  "pivot": "kors",
   "categories": [
     {
-      "title": "SÄTT ATT BINDA TRÅD",
+      "title": "UTROP AV FÖRVÅNING",
       "words": [
-        "rosett",
-        "ögla"
+        "oj",
+        "nej"
       ],
-      "definition": "punkt där en eller flera trådar knyts, skarv",
+      "definition": "uttrycker förvåning",
       "word_definitions": [
-        "band som knyts på ett visst sätt (vanligen som prydnad)",
-        "(slinga av) rep eller snöre"
+        "uttrycker förvåning",
+        "utrop, uttryckande besvikelse"
       ]
     },
     {
-      "title": "TRAFIKKNUTPUNKTER",
+      "title": "DELAR AV BÅLEN",
       "words": [
-        "korsning",
-        "vägskäl"
+        "bäcken",
+        "svank"
       ],
-      "definition": "plats där flera (järnvägs)linjer möts",
+      "definition": "del av bålen över bäcken och de främre svanskotorna hos ryggradsdjur eller människan (där ryggrad och höftben tillsammans bildar ett kors)",
       "word_definitions": [
-        "ställe där två gator eller spår korsar varandra",
-        "plats där en väg delar sig"
+        "(benstommen vid) nedre delen av bålen",
+        "område i ryggradens nedre del som är böjt inåt"
       ]
     },
     {
-      "title": "HUSETS EXTERIÖR",
+      "title": "BÖRDA ELLER STRAFF",
       "words": [
-        "hörna",
-        "gavel"
+        "ok",
+        "vedergällning"
       ],
-      "definition": "yttre hörn på hus",
+      "definition": "börda; bestraffning",
       "word_definitions": [
-        "hörn",
-        "en av de kortare sidorna på ett hus"
+        "börda, förtryck",
+        "hämnd, bestraffning (ofta militär)"
       ]
     },
     {
-      "title": "HASTIGHETSMÅTT",
+      "title": "AVRÄKTNINGSSTÄLLNINGAR",
       "words": [
-        "knop",
-        "match"
+        "galge",
+        "krucifix"
       ],
-      "definition": "kilometer per timme",
+      "definition": "ställning (formad som ett kors) där Jesus hängdes upp för att dö (enligt Bibeln); krucifix",
       "word_definitions": [
-        "en måttenhet för hastighet till sjöss (= 1 sjömil i timmen)",
-        "tävling mellan två lag eller personer"
+        "ställning där dödsdömda häng(de)s",
+        "skulptur av Jesus på korset"
       ]
     }
   ]

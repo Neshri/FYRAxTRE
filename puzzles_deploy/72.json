@@ -1,52 +1,52 @@
 {
-  "pivot": "kors",
+  "pivot": "led",
   "categories": [
     {
-      "title": "GEOMETRISKA FIGURER",
+      "title": "UTTRÅKAD OCH TRÖTT",
       "words": [
-        "kryss",
-        "vinkel"
+        "sliten",
+        "matt"
       ],
-      "definition": "en figur där en rak linje korsar en annan vinkelrätt; kryss",
+      "definition": "uttråkad, trött",
       "word_definitions": [
-        "(ritad) figur i form av ett lutande kors (x)",
-        "öppning mellan två räta linjer som utgår från samma punkt, hörn"
+        "trött",
+        "trött, kraftlös"
       ]
     },
     {
-      "title": "AVRÄTTNINGSSTÄLLNINGAR",
+      "title": "ELAK KARAKTÄR",
       "words": [
-        "krucifix",
-        "galge"
+        "stygg",
+        "taskig"
       ],
-      "definition": "ställning (formad som ett kors) där Jesus hängdes upp för att dö (enligt Bibeln); krucifix",
+      "definition": "otäck, elak",
       "word_definitions": [
-        "skulptur av Jesus på korset",
-        "ställning där dödsdömda häng(de)s"
+        "ful, otäck",
+        "okamratlig, elak"
       ]
     },
     {
-      "title": "TUNG BÖRDA",
+      "title": "FÄRDVÄG",
       "words": [
-        "ok",
-        "last"
+        "väg",
+        "stig"
       ],
-      "definition": "börda; bestraffning",
+      "definition": "sträcka där man kan vandra eller färdas",
       "word_definitions": [
-        "börda, förtryck",
-        "något som bärs eller fraktas, börda"
+        "färdriktning, färdväg",
+        "smal gångväg (ofta i skogen)"
       ]
     },
     {
-      "title": "DELAR AV BÅLEN",
+      "title": "MÄNNISKOR PÅ RAD",
       "words": [
-        "bäcken",
-        "svank"
+        "fil",
+        "kö"
       ],
-      "definition": "del av bålen över bäcken och de främre svanskotorna hos ryggradsdjur eller människan (där ryggrad och höftben tillsammans bildar ett kors)",
+      "definition": "rad (av personer)",
       "word_definitions": [
-        "(benstommen vid) nedre delen av bålen",
-        "område i ryggradens nedre del som är böjt inåt"
+        "rad",
+        "rad av väntande personer"
       ]
     }
   ]

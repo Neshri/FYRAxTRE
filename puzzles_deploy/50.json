@@ -1,52 +1,52 @@
 {
-  "pivot": "god",
+  "pivot": "handlar",
   "categories": [
     {
-      "title": "KÄNSLA FÖR NÅGON",
+      "title": "VIDTA ÅTGÄRDER",
       "words": [
-        "förälskad",
-        "förtjust"
+        "agera",
+        "utföra"
       ],
-      "definition": "kär",
+      "definition": "gör något, agerar",
       "word_definitions": [
-        "kär",
-        "glad och nöjd"
+        "vidtar åtgärder, handlar",
+        "gör, genomför"
       ]
     },
     {
-      "title": "MORALISK KARAKTÄR",
+      "title": "KÖPA NÅGOT",
       "words": [
-        "sedlig",
-        "ädel"
+        "införskaffa",
+        "förvärva"
       ],
-      "definition": "moraliskt högtstående",
+      "definition": "köper",
       "word_definitions": [
-        "moraliskt högtstående (i sexuellt avseende)",
-        "moraliskt högtstående, ridderlig"
+        "förser sig med, köper",
+        "lyckas skaffa sig"
       ]
     },
     {
-      "title": "SÖT OCH TILLTALANDE",
+      "title": "BEDRIVA HANDEL",
       "words": [
-        "gullig",
-        "prydlig"
+        "kränga",
+        "avyttra"
       ],
-      "definition": "tilltalande, söt",
+      "definition": "gör affärer",
       "word_definitions": [
-        "rar, söt",
-        "ordentlig, tilltalande, vacker"
+        "säljer",
+        "säljer"
       ]
     },
     {
-      "title": "GOTT OM MAT",
+      "title": "HANDLA OM",
       "words": [
-        "delikat",
-        "aptitlig"
+        "röra",
+        "kretsa"
       ],
-      "definition": "välsmakande, läcker",
+      "definition": "har som ämne, rör sig om",
       "word_definitions": [
-        "läcker, välsmakande",
-        "som smakar gott, välsmakande"
+        "handlar om, gäller",
+        "rör sig runt något"
       ]
     }
   ]

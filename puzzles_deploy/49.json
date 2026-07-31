@@ -1,52 +1,52 @@
 {
-  "pivot": "för",
+  "pivot": "hacka",
   "categories": [
     {
-      "title": "GRADAVADVERB",
+      "title": "TRÄDGARDSREDSKAP",
       "words": [
-        "väl",
-        "omåttligt"
+        "kratta",
+        "spade"
       ],
-      "definition": "i väl hög grad, alltför",
+      "definition": "ett verktyg som används för att luckra upp jord",
       "word_definitions": [
-        "i alltför hög grad",
-        "oerhört, mycket"
+        "ett redskap för att rensa och jämna ut jord",
+        "ett redskap att gräva med"
       ]
     },
     {
-      "title": "KAUSALA KONJUNKTIONER",
+      "title": "DATORINTRÅNG",
       "words": [
-        "eftersom",
-        "då"
+        "knäcka",
+        "intränga"
       ],
-      "definition": "ty",
+      "definition": "bryta sig in i olika system",
       "word_definitions": [
-        "därför att, emedan",
-        "när"
+        "besegrar, bryter ner",
+        "obehörig beträda"
       ]
     },
     {
-      "title": "MEDEL PREPOSITIONER",
+      "title": "FYSISK ATTACK",
       "words": [
-        "genom",
-        "medelst"
+        "picka",
+        "knipa"
       ],
-      "definition": "med hjälp av",
+      "definition": "angripa varandra med näbben, nypas, trakassera",
       "word_definitions": [
-        "med hjälp av, med",
-        "med hjälp av, genom"
+        "plockar upp föda med näbben",
+        "klämmer, nyper"
       ]
     },
     {
-      "title": "BÅTENS FRONT",
+      "title": "PENGAR SLANG",
       "words": [
-        "bog",
-        "stäv"
+        "kosing",
+        "klöver"
       ],
-      "definition": "främre delen av en båt",
+      "definition": "mindre summa pengar",
       "word_definitions": [
-        "främsta delen (fören) på en båt",
-        "ett fartygs för eller akter"
+        "pengar",
+        "pengar"
       ]
     }
   ]

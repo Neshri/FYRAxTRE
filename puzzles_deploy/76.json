@@ -1,52 +1,52 @@
 {
-  "pivot": "land",
+  "pivot": "liv",
   "categories": [
     {
-      "title": "FAST MARK",
+      "title": "EXISTENS",
       "words": [
-        "kontinent",
-        "jord"
+        "tillvaro",
+        "existens"
       ],
-      "definition": "fastland",
+      "definition": "det att leva, levnad",
       "word_definitions": [
-        "världsdel, stort fastland (särskilt Europas fastland, till skillnad från t.ex. Norden)",
-        "fast mark"
+        "existens, liv",
+        "tillvaro, liv; försörjning"
       ]
     },
     {
-      "title": "LANTLIGA OMRÅDEN",
+      "title": "VERKSAMHET",
       "words": [
-        "bygd",
-        "trakt"
+        "arbete",
+        "aktion"
       ],
-      "definition": "landsbygd",
+      "definition": "verksamhet",
       "word_definitions": [
-        "område i landsorten där folk bor, trakt",
-        "geografiskt område (särskilt på landet)"
+        "verksamhet, jobb",
+        "aktiv handling, verksamhet"
       ]
     },
     {
-      "title": "POLITISKA ENHETER",
+      "title": "OVÄSEN",
       "words": [
-        "rike",
-        "välde"
+        "ståhej",
+        "buller"
       ],
-      "definition": "stat, rike",
+      "definition": "livlig verksamhet; oväsen",
       "word_definitions": [
-        "land, stat",
-        "statsmakt, (stort) rike"
+        "bråk, liv, oväsen",
+        "störande ljud, oväsen"
       ]
     },
     {
-      "title": "ODLADE MARKER",
+      "title": "DELAR AV EN KLÄNNING",
       "words": [
-        "åker",
-        "trädgård"
+        "ärm",
+        "kjol"
       ],
-      "definition": "odlat stycke jord",
+      "definition": "del av ett klädesplagg som räcker från halsen till midjan",
       "word_definitions": [
-        "jord som man odlar på",
-        "område med odlade växter"
+        "del av ett klädesplagg som täcker armen",
+        "ett kvinnoplagg som går från midjan och ner över benen"
       ]
     }
   ]

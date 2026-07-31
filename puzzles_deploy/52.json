@@ -1,52 +1,52 @@
 {
-  "pivot": "grund",
+  "pivot": "hård",
   "categories": [
     {
-      "title": "LÅGT DJUP",
+      "title": "FYSISK HÅRDHET",
       "words": [
-        "ytlig",
-        "flack"
+        "fast",
+        "stiv"
       ],
-      "definition": "inte djup",
+      "definition": "som inte ger efter för tryck eller böjning",
       "word_definitions": [
-        "som inte går på djupet, flyktig",
-        "plan och öppen, jämn"
+        "hård, massiv",
+        "Hård och orörlig; som inte kan böjas eller formas lätt."
       ]
     },
     {
-      "title": "BAS ELLER UNDERLAG",
+      "title": "STRÄNG KARAKTÄR",
       "words": [
-        "fundament",
-        "sockel"
+        "kall",
+        "strikt"
       ],
-      "definition": "underlag, botten",
+      "definition": "okänslig, sträng",
       "word_definitions": [
-        "grund, underlag",
-        "underlag, fundament"
+        "hård, okänslig",
+        "sträng; korrekt; som ska följas noggrant"
       ]
     },
     {
-      "title": "ORSAK OCH ANLEDNING",
+      "title": "KRÄVANDE SITUATION",
       "words": [
-        "orsak",
-        "skäl"
+        "jobbig",
+        "tung"
       ],
-      "definition": "orsak, anledning",
+      "definition": "intensiv, påfrestande",
       "word_definitions": [
-        "skäl, anledning",
-        "anledning, orsak"
+        "ansträngande, påfrestande",
+        "svår, besvärlig"
       ]
     },
     {
-      "title": "GRUNDOMRÅDE I VATTEN",
+      "title": "KRAFTIG OCH STARK",
       "words": [
-        "rev",
-        "grynna"
+        "massiv",
+        "rejäl"
       ],
-      "definition": "skär, rev, grynna",
+      "definition": "kraftig",
       "word_definitions": [
-        "lina för fiske",
-        "litet grund"
+        "tung, kraftig",
+        "stor, kraftig"
       ]
     }
   ]

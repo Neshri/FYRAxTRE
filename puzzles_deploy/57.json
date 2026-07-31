@@ -1,52 +1,52 @@
 {
-  "pivot": "hård",
+  "pivot": "klar",
   "categories": [
     {
-      "title": "FAST MATERIAL",
+      "title": "LJUS OCH GENOMSIKTIG",
       "words": [
-        "fast",
-        "solid"
+        "blank",
+        "transparent"
       ],
-      "definition": "som inte ger efter för tryck eller böjning",
+      "definition": "ljus, lysande, genomskinlig",
       "word_definitions": [
-        "hård, massiv",
-        "gedigen, massiv"
+        "glänsande, skinande",
+        "genomskinlig"
       ]
     },
     {
-      "title": "STRÄNG PERSONLIGHET",
+      "title": "LÄTT ATT FÖRSTÅ",
       "words": [
-        "kall",
-        "strikt"
+        "åskådlig",
+        "uppenbar"
       ],
-      "definition": "okänslig, sträng",
+      "definition": "lätt att förstå, tydlig",
       "word_definitions": [
-        "hård, okänslig",
-        "sträng; korrekt; som ska följas noggrant"
+        "lätt att förstå, tydlig",
+        "som alla inser, tydlig"
       ]
     },
     {
-      "title": "TUNG ANSTRÄNGNING",
+      "title": "VÄLDIGT STOR",
       "words": [
-        "jobbig",
-        "mödosam"
-      ],
-      "definition": "intensiv, påfrestande",
-      "word_definitions": [
-        "ansträngande, påfrestande",
-        "ansträngande, besvärlig"
-      ]
-    },
-    {
-      "title": "KRAFTIG STORLEK",
-      "words": [
-        "massiv",
+        "enorm",
         "rejäl"
       ],
-      "definition": "kraftig",
+      "definition": "tydlig, stor",
       "word_definitions": [
-        "tung, kraftig",
+        "mycket stor",
         "stor, kraftig"
+      ]
+    },
+    {
+      "title": "FÄRDIG OCH REDO",
+      "words": [
+        "beredd",
+        "redo"
+      ],
+      "definition": "färdig",
+      "word_definitions": [
+        "färdig, redo",
+        "färdig, beredd"
       ]
     }
   ]

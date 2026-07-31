@@ -1,52 +1,52 @@
 {
-  "pivot": "disk",
+  "pivot": "drag",
   "categories": [
     {
-      "title": "SERVICEKONTOR",
+      "title": "ANSIKTSUTTRYCK OCH UTSEENDE",
       "words": [
-        "kassa",
-        "reception"
+        "uppsyn",
+        "min"
       ],
-      "definition": "smalt och högt bord (i butik, bank etc.) där kunderna betjänas",
+      "definition": "ansiktsuttryck; utseende",
       "word_definitions": [
-        "avdelning (i affär eller bank) där man betalar eller tar emot pengar",
-        "plats på hotell e.d. (innanför entrén) där gäster tas emot"
+        "utseende, min",
+        "uttryck i ansiktet"
       ]
     },
     {
-      "title": "MATSERVIS",
+      "title": "PERSONLIG EGENSKAP",
       "words": [
-        "porslin",
-        "matsilver"
+        "egenhet",
+        "dygd"
       ],
-      "definition": "bestick, tallrikar o.d. som diskas",
+      "definition": "inre egenskap",
       "word_definitions": [
-        "material (i koppar, tallrikar etc.) av tunn hård keramik",
-        "bestick i silver"
+        "avvikande egenskap eller företeelse",
+        "god egenskap, förtjänst"
       ]
     },
     {
-      "title": "DATALAGRING",
+      "title": "MEDVETEN ÅTGÄRD",
       "words": [
-        "minne",
-        "cd"
+        "insats",
+        "åtgärd"
       ],
-      "definition": "skiva där man lagrar data",
+      "definition": "åtgärd, manöver",
       "word_definitions": [
-        "ställe för lagring av data i en dator",
-        "skiva som används för digital lagring av musik, bilder och text"
+        "åtgärd, prestation",
+        "handling (för att nå ett visst syfte), ingripande, behandling"
       ]
     },
     {
-      "title": "RYGGENS DELAR",
+      "title": "RUMMETS STÄMNING",
       "words": [
-        "kota",
-        "ryggmärg"
+        "anda",
+        "atmosfär"
       ],
-      "definition": "en sorts platta mellan ryggradens kotor",
+      "definition": "hög stämning",
       "word_definitions": [
-        "ben i ryggraden",
-        "del av centrala nervsystemet i ryggradens översta del"
+        "stämning, atmosfär",
+        "stämning, anda"
       ]
     }
   ]

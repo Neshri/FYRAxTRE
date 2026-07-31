@@ -1,52 +1,52 @@
 {
-  "pivot": "klubba",
+  "pivot": "komma",
   "categories": [
     {
-      "title": "UTRUSTNING FÖR SPORT",
+      "title": "SKILJETECKEN",
       "words": [
-        "racket",
-        "paddel"
+        "kolon",
+        "parentes"
       ],
-      "definition": "avlångt redskap avsett att föra eller slå eller skjuta iväg bollen eller pucken inom hockeyliknande sporter (bandy, innebandy, ishockey, landhockey, lacrosse, krocket)",
+      "definition": "ett skiljetecken (,)",
       "word_definitions": [
-        "ett redskap att slå på en boll med",
-        "en sorts åra (för kanot) med ett brett blad i ena eller båda ändarna"
+        "ett skiljetecken (:)",
+        "tecknet ( ) eller det som står inom det"
       ]
     },
     {
-      "title": "FESTA UTGÅNG",
+      "title": "ANLÄNNA EN PLATS",
       "words": [
-        "festa",
-        "dansa"
+        "nå",
+        "anlända"
       ],
-      "definition": "festa på nattklubb",
+      "definition": "anlända eller nå fram till en plats",
       "word_definitions": [
-        "håller fest; dricker sprit",
-        "rör sig rytmiskt till musik"
+        "kommer fram till, anländer till",
+        "kommer fram, ankommer"
       ]
     },
     {
-      "title": "GÖRA BEHOV",
+      "title": "ÖVERGÅ TILL",
       "words": [
-        "skita",
-        "bajsa"
+        "bli",
+        "övergå"
       ],
-      "definition": "göra sig av med avföring (\"bajsa\")",
+      "definition": "av en händelse övergå till visst (framtida) skeende eller tillstånd",
       "word_definitions": [
-        "har avföring",
-        "har avföring, skiter"
+        "börjar vara, kommer att vara",
+        "överstiger"
       ]
     },
     {
-      "title": "SLÅ MED REDSKAP",
+      "title": "KOMMA IHÅG",
       "words": [
-        "smälla",
-        "knacka"
+        "minnas",
+        "återkalla"
       ],
-      "definition": "slå med klubba",
+      "definition": "i betydelsen komma ihåg",
       "word_definitions": [
-        "slår",
-        "slår med korta upprepade slag"
+        "kommer ihåg",
+        "minnas, komma ihåg"
       ]
     }
   ]

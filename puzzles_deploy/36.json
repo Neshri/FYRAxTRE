@@ -1,52 +1,52 @@
 {
-  "pivot": "fräser",
+  "pivot": "fält",
   "categories": [
     {
-      "title": "STEKA MAT",
+      "title": "ÖPPNA LANDOMRÅDEN",
       "words": [
-        "steka",
-        "bräcka"
+        "slätt",
+        "mark"
       ],
-      "definition": "steker snabbt (i het panna)",
+      "definition": "öppet, plant område; åker; yta",
       "word_definitions": [
-        "tillagar med matfett i stark hetta (i stekpanna)",
-        "steker lätt"
+        "större område med plan mark (utan många träd)",
+        "jordens yta"
       ]
     },
     {
-      "title": "HOTFULLA LJUD",
+      "title": "KVADRATISKA FORMER",
       "words": [
-        "morra",
-        "pysa"
+        "fyrkant",
+        "ruta"
       ],
-      "definition": "ger ifrån sig ett ilsket s-liknande ljud",
+      "definition": "liten kvadrat",
       "word_definitions": [
-        "ger ifrån sig ett brummande, hotfullt ljud",
-        "strömmar ut med ett väsande ljud"
+        "ruta, kvadrat",
+        "(liten) fyrkant"
       ]
     },
     {
-      "title": "TILLRÄTTAVISA NÅGON",
+      "title": "VERKSAMHETSOMRÅDEN",
       "words": [
-        "förebrå",
-        "snäsa"
+        "fack",
+        "gren"
       ],
-      "definition": "snäser, tillrättavisar",
+      "definition": "område för viss verksamhet",
       "word_definitions": [
-        "klandrar, tillrättavisar",
-        "tillrättavisar på ett irriterat sätt"
+        "verksamhetsområde, ämne, yrke",
+        "förgrening, avdelning"
       ]
     },
     {
-      "title": "BEARBETA MATERIAL",
+      "title": "MILITÄRA PLATSER",
       "words": [
-        "borra",
-        "hyvla"
+        "bas",
+        "front"
       ],
-      "definition": "bearbetar (bort) med fräs",
+      "definition": "(plats för) krig eller militär övning",
       "word_definitions": [
-        "gör hål (med borr)",
-        "jämnar till med hyvel"
+        "militär anläggning (ofta utanför det egna landet)",
+        "främsta stridslinje"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "punkt",
+  "pivot": "rak",
   "categories": [
     {
-      "title": "TECKEN I SKRIFT",
+      "title": "RÄT LINJE",
       "words": [
-        "komma",
-        "parentes"
+        "rät",
+        "linjär"
       ],
-      "definition": "tecken för slutet på en mening (.)",
+      "definition": "rät",
       "word_definitions": [
-        "ett skiljetecken (,)",
-        "tecknet ( ) eller det som står inom det"
+        "rak",
+        "som rör räta linjer"
       ]
     },
     {
-      "title": "AVSLUTNING PÅ NÅGOT",
+      "title": "UTAN OMGÅNGSVÄGAR",
       "words": [
-        "final",
-        "konklusion"
+        "omedelbar",
+        "obetingad"
       ],
-      "definition": "slut",
+      "definition": "absolut, direkt",
       "word_definitions": [
-        "avslutning",
-        "slutsats"
+        "direkt, ögonblicklig",
+        "ovillkorlig, absolut"
       ]
     },
     {
-      "title": "LÄGE OCH POSITION",
+      "title": "ÄRLIG OCH TYDLIG",
       "words": [
-        "position",
-        "placering"
+        "osminkad",
+        "renhårig"
       ],
-      "definition": "plats, läge (i rum eller tid)",
+      "definition": "ärlig, tydlig",
       "word_definitions": [
-        "ställning, läge",
-        "plats (ofta i någon sorts rangordning)"
+        "ärlig, verklig",
+        "ärlig, rättvis"
       ]
     },
     {
-      "title": "DEL AV HELHET",
+      "title": "I FÖLJD",
       "words": [
-        "avsnitt",
-        "moment"
+        "successiv",
+        "påföljande"
       ],
-      "definition": "avsnitt, del, inslag",
+      "definition": "i följd, efter varandra",
       "word_definitions": [
-        "del, avdelning, stycke",
-        "beståndsdel; avsnitt"
+        "gradvis, stegvis",
+        "efterkommande"
       ]
     }
   ]

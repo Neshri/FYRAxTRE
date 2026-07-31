@@ -1,52 +1,52 @@
 {
-  "pivot": "om",
+  "pivot": "ovan",
   "categories": [
     {
-      "title": "UPPÅ NYT",
+      "title": "HÖG POSITION",
       "words": [
-        "återigen",
-        "ånyo"
+        "uppe",
+        "överst"
       ],
-      "definition": "på nytt, ännu en gång, om igen",
+      "definition": "på en plats högre upp",
       "word_definitions": [
-        "ännu en gång, åter, igen",
-        "på nytt, igen"
+        "i ett läge högt upp",
+        "längst upp"
       ]
     },
     {
-      "title": "VILLKORLIGT ORD",
+      "title": "TEXTMÄSSIG PLACERING",
       "words": [
-        "ifall",
-        "såvitt"
+        "tidigare",
+        "förut"
       ],
-      "definition": "ifall, såvida",
+      "definition": "tidigare i texten",
       "word_definitions": [
-        "om, såvida",
-        "såvida, om"
+        "före tidpunkten för kommunikationen eller en annan specificerad tidpunkt",
+        "förr, tidigare"
       ]
     },
     {
-      "title": "TIDSPUNKT I FRAMTIDEN",
+      "title": "PLACERING ÖVER",
       "words": [
-        "inom",
-        "efter"
+        "över",
+        "på"
       ],
-      "definition": "på; inom en tid av",
+      "definition": "över, ovanför",
       "word_definitions": [
-        "innanför",
-        "senare än; senare"
+        "ovanför, ovanpå",
+        "i anslutning till, ovanpå"
       ]
     },
     {
-      "title": "GÄLLANDE ÄMNE",
+      "title": "BRIST PÅ VANA",
       "words": [
-        "angående",
-        "beträffande"
+        "oerfaren",
+        "okunnig"
       ],
-      "definition": "angående, beträffande",
+      "definition": "inte van",
       "word_definitions": [
-        "om, beträffande",
-        "i fråga om, angående"
+        "inte erfaren, ovan",
+        "som saknar kunskap, oerfaren"
       ]
     }
   ]

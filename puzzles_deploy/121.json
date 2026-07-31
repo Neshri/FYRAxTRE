@@ -1,52 +1,52 @@
 {
-  "pivot": "sats",
+  "pivot": "siktar",
   "categories": [
     {
-      "title": "SPRÅKLIGA ENHETER",
+      "title": "RIKTA VAPEN",
       "words": [
-        "fras",
-        "ord"
+        "rikta",
+        "måtta"
       ],
-      "definition": "större del av en mening (som ofta själv kan utgöra en mening)",
+      "definition": "riktar ett vapen e.d. mot ett mål, måttar",
       "word_definitions": [
-        "del av mening, talesätt, uttryck",
-        "minsta självständiga enhet i en text (med mellanrum före och efter)"
+        "vänder åt visst håll; siktar",
+        "siktar"
       ]
     },
     {
-      "title": "UPPSÄTTNINGAR",
+      "title": "HA SOM MÅL",
       "words": [
-        "set",
-        "parti"
+        "avse",
+        "sträva"
       ],
-      "definition": "uppsättning av något, omgång",
+      "definition": "inriktar sig på, har som sitt mål",
       "word_definitions": [
-        "omgång (i tennis och andra racketspel)",
-        "omgång, spel"
+        "tänker på, har som mål, ämnar",
+        "arbetar träget, anstränger sig för att uppnå"
       ]
     },
     {
-      "title": "BESTÄMD ANDEL",
+      "title": "FÅ SYN PÅ",
       "words": [
-        "kvot",
-        "tilldelning"
+        "upptäcka",
+        "märka"
       ],
-      "definition": "bestämd andel",
+      "definition": "får syn på",
       "word_definitions": [
-        "bestämt antal",
-        "vars och ens fastställda andel, ranson"
+        "lägger märke till, observerar",
+        "får se, observerar"
       ]
     },
     {
-      "title": "MUSIKALISKA DELAR",
+      "title": "RENSA GENOM SIL",
       "words": [
-        "final",
-        "uvertyr"
+        "sila",
+        "filtrera"
       ],
-      "definition": "del av ett större musikverk",
+      "definition": "låter passera genom en sikt",
       "word_definitions": [
-        "sista del av musikstycke",
-        "kort instrumentalt musikstycke, vanligen för orkester, som spelas som öppning till musikteatraliska verk"
+        "låter passera genom sil",
+        "häller genom filter; silar, renar"
       ]
     }
   ]

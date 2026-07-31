@@ -1,52 +1,52 @@
 {
-  "pivot": "element",
+  "pivot": "fasta",
   "categories": [
     {
-      "title": "OMGIVANDE MILJÖ",
+      "title": "ANDLIG DISCIPLIN",
       "words": [
-        "miljö",
-        "omnejd"
+        "försakelse",
+        "asketism"
       ],
-      "definition": "ämne; omgivning",
+      "definition": "handlingen att fasta",
       "word_definitions": [
-        "omgivande natur",
-        "närmaste trakt, omgivning"
+        "handlingen att försaka något",
+        "det att vara asketisk, asketisk åskådning"
       ]
     },
     {
-      "title": "VÄRMEKÄLLOR I HEMMET",
+      "title": "KYRKLIGA PERIODER",
       "words": [
-        "radiator",
-        "spis"
+        "karneval",
+        "pingst"
       ],
-      "definition": "apparat som ger värme (särskilt inomhus)",
+      "definition": "tiden före påsk (då många kristna fastar)",
       "word_definitions": [
-        "värmeelement",
-        "apparat med kokplattor (och ofta ugn) för matlagning"
+        "fest som kommer före fastan i katolska länder",
+        "en kristen högtid som infaller sju veckor efter påsk"
       ]
     },
     {
-      "title": "DEL AV EN HELHET",
+      "title": "MATAVHÅLLEHET",
       "words": [
-        "ingrediens",
-        "segment"
+        "diet",
+        "avhållsamhet"
       ],
-      "definition": "del, beståndsdel",
+      "definition": "det att icke äta eller dricka",
       "word_definitions": [
-        "beståndsdel i en blandning",
-        "avgränsad del av något"
+        "regler (ofta bestämda av läkare) för vad man får äta och dricka",
+        "det att vara avhållsam"
       ]
     },
     {
-      "title": "TYP AV PERSON",
+      "title": "RELIGIÖSA FASTETIDER",
       "words": [
-        "karaktär",
-        "figur"
+        "Ramadan",
+        "advent"
       ],
-      "definition": "person med vissa (ofta negativa) egenskaper",
+      "definition": "tidsperiod (fastetid) då man fastar, t.ex. fastan före påsk av kristna eller ramadan av muslimer",
       "word_definitions": [
-        "personliga egenskaper; moralisk styrka",
-        "personlighet, karaktär"
+        "islamsk fastemånad som infaller den nionde månaden i det islamiska månåret, då det anses att Muhammed fick sin kallelse",
+        "de fyra veckorna före jul"
       ]
     }
   ]

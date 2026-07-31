@@ -1,52 +1,52 @@
 {
-  "pivot": "fälla",
+  "pivot": "få",
   "categories": [
     {
-      "title": "FÅNGSTANORDNINGAR",
+      "title": "VARA TVUNGEN",
       "words": [
-        "nät",
-        "snara"
+        "måste",
+        "behöva"
       ],
-      "definition": "anordning som gjorts iordning för att fånga någon/något som passerar",
+      "definition": "tillåtas eller måste",
       "word_definitions": [
-        "(material av) trådar som knutits ihop och som bildar ett rutmönster",
-        "ögla av rep som kan dras åt"
+        "indikerar att det finns ett krav på att subjektet i meningen ska göra något; uttrycker nödvändighet",
+        "är tvungen att"
       ]
     },
     {
-      "title": "FÖRLORA EN DEL",
+      "title": "GÖRA SÅ ATT",
       "words": [
-        "tappa",
-        "förlora"
+        "föranleda",
+        "låta"
       ],
-      "definition": "förlora något som tidigare varit en del av objektet",
+      "definition": "orsaka; göra så att eller se till att någon utför en handling eller att något händer",
       "word_definitions": [
-        "släpper oavsiktligt, förlorar",
-        "vinner inte, blir besegrad"
+        "leder till, orsakar",
+        "ser till att något blir gjort"
       ]
     },
     {
-      "title": "DÖDA VILT",
+      "title": "HITTA SVAR",
       "words": [
-        "avliva",
-        "skadskjuta"
+        "utröna",
+        "lösa"
       ],
-      "definition": "skjuta ett vilt djur",
+      "definition": "komma fram till (ett svar)",
       "word_definitions": [
-        "dödar (djur)",
-        "träffar djur med ett skott som inte dödar"
+        "tar reda på",
+        "kommer tillrätta med, klarar"
       ]
     },
     {
-      "title": "ÅSTADKOMMA NÅGOT",
+      "title": "LURA NÅGON",
       "words": [
-        "prestera",
-        "uppnå"
+        "bluffa",
+        "svindla"
       ],
-      "definition": "slutgiltigt åstadkomma något",
+      "definition": "lura, få någon att gå på ett trick",
       "word_definitions": [
-        "åstadkommer, utför",
-        "når upp till; åstadkommer"
+        "försöker luras, skojar, bedrar",
+        "lurar"
       ]
     }
   ]

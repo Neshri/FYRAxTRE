@@ -1,52 +1,52 @@
 {
-  "pivot": "klippa",
+  "pivot": "knäpper",
   "categories": [
     {
-      "title": "STENFORMATIONER",
+      "title": "SKARPA LJUD",
       "words": [
-        "berg",
-        "block"
+        "klicka",
+        "smälla"
       ],
-      "definition": "stort stycke av sten eller bergart; del av urberg som går upp i dagen; klipphäll",
+      "definition": "ger ifrån sig ett knäpp",
       "word_definitions": [
-        "stor upphöjning av sten i jordytan, kulle; berggrund",
-        "sammanhängande helhet (av hårt material, t.ex. sten)"
+        "knäpper metalliskt",
+        "ger ifrån sig en hård knall"
       ]
     },
     {
-      "title": "BEUNDRANSVÄRDA PERSONER",
+      "title": "TA BILDER",
       "words": [
-        "hjälte",
-        "fenomen"
+        "fotografera",
+        "trycka"
       ],
-      "definition": "(överfört) tillförlitlig, orubblig person; person som lyckas trots motgångar",
+      "definition": "trycker på knappen på kameran (för att ta ett foto)",
       "word_definitions": [
-        "modig person; person som uträttat stora saker",
-        "person med utomordentlig begåvning eller skicklighet"
+        "tar bilder med kamera, fotar",
+        "utövar tryck, pressar"
       ]
     },
     {
-      "title": "DELA MED VERKTYG",
+      "title": "AVFYRA VAPEN",
       "words": [
-        "skära",
-        "dela"
+        "panga",
+        "lossa"
       ],
-      "definition": "dela eller kapa genom att använda en sax",
+      "definition": "skjuter ner",
       "word_definitions": [
-        "bearbetar med kniv (för att dela upp eller skilja ifrån något)",
-        "gör delar av; får varsin del av"
+        "smäller, skjuter",
+        "skjuter av, avlossar"
       ]
     },
     {
-      "title": "LAGFÖRA BROTTSLINGAR",
+      "title": "FÄSTA IHOP",
       "words": [
-        "gripa",
-        "häkta"
+        "knyta",
+        "binda"
       ],
-      "definition": "gripa (kriminell)",
+      "definition": "fäster ihop med en knapp; knyter samman",
       "word_definitions": [
-        "hugger tag i, tar, fattar",
-        "sätter (en person som misstänks för brott) i häkte under den tid förundersökningen och domstolens handläggning pågår"
+        "binder ihop med en knut, pressar samman",
+        "knyter, fäster, surrar"
       ]
     }
   ]

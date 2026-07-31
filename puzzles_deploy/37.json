@@ -1,52 +1,52 @@
 {
-  "pivot": "fälla",
+  "pivot": "färg",
   "categories": [
     {
-      "title": "FÅNGSTREDSKAP",
+      "title": "FÄRGNYANSER",
       "words": [
-        "håv",
-        "lasso"
+        "orange",
+        "lila"
       ],
-      "definition": "redskap som man fångar djur i",
+      "definition": "ett slags synintryck (rött, grönt etc.); kulör, nyans",
       "word_definitions": [
-        "ett slags nät med skaft som man fångar vissa djur med",
-        "rep med snara som man kastar för att fånga djur"
+        "en färg som är ett mellanting mellan rött och gult",
+        "(blandning av) rött och blått, violett"
       ]
     },
     {
-      "title": "SÄTT ATT LURA",
+      "title": "ÅSIKTSRIKTNINGAR",
       "words": [
-        "list",
-        "bedrägeri"
+        "strömning",
+        "ståndpunkt"
       ],
-      "definition": "försåt",
+      "definition": "åsiktsriktning",
       "word_definitions": [
-        "knep, slughet",
-        "handlingen att lura någon så att man vinner på det själv, svek"
+        "samling idéer, åsiktsriktning",
+        "ställningstagande, åsikt"
       ]
     },
     {
-      "title": "ÖPPNINGAR I SKOGEN",
+      "title": "STÄMNING",
       "words": [
-        "hygge",
-        "glänta"
+        "atmosfär",
+        "anda"
       ],
-      "definition": "litet hygge, litet fall, litet område där skogen har fällts",
+      "definition": "positiv stämning",
       "word_definitions": [
-        "område där man huggit ner nästan all skog",
-        "liten öppning i skogen"
+        "stämning, anda",
+        "stämning, atmosfär"
       ]
     },
     {
-      "title": "FÅ NÅGOT ATT FALLA",
+      "title": "KORTLEKENS FÄRGER",
       "words": [
-        "knuffa",
-        "välta"
+        "hjärter",
+        "spader"
       ],
-      "definition": "få att falla genom att använda fysisk kraft",
+      "definition": "en av serierna hjärter, spader, ruter och klöver i en kortlek",
       "word_definitions": [
-        "ger en knuff, stöter till",
-        "gör så att något faller omkull; stjälper"
+        "en av de fyra färgerna i en kortlek",
+        "(kort i) en av de fyra färgerna i kortspel"
       ]
     }
   ]

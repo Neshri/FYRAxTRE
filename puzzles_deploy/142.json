@@ -1,52 +1,52 @@
 {
-  "pivot": "sticka",
+  "pivot": "styrka",
   "categories": [
     {
-      "title": "TEXTILHANTERING",
+      "title": "FYSISK OCH PSYKISK KRAFT",
       "words": [
-        "virka",
-        "väva"
+        "kraft",
+        "vigör"
       ],
-      "definition": "tillverka vävnad av garn för hand medelst en (rund-) eller flera stickor",
+      "definition": "fysisk eller psykisk kraft",
       "word_definitions": [
-        "tillverkar av garn med hjälp av virknål",
-        "fogar samman trådar (eller garn) till ett helt tygstycke"
+        "styrka, energi",
+        "hälsa, kraft"
       ]
     },
     {
-      "title": "SMYGA IVÄG",
+      "title": "GRAD AV INTENSITET",
       "words": [
-        "slinka",
-        "smita"
+        "grad",
+        "utsträckning"
       ],
-      "definition": "dra; gå (iväg, bortåt); smita; ge sig iväg",
+      "definition": "procenthalt, grad, intensitet",
       "word_definitions": [
-        "smiter; går",
-        "avlägsnar sig omärkligt, smyger iväg"
+        "utsträckning, omfattning",
+        "omfattning, grad"
       ]
     },
     {
-      "title": "KÄNNA I HUDEN",
+      "title": "SAMARBETANDE GRUPP",
       "words": [
-        "pirra",
-        "sveda"
+        "team",
+        "kollektiv"
       ],
-      "definition": "ge upphov till en känsla som av ett stort antal spetsiga föremål trycks in; ge en stickande känsla",
+      "definition": "grupp som arbetar tillsammans",
       "word_definitions": [
-        "kittlar, sticker, kryper",
-        "bränna något på ytan eller runt kanterna"
+        "(arbets)lag, grupp",
+        "grupp människor som har gemensamma intressen (och som ibland bor och äter tillsammans)"
       ]
     },
     {
-      "title": "GÖRA HÅL",
+      "title": "MILITÄR ENHET",
       "words": [
-        "rista",
-        "punktera"
+        "trupp",
+        "pluton"
       ],
-      "definition": "trycka in spetsigt föremål i något; ge stick",
+      "definition": "militär grupp",
       "word_definitions": [
-        "skär in tecken med spetsigt föremål",
-        "sticker hål på"
+        "grupp soldater eller idrottsmän",
+        "grupp soldater på ca 30 till 50 man"
       ]
     }
   ]

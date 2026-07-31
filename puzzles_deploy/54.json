@@ -1,52 +1,52 @@
 {
-  "pivot": "hacka",
+  "pivot": "inställd",
   "categories": [
     {
-      "title": "SMÅSUMMA PENGAR",
+      "title": "ATTITYD ELLER INSTÄLNING",
       "words": [
-        "struntsumma",
-        "kosing"
+        "sinnad",
+        "hängiven"
       ],
-      "definition": "mindre summa pengar",
+      "definition": "som har en viss attityd",
       "word_definitions": [
-        "obetydlig summa pengar",
-        "pengar"
+        "som har viss attityd",
+        "som helt hänger sig (åt något), entusiastisk"
       ]
     },
     {
-      "title": "LÅGA SPELKORT",
+      "title": "AVBOKADE HÄNDELSER",
       "words": [
-        "tvåa",
-        "trea"
+        "avbokad",
+        "upphävd"
       ],
-      "definition": "kort av låg valör inom kortspel",
+      "definition": "som inte blir av, avblåst",
       "word_definitions": [
-        "siffran 2; nummer 2 i ordningen",
-        "siffran 3; nummer 3 i ordningen"
+        "; (om bokning) som har tagits bort",
+        "Ogiltigförklarad eller återkallad; används ofta om beslut, lagar eller avtal som inte längre gäller."
       ]
     },
     {
-      "title": "DATORINTRÅNG",
+      "title": "KLAR FÖR START",
       "words": [
-        "knäcka",
-        "intränga"
+        "redo",
+        "förberedd"
       ],
-      "definition": "bryta sig in i olika system",
+      "definition": "beredd",
       "word_definitions": [
-        "bryter hårt material genom kraftigt slag eller tryck",
-        "obehörig beträda"
+        "färdig, beredd",
+        "; som förberetts"
       ]
     },
     {
-      "title": "TRÄDGÅRDSREDSKAP",
+      "title": "JUSTERAD ELLER ÄNDRAD",
       "words": [
-        "kratta",
-        "spade"
+        "kalibrerad",
+        "anpassad"
       ],
-      "definition": "ett verktyg som används för att luckra upp jord",
+      "definition": "justerad",
       "word_definitions": [
-        "ett redskap för att rensa och jämna ut jord",
-        "ett redskap att gräva med"
+        "Justerad för att stämma överens med en känd standard eller skala, vanligtvis för att säkerställa att ett mätinstrument ger korrekta värden.",
+        "Gjord lämplig för ett visst ändamål, en viss person eller en särskild situation genom förändring eller justering."
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "få",
+  "pivot": "grov",
   "categories": [
     {
-      "title": "NÅGRA STYCKEN",
+      "title": "KRAFTIG OCH BASTANT",
       "words": [
-        "somliga",
-        "flera"
+        "massiv",
+        "rejäl"
       ],
-      "definition": "bara några, ett litet antal, en liten mängd",
+      "definition": "tjock, kraftig, bastant",
       "word_definitions": [
-        "en del, några",
-        "mer än en, åtskilliga, många"
+        "tung, kraftig",
+        "stor, kraftig"
       ]
     },
     {
-      "title": "UPNÅ FRAMGÅNG",
+      "title": "OJÄMN YTA",
       "words": [
-        "klara",
-        "lyckas"
+        "sträv",
+        "ojämn"
       ],
-      "definition": "lyckas med något",
+      "definition": "ojämn, skrovlig; inte bearbetad (i detalj)",
       "word_definitions": [
-        "genomför (med framgång)",
-        "har framgång; klarar av"
+        "som har ojämn eller hård eller grov yta",
+        "inte jämn eller slät (om yta)"
       ]
     },
     {
-      "title": "KOMMA PÅ SVAR",
+      "title": "OHYFSAT BETEENDE",
       "words": [
-        "utröna",
-        "lösa"
+        "plump",
+        "oborstad"
       ],
-      "definition": "komma fram till (ett svar)",
+      "definition": "ohyfsad, rå",
       "word_definitions": [
-        "tar reda på",
-        "ger fri"
+        "rå och ohyfsad",
+        "ohyfsad"
       ]
     },
     {
-      "title": "LURA NÅGON",
+      "title": "ALLVARLIG GRAD",
       "words": [
-        "bluffa",
-        "förleda"
+        "grav",
+        "allvarlig"
       ],
-      "definition": "lura, få någon att gå på ett trick",
+      "definition": "svår, allvarlig",
       "word_definitions": [
-        "försöker luras, skojar, bedrar",
-        "förför, lurar"
+        "allvarlig, svår",
+        "högtidlig, sträng, allvarsam"
       ]
     }
   ]

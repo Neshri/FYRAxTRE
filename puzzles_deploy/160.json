@@ -1,52 +1,52 @@
 {
-  "pivot": "torka",
+  "pivot": "tur",
   "categories": [
     {
-      "title": "EXTREMT VÄDER",
+      "title": "KORT RESA",
       "words": [
-        "värmebölja",
-        "köldknäpp"
+        "utflykt",
+        "tripp"
       ],
-      "definition": "torr väderlek",
+      "definition": "kort resa, utflykt, tripp",
       "word_definitions": [
-        "period med mycket varmt väder",
-        "plötslig (kortvarig och stark) kyla"
+        "kort resa för nöjes skull",
+        "kort nöjesresa, tur"
       ]
     },
     {
-      "title": "NATURLIG NEDBRYTNING",
+      "title": "SCHEMALAGD RESA",
       "words": [
-        "skogsdöd",
-        "förruttnelse"
+        "avgång",
+        "förbindelse"
       ],
-      "definition": "det att växtligheten torkar under torra, regnfria tidperioder, ofta i samband med att skog och växter bränns i solen",
+      "definition": "färd enligt tidtabell",
       "word_definitions": [
-        "det att skogar förstörs på grund av föroreningar",
-        "process som gör att något ruttnar"
+        "avfärd från en plats, start",
+        "samband, kontakt"
       ]
     },
     {
-      "title": "BLI VISSEN",
+      "title": "LYCKA OCH SLUMP",
       "words": [
-        "förtvina",
-        "vissna"
+        "medgång",
+        "lycka"
       ],
-      "definition": "(intransitivt) bli torr(are); vissna",
+      "definition": "det att gynnas av slumpen, lycka",
       "word_definitions": [
-        "slutar att utvecklas; vissnar",
-        "dör (av brist på vatten), slokar (om växt)"
+        "framgång, lycka",
+        "tur, framgång"
       ]
     },
     {
-      "title": "RENGÖRA YTA",
+      "title": "ORDNINGSFÖLJD",
       "words": [
-        "tvätta",
-        "putsa"
+        "ordning",
+        "placering"
       ],
-      "definition": "genom att dra ett ibland vått föremål längs ytan på ett annat föremål försöka rengöra det",
+      "definition": "plats i en viss följd, ordning",
       "word_definitions": [
-        "rengör med vatten (och tvättmedel eller tvål)",
-        "polerar, gnider"
+        "normal följd, turordning",
+        "plats (ofta i någon sorts rangordning)"
       ]
     }
   ]

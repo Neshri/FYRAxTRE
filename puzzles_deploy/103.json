@@ -1,52 +1,52 @@
 {
-  "pivot": "pjäs",
+  "pivot": "plats",
   "categories": [
     {
-      "title": "PRYDNADSFÖREMÅL",
+      "title": "GEOGRAFISK POSITION",
       "words": [
-        "tingeltangel",
-        "dekoration"
+        "läge",
+        "position"
       ],
-      "definition": "föremål som är uppställt som prydnad",
+      "definition": "område med ett bestämt läge",
       "word_definitions": [
-        "billiga (och smaklösa) prydnadsföremål",
-        "utsmyckning, prydnad"
+        "placering",
+        "ställning, läge"
       ]
     },
     {
-      "title": "TEATERSTYCKEN",
+      "title": "LEDIGT UTRYMME",
       "words": [
-        "drama",
-        "komedi"
+        "rum",
+        "yta"
       ],
-      "definition": "teaterstycke, skådespel",
+      "definition": "ledigt utrymme",
       "word_definitions": [
-        "skådespel, pjäs",
-        "roligt teaterstycke (eller rolig film)"
+        "plats, utrymme",
+        "areal, area; utrymme"
       ]
     },
     {
-      "title": "SPELPJÄSER",
+      "title": "ARBETSROLL",
       "words": [
-        "kung",
-        "löpare"
+        "tjänst",
+        "jobb"
       ],
-      "definition": "figur som man flyttar på ett spelbräde (särskilt i schack)",
+      "definition": "anställning",
       "word_definitions": [
-        "ett högt spelkort; den viktigaste pjäsen i schack",
-        "en pjäs i schack"
+        "anställning",
+        "anställning; arbetstillfälle"
       ]
     },
     {
-      "title": "TUNGA ELDVAPEN",
+      "title": "TÄVLINGSRESULTAT",
       "words": [
-        "kulspruta",
-        "kanon"
+        "ställning",
+        "rangordning"
       ],
-      "definition": "tyngre eldvapen",
+      "definition": "placering i tävling",
       "word_definitions": [
-        "ett delvis automatiskt eldvapen, maskingevär",
-        "en kraftig artilleripjäs"
+        "läge i en tävling",
+        "placering efter rang"
       ]
     }
   ]

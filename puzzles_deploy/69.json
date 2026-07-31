@@ -1,52 +1,52 @@
 {
-  "pivot": "koloni",
+  "pivot": "känslig",
   "categories": [
     {
-      "title": "UTLANDSOMRÅDE",
+      "title": "MEDICINSKT SÅRBAR",
       "words": [
-        "bosättning",
-        "protektorat"
+        "mottaglig",
+        "sårbar"
       ],
-      "definition": "ett lands besittning utomlands; samhälle av nybyggare",
+      "definition": "som lätt råkar ut för infektioner",
       "word_definitions": [
-        "skapande av ett hem; bebyggelse",
-        "skyddat område; land som står under ett annat lands överhöghet"
+        "som lätt angrips av sjukdomar",
+        "möjlig eller lätt att såra"
       ]
     },
     {
-      "title": "BARNLÄGER",
+      "title": "LÄTT PÅVERKAD",
       "words": [
-        "feriehem",
-        "läger"
+        "lättledd",
+        "formbar"
       ],
-      "definition": "sommarhem för barn, kollo",
+      "definition": "som lätt påverkas",
       "word_definitions": [
-        "privat hem som under sommaren tar emot barn i yngre skolåldern",
-        "plats där en grupp personer tillfälligt bor i tält eller baracker"
+        "En person som är lätt att övertala eller styra; någon som saknar motståndskraft mot andras påverkan.",
+        "som kan formas"
       ]
     },
     {
-      "title": "DJURGRUPP",
+      "title": "KÄNSLOMESSIGT SKÖR",
       "words": [
-        "flock",
-        "svärm"
+        "tunnhudad",
+        "bräcklig"
       ],
-      "definition": "samling av människor, djur eller växter",
+      "definition": "som lätt blir ledsen",
       "word_definitions": [
-        "grupp, klunga, skara, samling (särskilt av vissa djur)",
-        "grupp av flygande djur (särskilt insekter)"
+        "känslig, lättretlig",
+        "som lätt går sönder, skör"
       ]
     },
     {
-      "title": "ODLINGSPLATS",
+      "title": "PROBLEMATISK SITUATION",
       "words": [
-        "odlingslott",
-        "trädgård"
+        "problematisk",
+        "bekymmersam"
       ],
-      "definition": "kolonilott",
+      "definition": "som lätt kan vålla problem",
       "word_definitions": [
-        "andel av en trädgård eller annan odlingsmark, där man kan odla sina egna grönsaker eller andra växter",
-        "område med odlade växter"
+        "som innebär problem",
+        "som orsakar bekymmer, problematisk"
       ]
     }
   ]

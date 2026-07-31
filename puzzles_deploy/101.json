@@ -1,52 +1,52 @@
 {
-  "pivot": "pipa",
+  "pivot": "pjäs",
   "categories": [
     {
-      "title": "TOBAKSPRODUKTER",
+      "title": "PYRDNADSFÖREMÅL",
       "words": [
-        "cigarett",
-        "cigarr"
+        "ornament",
+        "figurin"
       ],
-      "definition": "anordning med behållare för tobak som används vid rökning",
+      "definition": "föremål som är uppställt som prydnad",
       "word_definitions": [
-        "rulle av tobak omgiven av papper",
-        "(ganska tjock) rulle av tobak omgiven av (brunt) papper"
+        "utsmyckning, prydnadsmönster",
+        "mindre prydnadsfigur ofta avbild av djur eller människa"
       ]
     },
     {
-      "title": "RÖRLIKNANDE FÖREMÅL",
+      "title": "TEATERSTYCKEN",
       "words": [
-        "skorsten",
-        "slang"
+        "drama",
+        "komedi"
       ],
-      "definition": "rör (särskilt på vapen)",
+      "definition": "teaterstycke, skådespel",
       "word_definitions": [
-        "(murat) rör som leder ut rök",
-        "ett slags böjligt rör"
+        "skådespel, pjäs",
+        "roligt teaterstycke (eller rolig film)"
       ]
     },
     {
-      "title": "BLÅSINSTRUMENT",
+      "title": "SCHACKPJÄSER",
       "words": [
-        "flöjt",
-        "trumpet"
+        "kung",
+        "löpare"
       ],
-      "definition": "en typ av blåsinstrument",
+      "definition": "figur som man flyttar på ett spelbräde (särskilt i schack)",
       "word_definitions": [
-        "ett blåsinstrument",
-        "ett blåsinstrument i ganska högt tonläge"
+        "ett högt spelkort; den viktigaste pjäsen i schack",
+        "en pjäs i schack"
       ]
     },
     {
-      "title": "LUFTHÅL I MAT",
+      "title": "TUNGA ELDVAPEN",
       "words": [
-        "håla",
-        "bubbla"
+        "kanon",
+        "morter"
       ],
-      "definition": "hålighet bildad av gas under produktionen av hårdost",
+      "definition": "tyngre eldvapen",
       "word_definitions": [
-        "fördjupning, hålighet",
-        "liten mängd luft som (vanligen) omges av vatten"
+        "en kraftig artilleripjäs",
+        "Ett tungt eldvapen med kort pipa och stor kaliber som skjuter projektiler i hög bana för att träffa mål bakom hinder."
       ]
     }
   ]

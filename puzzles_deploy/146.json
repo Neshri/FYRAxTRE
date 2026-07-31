@@ -1,52 +1,52 @@
 {
-  "pivot": "ställning",
+  "pivot": "stämmer",
   "categories": [
     {
-      "title": "KROPPENS HÅLLNING",
+      "title": "VARA KORREKT",
       "words": [
-        "pose",
-        "hållning"
+        "matcha",
+        "passa"
       ],
-      "definition": "sätt att stå eller sitta eller ligga",
+      "definition": "är korrekt",
       "word_definitions": [
-        "konstlad eller utstuderad ställning",
-        "sätt att hålla kroppen (upprätt)"
+        "passar bra ihop med",
+        "är lämplig"
       ]
     },
     {
-      "title": "PERSONLIG ÅSIKT",
+      "title": "STÄMMA INSTRUMENT",
       "words": [
-        "synpunkt",
-        "åsikt"
+        "intonera",
+        "justera"
       ],
-      "definition": "ståndpunkt",
+      "definition": "justerar tonhöjder (på instrument)",
       "word_definitions": [
-        "ståndpunkt, åsikt, bedömning",
-        "det som man tycker om något, mening, uppfattning"
+        "ange ton",
+        "avhjälper mindre fel hos, rättar till"
       ]
     },
     {
-      "title": "SOCIAL STATUS",
+      "title": "SÄTTA INFÖR RÄTT",
       "words": [
-        "status",
-        "rang"
+        "åtala",
+        "processa"
       ],
-      "definition": "social position",
+      "definition": "drar inför domstol",
       "word_definitions": [
-        "(högt) socialt anseende",
-        "(social) ställning i en grupp"
+        "anklagar inför domstol",
+        "driver en rättegång (mot någon)"
       ]
     },
     {
-      "title": "BYGGNADSKONSTRUKTION",
+      "title": "AVTALA MÖTE",
       "words": [
-        "uppbyggnad",
-        "konstruktion"
+        "överenskomma",
+        "boka"
       ],
-      "definition": "konstruktion",
+      "definition": "avtalar (möte)",
       "word_definitions": [
-        "konstruktion, struktur",
-        "konstruerad produkt"
+        "bestämmer något tillsammans, kommer överens",
+        "beställer"
       ]
     }
   ]

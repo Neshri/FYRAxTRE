@@ -1,52 +1,52 @@
 {
-  "pivot": "leda",
+  "pivot": "lugn",
   "categories": [
     {
-      "title": "STARK OLUST",
+      "title": "FRIDFULLA EGENSKAPER",
       "words": [
-        "avsky",
-        "avsmak"
+        "stillsam",
+        "fredlig"
       ],
-      "definition": "känsla av stark olust, motvilja eller uttråkning för att man har fått för mycket av något",
+      "definition": "som rör sig mycket lite; fridfull",
       "word_definitions": [
-        "motvilja, avsmak, hat",
-        "motvilja, äckel"
+        "stilla, fridsam, lugn (mest om person)",
+        "lugn, stillsam, fridsam"
       ]
     },
     {
-      "title": "ORSAKA NÅGOT",
+      "title": "SJÄLVBEHÄRSKAD",
       "words": [
-        "föranleda",
-        "utlösa"
+        "samlad",
+        "stoisk"
       ],
-      "definition": "ge som resultat; få att inträffa; föra till, inducera, orsaka",
+      "definition": "behärskad",
       "word_definitions": [
-        "leder till, orsakar",
-        "gör aktiv; framkallar"
+        "behärskad",
+        "lugn och behärskad"
       ]
     },
     {
-      "title": "LEDA MÄNNISKOR",
+      "title": "STILLA TILLSTÅND",
       "words": [
-        "behärska",
-        "sköta"
+        "frid",
+        "ro"
       ],
-      "definition": "styra (andra människor, individuellt eller en grupp); ha bestämmande inflytande över; ansvara för",
+      "definition": "mycket lite rörelse; fridfullt tillstånd",
       "word_definitions": [
-        "har makt över, styr; klarar av, kan",
-        "vårdar, ger tillsyn; ansvarar för, tar hand om"
+        "lugn, ro, fred, stillhet",
+        "lugn och stillhet"
       ]
     },
     {
-      "title": "HA ÖVERTAGET",
+      "title": "KÄNSLOMÄSSIG KONTROLL",
       "words": [
-        "dominera",
-        "överträffa"
+        "behärskning",
+        "besinning"
       ],
-      "definition": "ligga först; ha övertag",
+      "definition": "behärskning av känslor",
       "word_definitions": [
-        "är starkt framträdande i visst sammanhang; behärskar",
-        "är bättre eller större än"
+        "kontroll över egna känslor, lugn",
+        "eftertanke, självbehärskning"
       ]
     }
   ]

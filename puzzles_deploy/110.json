@@ -1,52 +1,52 @@
 {
-  "pivot": "på",
+  "pivot": "ren",
   "categories": [
     {
-      "title": "MOTSATT RIKTNING",
+      "title": "FLÄCKFRI OCH REN",
       "words": [
-        "emot",
-        "kontra"
+        "obefläckad",
+        "hygienisk"
       ],
-      "definition": "mot",
+      "definition": "inte smutsig, fläckfri",
       "word_definitions": [
-        "mot",
-        "mot, gentemot"
+        "ren; fläckfri",
+        "som har att göra med hygien; renlig"
       ]
     },
     {
-      "title": "POSITIONELLA PREPOSITIONER",
+      "title": "HELT OCH FULLSTÄNDIGT",
       "words": [
-        "över",
-        "vid"
+        "absolut",
+        "total"
       ],
-      "definition": "i anslutning till, ovanpå",
+      "definition": "oförfalskad, äkta; fullständig, total",
       "word_definitions": [
-        "ovanför, ovanpå",
-        "omkring, ungefär; i samband med"
+        "fullständigt, helt; ovillkorligt",
+        "i sin helhet, fullständig; sammanlagd"
       ]
     },
     {
-      "title": "TIDSMÄSSTIG OMFATTNING",
+      "title": "HJORTDJUR",
       "words": [
-        "inom",
-        "under"
+        "rådjur",
+        "dovhjort"
       ],
-      "definition": "under, inom (anger tidpunkt eller tidsrymd)",
+      "definition": "ett (i viss mån tamt) hjortdjur som lever långt norrut (Rangifer tarandus)",
       "word_definitions": [
-        "innanför",
-        "i läge nedanför"
+        "ett hjortdjur med ljusbrun päls (Capreolus capreolus)",
+        "en brun hjort som får vita fläckar på sommaren (Cervus dama)"
       ]
     },
     {
-      "title": "TIDSMÄSSTIG FÖLJD",
+      "title": "KANT VID VÄGEN",
       "words": [
-        "sedan",
-        "efter"
+        "bank",
+        "dike"
       ],
-      "definition": "efter",
+      "definition": "kant vid väg eller åker",
       "word_definitions": [
-        "från, efter",
-        "därpå, därefter"
+        "underlag för väg eller järnväg, vall",
+        "grävd ränna i marken (ofta på båda sidor av en väg)"
       ]
     }
   ]

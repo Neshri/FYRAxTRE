@@ -1,52 +1,52 @@
 {
-  "pivot": "snurra",
+  "pivot": "stark",
   "categories": [
     {
-      "title": "BARNLEKSAKER",
+      "title": "FYSISK STYRKA",
       "words": [
-        "drake",
-        "käpphäst"
+        "kraftig",
+        "hårdför"
       ],
-      "definition": "en leksak som snurrar snabbt",
+      "definition": "som har stor styrka, kraftfull (om levande varelser)",
       "word_definitions": [
-        "en leksak som fungerar som ett slags segelflygplan",
-        "en leksak som liknar en häst"
+        "som har (fysisk) kraft, stark",
+        "kraftfull, stark , hårdhänt"
       ]
     },
     {
-      "title": "BÅTUTRUSTNING",
+      "title": "MÄKTIG OCH BESTÄMD",
       "words": [
-        "utombordsmotor",
-        "propeller"
+        "beslutsam",
+        "mäktig"
       ],
-      "definition": "utombordsmotor",
+      "definition": "mäktig; handlingskraftig",
       "word_definitions": [
-        "(löstagbar) motor som hänger i aktern på en båt",
-        "anordning med en sorts roterande vingar som driver en båt eller ett flygplan framåt"
+        "resolut, bestämd, handlingskraftig",
+        "imponerande, kraftig"
       ]
     },
     {
-      "title": "ROTERANDE MASKINER",
+      "title": "INTENSIVA SINNESINTRYCK",
       "words": [
-        "centrifug",
-        "svarv"
+        "intensiv",
+        "skarp"
       ],
-      "definition": "föremål som vars främsta syfte eller kännetecken är att rotera",
+      "definition": "som intensivt påverkar sinnena",
       "word_definitions": [
-        "apparat med en behållare (t.ex. i en tvättmaskin) som kan rotera så snabbt att innehållet pressas ut mot sidorna",
-        "en maskin för bearbetning av roterande arbetsstycken"
+        "som håller på för fullt hela tiden",
+        "frän, hård"
       ]
     },
     {
-      "title": "PRATA STRUNT",
+      "title": "HÅLLBAR OCH ROBUST",
       "words": [
-        "svamla",
-        "yra"
+        "tålig",
+        "hållfast"
       ],
-      "definition": "prata strunt; trassla in sig i ett resonemang",
+      "definition": "slitstark, hållbar",
       "word_definitions": [
-        "pratar strunt",
-        "pratar strunt"
+        "motståndskraftig",
+        "som inte går sönder, stark, solid"
       ]
     }
   ]

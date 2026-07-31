@@ -1,52 +1,52 @@
 {
-  "pivot": "vid",
+  "pivot": "växlar",
   "categories": [
     {
-      "title": "STOR UTSTRÄCKNING",
+      "title": "VARIERA STÄNDIGT",
       "words": [
-        "bred",
-        "rymlig"
+        "fluktuera",
+        "svänga"
       ],
-      "definition": "som har stor omkrets eller stor utbredning",
+      "definition": "förändras ständigt, varierar",
       "word_definitions": [
-        "stor, omfattande; mångsidig",
-        "som rymmer mycket, stor, vid"
+        "varierar",
+        "rör sig i en båge fram och tillbaka"
       ]
     },
     {
-      "title": "PLACERING NÄRA",
+      "title": "BYTA UT NÅGOT",
       "words": [
-        "intill",
-        "jämte"
+        "kvitta",
+        "ersätta"
       ],
-      "definition": "bredvid, intill",
+      "definition": "byter något mot något annat",
       "word_definitions": [
-        "bredvid, invid",
-        "bredvid"
+        "betalar något, t.ex. en skuld, genom byte mot något annat",
+        "vikarierar för; efterträder"
       ]
     },
     {
-      "title": "UNGEFÄRLIG MÄNGD",
+      "title": "VÄXLA VALUTA",
       "words": [
-        "omkring",
-        "ungefär"
+        "konvertera",
+        "omvandla"
       ],
-      "definition": "omkring, ungefär; i samband med",
+      "definition": "byter sedlar eller mynt till andra valörer av sedlar eller mynt; köper annan valuta",
       "word_definitions": [
-        "ungefär, cirka",
-        "omkring, cirka"
+        "går över till en annan religiös lära",
+        "får att ändra form, förvandlar"
       ]
     },
     {
-      "title": "GÄLLENDE ÄMNE",
+      "title": "BYTA VÄXEL",
       "words": [
-        "beträffande",
-        "angående"
+        "byta",
+        "skifta"
       ],
-      "definition": "med avseende på, när det gäller, ifråga om",
+      "definition": "lägger in en (ny) växel",
       "word_definitions": [
-        "i fråga om, angående",
-        "om, beträffande"
+        "ger något och får något annat istället, (ut)växlar",
+        "byter, växlar"
       ]
     }
   ]

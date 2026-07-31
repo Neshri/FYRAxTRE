@@ -1,52 +1,52 @@
 {
-  "pivot": "tjänst",
+  "pivot": "tryck",
   "categories": [
     {
-      "title": "JOBB OCH PLATSER",
+      "title": "FYSISKA STORHETER",
       "words": [
-        "plats",
-        "jobb"
+        "styrka",
+        "intensitet"
       ],
-      "definition": "anställning",
+      "definition": "kraft per ytenhet",
       "word_definitions": [
-        "anställning",
-        "anställning; arbetstillfälle"
+        "fysisk eller psykisk kraft",
+        "stor kraft eller styrka"
       ]
     },
     {
-      "title": "SYSSLOR OCH ARBETEN",
+      "title": "SÅTT ATT PÅVERKA",
       "words": [
-        "arbete",
-        "göromål"
+        "inflytande",
+        "påverkan"
       ],
-      "definition": "arbete, tjänstgöring",
+      "definition": "påverkan, påtryckning",
       "word_definitions": [
-        "verksamhet, jobb",
-        "syssla, arbete"
+        "möjlighet att påverka",
+        "inflytande som leder till förändring"
       ]
     },
     {
-      "title": "SERVICE OCH UNDERHÅLL",
+      "title": "TALETS BETONING",
       "words": [
-        "support",
-        "skötsel"
+        "accent",
+        "betoning"
       ],
-      "definition": "service",
+      "definition": "betoning av ord, tonvikt",
       "word_definitions": [
-        "stöd",
-        "vård"
+        "betoning (av ett ord eller en del av ett ord), tonvikt, tryck",
+        "tonvikt, accent"
       ]
     },
     {
-      "title": "HJÄLP OCH STÖD",
+      "title": "TRYCKTA VERK",
       "words": [
-        "stöd",
-        "uppbackning"
+        "publikation",
+        "bok"
       ],
-      "definition": "hjälp, hjälpinsats",
+      "definition": "tryckning (t.ex. av böcker); tryckt skrift",
       "word_definitions": [
-        "hjälp, understöd",
-        "stöd, hjälp"
+        "tryckt skrift, bok, tidning",
+        "tryckt skrift, volym, band"
       ]
     }
   ]

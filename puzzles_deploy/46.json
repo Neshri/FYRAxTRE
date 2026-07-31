@@ -1,52 +1,52 @@
 {
-  "pivot": "får",
+  "pivot": "grund",
   "categories": [
     {
-      "title": "TA EMOT NÅGOT",
+      "title": "LÅGT DJUP",
       "words": [
-        "erhålla",
-        "motta"
+        "ytlig",
+        "flack"
       ],
-      "definition": "tar emot, erhåller",
+      "definition": "inte djup",
       "word_definitions": [
-        "tar emot, får",
-        "välkomnar, tar emot"
+        "som inte går på djupet, flyktig",
+        "plan och öppen, jämn"
       ]
     },
     {
-      "title": "VARA TVUNGEN TILL",
+      "title": "BAS OCH UNDERLAG",
       "words": [
-        "behöva",
-        "nödgas"
+        "fundament",
+        "sockel"
       ],
-      "definition": "är tvungen, måste",
+      "definition": "underlag, botten",
       "word_definitions": [
-        "är tvungen att",
-        "är tvungen"
+        "grund, underlag",
+        "underlag, fundament"
       ]
     },
     {
-      "title": "HUSDJUR",
+      "title": "ORSAK TILL NÅGOT",
       "words": [
-        "get",
-        "ko"
+        "skäl",
+        "orsak"
       ],
-      "definition": "ett däggdjur av släktet Ovis som hålls för ullens, köttets och till viss del mjölkens skull",
+      "definition": "orsak, anledning",
       "word_definitions": [
-        "ett husdjur som ger mjölk och ost (släktet Capra)",
-        "ett husdjur som ger mjölk"
+        "anledning, orsak",
+        "skäl, anledning"
       ]
     },
     {
-      "title": "DUM PERSON",
+      "title": "UNDERVATTENHINDER",
       "words": [
-        "nöt",
-        "dumbom"
+        "rev",
+        "sandbank"
       ],
-      "definition": "person som anses dum i huvudet",
+      "definition": "skär, rev, grynna",
       "word_definitions": [
-        "person som verkar dum eller tankspridd",
-        "dum person, dumhuvud"
+        "långsträckt grund",
+        "ansamling av sand eller grus /i vattendrag eller hav/"
       ]
     }
   ]

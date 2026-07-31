@@ -1,52 +1,52 @@
 {
-  "pivot": "tur",
+  "pivot": "vapen",
   "categories": [
     {
-      "title": "KORT RESA",
+      "title": "STRIDSREDSKAP",
       "words": [
-        "utflykt",
-        "tripp"
+        "spjut",
+        "svärd"
       ],
-      "definition": "kort resa, utflykt, tripp",
+      "definition": "redskap för att skada eller döda (vid anfall eller försvar)",
       "word_definitions": [
-        "kort resa för nöjes skull",
-        "kort nöjesresa, tur"
+        "ett vapen eller idrottsredskap i form av en vass stång som stöts eller kastas",
+        "ett långsmalt vapen att hugga eller sticka med"
       ]
     },
     {
-      "title": "SCHEMALAGD RESA",
+      "title": "STRATEGISK FÖRDEL",
       "words": [
-        "avgång",
-        "förbindelse"
+        "trumfkort",
+        "ess"
       ],
-      "definition": "färd enligt tidtabell",
+      "definition": "tillgång (som ger stor fördel)",
       "word_definitions": [
-        "handlingen att lämna ett arbete, avsked",
-        "samband, kontakt"
+        "mycket värdefull resurs eller tillgång",
+        "det högsta kortet i en av de fyra kortsviterna (färgerna)"
       ]
     },
     {
-      "title": "LYCKA OCH SLUMP",
+      "title": "MILITÄR VAPENGREN",
       "words": [
-        "medgång",
-        "lycka"
+        "infanteri",
+        "kavalleri"
       ],
-      "definition": "det att gynnas av slumpen, lycka",
+      "definition": "försvarsgren",
       "word_definitions": [
-        "framgång, lycka",
-        "känsla av djup glädje"
+        "ett truppslag som strider till fots",
+        "militär trupp till häst"
       ]
     },
     {
-      "title": "ORDNINGSFÖLJD",
+      "title": "HERALDISK SYMBOL",
       "words": [
-        "placering",
-        "nummer"
+        "emblem",
+        "sigill"
       ],
-      "definition": "plats i en viss följd, ordning",
+      "definition": "tecken (på sköld) för en släkt, stad eller stat",
       "word_definitions": [
-        "plats (ofta i någon sorts rangordning)",
-        "siffra eller grupp av siffror (som t.ex. anger plats i ordningsföljd eller storlek)"
+        "sinnebildligt märke",
+        "(stämpel för) avtryck i lack vid försegling"
       ]
     }
   ]

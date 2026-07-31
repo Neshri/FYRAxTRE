@@ -1,52 +1,52 @@
 {
-  "pivot": "parti",
+  "pivot": "passar",
   "categories": [
     {
-      "title": "DEL AV HELHET",
+      "title": "VARA LÄMPLIG",
       "words": [
-        "bit",
-        "segment"
+        "duga",
+        "platsa"
       ],
-      "definition": "avgränsad del, stycke",
+      "definition": "är lämplig",
       "word_definitions": [
-        "del, stycke, avsnitt",
-        "avgränsad del av något"
+        "är tillräckligt bra, passar",
+        "är tillräckligt bra"
       ]
     },
     {
-      "title": "POLITISK ORGANISATION",
+      "title": "VAKTA NÅGON ELLER NÅGOT",
       "words": [
-        "block",
-        "allians"
+        "bevaka",
+        "skydda"
       ],
-      "definition": "politisk sammanslutning (med viss ideologi)",
+      "definition": "ser efter, vaktar",
       "word_definitions": [
-        "sammanslutning av organisationer eller partier",
-        "(politiskt) förbund"
+        "vaktar; övervakar (och skildrar)",
+        "bevarar från fara eller skada, försvarar"
       ]
     },
     {
-      "title": "OMGÅNG I SPEL",
+      "title": "SPELA BOLL VIDARE",
       "words": [
-        "set",
-        "rond"
+        "slå",
+        "skicka"
       ],
-      "definition": "omgång, spel",
+      "definition": "spelar bollen vidare",
       "word_definitions": [
-        "omgång (i tennis och andra racketspel)",
-        "period av boxningsmatch; omgång"
+        "ger ett slag, smäller till",
+        "sänder"
       ]
     },
     {
-      "title": "MÄNGD VAROR",
+      "title": "SÄGA PASS I SPEL",
       "words": [
-        "laddning",
-        "kvantitet"
+        "avstå",
+        "vika"
       ],
-      "definition": "mängd av en viss vara",
+      "definition": "säger pass i kortspel",
       "word_definitions": [
-        "(stor) mängd av något",
-        "mängd"
+        "låter bli, lämnar",
+        "drar sig tillbaka, ger efter"
       ]
     }
   ]

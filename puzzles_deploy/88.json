@@ -1,52 +1,52 @@
 {
-  "pivot": "låter",
+  "pivot": "medel",
   "categories": [
     {
-      "title": "GE IFRÅN SIG LJUD",
+      "title": "KEMISKA ÄMNEN",
       "words": [
-        "ljuda",
-        "klinga"
+        "preparat",
+        "syra"
       ],
-      "definition": "hörs, ljuder",
+      "definition": "hjälpmedel (ofta en kemisk substans)",
       "word_definitions": [
-        "hörs, låter",
-        "ger ifrån sig klara toner"
+        "ämne som framställts på kemisk väg, kemisk produkt",
+        "en sorts kemisk förening med (vanligen) sur smak"
       ]
     },
     {
-      "title": "FÖREFALLA VARA",
+      "title": "MEDICINER",
       "words": [
-        "tyckas",
-        "synas"
+        "medicin",
+        "piller"
       ],
-      "definition": "verkar vara, förefaller",
+      "definition": "medicin",
       "word_definitions": [
-        "verkar, synes, förefaller",
-        "tycks, förefaller"
+        "läkemedel",
+        "liten tablett som innehåller medicin"
       ]
     },
     {
-      "title": "GE TILLÅTELSE",
+      "title": "EKONOMISKA TILLGÅNGAR",
       "words": [
-        "medge",
-        "sanktionera"
+        "kapital",
+        "förmögenhet"
       ],
-      "definition": "går med på, tillåter",
+      "definition": "tillgångar, pengar",
       "word_definitions": [
-        "ger möjlighet till, tillåter",
-        "tillåter, godtar"
+        "pengar och andra tillgångar",
+        "tillgångar som räknas i pengar"
       ]
     },
     {
-      "title": "SÖRJA FÖR ATT",
+      "title": "SÄTT ATT GÖRA NÅGOT",
       "words": [
-        "tillse",
-        "verkställa"
+        "metod",
+        "väg"
       ],
-      "definition": "ser till att något blir gjort",
+      "definition": "sätt, metod",
       "word_definitions": [
-        "tar på sig ansvaret för, ser till",
-        "ser till att ett beslut blir genomfört"
+        "(systematiskt) sätt att utföra något",
+        "sätt, metod"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "man",
+  "pivot": "mening",
   "categories": [
     {
-      "title": "VUXEN MAN",
+      "title": "PERSONLIG UPPFATTNING",
       "words": [
-        "gubbe",
-        "herre"
+        "åsikt",
+        "uppfattning"
       ],
-      "definition": "vuxen person av hankön",
+      "definition": "åsikt, uppfattning",
       "word_definitions": [
-        "gammal man, gamling",
-        "man (gärna med god position i samhället)"
+        "det som man tycker om något, mening, uppfattning",
+        "mening, åsikt"
       ]
     },
     {
-      "title": "GRUPPMEDLEM",
+      "title": "ORDETS BETYDELSE",
       "words": [
-        "medlem",
-        "individ"
+        "innebörd",
+        "bemärkelse"
       ],
-      "definition": "medlem i en grupp (särskilt en trupp, ett lag etc.)",
+      "definition": "betydelse",
       "word_definitions": [
-        "person som tillhör en organisation eller en förening",
-        "enskild varelse, människa"
+        "betydelse, mening",
+        "betydelse, avseende"
       ]
     },
     {
-      "title": "ÄKTENSKAPSPARTNER",
+      "title": "SYFTE OCH AVSIKT",
       "words": [
-        "fru",
-        "partner"
+        "syfte",
+        "avsikt"
       ],
-      "definition": "make",
+      "definition": "avsikt, syfte",
       "word_definitions": [
-        "gift kvinna, hustru",
-        "person som man samarbetar med"
+        "avsikt, ändamål",
+        "syfte, mening"
       ]
     },
     {
-      "title": "DJURS HÅR",
+      "title": "TEXTENHET",
       "words": [
-        "tagel",
-        "päls"
+        "formulering",
+        "sats"
       ],
-      "definition": "långt hår i nacken på häst eller lejon",
+      "definition": "en eller flera satser som uttrycker en tanke (och som i skrift brukar avslutas med punkt)",
       "word_definitions": [
-        "hår från en häst (särskilt från svansen)",
-        "skinn på djur, fäll; kappa av päls"
+        "sätt att uttrycka sig (i tal eller skrift)",
+        "större del av en mening (som ofta själv kan utgöra en mening)"
       ]
     }
   ]

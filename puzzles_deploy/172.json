@@ -1,52 +1,52 @@
 {
-  "pivot": "verk",
+  "pivot": "växel",
   "categories": [
     {
-      "title": "MÄNSKLIG HANDLING",
+      "title": "PLATSER FÖR OMDIRIGERING",
       "words": [
-        "dåd",
-        "gärning"
+        "korsning",
+        "förgrening"
       ],
-      "definition": "handling, arbete",
+      "definition": "ställe där något kopplas om",
       "word_definitions": [
-        "handling",
-        "handling, verk, dåd"
+        "ställe där två gator eller spår korsar varandra",
+        "ställe där något förgrenar sig; nätverk"
       ]
     },
     {
-      "title": "SKAPAT ALSTER",
+      "title": "DELAR I DRIVLINJEN",
       "words": [
-        "alster",
-        "skrift"
+        "koppling",
+        "kardan"
       ],
-      "definition": "produkt av arbete, alster",
+      "definition": "anordning som reglerar hjulens varvtal i förhållande till motorns",
       "word_definitions": [
-        "något som skapats, produkt",
-        "publicerat arbete, bok"
+        "anordning som förmedlar överföringen av kraft i en bil",
+        "anordning för överföring av kraft på en bil"
       ]
     },
     {
-      "title": "STATLIG MYNDIGHET",
+      "title": "PENGAR I SMÅ VALÖRER",
       "words": [
-        "departement",
-        "myndighet"
+        "mynt",
+        "fickpengar"
       ],
-      "definition": "central myndighet",
+      "definition": "pengar i mindre valörer, växelpengar",
       "word_definitions": [
-        "enhet inom en regering med ansvar för ett visst område och med en minister som chef",
-        "egenskapen att vara myndig"
+        "betalningsmedel av metall, peng, slant",
+        "småpengar (för barn), veckopengar"
       ]
     },
     {
-      "title": "TEKNISK MEKANISM",
+      "title": "FORMELLA SKULDFÖRBINDELSER",
       "words": [
-        "maskineri",
-        "apparat"
+        "obligation",
+        "skuldebrev"
       ],
-      "definition": "mekanism",
+      "definition": "en sorts skuldförbindelse (särskilt i äldre tid)",
       "word_definitions": [
-        "en maskins konstruktion, mekanism",
-        "(teknisk) anordning; instrument; maskin"
+        "skuldförbindelse som utgör del i större statligt eller kommunalt lån (obligationslån)",
+        "skriftlig förbindelse att betala en skuld, revers"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "så",
+  "pivot": "tar",
   "categories": [
     {
-      "title": "GRAD AV INTENSITET",
+      "title": "TA TAG I",
       "words": [
-        "väldigt",
-        "extremt"
+        "gripa",
+        "knipa"
       ],
-      "definition": "till den grad, lika",
+      "definition": "skaffar sig kontroll över, griper, fattar",
       "word_definitions": [
-        "mycket",
-        "; mycket (starkt)"
+        "tar fast, fångar, häktar",
+        "får tag i, skaffar sig"
       ]
     },
     {
-      "title": "UPMANING OM LUGN",
+      "title": "ANVÄNDA NÅGOT",
       "words": [
-        "lugnt",
-        "tyst"
+        "utnyttja",
+        "begagna"
       ],
-      "definition": "seså; var lugn",
+      "definition": "använder sig av",
       "word_definitions": [
-        "Det är lugnt.",
-        "uppmaning att inte ge några ljud ifrån sig"
+        "drar nytta av, använder",
+        "använder, brukar, utnyttjar, handskas med"
       ]
     },
     {
-      "title": "PLANTERA VÄXTER",
+      "title": "TA TID I ANSPRÅK",
       "words": [
-        "plantera",
-        "odla"
+        "dröja",
+        "söla"
       ],
-      "definition": "sprida frön i jordmån för att de ska gro",
+      "definition": "dröjer, upptar (tid)",
       "word_definitions": [
-        "sätter växt (eller frö) i jorden",
-        "producerar växter; brukar jorden"
+        "drar ut på tiden, tar tid",
+        "är långsam, dröjer"
       ]
     },
     {
-      "title": "DRICKKÄRL BOSKAP",
+      "title": "TRANSPORTERA GODS",
       "words": [
-        "tråg",
-        "kar"
+        "frakta",
+        "befordra"
       ],
-      "definition": "dryckeskärl för boskap",
+      "definition": "för, transporterar",
       "word_definitions": [
-        "ett avlångt, fyrkantigt kärl",
-        "stor öppen behållare för vatten (eller annan vätska)"
+        "transporterar gods",
+        "transporterar"
       ]
     }
   ]

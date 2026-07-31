@@ -1,52 +1,52 @@
 {
-  "pivot": "bräcker",
+  "pivot": "disk",
   "categories": [
     {
-      "title": "BRYTA MED KRAFT",
+      "title": "SERVICEBORD",
       "words": [
-        "knäcka",
-        "bända"
+        "kassa",
+        "reception"
       ],
-      "definition": "knäcker, bryter",
+      "definition": "smalt och högt bord (i butik, bank etc.) där kunderna betjänas",
       "word_definitions": [
-        "bryter hårt material genom kraftigt slag eller tryck",
-        "pressar, bryter, bräcker"
+        "avdelning (i affär eller bank) där man betalar eller tar emot pengar",
+        "plats på hotell e.d. (innanför entrén) där gäster tas emot"
       ]
     },
     {
-      "title": "ÖVERTRÄFFA NÅGON",
+      "title": "SAKER SOM DISKAS",
       "words": [
-        "övergå",
-        "slå"
+        "porslin",
+        "matsilver"
       ],
-      "definition": "överträffar, stukar",
+      "definition": "bestick, tallrikar o.d. som diskas",
       "word_definitions": [
-        "överstiger",
-        "ger ett slag, smäller till"
+        "material (i koppar, tallrikar etc.) av tunn hård keramik",
+        "bestick i silver"
       ]
     },
     {
-      "title": "LÄTT STEKNING",
+      "title": "DATALAGRING",
       "words": [
-        "fräsa",
-        "bryna"
+        "minne",
+        "band"
       ],
-      "definition": "steker lätt",
+      "definition": "skiva där man lagrar data",
       "word_definitions": [
-        "steker snabbt (i het panna)",
-        "steker för att göra brun"
+        "ställe för lagring av data i en dator",
+        "långsmalt (tyg)stycke (som man ofta binder med); bana för transport"
       ]
     },
     {
-      "title": "NÄR DAGEN GRYR",
+      "title": "RYGGRADENS DELAR",
       "words": [
-        "dagas",
-        "ljusna"
+        "kota",
+        "ryggmärg"
       ],
-      "definition": "gryr",
+      "definition": "en sorts platta mellan ryggradens kotor",
       "word_definitions": [
-        "gryr, ljusnar",
-        "blir ljusare"
+        "ben i ryggraden",
+        "del av centrala nervsystemet i ryggradens översta del"
       ]
     }
   ]

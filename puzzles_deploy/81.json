@@ -1,52 +1,52 @@
 {
-  "pivot": "linje",
+  "pivot": "lyder",
   "categories": [
     {
-      "title": "GEOMETRISK FIGUR",
+      "title": "LYDA ORDER",
       "words": [
-        "diagonal",
-        "kurva"
+        "följa",
+        "underordna"
       ],
-      "definition": "figur med utsträckning åt bara ett håll",
+      "definition": "gör som man blir tillsagd",
       "word_definitions": [
-        "sträcka som går från hörn till hörn i en geometrisk figur",
-        "krökt linje, båge"
+        "rättar sig efter, lyder",
+        "låter bli beroende av"
       ]
     },
     {
-      "title": "TRAFIKSTRÄCKA",
+      "title": "HÖRA TILL",
       "words": [
-        "led",
-        "rutt"
+        "tillhöra",
+        "ingå"
       ],
-      "definition": "sträcka som trafikeras med allmänna kommunikationer",
+      "definition": "hör till, sorterar (under)",
       "word_definitions": [
-        "sträcka där man kan vandra eller färdas",
-        "resväg"
+        "kan räknas till; är medlem av",
+        "utgör en del, är inräknad"
       ]
     },
     {
-      "title": "STRATEGISK RIKTNING",
+      "title": "VARA FORMULERAD",
       "words": [
-        "inriktning",
-        "orientering"
+        "formuleras",
+        "låta"
       ],
-      "definition": "kurs, inriktning",
+      "definition": "har en viss lydelse",
       "word_definitions": [
-        "mål för ett arbete; kurs, orientering",
-        "inriktning (efter väderstreck)"
+        "uttrycka i ord på visst sätt; ge form åt",
+        "hörs, ljuder"
       ]
     },
     {
-      "title": "UPPSTÄLLNING I RAD",
+      "title": "UPPÅ TILL EN SUMMA",
       "words": [
-        "rad",
-        "fil"
+        "utgöra",
+        "vara"
       ],
-      "definition": "uppställning i en rad (på bredden)",
+      "definition": "uppgår till, är",
       "word_definitions": [
-        "uppställning av saker bredvid (eller bakom) varandra",
-        "rad"
+        "fungerar som, är; uppgår till (en viss summa)",
+        "befinner sig, finns"
       ]
     }
   ]

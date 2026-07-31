@@ -1,52 +1,52 @@
 {
-  "pivot": "klar",
+  "pivot": "klubba",
   "categories": [
     {
-      "title": "LJUS OCH GENOMSIKTIG",
+      "title": "GÖRA BEHOV",
       "words": [
-        "transparent",
-        "blank"
+        "skita",
+        "bajsa"
       ],
-      "definition": "ljus, lysande, genomskinlig",
+      "definition": "göra sig av med avföring (\"bajsa\")",
       "word_definitions": [
-        "genomskinlig",
-        "glänsande, skinande"
+        "har avföring",
+        "har avföring, skiter"
       ]
     },
     {
-      "title": "LÄTTFÖRSTÅELIG",
+      "title": "SPORTSREDSKAP",
       "words": [
-        "åskådlig",
-        "lättfattlig"
+        "racket",
+        "paddel"
       ],
-      "definition": "lätt att förstå, tydlig",
+      "definition": "avlångt redskap avsett att föra eller slå eller skjuta iväg bollen eller pucken inom hockeyliknande sporter (bandy, innebandy, ishockey, landhockey, lacrosse, krocket)",
       "word_definitions": [
-        "lätt att förstå, tydlig",
-        "lätt att förstå, enkel"
+        "ett redskap att slå på en boll med",
+        "en sorts åra (för kanot) med ett brett blad i ena eller båda ändarna"
       ]
     },
     {
-      "title": "VÄLDIGT STOR",
+      "title": "GODISBITAR",
       "words": [
-        "enorm",
-        "rejäl"
+        "polkagris",
+        "snask"
       ],
-      "definition": "tydlig, stor",
+      "definition": "godsak i form av en pinne med en stor karamell- eller godisbit fäst på översta änden",
       "word_definitions": [
-        "mycket stor",
-        "stor, kraftig"
+        "en karamell (ibland i form av en stång) med röda och vita ränder och frisk smak",
+        "sötsaker, godis, karameller"
       ]
     },
     {
-      "title": "REDO ATT BÖRJA",
+      "title": "CEREMONIELT FÖREMÅL",
       "words": [
-        "beredd",
-        "redo"
+        "spira",
+        "krona"
       ],
-      "definition": "färdig",
+      "definition": "redskap med bara ceremoniell betydelse (ordförandeklubba eller auktionsklubba) som slås mot bordet eller ett särskilt underlag för att påkalla uppmärksamhet (vanligtvis då man förklarar och fastslår ett visst beslut)",
       "word_definitions": [
-        "färdig, redo",
-        "färdig, beredd"
+        "smal rund stav (särskilt om en av kungens maktsymboler)",
+        "föremål som har symbolisk betydelse när det bärs på huvudet"
       ]
     }
   ]

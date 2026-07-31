@@ -1,52 +1,52 @@
 {
-  "pivot": "sticka",
+  "pivot": "ställning",
   "categories": [
     {
-      "title": "TEXTILVERKTYG",
+      "title": "KROPPSLIG POSITION",
       "words": [
-        "skyttel",
-        "bobin"
+        "pose",
+        "hållning"
       ],
-      "definition": "(metall)pinne att tillverka saker av garn med",
+      "definition": "sätt att stå eller sitta eller ligga",
       "word_definitions": [
-        "anordning som för tyg eller garn genom väv",
-        "spole (t.ex. för garn)"
+        "konstlad eller utstuderad ställning",
+        "sätt att hålla kroppen (upprätt)"
       ]
     },
     {
-      "title": "SLAGVERKTYG",
+      "title": "ÅSIKTSVINKEL",
       "words": [
-        "slagträ",
-        "påk"
+        "synpunkt",
+        "aspekt"
       ],
-      "definition": "klubba",
+      "definition": "ståndpunkt",
       "word_definitions": [
-        "klubba som används av slagmannen för tillslag av boll",
-        "kraftig käpp"
+        "ståndpunkt, åsikt, bedömning",
+        "synpunkt; synvinkel"
       ]
     },
     {
-      "title": "FÖRA IN",
+      "title": "SOCIAL STATUS",
       "words": [
-        "proppa",
-        "införa"
+        "rang",
+        "status"
       ],
-      "definition": "föra in, stoppa",
+      "definition": "social position",
       "word_definitions": [
-        "stoppar (full), packar (full)",
-        "börjar använda eller tillämpa"
+        "(social) ställning i en grupp",
+        "(högt) socialt anseende"
       ]
     },
     {
-      "title": "LITEN TRÄBIT",
+      "title": "BYGGNADSKONSTRUKTION",
       "words": [
-        "flaga",
-        "spån"
+        "konstruktion",
+        "uppbyggnad"
       ],
-      "definition": "liten vass träpinne, träflisa",
+      "definition": "konstruktion",
       "word_definitions": [
-        "liten flisa",
-        "liten flisa som bildas vid bearbetning av trä eller järn"
+        "konstruerad produkt",
+        "konstruktion, struktur"
       ]
     }
   ]

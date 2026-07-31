@@ -1,52 +1,52 @@
 {
-  "pivot": "håller",
+  "pivot": "jämn",
   "categories": [
     {
-      "title": "GREPPA NÅGOT",
+      "title": "SLÄT YTA",
       "words": [
-        "gripa",
-        "fatta"
+        "platt",
+        "plan"
       ],
-      "definition": "har i handen, griper, fattar",
+      "definition": "plan, slät",
       "word_definitions": [
-        "hugger tag i, tar, fattar",
-        "tar, griper"
+        "plan, slät",
+        "jämn och slät"
       ]
     },
     {
-      "title": "BEVARA NÅGOT",
+      "title": "REGELBUNGEN TAKT",
       "words": [
-        "bevara",
-        "konservera"
+        "periodisk",
+        "regelbunden"
       ],
-      "definition": "bibehåller, bevarar",
+      "definition": "som fördelar sig regelbundet; hela tiden lika stor",
       "word_definitions": [
-        "har kvar, sparar, behåller; skyddar",
-        "bevarar i oförändrat skick"
+        "som förekommer regelbundet",
+        "som förekommer med jämna mellanrum"
       ]
     },
     {
-      "title": "TÅLA BELASTNING",
+      "title": "LIKA ODDS",
       "words": [
-        "tåla",
-        "bestå"
+        "balanserad",
+        "likvärdig"
       ],
-      "definition": "blir inte förstörd, går inte sönder, är stark nog",
+      "definition": "som inte domineras av någon part; som väger lika",
       "word_definitions": [
-        "står ut med, uthärdar",
-        "står fast, är oförändrad"
+        "I jämvikt; som inte lutar åt något håll eller domineras av en part.",
+        "som har liknande värde, jämngod"
       ]
     },
     {
-      "title": "GENOMFÖRA NÅGOT",
+      "title": "EXAKT TID",
       "words": [
-        "arrangera",
-        "utföra"
+        "precis",
+        "exakt"
       ],
-      "definition": "utför; anordnar",
+      "definition": "exakt, precis",
       "word_definitions": [
-        "anordnar, ordnar, planerar",
-        "gör, genomför"
+        "exakt",
+        "precis, noggrann"
       ]
     }
   ]

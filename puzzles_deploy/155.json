@@ -1,52 +1,52 @@
 {
-  "pivot": "tal",
+  "pivot": "ton",
   "categories": [
     {
-      "title": "FÖRMÅGA ATT TALA",
+      "title": "MUSIKALISKA GRUNDELEMENT",
       "words": [
-        "mål",
-        "retorik"
+        "rytm",
+        "melodi"
       ],
-      "definition": "det att tala; förmåga att tala",
+      "definition": "ljud av sångröst eller instrument i konstant läge på skalan",
       "word_definitions": [
-        "förmåga att tala; språk",
-        "konsten att tala väl och övertyga andra"
+        "regelbunden rörelse i musik; takt",
+        "ordnad följd av toner som bildar en musikalisk helhet"
       ]
     },
     {
-      "title": "OFFENTLIGT FRAMTRÄDANDE",
+      "title": "SÄTT ATT UPPAFÖRA SIG",
       "words": [
-        "föreläsning",
-        "presentation"
+        "fason",
+        "uppförande"
       ],
-      "definition": "muntligt framträdande inför publik",
+      "definition": "sätt att tala och uppträda",
       "word_definitions": [
-        "muntlig framställning över ett visst ämne, föredrag",
-        "handlingen att presentera någon eller något"
+        "uppträdande, (dåligt) uppförande",
+        "sätt att uppföra sig, beteende"
       ]
     },
     {
-      "title": "MATEMATISKA TECKEN",
+      "title": "FÄRGNYANSER",
       "words": [
-        "siffra",
-        "nummer"
+        "nyans",
+        "kulör"
       ],
-      "definition": "matematisk symbol som bl.a. betecknar antal",
+      "definition": "färgnyans",
       "word_definitions": [
-        "antal, summa",
-        "siffra eller grupp av siffror (som t.ex. anger plats i ordningsföljd eller storlek)"
+        "färgton",
+        "färg"
       ]
     },
     {
-      "title": "MATEMATISK UPPGIFT",
+      "title": "VIKTENHETER",
       "words": [
-        "övning",
-        "ekvation"
+        "kilo",
+        "gram"
       ],
-      "definition": "matematisk uppgift",
+      "definition": "ett viktmått (=1 000 kg)",
       "word_definitions": [
-        "uppgift",
-        "matematisk likhet med minst en obekant (x)"
+        "ett viktmått (=1 000 gram)",
+        "en måttenhet för vikt (1/1000 kilo)"
       ]
     }
   ]

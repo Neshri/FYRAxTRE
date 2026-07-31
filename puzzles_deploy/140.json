@@ -1,52 +1,52 @@
 {
-  "pivot": "spricka",
+  "pivot": "sticka",
   "categories": [
     {
-      "title": "SMAL RÄNNA",
+      "title": "TRÄFLISOR",
       "words": [
-        "råk",
-        "räffla"
+        "flaga",
+        "spån"
       ],
-      "definition": "smal ränna",
+      "definition": "liten vass träpinne, träflisa",
       "word_definitions": [
-        "öppen ränna i is",
-        "grund och smal fåra"
+        "liten flisa",
+        "liten flisa som bildas vid bearbetning av trä eller järn"
       ]
     },
     {
-      "title": "OENIGHET ELLER TVIST",
+      "title": "GARNVERKTYG",
       "words": [
-        "strid",
-        "tvist"
+        "virknål",
+        "skyttel"
       ],
-      "definition": "oenighet",
+      "definition": "(metall)pinne att tillverka saker av garn med",
       "word_definitions": [
-        "tvist, oenighet",
-        "oenighet, stridighet"
+        "kraftig nål med krok i ena ändan som används vid virkning",
+        "anordning som för tyg eller garn genom väv"
       ]
     },
     {
-      "title": "SPRICKA I MATERIAL",
+      "title": "GÖRA HÅL",
       "words": [
-        "klyfta",
-        "glipa"
+        "rista",
+        "punktera"
       ],
-      "definition": "långsmal delning i material bildad av påfrestning på hårt och ofta sprött material",
+      "definition": "trycka in spetsigt föremål i något; ge stick",
       "word_definitions": [
-        "bit av frukt eller grönsak (med form som en triangel)",
-        "spricka, springa, öppning"
+        "skär in tecken med spetsigt föremål",
+        "sticker hål på"
       ]
     },
     {
-      "title": "GÅ SÖNDER",
+      "title": "FÖRA IN",
       "words": [
-        "bryta",
-        "bräcka"
+        "proppa",
+        "trycka"
       ],
-      "definition": "rämna, brytas sönder och bilda långsmal öppning",
+      "definition": "föra in, stoppa",
       "word_definitions": [
-        "får att spricka sönder i två delar (ofta genom kraftig böjning)",
-        "knäcker, bryter"
+        "stoppar (full), packar (full)",
+        "utövar tryck, pressar"
       ]
     }
   ]

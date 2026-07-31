@@ -2,51 +2,51 @@
   "pivot": "blåsa",
   "categories": [
     {
-      "title": "PRAKTFULL KLÄDSEL",
-      "words": [
-        "skrud",
-        "toalett"
-      ],
-      "definition": "påkostad klänning",
-      "word_definitions": [
-        "praktfull klädsel (använd vid ceremonier o.d.)",
-        "kvinnlig festklädsel"
-      ]
-    },
-    {
-      "title": "LUFT I RÖRELSE",
-      "words": [
-        "yra",
-        "vädra"
-      ],
-      "definition": "naturligt strömma fram luft parallellt med jordytan",
-      "word_definitions": [
-        "virvlar runt i luften",
-        "släpper in frisk luft i ett rum, luftar"
-      ]
-    },
-    {
-      "title": "BEDRAGA NÅGON",
-      "words": [
-        "svindla",
-        "dupera"
-      ],
-      "definition": "lura, lura av",
-      "word_definitions": [
-        "lurar",
-        "för bakom ljuset, lurar, bedrar"
-      ]
-    },
-    {
       "title": "HUDUTSLAG",
       "words": [
         "utslag",
-        "skorv"
+        "böld"
       ],
       "definition": "liten rundad böld på huden som innehåller vätska, orsakad av retning eller infektion",
       "word_definitions": [
         "blåsor eller irritation på huden",
-        "en hudsjukdom"
+        "varbildning, bulnad"
+      ]
+    },
+    {
+      "title": "KVINNOLIG KLÄDSEL",
+      "words": [
+        "dress",
+        "stass"
+      ],
+      "definition": "klänning",
+      "word_definitions": [
+        "dräkt",
+        "fina kläder"
+      ]
+    },
+    {
+      "title": "UTANDNINGSHANDLING",
+      "words": [
+        "utandas",
+        "frusta"
+      ],
+      "definition": "skicka ut en kraftig luftström genom munnen med hjälp av lungorna; andas ut kraftigt",
+      "word_definitions": [
+        "låter luften strömma ut ur lungorna, andas ut",
+        "stöter ut luft genom nästan sluten mun"
+      ]
+    },
+    {
+      "title": "INRE ORGAN",
+      "words": [
+        "magsäck",
+        "lunga"
+      ],
+      "definition": "inre rundad bildning för vätska eller gas, som självständigt ord ofta om urinblåsan",
+      "word_definitions": [
+        "ett organ i kroppen där maten hamnar och delas upp, mage",
+        "organ att andas med hos människan (och de högre djuren)"
       ]
     }
   ]

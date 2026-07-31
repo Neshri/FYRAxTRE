@@ -2,51 +2,51 @@
   "pivot": "affär",
   "categories": [
     {
-      "title": "EKONOMISK TRANSAKTION",
+      "title": "EKONOMISKA ÅTGÄRDER",
       "words": [
-        "transaktion",
-        "överenskommelse"
+        "insats",
+        "transaktion"
       ],
       "definition": "ekonomisk åtgärd",
       "word_definitions": [
-        "ekonomisk uppgörelse",
-        "avtal, uppgörelse"
+        "åtgärd, prestation",
+        "ekonomisk uppgörelse"
       ]
     },
     {
-      "title": "FÖRSÄLJNINGSSTÄLLE",
+      "title": "FÖRSÄLJNINGSSTÄLLEN",
       "words": [
-        "kiosk",
-        "handel"
+        "handel",
+        "kiosk"
       ],
       "definition": "ställe med försäljning, butik",
       "word_definitions": [
-        "litet hus med försäljning av tidningar, godsaker m.m. (ibland även mat)",
-        "affär, butik"
+        "affär, butik",
+        "litet hus med försäljning av tidningar, godsaker m.m. (ibland även mat)"
       ]
     },
     {
-      "title": "PERSONLIG ANGELÄGENHET",
+      "title": "PERSONLIGA ÄRENDEN",
       "words": [
         "sak",
-        "ting"
+        "ärende"
       ],
       "definition": "angelägenheter",
       "word_definitions": [
         "angelägenhet, ärende",
-        "omständigheter"
+        "(mindre) uppdrag; något man gör, t.ex. inköp"
       ]
     },
     {
-      "title": "UPPMÄRKSAMMAD HÄNDELSE",
+      "title": "OLIKA HÄNDELSER",
       "words": [
-        "spektakel",
-        "tilldragelse"
+        "tilldragelse",
+        "begivenhet"
       ],
       "definition": "uppmärksammad händelse",
       "word_definitions": [
-        "händelse som väcker uppseende",
-        "händelse"
+        "händelse",
+        "stor händelse, evenemang"
       ]
     }
   ]

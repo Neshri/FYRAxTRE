@@ -1,52 +1,52 @@
 {
-  "pivot": "nära",
+  "pivot": "operation",
   "categories": [
     {
-      "title": "LITET AVSTÅND",
+      "title": "SÄTT ATT LÖSA NÅGOT",
       "words": [
-        "angränsande",
-        "omedelbar"
+        "metod",
+        "strategi"
       ],
-      "definition": "på litet avstånd (i tid eller rum)",
+      "definition": "(komplicerad) procedur för att nå ett visst resultat",
       "word_definitions": [
-        "som ligger intill",
-        "direkt, ögonblicklig"
+        "(systematiskt) sätt att utföra något",
+        "långsiktig plan för att genomföra något"
       ]
     },
     {
-      "title": "NÄSTAN HELT",
+      "title": "MEDICINSKA INGREPP",
       "words": [
-        "nästan",
-        "uppemot"
+        "kejsarsnitt",
+        "amputation"
       ],
-      "definition": "så gott som, nästan",
+      "definition": "kirurgiskt ingrepp",
       "word_definitions": [
-        "så gott som, närapå",
-        "nästan"
+        "förlossning genom ett kirurgiskt ingrepp",
+        "operation som innebär att man tar bort någon kroppsdel"
       ]
     },
     {
-      "title": "EXAKT PRECIST",
+      "title": "MILITÄRA MANÖVRER",
       "words": [
-        "precis",
-        "just"
+        "marsch",
+        "framryckning"
       ],
-      "definition": "(mer) exakt",
+      "definition": "militär handling för att uppnå ett visst syfte, t.ex. att förflytta en trupp soldater",
       "word_definitions": [
-        "noggrann, exakt",
-        "precis, exakt"
+        "gång eller förflyttning i takt och i jämn fart (särskilt om truppförflyttning)",
+        "handlingen att rycka fram (särskilt militärt)"
       ]
     },
     {
-      "title": "GE NÄRING",
+      "title": "UPPGIFTER OCH SYSSLOR",
       "words": [
-        "berika",
-        "göda"
+        "mission",
+        "göromål"
       ],
-      "definition": "ge näring",
+      "definition": "uppgift, arbete",
       "word_definitions": [
-        "tillför näring",
-        "gör fet; tillför växter näringsämnen"
+        "uppgift",
+        "syssla, arbete"
       ]
     }
   ]

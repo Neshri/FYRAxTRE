@@ -1,52 +1,52 @@
 {
-  "pivot": "går",
+  "pivot": "hög",
   "categories": [
     {
-      "title": "FÖRFLYTTNING TILL FOTS",
+      "title": "STARK LJUDSTYRKA",
       "words": [
-        "vandra",
-        "promenera"
+        "öronbedövande",
+        "rungande"
       ],
-      "definition": "förflyttar sig till fots (utan att springa)",
+      "definition": "kraftig (om ljud)",
       "word_definitions": [
-        "förflyttar sig",
-        "går (särskilt för nöjes skull), spatserar"
+        "ytterst kraftig (om ljud)",
+        "som ljuder starkt, kraftig; bestämd"
       ]
     },
     {
-      "title": "FUNGERA ORDENTLIGT",
+      "title": "SOCIAL STÄLLNING",
       "words": [
-        "funka",
-        "verka"
+        "inflytelserik",
+        "uppsatt"
       ],
-      "definition": "fungerar; avlöper",
+      "definition": "som har inflytelserik ställning",
       "word_definitions": [
-        "fungerar",
-        "arbetar"
+        "som har stort inflytande",
+        "som har viss (hög) ställning i samhället"
       ]
     },
     {
-      "title": "UTÖVA SPEL",
+      "title": "AVANCERAD NIVÅ",
       "words": [
-        "lira",
-        "spela"
+        "försigkommen",
+        "sofistikerad"
       ],
-      "definition": "spelas",
+      "definition": "avancerad",
       "word_definitions": [
-        "spelar (boll eller musik)",
-        "ägnar sig åt spel"
+        "väl utvecklad, avancerad",
+        "förfinad"
       ]
     },
     {
-      "title": "HA PLATS FÖR",
+      "title": "SAMLING AV MATERIAL",
       "words": [
-        "härbärgera",
-        "innehålla"
+        "stapel",
+        "trave"
       ],
-      "definition": "får plats, ryms",
+      "definition": "anhopning av material",
       "word_definitions": [
-        "ger plats åt",
-        "har som innehåll, rymmer"
+        "hög av staplat material, trave",
+        "hög av föremål"
       ]
     }
   ]

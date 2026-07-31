@@ -1,52 +1,52 @@
 {
-  "pivot": "back",
+  "pivot": "bana",
   "categories": [
     {
-      "title": "RIKTNING BAKÅT",
+      "title": "TRANSPORTINFRASTRUKTUR",
       "words": [
-        "omvänt",
-        "åter"
+        "viadukt",
+        "motorväg"
       ],
-      "definition": "bakåt",
+      "definition": "väg; järnväg",
       "word_definitions": [
-        "tvärtom, åt andra hållet",
-        "än en gång, igen, på nytt"
+        "bro över en väg, järnväg eller dal",
+        "mycket bred väg för snabb trafik, autostrada"
       ]
     },
     {
-      "title": "TYPER AV LÅDOR",
+      "title": "FÄRDVÄG",
       "words": [
-        "box",
-        "kista"
+        "rutt",
+        "stråk"
       ],
-      "definition": "en sorts låda (särskilt till flaskor)",
+      "definition": "färdväg",
       "word_definitions": [
-        "låda, ask, fack, bås",
-        "stor låda med lock (ofta gammal och värdefull)"
+        "resväg",
+        "väg"
       ]
     },
     {
-      "title": "POSITIONER I FOTBOLL",
+      "title": "YRKESLIV",
       "words": [
-        "målvakt",
-        "ytter"
+        "profession",
+        "yrke"
       ],
-      "definition": "försvarsspelare (t.ex. i fotbollslag)",
+      "definition": "karriär",
       "word_definitions": [
-        "spelare i ett lag (t.ex. ett fotbollslag) som vaktar målet",
-        "anfallsspelare på ytterkanten (i fotboll etc.)"
+        "yrke",
+        "arbete som man utbildats för och får sin inkomst av"
       ]
     },
     {
-      "title": "VÄXLAR I BIL",
+      "title": "IDROTTSANLÄGGNING",
       "words": [
-        "etta",
-        "tvåa"
+        "arena",
+        "stadion"
       ],
-      "definition": "växel (på en bil eller båt) som används när man vill backa",
+      "definition": "anläggning med plant underlag (särskilt för tävlingar)",
       "word_definitions": [
-        "siffran 1; nummer 1 i ordningen",
-        "siffran 2; nummer 2 i ordningen"
+        "plats för tävling eller skådespel",
+        "stor idrottsplats"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "driva",
+  "pivot": "driver",
   "categories": [
     {
-      "title": "NATURLIG HÖG",
+      "title": "TVINGA NÅGON",
       "words": [
-        "sanddyn",
-        "vall"
+        "förplikta",
+        "nödga"
       ],
-      "definition": "hög av snö (eller sand)",
+      "definition": "föser, tvingar",
       "word_definitions": [
-        "kulle av sand",
-        "långsträckt upphöjning (ofta av jord eller sand)"
+        "ålägger, tvingar",
+        "tvingar, förmår"
       ]
     },
     {
-      "title": "DRIVANDE RÖRELSE",
+      "title": "UTÖVA PÅVERKAN",
       "words": [
-        "rinna",
-        "flyta"
+        "inverka",
+        "influera"
       ],
-      "definition": "förflyttas långsamt med vind, vågor, vattenström eller dylikt",
+      "definition": "påverkar",
       "word_definitions": [
-        "flyter, strömmar",
-        "rinner"
+        "påverkar",
+        "inverkar på, påverkar"
       ]
     },
     {
-      "title": "SKÄMTA MED",
+      "title": "UTÖVA VERKSAMHET",
+      "words": [
+        "utöva",
+        "idka"
+      ],
+      "definition": "ägnar sig åt, bedriver",
+      "word_definitions": [
+        "bedriver verksamhet",
+        "sysslar med, bedriver"
+      ]
+    },
+    {
+      "title": "SKÄMTA OCH SKOJA",
       "words": [
         "skoja",
-        "raljera"
+        "skämta"
       ],
-      "definition": "skoja, skämta (med)",
+      "definition": "skojar, skämtar",
       "word_definitions": [
         "skämtar",
-        "skämtar på ett retsamt sätt"
-      ]
-    },
-    {
-      "title": "ANSVARA FÖR",
-      "words": [
-        "sköta",
-        "förvalta"
-      ],
-      "definition": "sköta; ta hand om; leda",
-      "word_definitions": [
-        "vårdar, ger tillsyn; ansvarar för, tar hand om",
-        "sköter eller tar hand om någons egendom, administrerar"
+        "säger lustigheter, skojar"
       ]
     }
   ]

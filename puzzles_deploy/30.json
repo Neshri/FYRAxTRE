@@ -1,52 +1,52 @@
 {
-  "pivot": "faller",
+  "pivot": "fil",
   "categories": [
     {
-      "title": "FALLA FYSISKT",
+      "title": "VERKTYG FÖR MATERIALBEARBETNING",
       "words": [
-        "ramla",
-        "trilla"
+        "hyvel",
+        "mejsel"
       ],
-      "definition": "ramlar, trillar",
+      "definition": "ett verktyg av stål som används för att slipa ytor jämna",
       "word_definitions": [
-        "faller, trillar",
-        "ramlar, faller"
+        "ett verktyg för att göra ytor jämna",
+        "ett verktyg som man slår på med hammare för att bearbeta hårda material; skruvmejsel"
       ]
     },
     {
-      "title": "SJUNKA I VÄRDE",
+      "title": "DELAR AV VÄG",
       "words": [
-        "dala",
-        "digna"
+        "cykelväg",
+        "trottoar"
       ],
-      "definition": "dalar, sjunker",
+      "definition": "körbana, körfält",
       "word_definitions": [
-        "minskar",
-        "sjunker ner, sviktar"
+        "cykelbana",
+        "gångbana bredvid körbana"
       ]
     },
     {
-      "title": "MISTA LIVET",
+      "title": "DIGITALA FILTYPER",
       "words": [
-        "dö",
-        "stupa"
+        "dokument",
+        "bild"
       ],
-      "definition": "dör, stupar, omkommer",
+      "definition": "del av datorminne där enheter som hör ihop lagras",
       "word_definitions": [
-        "slutar att leva, mister livet, går bort",
-        "faller i strid, dör"
+        "skrift, handling (ofta av juridisk eller historisk betydelse)",
+        "foto, teckning, målning etc."
       ]
     },
     {
-      "title": "GE UPP I KRIG",
+      "title": "SYRLIGA MJÖLKPRODUKTER",
       "words": [
-        "kapitulera",
-        "underkasta"
+        "yoghurt",
+        "kefir"
       ],
-      "definition": "kapitulerar, erövras",
+      "definition": "surmjölk, filmjölk",
       "word_definitions": [
-        "överlämnar sig till fienden; ger sig, ger upp",
-        "låta genomgå"
+        "ett slags surmjölk",
+        "rysk filmjölk, en form av kulturmjölk som tillverkas med hjälp av kefirkorn eller kefirgryn"
       ]
     }
   ]

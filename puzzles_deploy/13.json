@@ -1,52 +1,52 @@
 {
-  "pivot": "bryter",
+  "pivot": "dam",
   "categories": [
     {
-      "title": "AVBRYTA NÅGOT",
+      "title": "BENÄMNINGAR PÅ KVINNA",
       "words": [
-        "stoppa",
-        "avsluta"
+        "gumma",
+        "blondin"
       ],
-      "definition": "avbryter; avbryter kontakt",
+      "definition": "kvinna",
       "word_definitions": [
-        "lagar hål i kläder",
-        "slutar, fullbordar"
+        "gammal kvinna",
+        "ljushårig kvinna"
       ]
     },
     {
-      "title": "ÖVERVINNA MOTSTÅND",
+      "title": "HÖGA SPELKORT",
       "words": [
-        "tränga",
-        "trotsa"
+        "kung",
+        "ess"
       ],
-      "definition": "forcerar ett motstånd",
+      "definition": "ett högt spelkort",
       "word_definitions": [
-        "banar sig väg trots motstånd",
-        "gör öppet motstånd mot, sätter sig upp mot"
+        "ett högt spelkort; den viktigaste pjäsen i schack",
+        "det högsta kortet i en av de fyra kortsviterna (färgerna)"
       ]
     },
     {
-      "title": "UTVINNA MATERIAL",
+      "title": "SCHACKPJÄSER",
       "words": [
-        "extrahera",
-        "dra"
+        "löpare",
+        "springare"
       ],
-      "definition": "får att gå i bitar; utvinner",
+      "definition": "en värdefull schackpjäs, drottning",
       "word_definitions": [
-        "utvinner, drar",
-        "utvinner, extraherar"
+        "en pjäs i schack",
+        "en schackpjäs, häst"
       ]
     },
     {
-      "title": "ÄNDRA RIKTNING",
+      "title": "BRÄDSPEL",
       "words": [
-        "kantra",
-        "vända"
+        "schack",
+        "domino"
       ],
-      "definition": "får att ändra riktning",
+      "definition": "ett spel med brickor på schackbräde",
       "word_definitions": [
-        "ändrar riktning",
-        "ändrar läge eller riktning"
+        "ett spel med 32 figurer på ett bräde med 64 rutor",
+        "ett spel med brickor med två fält"
       ]
     }
   ]

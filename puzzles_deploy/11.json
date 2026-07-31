@@ -1,52 +1,52 @@
 {
-  "pivot": "bock",
+  "pivot": "bryter",
   "categories": [
     {
-      "title": "HANAR AV TAMDJUR",
+      "title": "FÅR NÅGOT ATT GÅ SÖNDER",
       "words": [
-        "bagge",
-        "galt"
+        "spräcka",
+        "krossa"
       ],
-      "definition": "hane av get",
+      "definition": "får att spricka sönder i två delar (ofta genom kraftig böjning)",
       "word_definitions": [
-        "hane av får",
-        "hane av gris"
+        "får att spricka",
+        "slår sönder, splittrar; mosar"
       ]
     },
     {
-      "title": "SEXUELLT AKTIV MAN",
+      "title": "BRYTA MOT LAGEN",
       "words": [
-        "playboy",
-        "kvinnotjusare"
+        "överträda",
+        "kränka"
       ],
-      "definition": "sexuellt (alltför) aktiv man",
+      "definition": "kommer i konflikt med lagen, uppfyller inte, kränker",
       "word_definitions": [
-        "(rik) man som ägnar sig enbart åt nöjen (särskilt kärleksaffärer)",
-        "person som tjusar kvinnor"
+        "bryter mot bestämmelser",
+        "respekterar inte"
       ]
     },
     {
-      "title": "STÖDANORDNINGAR",
+      "title": "BLANDA FÄRGER ELLER SMAKER",
       "words": [
-        "ställ",
-        "konsol"
+        "sammanblanda",
+        "nyansera"
       ],
-      "definition": "stöd (med fyra ben) under t.ex. en bordsskiva",
+      "definition": "blandar (med avvikande färg eller smak)",
       "word_definitions": [
-        "plats där man ställer något, stöd",
-        "vågrätt stöd som är fäst i vägg"
+        "förväxlar, blandar ihop, blandar samman",
+        "ger (en framställning) nyanser"
       ]
     },
     {
-      "title": "GYMNASTIKREDSKAP",
+      "title": "ÄNDRA RIKTNING",
       "words": [
-        "barr",
-        "ribbstol"
+        "kantra",
+        "vända"
       ],
-      "definition": "ett gymnastikredskap",
+      "definition": "får att ändra riktning",
       "word_definitions": [
-        "ett redskap i gymnastiken",
-        "ett gymnastikredskap som liknar en stege"
+        "ändrar riktning",
+        "ändrar läge eller riktning"
       ]
     }
   ]

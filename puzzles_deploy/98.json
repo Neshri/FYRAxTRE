@@ -1,52 +1,52 @@
 {
-  "pivot": "ovan",
+  "pivot": "pass",
   "categories": [
     {
-      "title": "HÖG POSITION",
+      "title": "RESEDOKUMENT",
       "words": [
-        "uppe",
-        "överst"
+        "visum",
+        "id-kort"
       ],
-      "definition": "på en plats högre upp",
+      "definition": "dokument som man ibland måste visa upp när man reser utomlands",
       "word_definitions": [
-        "i ett läge högt upp",
-        "längst upp"
+        "dokument som ger tillstånd att resa in i och vistas i ett visst land (när det inte räcker med pass)",
+        "identitetskort"
       ]
     },
     {
-      "title": "TIDIGARE I TEXT",
+      "title": "BERGSTERRÄNG",
       "words": [
-        "förr",
-        "tidigare"
+        "ravin",
+        "dal"
       ],
-      "definition": "tidigare i texten",
+      "definition": "trång väg mellan berg",
       "word_definitions": [
-        "förut, tidigare",
-        "före tidpunkten för kommunikationen eller en annan specificerad tidpunkt"
+        "djup klyfta i berg",
+        "långsmalt, lägre område mellan två höjder, sänka"
       ]
     },
     {
-      "title": "POSITION ÖVER",
+      "title": "ARBETSTID",
       "words": [
-        "över",
-        "på"
+        "arbetsdag",
+        "skift"
       ],
-      "definition": "över, ovanför",
+      "definition": "det antal timmar som någon arbetar vid visst tillfälle",
       "word_definitions": [
-        "ovanför, ovanpå",
-        "i anslutning till, ovanpå"
+        "tiden man arbetar under en dag",
+        "arbetspass mellan två ombyten av arbetskraft"
       ]
     },
     {
-      "title": "BRISTANDE VANA",
+      "title": "KORTSPELSTERMER",
       "words": [
-        "oerfaren",
-        "okunnig"
+        "utspel",
+        "bud"
       ],
-      "definition": "inte van",
+      "definition": "inget bud (i kortspel)",
       "word_definitions": [
-        "inte erfaren, ovan",
-        "som saknar kunskap, oerfaren"
+        "första spelade kortet i en omgång i kortspel",
+        "erbjudande, anbud"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "vila",
+  "pivot": "öppen",
   "categories": [
     {
-      "title": "TILLSTÅND AV LUGN",
+      "title": "INTE TÄCKT",
       "words": [
-        "frid",
-        "ro"
+        "bar",
+        "naken"
       ],
-      "definition": "tillstånd då någon eller något vilar, stillhet, avkoppling",
+      "definition": "inte stängd eller låst eller täckt",
       "word_definitions": [
-        "lugn, ro, fred, stillhet",
-        "lugn och stillhet"
+        "inte täckt, öppen, naken",
+        "inte täckt eller skyddad"
       ]
     },
     {
-      "title": "VILOPERIOD",
+      "title": "OFFENTLIG",
       "words": [
-        "sabbat",
-        "lur"
+        "offentlig",
+        "allmän"
       ],
-      "definition": "vilostund",
+      "definition": "tillgänglig eller synlig för alla, allmän, offentlig",
       "word_definitions": [
-        "judisk vilodag",
-        "en stunds sömn"
+        "som gäller allmänheten, allmän, officiell",
+        "som delas av eller gäller alla, generell"
       ]
     },
     {
-      "title": "ÅTERHÄMTA SIG",
+      "title": "EJ BESLUTAD",
       "words": [
-        "repa",
-        "läka"
+        "oavgjord",
+        "olöst"
       ],
-      "definition": "vara (mer eller mindre) inaktiv i syfte att återhämta sig",
+      "definition": "inte avgjord",
       "word_definitions": [
-        "återhämtar",
-        "botar"
+        "inte avgjord, utan någon segrare",
+        "som inte har lösts"
       ]
     },
     {
-      "title": "STÖDJAS MOT",
+      "title": "UPPRIKTIG",
       "words": [
-        "luta",
-        "stötta"
+        "frank",
+        "rättfram"
       ],
-      "definition": "stödjas mot; hållas uppe av; bäras av",
+      "definition": "uppriktig",
       "word_definitions": [
-        "står snett",
-        "stöder"
+        "uppriktig",
+        "uppriktig, frimodig"
       ]
     }
   ]

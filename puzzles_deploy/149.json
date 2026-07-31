@@ -1,52 +1,52 @@
 {
-  "pivot": "stämma",
+  "pivot": "säker",
   "categories": [
     {
-      "title": "BESTÄMMA GEMENSAMT",
+      "title": "UTOM FARA",
       "words": [
-        "fastställa",
-        "överenskomma"
+        "riskfri",
+        "trygg"
       ],
-      "definition": "bestämma; avtala",
+      "definition": "utom fara, skyddad, trygg",
       "word_definitions": [
-        "bestämmer, föreskriver; konstaterar",
-        "bestämmer något tillsammans, kommer överens"
+        "som inte innebär någon risk, säker",
+        "säker (om människans omgivning)"
       ]
     },
     {
-      "title": "FORMELT MÖTE",
+      "title": "PÅLITLIG",
       "words": [
-        "konferens",
-        "kongress"
+        "trovärdig",
+        "reko"
       ],
-      "definition": "(större) sammankomst",
+      "definition": "tillförlitlig",
       "word_definitions": [
-        "sammankomst (ofta kring ett tema)",
-        "(större) sammankomst med valda ombud (t.ex. politiker)"
+        "som man kan tro på, pålitlig, tillförlitlig",
+        "pålitlig, hederlig"
       ]
     },
     {
-      "title": "RÖSTKARAKTÄR",
+      "title": "ÖVERTYGAD",
       "words": [
-        "falsett",
-        "klang"
+        "viss",
+        "övertygad"
       ],
-      "definition": "röst",
+      "definition": "övertygad, förvissad",
       "word_definitions": [
-        "onormalt högt röstläge",
-        "ljud som klingar, ton"
+        "säker, övertygad",
+        "som är säker på sin sak; om någon som anser sig veta vad som stämmer"
       ]
     },
     {
-      "title": "MUSIKALISKA ELEMENT",
+      "title": "OBESTRIDLIG",
       "words": [
-        "melodi",
-        "rytm"
+        "omisskännlig",
+        "obestridlig"
       ],
-      "definition": "linje i en musikalisk sats",
+      "definition": "otvivelaktig",
       "word_definitions": [
-        "ordnad följd av toner som bildar en musikalisk helhet",
-        "regelbunden rörelse i musik; takt"
+        "otvetydig, uppenbar",
+        "som inte kan ifrågasättas"
       ]
     }
   ]

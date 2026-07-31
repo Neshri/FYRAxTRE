@@ -1,52 +1,52 @@
 {
-  "pivot": "division",
+  "pivot": "dragning",
   "categories": [
     {
-      "title": "SÄTT ATT DELA",
+      "title": "SLUMPMÄSSIGT VAL",
       "words": [
-        "fördelning",
-        "halvering"
+        "tombola",
+        "lottning"
       ],
-      "definition": "handlingen att dividera",
+      "definition": "ett sätt att få fram vinnaren i ett lotteri; lottning",
       "word_definitions": [
-        "handlingen att fördela något; uppdelning",
-        "handlingen att halvera något"
+        "ett lotteri med en roterande låda som man drar lotterna ur",
+        "handlingen att lotta"
       ]
     },
     {
-      "title": "MILITÄRA FÖRBAND",
+      "title": "BÖJELSE OCH ATTRAKTION",
       "words": [
-        "regemente",
-        "brigad"
+        "förkärlek",
+        "lockelse"
       ],
-      "definition": "större militär avdelning",
+      "definition": "böjelse, attraktion",
       "word_definitions": [
-        "den högsta administrativa militära enheten på lokal nivå",
-        "stort förband inom en armé"
+        "särskild böjelse eller smak",
+        "(något som har) förmåga att dra till sig intresse eller väcka begär"
       ]
     },
     {
-      "title": "FÖRETAGSAVDELNINGAR",
+      "title": "NYANS AV FÄRG",
       "words": [
-        "byrå",
-        "filial"
+        "skiftning",
+        "schattering"
       ],
-      "definition": "avdelning inom företag",
+      "definition": "nyans, skiftning",
       "word_definitions": [
-        "avdelning; firma",
-        "(ganska självständig) avdelning"
+        "nyans",
+        "färgskiftning"
       ]
     },
     {
-      "title": "SPORTSLIG NIVÅ",
+      "title": "MANÖVER I HOCKEY",
       "words": [
-        "serie",
-        "liga"
+        "dribbling",
+        "fint"
       ],
-      "definition": "klass i seriesystem",
+      "definition": "dribbling i ishockey",
       "word_definitions": [
-        "rad, följd",
-        "kriminell grupp, samling förbrytare"
+        "handlingen att dribbla",
+        "knep, påhitt"
       ]
     }
   ]

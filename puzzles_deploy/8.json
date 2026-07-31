@@ -1,52 +1,52 @@
 {
-  "pivot": "block",
+  "pivot": "blåsa",
   "categories": [
     {
-      "title": "BYGGMATERIAL",
+      "title": "HUDSVULLNAD",
       "words": [
-        "sten",
-        "betong"
+        "utgjutning",
+        "bulnad"
       ],
-      "definition": "sammanhängande helhet (av hårt material, t.ex. sten)",
+      "definition": "svullnad på huden som innehåller vätska",
       "word_definitions": [
-        "(liten lös bit av) det hårda material som finns i berg",
-        "blandning av cement, sand, grus och vatten (som snabbt hårdnar)"
+        "anhopning av vätska i kroppen som ofta ger svullnad",
+        "svullnad (på huden)"
       ]
     },
     {
-      "title": "POLITISKA SAMMANSLUTNINGAR",
+      "title": "FESTKLÄDSEL",
       "words": [
-        "union",
-        "förbund"
+        "skrud",
+        "toalett"
       ],
-      "definition": "sammanslutning av organisationer eller partier",
+      "definition": "påkostad klänning",
       "word_definitions": [
-        "sammanslutning av stater, förbund",
-        "förening av organisationer"
+        "praktfull klädsel (använd vid ceremonier o.d.)",
+        "kvinnlig festklädsel"
       ]
     },
     {
-      "title": "PAPPERSHÄFTEN",
+      "title": "VINDENS RÖRELSE",
       "words": [
-        "lunta",
-        "broschyr"
+        "yra",
+        "susa"
       ],
-      "definition": "häfte med pappersark",
+      "definition": "naturligt strömma fram luft parallellt med jordytan",
       "word_definitions": [
-        "bunt papper",
-        "tryckt häfte, folder"
+        "virvlar runt i luften",
+        "låter som när vinden blåser i ett träd"
       ]
     },
     {
-      "title": "LYFTANORDNINGAR",
+      "title": "BEDRÄGA",
       "words": [
-        "talja",
-        "vinsch"
+        "svindla",
+        "dupera"
       ],
-      "definition": "lyftanordning med lina och en eller flera trissor",
+      "definition": "lura, lura av",
       "word_definitions": [
-        "lyftanordning med en lina mellan två block",
-        "anordning som används för att lyfta eller fira ner last, spel"
+        "lurar",
+        "för bakom ljuset, lurar, bedrar"
       ]
     }
   ]

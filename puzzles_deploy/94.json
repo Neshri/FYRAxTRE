@@ -1,52 +1,52 @@
 {
-  "pivot": "mål",
+  "pivot": "om",
   "categories": [
     {
-      "title": "SYFTE OCH AVSIKT",
+      "title": "EN GÅNG TILL",
       "words": [
-        "syfte",
-        "avsikt"
+        "igen",
+        "åter"
       ],
-      "definition": "ändamål, syfte",
+      "definition": "på nytt, ännu en gång, om igen",
       "word_definitions": [
-        "avsikt, ändamål",
-        "syfte, mening"
+        "ännu en gång, åter",
+        "än en gång, igen, på nytt"
       ]
     },
     {
-      "title": "OLIKA MÅLTIDER",
+      "title": "VILLKORLIG KONJUNKTION",
       "words": [
-        "lunch",
-        "supé"
+        "ifall",
+        "såvitt"
       ],
-      "definition": "den mängd mat man äter vid ett visst tillfälle, måltid",
+      "definition": "ifall, såvida",
       "word_definitions": [
-        "(lättare) måltid mitt på dagen",
-        "(finare) måltid på kvällen"
+        "om, såvida",
+        "såvida, om"
       ]
     },
     {
-      "title": "JURIDISK PROCESS",
+      "title": "RUNT NÅGOT",
       "words": [
-        "process",
-        "rättegång"
+        "runt",
+        "kring"
       ],
-      "definition": "rättegång, process",
+      "definition": "omkring, runt",
       "word_definitions": [
-        "rättegång, mål",
-        "process inför domstol, mål"
+        "omkring",
+        "runtom"
       ]
     },
     {
-      "title": "FÖRMÅGA ATT TALA",
+      "title": "HANDLAR OM",
       "words": [
-        "tal",
-        "språk"
+        "angående",
+        "rörande"
       ],
-      "definition": "förmåga att tala; språk",
+      "definition": "angående, beträffande",
       "word_definitions": [
-        "det att tala; förmåga att tala",
-        "människans sätt att meddela sig genom tal och skrift"
+        "om, beträffande",
+        "angående, beträffande"
       ]
     }
   ]

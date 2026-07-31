@@ -1,52 +1,52 @@
 {
-  "pivot": "mask",
+  "pivot": "minne",
   "categories": [
     {
-      "title": "KRYPANDE DJUR",
+      "title": "MENTAL FÖRMÅGA",
       "words": [
-        "snigel",
-        "orm"
+        "lokalsinne",
+        "intelligens"
       ],
-      "definition": "ett litet djur som krälar och ofta håller till i jorden",
+      "definition": "förmåga att komma ihåg, (tänkt) plats för det man kommer ihåg",
       "word_definitions": [
-        "ett litet djur som krälar mycket långsamt på marken",
-        "en typ av kräldjur som rör sig med slingrande rörelser (ordningen Serpentes)"
+        "förmåga att hitta rätt på en plats eller i ett område där man inte varit förut",
+        "förmåga till tänkande och analys, begåvning"
       ]
     },
     {
-      "title": "SÄTT ATT DÖLJA ANSIKTET",
+      "title": "DATALAGRING",
       "words": [
-        "kamouflage",
-        "sminkning"
+        "hårddisk",
+        "cd"
       ],
-      "definition": "förklädnad för ansiktet",
+      "definition": "ställe för lagring av data i en dator",
       "word_definitions": [
-        "åtgärd för att dölja något; förklädnad",
-        "smink"
+        "skiva i en dator där information lagras",
+        "skiva som används för digital lagring av musik, bilder och text"
       ]
     },
     {
-      "title": "SKYDD OCH FÖRSVAR",
+      "title": "HÅGKOMST",
       "words": [
-        "beskydd",
-        "värn"
+        "åtanke",
+        "återblick"
       ],
-      "definition": "skydd",
+      "definition": "något man kommer ihåg, hågkomst",
       "word_definitions": [
-        "försvar, skydd",
-        "skydd, försvar"
+        "minne, hågkomst",
+        "skildring av något som hänt i det förflutna, tillbakablick"
       ]
     },
     {
-      "title": "ANSIKTSSKYDD",
+      "title": "MINNESFÖREMÅL",
       "words": [
-        "hjälm",
-        "solglasögon"
+        "souvenir",
+        "klenod"
       ],
-      "definition": "skydd för ansiktet",
+      "definition": "souvenir",
       "word_definitions": [
-        "skydd för huvudet",
-        "mörka glasögon som skyddar mot starkt solljus"
+        "föremål som man bevarar som minne (t.ex. från en resa)",
+        "dyrbart föremål"
       ]
     }
   ]

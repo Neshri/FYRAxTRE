@@ -1,52 +1,52 @@
 {
-  "pivot": "pipa",
+  "pivot": "plan",
   "categories": [
     {
-      "title": "RÖKNINGSTILLBEHÖR",
+      "title": "ARBETSPLANERING",
       "words": [
-        "tändare",
-        "askfat"
+        "program",
+        "instruktion"
       ],
-      "definition": "anordning för tobaksrökning; ihåligt rör avsett för rökning, ofta med en skål i ena änden, men ibland av mer avancerad konstruktion",
+      "definition": "anvisningar eller tankar om utformning av verksamhet",
       "word_definitions": [
-        "apparat som man kan tända något med",
-        "en sorts fat för cigarettfimpar och aska"
+        "plan eller översikt över hur något ska genomföras",
+        "anvisning om hur man ska göra något"
       ]
     },
     {
-      "title": "TRANSPORTRÖR",
+      "title": "OMRÅDESBILD",
       "words": [
-        "trumma",
-        "ledning"
+        "karta",
+        "ritning"
       ],
-      "definition": "avlångt, ihåligt föremål genom vilket något, till exempel luft eller annan gas färdas",
+      "definition": "bild över ett område",
       "word_definitions": [
-        "rörformig ledning (ofta för transport); ihålig cylinder",
-        "grupp som bestämmer; styrelse"
+        "starkt förminskad bild (med speciella symboler) av jordytan eller annat område",
+        "ritad plan (t.ex. för konstruktion av hus)"
       ]
     },
     {
-      "title": "DELAR AV ELDVAPEN",
+      "title": "HUSVÅNING",
       "words": [
-        "avtryckare",
-        "kolv"
+        "våning",
+        "etage"
       ],
-      "definition": "avlångt, ihåligt föremål på ett mindre eldvapen genom vilket en projektil färdas",
+      "definition": "våning",
       "word_definitions": [
-        "del av skjutvapen som man trycker på för att avlossa ett skott",
-        "rörlig del i en cylinder"
+        "plan i ett hus",
+        "våning, plan"
       ]
     },
     {
-      "title": "HÖGFREKVENTA LJUD",
+      "title": "LUFTFARTSDON",
       "words": [
-        "vina",
-        "gnissla"
+        "jumbojet",
+        "luftfarkost"
       ],
-      "definition": "ge ifrån sig ett högfrekvent ljud",
+      "definition": "flygplan",
       "word_definitions": [
-        "ger ifrån sig ett starkt men pipigt ljud",
-        "ger ifrån sig ett skarpt och skärande ljud"
+        "ett slags stort flygplan",
+        "farkost för transport genom luften"
       ]
     }
   ]

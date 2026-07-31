@@ -1,52 +1,52 @@
 {
-  "pivot": "driva",
+  "pivot": "dryg",
   "categories": [
     {
-      "title": "STÖRRE HÖG",
+      "title": "STORT MÅTT",
       "words": [
-        "stack",
-        "stapel"
+        "ymnig",
+        "generös"
       ],
-      "definition": "stor hög",
+      "definition": "riklig, rundlig (om tid, mått och vikt)",
       "word_definitions": [
-        "större hög",
-        "hög av staplat material, trave"
+        "överflödande, riklig",
+        "frikostig, rundhänt, givmild; storsint"
       ]
     },
     {
-      "title": "MÄNGD AV NÅGOT",
+      "title": "LÅNGVARIGT",
       "words": [
-        "lass",
-        "laddning"
+        "långvarig",
+        "hållbar"
       ],
-      "definition": "större ansamling av något, t.ex. snö",
+      "definition": "som räcker länge",
       "word_definitions": [
-        "last (på en kärra e.d.); stor mängd",
-        "(stor) mängd av något"
+        "som varar länge",
+        "som inte lätt förstörs"
       ]
     },
     {
-      "title": "VANDRA UTAN MÅL",
+      "title": "BESVÄRLIGT",
       "words": [
-        "strosa",
-        "ströva"
+        "jobbig",
+        "mödosam"
       ],
-      "definition": "röra sig utan mål",
+      "definition": "besvärlig, betungande",
       "word_definitions": [
-        "vandrar omkring utan mål",
-        "vandrar omkring utan mål"
+        "besvärlig",
+        "ansträngande, besvärlig"
       ]
     },
     {
-      "title": "FÖSA FRAMÅT",
+      "title": "HÖGFÄRDIGT",
       "words": [
-        "putta",
-        "knuffa"
+        "uppblåst",
+        "kaxig"
       ],
-      "definition": "föra; fösa",
+      "definition": "högfärdig, mallig",
       "word_definitions": [
-        "knuffar lätt",
-        "ger en knuff, stöter till"
+        "högfärdig, mallig",
+        "som försöker hävda sig, mallig, tuff"
       ]
     }
   ]

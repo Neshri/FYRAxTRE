@@ -1,52 +1,52 @@
 {
-  "pivot": "ton",
+  "pivot": "tunn",
   "categories": [
     {
-      "title": "MUSIKALISKA LJUD",
+      "title": "LITEN TJOCKLEK",
       "words": [
-        "bas",
-        "stämma"
+        "spinkig",
+        "fin"
       ],
-      "definition": "ljud av sångröst eller instrument i konstant läge på skalan",
+      "definition": "som har liten tjocklek, smal",
       "word_definitions": [
-        "(man med) sångröst i lågt tonläge",
-        "inslag för särskild röst eller särskilt instrument i ett musikverk"
+        "smal, mager (om person eller kroppsdel)",
+        "tunn, smal"
       ]
     },
     {
-      "title": "SÄTT ATT BETE SIG",
+      "title": "GLES FÖREKOMST",
       "words": [
-        "fason",
-        "uppförande"
+        "utspridd",
+        "gles"
       ],
-      "definition": "sätt att tala och uppträda",
+      "definition": "sparsamt förekommande, gles",
       "word_definitions": [
-        "uppträdande, (dåligt) uppförande",
-        "sätt att uppföra sig, beteende"
+        "inte samlad, gles",
+        "inte tät, utspridd"
       ]
     },
     {
-      "title": "FÄRGNYANSER",
+      "title": "UTSPÄDD VÄTSKA",
       "words": [
-        "nyans",
-        "kulör"
+        "urlakad",
+        "utspädd"
       ],
-      "definition": "färgnyans",
+      "definition": "vattnig, utspädd",
       "word_definitions": [
-        "färgton",
-        "färg"
+        "urvattnad",
+        "blandad med vatten"
       ]
     },
     {
-      "title": "VIKTMÅTT",
+      "title": "SACKNAR SUBSTANS",
       "words": [
-        "kilo",
-        "gram"
+        "tom",
+        "ytlig"
       ],
-      "definition": "ett viktmått (=1 000 kg)",
+      "definition": "som saknar substans",
       "word_definitions": [
-        "ett viktmått (=1 000 gram)",
-        "en måttenhet för vikt (1/1000 kilo)"
+        "som saknar innehåll",
+        "som inte går på djupet, flyktig"
       ]
     }
   ]

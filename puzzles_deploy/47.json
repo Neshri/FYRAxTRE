@@ -1,52 +1,52 @@
 {
-  "pivot": "föda",
+  "pivot": "går",
   "categories": [
     {
-      "title": "NÄRING OCH MAT",
+      "title": "FORFLYTTA SIG TILL FOTS",
       "words": [
-        "mat",
-        "kost"
+        "vandra",
+        "promenera"
       ],
-      "definition": "näring, mat",
+      "definition": "förflyttar sig till fots (utan att springa)",
       "word_definitions": [
-        "näringsämnen som man äter, föda",
-        "mat, föda"
+        "förflyttar sig",
+        "går (särskilt för nöjes skull), spatserar"
       ]
     },
     {
-      "title": "GE UPPHÖV TILL",
+      "title": "FUNGERA SOM TÄNKT",
       "words": [
-        "grundlägga",
-        "väcka"
+        "funka",
+        "verka"
       ],
-      "definition": "ge upphov till",
+      "definition": "fungerar; avlöper",
       "word_definitions": [
-        "inrättar; ger upphov till",
-        "ger upphov till, framkallar"
+        "fungerar",
+        "arbetar"
       ]
     },
     {
-      "title": "UTFODRA DJUR",
+      "title": "UTÖVA ETT SCENKONSTVERK",
       "words": [
-        "fodra",
-        "mata"
+        "spela",
+        "agera"
       ],
-      "definition": "utfodra",
+      "definition": "spelas",
       "word_definitions": [
-        "ger foder",
-        "ger mat eller foder åt"
+        "ägnar sig åt spel",
+        "spelar (rollen av)"
       ]
     },
     {
-      "title": "FÖRSÖRJA MED MAT",
+      "title": "HA PLATS FÖR",
       "words": [
-        "försörja",
-        "förse"
+        "innehålla",
+        "härbärgera"
       ],
-      "definition": "(om gårdar, landsändor, länder, och jorden) tillhandahålla mat till",
+      "definition": "får plats, ryms",
       "word_definitions": [
-        "ansvarar för uppehälle för",
-        "utrustar"
+        "har som innehåll, rymmer",
+        "ger plats åt"
       ]
     }
   ]

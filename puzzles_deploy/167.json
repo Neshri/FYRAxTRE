@@ -1,52 +1,52 @@
 {
-  "pivot": "utgår",
+  "pivot": "vid",
   "categories": [
     {
-      "title": "BÖRJA NÅGOT",
+      "title": "STOR UTSTRÄCKNING",
       "words": [
-        "inleda",
-        "börja"
+        "bred",
+        "rymlig"
       ],
-      "definition": "startar",
+      "definition": "som har stor omkrets eller stor utbredning",
       "word_definitions": [
-        "påbörjar, startar",
-        "startar, inleder, sätter igång"
+        "stor, omfattande; mångsidig",
+        "som rymmer mycket, stor, vid"
       ]
     },
     {
-      "title": "SÄTTA SOM FÖRUTSÄTTNING",
+      "title": "NÄRA NÅGOT",
       "words": [
-        "underförstå",
-        "grunda"
+        "intill",
+        "jämte"
       ],
-      "definition": "har som utgångspunkt, förutsätter",
+      "definition": "bredvid, intill",
       "word_definitions": [
-        "förutsätter utan att säga",
-        "har som grund för, stöder"
+        "bredvid, invid",
+        "bredvid"
       ]
     },
     {
-      "title": "TA BORT",
+      "title": "UNGEFÄRLIGT",
       "words": [
-        "exkludera",
-        "stryka"
+        "cirka",
+        "ungefär"
       ],
-      "definition": "stryks, utesluts",
+      "definition": "omkring, ungefär; i samband med",
       "word_definitions": [
-        "utesluter",
-        "drar ett streck över, tar bort, utelämnar"
+        "ungefär, omkring",
+        "omkring, cirka"
       ]
     },
     {
-      "title": "BETALA PENGAR",
+      "title": "GÄLLENDE NÅGOT",
       "words": [
-        "erlägga",
-        "bekosta"
+        "beträffande",
+        "angående"
       ],
-      "definition": "betalas ut",
+      "definition": "med avseende på, när det gäller, ifråga om",
       "word_definitions": [
-        "betalar",
-        "betalar för"
+        "i fråga om, angående",
+        "om, beträffande"
       ]
     }
   ]

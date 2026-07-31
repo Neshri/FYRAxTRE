@@ -1,52 +1,52 @@
 {
-  "pivot": "vara",
+  "pivot": "väg",
   "categories": [
     {
-      "title": "UTSÖNDRA VÄTSKA",
+      "title": "VÄGTYPER",
       "words": [
-        "avsöndra",
-        "läcka"
+        "aveny",
+        "stig"
       ],
-      "definition": "utsöndra var",
+      "definition": "långt, smalt stycke (belagd) mark som man kan färdas på med fordon, gata",
       "word_definitions": [
-        "ger ifrån sig, avger",
-        "har en läcka; rinner ut"
+        "bred gata (ofta med träd), boulevard",
+        "smal gångväg (ofta i skogen)"
       ]
     },
     {
-      "title": "SPELA ROLL",
+      "title": "AVSTÅNDSMÅTT",
       "words": [
-        "agera",
-        "spela"
+        "distans",
+        "sträcka"
       ],
-      "definition": "ha eller spela en viss roll i en lek, t.ex. vara den som letar i kurragömma",
+      "definition": "resa; avstånd, distans",
       "word_definitions": [
-        "spelar (rollen av)",
-        "uppför en viss teaterpjäs, agerar i en teaterpjäs eller film"
+        "avstånd, sträcka",
+        "stycke väg, avstånd"
       ]
     },
     {
-      "title": "VÅRD OCH FÖRVARING",
+      "title": "RUTTER OCH BANOR",
       "words": [
-        "förvaring",
-        "skötsel"
+        "bana",
+        "stråk"
       ],
-      "definition": "vård, förvar",
+      "definition": "färdriktning, färdväg",
       "word_definitions": [
-        "förvar",
-        "vård"
+        "färdväg",
+        "väg"
       ]
     },
     {
-      "title": "FÖREMÅL",
+      "title": "METODER OCH SÄTT",
       "words": [
-        "sak",
-        "objekt"
+        "medel",
+        "metod"
       ],
-      "definition": "föremål som köps eller säljs, artikel",
+      "definition": "sätt, metod",
       "word_definitions": [
-        "föremål",
-        "föremål"
+        "sätt, metod",
+        "(systematiskt) sätt att utföra något"
       ]
     }
   ]

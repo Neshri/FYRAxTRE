@@ -1,52 +1,52 @@
 {
-  "pivot": "stämmer",
+  "pivot": "sänka",
   "categories": [
     {
-      "title": "VARA KORREKT",
+      "title": "GEOGRAFISKA DALAR",
       "words": [
-        "korrespondera",
-        "sammanfalla"
+        "dal",
+        "klyfta"
       ],
-      "definition": "är korrekt",
+      "definition": "dal, dalgång",
       "word_definitions": [
-        "brevväxla, stå i förbindelse med",
-        "stämmer överens; inträffar samtidigt"
+        "långsmalt, lägre område mellan två höjder, sänka",
+        "spricka"
       ]
     },
     {
-      "title": "JUSTERA INSTRUMENT",
+      "title": "MEDICINSKA PROV",
       "words": [
-        "justera",
-        "intonera"
+        "blodprov",
+        "biopsi"
       ],
-      "definition": "justerar tonhöjder (på instrument)",
+      "definition": "ett slags blodprov",
       "word_definitions": [
-        "avhjälper mindre fel hos, rättar till",
-        "ange ton"
+        "prov av blod för medicinsk undersökning",
+        "(tagning av ett) vävnadsprov"
       ]
     },
     {
-      "title": "DRAGA INFÖR RÄTT",
+      "title": "MINSKA INTENSITET",
       "words": [
-        "åtala",
-        "processa"
+        "minska",
+        "reducera"
       ],
-      "definition": "drar inför domstol",
+      "definition": "minska omfattningen/storleken av (styrka, intensitet, frekvens et c. hos)",
       "word_definitions": [
-        "anklagar inför domstol",
-        "driver en rättegång (mot någon)"
+        "gör mindre, reducerar",
+        "minskar"
       ]
     },
     {
-      "title": "AVTALA MÖTE",
+      "title": "GÖRA MÅL",
       "words": [
-        "överenskomma",
-        "boka"
+        "sätta",
+        "träffa"
       ],
-      "definition": "avtalar (möte)",
+      "definition": "sätta (bollen) (ned i mål)",
       "word_definitions": [
-        "bestämmer något tillsammans, kommer överens",
-        "beställer"
+        "placerar",
+        "prickar med ett skott"
       ]
     }
   ]

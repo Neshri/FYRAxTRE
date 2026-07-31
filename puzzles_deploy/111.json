@@ -1,52 +1,52 @@
 {
-  "pivot": "rad",
+  "pivot": "resa",
   "categories": [
     {
-      "title": "LINJÄR UPPSTÄLLNING",
+      "title": "FÖRFLYTTA SIG",
       "words": [
-        "kavalkad",
-        "fil"
+        "färdas",
+        "vandra"
       ],
-      "definition": "uppställning av saker bredvid (eller bakom) varandra",
+      "definition": "(kanske till fots men vanligtvis medelst en följd av höghastighetsfordon) förflytta sig från en plats till en annan (med ett så stort avstånd mellan platserna att det tar förhållandevis lång tid)",
       "word_definitions": [
-        "lång rad av föremål eller händelser (som passerar förbi)",
-        "ett verktyg av stål som används för att slipa ytor jämna"
+        "reser, tar sig fram",
+        "går till fots"
       ]
     },
     {
-      "title": "OLIKASORTA SERIER",
+      "title": "GÖRA UPRÄTT",
       "words": [
-        "division",
-        "kollektion"
+        "ställa",
+        "lyfta"
       ],
-      "definition": "serie",
+      "definition": "höja upp (från ett liggande) till (mer) upprätt läge",
       "word_definitions": [
-        "klass i seriesystem",
-        "samling"
+        "placerar upprätt eller stående; placerar",
+        "för till en högre nivå, för uppåt"
       ]
     },
     {
-      "title": "SKRIVEN TEXTFÖLJD",
+      "title": "SKAPA HINDER",
       "words": [
-        "lösenord",
-        "mening"
+        "hindra",
+        "motarbeta"
       ],
-      "definition": "vågrätt följd av skrivna bokstäver",
+      "definition": "lägga hinder eller svårigheter i vägen",
       "word_definitions": [
-        "följd av bokstäver eller siffror som man måste ange för att komma in någonstans (t.ex. på en dator), kod",
-        "åsikt, uppfattning"
+        "utgör hinder för",
+        "lägger hinder i vägen för, bekämpar"
       ]
     },
     {
-      "title": "SITTPLATSER PÅ TEATER",
+      "title": "STÄLLA KRAV",
       "words": [
-        "loge",
-        "läktare"
+        "kräva",
+        "yrka"
       ],
-      "definition": "sittplatser på samma avstånd från scenen (på teater e.d.)",
+      "definition": "framföra krav, anspråk e.d.",
       "word_definitions": [
-        "omklädningsrum på teater; avgränsat utrymme med sittplatser på teater",
-        "upphöjd plats för åskådare eller åhörare"
+        "framför som krav, fordrar",
+        "begär, kräver"
       ]
     }
   ]

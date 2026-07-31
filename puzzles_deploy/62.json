@@ -1,52 +1,52 @@
 {
-  "pivot": "klen",
+  "pivot": "klubba",
   "categories": [
     {
-      "title": "SPÄD FORM",
+      "title": "BESLUTA OFFICIELLT",
       "words": [
-        "skir",
-        "spenslig"
+        "fastställa",
+        "utropa"
       ],
-      "definition": "tunn, späd",
+      "definition": "genom slag med klubba förklara och fastslå (beslut) eller, vid auktion, utse en viss köpare",
       "word_definitions": [
-        "späd, tunn",
-        "smal, tunn (om kroppsbyggnad eller person)"
+        "bestämmer, föreskriver; konstaterar",
+        "bjuder ut till försäljning på auktion, ropar ut"
       ]
     },
     {
-      "title": "ÖMTÅLIG HÄLSA",
+      "title": "NÄRSTRIDSVAPEN",
       "words": [
-        "sjåpig",
-        "delikat"
+        "batong",
+        "spjut"
       ],
-      "definition": "sjuk, ömtålig",
+      "definition": "redskap i form av en kraftig påk avsett som närstridsvapen",
       "word_definitions": [
-        "rädd, ömtålig",
-        "ömtålig, känslig"
+        "en sorts stav (ofta av hårt gummi) som används som vapen (särskilt av polisen)",
+        "ett vapen eller idrottsredskap i form av en vass stång som stöts eller kastas"
       ]
     },
     {
-      "title": "BRIST PÅ KRAFT",
+      "title": "SLÅ MED VERKTYG",
       "words": [
-        "skraltig",
-        "kraftlös"
+        "knacka",
+        "hamra"
       ],
-      "definition": "svag",
+      "definition": "slå med klubba",
       "word_definitions": [
-        "svag och dålig",
-        "som saknar kraft, svag"
+        "slår med korta upprepade slag",
+        "slår med hammare, bankar, bultar, dunkar"
       ]
     },
     {
-      "title": "OBETYDLIG STORLEK",
+      "title": "SÖTSAKER",
       "words": [
-        "ringa",
-        "blygsam"
+        "karamell",
+        "gott"
       ],
-      "definition": "svag, obetydlig",
+      "definition": "pinne med godis att slicka eller suga på",
       "word_definitions": [
-        "liten, obetydlig",
-        "liten, obetydlig"
+        "liten bit godis, (hård) sötsak",
+        "karameller, choklad etc., godis"
       ]
     }
   ]

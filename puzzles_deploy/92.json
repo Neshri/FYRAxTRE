@@ -1,52 +1,52 @@
 {
-  "pivot": "minne",
+  "pivot": "mål",
   "categories": [
     {
-      "title": "MENTAL FÖRMÅGA",
+      "title": "SYFTE OCH AVSIKT",
       "words": [
-        "lokalsinne",
-        "intelligens"
+        "syfte",
+        "avsikt"
       ],
-      "definition": "förmåga att komma ihåg, (tänkt) plats för det man kommer ihåg",
+      "definition": "ändamål, syfte",
       "word_definitions": [
-        "förmåga att hitta rätt på en plats eller i ett område där man inte varit förut",
-        "förmåga till tänkande och analys, begåvning"
+        "avsikt, ändamål",
+        "syfte, mening"
       ]
     },
     {
-      "title": "DATALAGRING",
+      "title": "OLIKA MÅLTIDER",
       "words": [
-        "hårddisk",
-        "databas"
+        "lunch",
+        "supé"
       ],
-      "definition": "ställe för lagring av data i en dator",
+      "definition": "den mängd mat man äter vid ett visst tillfälle, måltid",
       "word_definitions": [
-        "skiva i en dator där information lagras",
-        "ordnad samling av uppgifter i en dator eller på en server"
+        "(lättare) måltid mitt på dagen",
+        "(finare) måltid på kvällen"
       ]
     },
     {
-      "title": "HÅGKOMST",
+      "title": "JURIDISK PROCESS",
       "words": [
-        "åtanke",
-        "upplevelse"
+        "process",
+        "rättegång"
       ],
-      "definition": "något man kommer ihåg, hågkomst",
+      "definition": "rättegång, process",
       "word_definitions": [
-        "minne, hågkomst",
-        "något (minnesvärt) som man upplever eller har upplevt"
+        "rättegång, mål",
+        "process inför domstol, mål"
       ]
     },
     {
-      "title": "MINNESFÖREMÅL",
+      "title": "SPRÅKLIG FÖRMÅGA",
       "words": [
-        "souvenir",
-        "present"
+        "tal",
+        "språk"
       ],
-      "definition": "souvenir",
+      "definition": "förmåga att tala; språk",
       "word_definitions": [
-        "föremål som man bevarar som minne (t.ex. från en resa)",
-        "gåva (särskilt vid ett bestämt tillfälle)"
+        "det att tala; förmåga att tala",
+        "människans sätt att meddela sig genom tal och skrift"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "komma",
+  "pivot": "land",
   "categories": [
     {
-      "title": "TECKEN I TEXT",
+      "title": "STORA LANDMASSOR",
       "words": [
-        "frågetecken",
-        "utropstecken"
+        "kontinent",
+        "världsdel"
       ],
-      "definition": "skiljetecknet ,",
+      "definition": "fastland",
       "word_definitions": [
-        "skiljetecknet ?",
-        "skiljetecknet !"
+        "världsdel, stort fastland (särskilt Europas fastland, till skillnad från t.ex. Norden)",
+        "stor, avgränsad del av jorden, kontinent (Europa, Afrika, Asien etc.)"
       ]
     },
     {
-      "title": "INTRÄFFA OVÄNTAT",
+      "title": "OMRÅDEN PÅ LANDSBYGDEN",
       "words": [
-        "ske",
-        "tillstöta"
+        "bygd",
+        "trakt"
       ],
-      "definition": "kunna förutses inträffa eller råka i tillståndet (som framgår av sammanhanget)",
+      "definition": "landsbygd",
       "word_definitions": [
-        "äger rum, händer, inträffar",
-        "inträffar (oväntat)"
+        "område i landsorten där folk bor, trakt",
+        "geografiskt område (särskilt på landet)"
       ]
     },
     {
-      "title": "BLI FRISK",
+      "title": "STATLIGA ENHETER",
       "words": [
-        "tillfriskna",
-        "läka"
+        "rike",
+        "välde"
       ],
-      "definition": "tillfriskna",
+      "definition": "stat, rike",
       "word_definitions": [
-        "blir frisk igen, frisknar till",
-        "botar"
+        "land, stat",
+        "statsmakt, (stort) rike"
       ]
     },
     {
-      "title": "ORSAKSMÄSSIGT SAMMANHANG",
+      "title": "ODLADE JORDSTYCKEN",
       "words": [
-        "sammanhänga",
-        "föranleda"
+        "åker",
+        "kolonilott"
       ],
-      "definition": "ske; hänga samman orsaksmässigt",
+      "definition": "odlat stycke jord",
       "word_definitions": [
-        "har att göra med, hänger ihop, hänger samman",
-        "leder till, orsakar"
+        "jord som man odlar på",
+        "stycke jord som arrenderas ut (av kommunen) för odling i liten skala"
       ]
     }
   ]

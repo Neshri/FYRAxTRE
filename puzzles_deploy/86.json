@@ -1,52 +1,52 @@
 {
-  "pivot": "lyder",
+  "pivot": "mark",
   "categories": [
     {
-      "title": "LYDA ORDER",
+      "title": "OBEBYGDA LANDOMRÅDEN",
       "words": [
-        "följa",
-        "underkasta"
+        "obygd",
+        "slätt"
       ],
-      "definition": "gör som man blir tillsagd",
+      "definition": "obebyggt landområde, terräng",
       "word_definitions": [
-        "går efter",
-        "låta genomgå"
+        "obebyggd trakt, ödemark",
+        "större område med plan mark (utan många träd)"
       ]
     },
     {
-      "title": "HÖRA TILL",
+      "title": "ÄGDA FASTIGHETER",
       "words": [
-        "tillhöra",
-        "underordna"
+        "fastighet",
+        "egendom"
       ],
-      "definition": "hör till, sorterar (under)",
+      "definition": "ägt landområde, ägor",
       "word_definitions": [
-        "har som ägare, ägs av",
-        "låter bli beroende av"
+        "ett markområde, ofta med en byggnad; fast egendom",
+        "tillhörighet, ägodel"
       ]
     },
     {
-      "title": "TEXTENS UTFORMNING",
+      "title": "JORDENS YTA",
       "words": [
-        "formulera",
-        "skrivas"
+        "jordskorpa",
+        "yta"
       ],
-      "definition": "har en viss lydelse",
+      "definition": "jordens yta",
       "word_definitions": [
-        "uttrycker, utformar",
-        "kommunicera, ofta via brev"
+        "det yttre, hårda lagret på jordklotet",
+        "sida som syns utåt, yttersta lager"
       ]
     },
     {
-      "title": "SUMMAN BLIR",
+      "title": "VALUTOR",
       "words": [
-        "utgöra",
-        "vara"
+        "krona",
+        "euro"
       ],
-      "definition": "uppgår till, är",
+      "definition": "en äldre valuta (före euron) i Tyskland och Finland",
       "word_definitions": [
-        "fungerar som, är; uppgår till (en viss summa)",
-        "befinner sig, finns"
+        "valutan i Sverige (och vissa andra nordiska länder)",
+        "den gemensamma valutan för många länder i EU"
       ]
     }
   ]

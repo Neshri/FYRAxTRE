@@ -1,52 +1,52 @@
 {
-  "pivot": "ren",
+  "pivot": "rätt",
   "categories": [
     {
-      "title": "RENHET",
+      "title": "EN MATPORTION",
       "words": [
-        "obefläckad",
-        "hygienisk"
+        "portion",
+        "matbit"
       ],
-      "definition": "inte smutsig, fläckfri",
+      "definition": "portion med mat",
       "word_definitions": [
-        "ren; fläckfri",
-        "som har att göra med hygien; renlig"
+        "mängd mat för en person",
+        "(ganska liten) portion mat"
       ]
     },
     {
-      "title": "FULLSTÄNDIG",
+      "title": "GRADAVVISANDE ORD",
       "words": [
-        "absolut",
-        "total"
+        "tämligen",
+        "någorlunda"
       ],
-      "definition": "oförfalskad, äkta; fullständig, total",
+      "definition": "ganska",
       "word_definitions": [
-        "fullständigt, helt; ovillkorligt",
-        "i sin helhet, fullständig; sammanlagd"
+        "ganska",
+        "tämligen, ganska"
       ]
     },
     {
-      "title": "HJORTDJUR",
+      "title": "RAKT OCH DIREKT",
       "words": [
-        "rådjur",
-        "dovhjort"
+        "tvärs",
+        "direkt"
       ],
-      "definition": "ett (i viss mån tamt) hjortdjur som lever långt norrut (Rangifer tarandus)",
+      "definition": "utan vidare, rakt",
       "word_definitions": [
-        "ett hjortdjur med ljusbrun päls (Capreolus capreolus)",
-        "en brun hjort som får vita fläckar på sommaren (Cervus dama)"
+        "på tvären; mitt, rakt",
+        "utan omväg, rak, omedelbar"
       ]
     },
     {
-      "title": "VÄGKANTEN",
+      "title": "LAGLIG RÄTTIGHET",
       "words": [
-        "bank",
-        "dike"
+        "befogenhet",
+        "privilegium"
       ],
-      "definition": "kant vid väg eller åker",
+      "definition": "rättighet",
       "word_definitions": [
-        "underlag för väg eller järnväg, vall",
-        "grävd ränna i marken (ofta på båda sidor av en väg)"
+        "rättighet; behörighet",
+        "förmån"
       ]
     }
   ]

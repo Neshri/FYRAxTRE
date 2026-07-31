@@ -1,52 +1,52 @@
 {
-  "pivot": "drar",
+  "pivot": "drift",
   "categories": [
     {
-      "title": "DRA I NÅGOT",
+      "title": "SKÖTSEL AV VERKSAMHET",
       "words": [
-        "rycka",
-        "slita"
+        "verksamhet",
+        "förvaltning"
       ],
-      "definition": "för till sig med handen",
+      "definition": "skötsel (t.ex. av en anläggning eller ett företag)",
       "word_definitions": [
-        "drar hastigt ur sitt läge",
-        "nöter"
+        "fortlöpande sysselsättning, arbete",
+        "administration"
       ]
     },
     {
-      "title": "FÖRFLYTTA SIG",
+      "title": "INRE DRIVKRAFT",
       "words": [
-        "vandra",
-        "åka"
+        "hunger",
+        "drivkraft"
       ],
-      "definition": "förflyttar sig",
+      "definition": "instinkt, begär",
       "word_definitions": [
-        "förflyttar sig",
-        "förflyttas, faller"
+        "begär, längtan",
+        "omständighet som inspirerar till hårdare arbete"
       ]
     },
     {
-      "title": "SKAPA BILD",
+      "title": "FÖRLÖJLIGANDE",
       "words": [
-        "teckna",
-        "rita"
+        "hån",
+        "löje"
       ],
-      "definition": "ritar, tecknar",
+      "definition": "skämt, förlöjligande",
       "word_definitions": [
-        "gör teckningar, ritar",
-        "skapar en bild med penna e.d."
+        "elak kritik, förlöjligande",
+        "hånfull munterhet"
       ]
     },
     {
-      "title": "LUFTRÖRELSE",
+      "title": "DÅLIGA VANOR",
       "words": [
-        "blåsa",
-        "fläkta"
+        "olater",
+        "last"
       ],
-      "definition": "blåser, fläktar",
+      "definition": "dåligt sällskap, dåliga vanor",
       "word_definitions": [
-        "rör sig (om luft), fläktar",
-        "blåser lätt"
+        "dåliga vanor",
+        "dålig vana"
       ]
     }
   ]

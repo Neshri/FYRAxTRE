@@ -1,52 +1,52 @@
 {
-  "pivot": "lur",
+  "pivot": "man",
   "categories": [
     {
-      "title": "BLÅSINSTRUMENT",
+      "title": "MANLIG PERSON",
       "words": [
-        "flöjt",
-        "saxofon"
+        "kille",
+        "gubbe"
       ],
-      "definition": "ett blåsinstrument",
+      "definition": "vuxen person av hankön",
       "word_definitions": [
-        "ett blåsinstrument",
-        "ett blåsinstrument"
+        "pojke",
+        "gammal man, gamling"
       ]
     },
     {
-      "title": "KORT SÖMN",
+      "title": "GRUPPMEDLEM",
       "words": [
-        "slummer",
-        "dvala"
+        "medlem",
+        "deltagare"
       ],
-      "definition": "en stunds sömn",
+      "definition": "medlem i en grupp (särskilt en trupp, ett lag etc.)",
       "word_definitions": [
-        "lätt (och kort) sömn, lur",
-        "slummer, sömn"
+        "person som tillhör en organisation eller en förening",
+        "person som medverkar (i en aktivitet)"
       ]
     },
     {
-      "title": "VAKTHÅLNING",
+      "title": "ÄKTA MAKE",
       "words": [
-        "vakt",
-        "bakhåll"
+        "make",
+        "gemål"
       ],
-      "definition": "i uttrycket ligga på lur: ligga på vakt, lurpassa",
+      "definition": "make",
       "word_definitions": [
-        "handlingen att vakta, vakthållning",
-        "gömställe där ett anfall förbereds, fälla"
+        "äkta man",
+        "maka eller make (särskilt till kunglig person)"
       ]
     },
     {
-      "title": "BEDRÄGERI OCH SKÄMT",
+      "title": "DJURHÅR",
       "words": [
-        "bluff",
-        "spratt"
+        "ragg",
+        "tagel"
       ],
-      "definition": "i uttrycket det är bara lur: att luras, skämta; lurendrejeri",
+      "definition": "långt hår i nacken på häst eller lejon",
       "word_definitions": [
-        "försök att luras, skoj, bedrägeri",
-        "skämt för att lura någon"
+        "strävt hår på vissa djur",
+        "hår från en häst (särskilt från svansen)"
       ]
     }
   ]

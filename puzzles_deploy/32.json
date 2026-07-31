@@ -1,52 +1,52 @@
 {
-  "pivot": "figur",
+  "pivot": "form",
   "categories": [
     {
-      "title": "KROPPSLIG FORM",
+      "title": "TYPER AV BEHÅLLARE",
       "words": [
-        "fysik",
-        "kroppsbyggnad"
+        "kärl",
+        "kar"
       ],
-      "definition": "gestalt, kroppsform",
+      "definition": "behållare (för t.ex. gjutning och bakning)",
       "word_definitions": [
-        "kroppslig form, konstitution",
-        "kroppens utseende, figur"
+        "mindre behållare som används i hushållet",
+        "stor öppen behållare för vatten (eller annan vätska)"
       ]
     },
     {
-      "title": "PERSONLIGA EGENSKAPER",
+      "title": "KATEGORI ELLER SORT",
       "words": [
-        "personlighet",
-        "karaktär"
+        "slag",
+        "sort"
       ],
-      "definition": "personlighet, karaktär",
+      "definition": "typ, sort",
       "word_definitions": [
-        "sammanfattande (unika) egenskaper hos en person",
-        "personliga egenskaper; moralisk styrka"
+        "sort, typ",
+        "slag, typ"
       ]
     },
     {
-      "title": "SCHACKPJÄSER",
+      "title": "FYSISK KONDITION",
       "words": [
-        "löpare",
-        "springare"
+        "kondition",
+        "prestation"
       ],
-      "definition": "pjäs (t.ex. i schack)",
+      "definition": "fysiskt tillstånd, förmåga att nå bra (idrotts)resultat",
       "word_definitions": [
-        "en pjäs i schack",
-        "en schackpjäs, häst"
+        "fysisk och psykisk hälsa; uthållighet",
+        "det som någon presterar (särskilt om något bra som åstadkommits)"
       ]
     },
     {
-      "title": "GRAFISKA ELEMENT",
+      "title": "GRAMMATISK FORM",
       "words": [
-        "illustration",
-        "diagram"
+        "böjning",
+        "tempus"
       ],
-      "definition": "grafisk illustration, bild (i text)",
+      "definition": "ett ords utseende när det böjs",
       "word_definitions": [
-        "bild",
-        "grafisk figur som illustrerar fakta som kan uttryckas med siffror"
+        "de olika former som ett ord kan uppträda i",
+        "böjningsform hos verb som har att göra med tiden (presens och imperfekt)"
       ]
     }
   ]

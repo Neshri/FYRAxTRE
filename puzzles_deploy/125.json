@@ -1,52 +1,52 @@
 {
-  "pivot": "skala",
+  "pivot": "skiva",
   "categories": [
     {
-      "title": "MUSIKALISKA TONARTER",
+      "title": "FESTLIGT TILLFÄLLE",
       "words": [
-        "dur",
-        "moll"
+        "partaj",
+        "samkväm"
       ],
-      "definition": "ordnad följd av toner i viss tonart",
+      "definition": "fest",
       "word_definitions": [
-        "en typ av tonart med helt tonsteg mellan andra och tredje tonen i skalan (uppfattas ofta som glad)",
-        "en grupp tonarter med ett litet tonsteg mellan andra och tredje tonen i skalan (som ofta uppfattas som sorgsna)"
+        "party",
+        "enklare fest"
       ]
     },
     {
-      "title": "MÄTINSTRUMENT",
+      "title": "MUSIKBÄRARE",
       "words": [
-        "mätare",
-        "tumstock"
+        "stenkaka",
+        "cd"
       ],
-      "definition": "graderad anordning att mäta något med",
+      "definition": "grammofonskiva eller cd-skiva",
       "word_definitions": [
-        "apparat som mäter något",
-        "ett mätverktyg som kan fällas ihop"
+        "gammal grammofonskiva",
+        "cd-spelare"
       ]
     },
     {
-      "title": "MÄTNINGSNIVÅER",
+      "title": "RYGGENS BROSK",
       "words": [
-        "nivå",
-        "grad"
+        "disk",
+        "menisk"
       ],
-      "definition": "ordnad följd av värden i informella måttenheter",
+      "definition": "platta av brosk mellan kotorna i ryggraden",
       "word_definitions": [
-        "läge i höjdled",
-        "en måttenhet för vinklar"
+        "en sorts platta mellan ryggradens kotor",
+        "en sorts skiva av brosk i knäleden"
       ]
     },
     {
-      "title": "FÄRGSPEKTRUM",
+      "title": "RUNDA FÖREMÅL",
       "words": [
-        "spektrum",
-        "nyans"
+        "ring",
+        "tallrik"
       ],
-      "definition": "färgskala",
+      "definition": "platt föremål, eller föremål som förefaller platt, ofta cirkelformat och/eller roterande",
       "word_definitions": [
-        "ljusets färgskala",
-        "färgton"
+        "(föremål med) form som liknar en cirkel",
+        "(mindre) fat där maten till en person läggs upp, fat"
       ]
     }
   ]

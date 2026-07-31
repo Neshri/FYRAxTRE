@@ -1,52 +1,52 @@
 {
-  "pivot": "få",
+  "pivot": "för",
   "categories": [
     {
-      "title": "LITE ANTAL",
+      "title": "I HÖG GRAD",
       "words": [
-        "några",
-        "vissa"
+        "omåttligt",
+        "utomordentligt"
       ],
-      "definition": "inte många",
+      "definition": "i väl hög grad, alltför",
       "word_definitions": [
-        "plural av någon",
-        "somliga, inte alla"
+        "oerhört, mycket",
+        "mycket, ytterst"
       ]
     },
     {
-      "title": "TA EMOT",
+      "title": "ORSAKSLIG KONJUNKTION",
       "words": [
-        "motta",
-        "erhålla"
+        "eftersom",
+        "då"
       ],
-      "definition": "erhålla, motta, bekomma, vinna; bli given",
+      "definition": "ty",
       "word_definitions": [
-        "välkomnar, tar emot",
-        "tar emot, får"
+        "därför att, emedan",
+        "när"
       ]
     },
     {
-      "title": "VARA TVUNGEN",
+      "title": "MED HJÄLP AV",
       "words": [
-        "måste",
-        "behöva"
+        "genom",
+        "medelst"
       ],
-      "definition": "tillåtas eller måste",
+      "definition": "med hjälp av",
       "word_definitions": [
-        "indikerar att det finns ett krav på att subjektet i meningen ska göra något; uttrycker nödvändighet",
-        "har behov av"
+        "med hjälp av, med",
+        "med hjälp av, genom"
       ]
     },
     {
-      "title": "DRAS MED SJUKDOM",
+      "title": "BÅTENS FRONT",
       "words": [
-        "insjukna",
-        "smitta"
+        "bog",
+        "stäv"
       ],
-      "definition": "bli sjuk; dra på sig en sjukdom",
+      "definition": "främre delen av en båt",
       "word_definitions": [
-        "blir sjuk",
-        "sprider sjukdom till andra"
+        "främsta delen (fören) på en båt",
+        "ett fartygs för eller akter"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "intresse",
+  "pivot": "klippa",
   "categories": [
     {
-      "title": "KÄNSLA AV LUST",
+      "title": "KARG NATUR",
       "words": [
-        "klåda",
-        "håg"
+        "öken",
+        "hed"
       ],
-      "definition": "lust att ägna något sin uppmärksamhet",
+      "definition": "berg utan växtlighet",
       "word_definitions": [
-        "lust att göra något",
-        "lust"
+        "område med mycket torrt klimat och mycket sparsam växtlighet",
+        "slättmark utan träd"
       ]
     },
     {
-      "title": "FRITIDSYSSELSÄTTNING",
+      "title": "TA BORT HÅR",
       "words": [
-        "sysselsättning",
-        "hemslöjd"
+        "raka",
+        "plocka"
       ],
-      "definition": "något man gärna sysslar med, hobby",
+      "definition": "ta bort hår från (oftast med sax)",
       "word_definitions": [
-        "handlingen att sysselsätta sig med något, arbete",
-        "hantverksmässig tillverkning av praktiska föremål (användbara i hemmet)"
+        "skär bort skägg eller hår",
+        "rycker loss hår eller fjädrar från"
       ]
     },
     {
-      "title": "ATTRAKTIONSKRAFT",
+      "title": "FILMPRODUKTION",
       "words": [
-        "lockelse",
-        "utstrålning"
+        "montera",
+        "redigera"
       ],
-      "definition": "förmåga att fånga uppmärksamhet",
+      "definition": "sammanfoga olika delar av en film eller ett ljudband för att framställa en enhet; speciellt bestämma sig för var en viss scen eller ett visst inslag ska avslutas",
       "word_definitions": [
-        "(något som har) förmåga att dra till sig intresse eller väcka begär",
-        "förmåga (hos en person) att göra ett starkt intryck, karisma"
+        "sätter ihop (delar till ett helt); installerar",
+        "bearbetar formen i text, film e.d."
       ]
     },
     {
-      "title": "PERSONLIG VINNING",
+      "title": "GRIPA BROTTSLING",
       "words": [
-        "nytta",
-        "fördel"
+        "gripa",
+        "arrestera"
       ],
-      "definition": "något som man kan ha fördel av, engagemang",
+      "definition": "gripa (kriminell)",
       "word_definitions": [
-        "något som har god effekt, fördel",
-        "det som gynnar någon, positiv egenskap"
+        "tar fast, fångar, häktar",
+        "griper, anhåller"
       ]
     }
   ]

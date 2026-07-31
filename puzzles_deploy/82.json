@@ -1,52 +1,52 @@
 {
-  "pivot": "ljus",
+  "pivot": "lätt",
   "categories": [
     {
-      "title": "STARK BELYSNING",
+      "title": "BEKYMMERSLÖS",
       "words": [
-        "klar",
-        "strålande"
+        "sorglös",
+        "avslappnad"
       ],
-      "definition": "som ger ifrån sig mycket ljus; upplyst",
+      "definition": "obekymrad",
       "word_definitions": [
-        "ljus, lysande, genomskinlig",
-        "mycket bra, utomordentlig"
+        "bekymmerslös, glad",
+        "lugn, avspänd"
       ]
     },
     {
-      "title": "POSITIV INSTÄLLNING",
+      "title": "ENKELT OCH RAKT",
       "words": [
-        "optimistisk",
-        "hoppfull"
+        "enkel",
+        "okomplicerad"
       ],
-      "definition": "hoppfull",
+      "definition": "enkel, okomplicerad",
       "word_definitions": [
-        "präglad av optimism, hoppfull",
-        "som har gott hopp, optimistisk"
+        "lätt att förstå, okomplicerad",
+        "inte komplicerad, enkel"
       ]
     },
     {
-      "title": "LJUSFENOMEN",
+      "title": "OBETYDLIG",
       "words": [
-        "glans",
-        "glitter"
+        "ringa",
+        "marginell"
       ],
-      "definition": "vågrörelse som gör att man kan se, sken",
+      "definition": "obetydlig",
       "word_definitions": [
-        "skimmer, sken",
-        "ljus med snabbt växlande sken"
+        "liten, obetydlig",
+        "inte viktig, obetydlig"
       ]
     },
     {
-      "title": "LJUSKÄLLOR",
+      "title": "OFTA ELLER GÄRNA",
       "words": [
-        "lampa",
-        "laser"
+        "gärna",
+        "vanligen"
       ],
-      "definition": "ljuskälla, belysning",
+      "definition": "ofta; gärna",
       "word_definitions": [
-        "anordning för belysning, glödlampa",
-        "apparat som alstrar och sänder ut en intensiv stråle av ljus"
+        "ofta, lätt",
+        "för det mesta, oftast, mestadels, vanligtvis"
       ]
     }
   ]

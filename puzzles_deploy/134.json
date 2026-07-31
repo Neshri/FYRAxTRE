@@ -1,52 +1,52 @@
 {
-  "pivot": "sky",
+  "pivot": "slag",
   "categories": [
     {
-      "title": "MOLNFORMATIONER",
+      "title": "SORT ELLER TYP",
       "words": [
-        "puff",
-        "bank"
+        "sort",
+        "typ"
       ],
-      "definition": "moln",
+      "definition": "sort, typ",
       "word_definitions": [
-        "rökmoln",
-        "kompakt samling av moln"
+        "slag, typ",
+        "sort, kategori, slag"
       ]
     },
     {
-      "title": "KOSMISKA OMFATTNINGAR",
+      "title": "VIKAD DEL AV PLAGG",
       "words": [
-        "kosmos",
-        "världsalltet"
+        "brätte",
+        "revers"
       ],
-      "definition": "himmel",
+      "definition": "del av klädesplagg som vikts (och lagts uppåt eller utåt)",
       "word_definitions": [
-        "universum",
-        "universum"
+        "nedre, vågrät del av en hatt (som har vikts ut)",
+        "skuldebrev"
       ]
     },
     {
-      "title": "LUFTLAGREN",
+      "title": "HJÄRNSKADA",
       "words": [
-        "atmosfär",
-        "stratosfär"
+        "stroke",
+        "hjärninfarkt"
       ],
-      "definition": "himmel, som den scen på vilken vädret äger rum",
+      "definition": "(anfall av) hjärnblödning",
       "word_definitions": [
-        "det skikt av luft som omger jorden",
-        "det näst lägsta lagret i jordens atmosfär, i vilket ozonlagret återfinns"
+        "hjärninfarkt; hjärnblödning",
+        "En typ av stroke som uppstår när ett blodkärl i hjärnan täpps till, vilket leder till syrebrist och vävnadsdöd."
       ]
     },
     {
-      "title": "FLYTANDE SMAKSÄTTNINGAR",
+      "title": "KORT TIDSRYMD",
       "words": [
-        "buljong",
-        "soja"
+        "ögonblick",
+        "sekund"
       ],
-      "definition": "saft ur kött som steks, sorts klar sås",
+      "definition": "kort stund",
       "word_definitions": [
-        "soppa av klart köttspad, fiskspad eller grönsaksspad",
-        "en mörkbrun sås som också används som en sorts krydda"
+        "mycket kort tidsperiod",
+        "1/60 minut; kort ögonblick"
       ]
     }
   ]

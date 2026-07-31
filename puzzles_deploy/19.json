@@ -1,52 +1,52 @@
 {
-  "pivot": "drag",
+  "pivot": "drar",
   "categories": [
     {
-      "title": "LINJER OCH TECKNINGAR",
+      "title": "RITA EN BILD",
       "words": [
-        "streck",
-        "skiss"
+        "teckna",
+        "rita"
       ],
-      "definition": "teckning, linje",
+      "definition": "ritar, tecknar",
       "word_definitions": [
-        "tunn linje",
-        "(förberedande) teckning"
+        "gör teckningar, ritar",
+        "skapar en bild med penna e.d."
       ]
     },
     {
-      "title": "ANSIKTSUTTRYCK",
+      "title": "VINDEN BLÅSER",
       "words": [
-        "uppsyn",
-        "min"
+        "blåsa",
+        "fläkta"
       ],
-      "definition": "ansiktsuttryck; utseende",
+      "definition": "blåser, fläktar",
       "word_definitions": [
-        "utseende, min",
-        "uttryck i ansiktet"
+        "rör sig (om luft), fläktar",
+        "blåser lätt"
       ]
     },
     {
-      "title": "FLYTT I SPEL",
+      "title": "FÖRBRUKA RESURSER",
       "words": [
-        "rörelse",
-        "flytt"
+        "konsumera",
+        "åtgå"
       ],
-      "definition": "flyttning av spelpjäs",
+      "definition": "förbrukar, behöver",
       "word_definitions": [
-        "förflyttning",
-        "det att flytta, särskilt byta hem"
+        "använder, förbrukar",
+        "tar slut, förbrukas, går åt"
       ]
     },
     {
-      "title": "LUFTSTRÖMMAR",
+      "title": "LÄMNA EN PLATS",
       "words": [
-        "pust",
-        "vind"
+        "lämna",
+        "gå"
       ],
-      "definition": "(kall) luftström",
+      "definition": "lämnar en lokal",
       "word_definitions": [
-        "kort stöt (särskilt av luft)",
-        "naturlig luft i rörelse, blåst"
+        "avlägsnar sig från",
+        "avlägsnar sig"
       ]
     }
   ]

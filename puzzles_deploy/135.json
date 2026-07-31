@@ -1,52 +1,52 @@
 {
-  "pivot": "skärpa",
+  "pivot": "snurra",
   "categories": [
     {
-      "title": "INTELLEKTELL KLARHET",
+      "title": "BARNLEKSAKER",
       "words": [
-        "precision",
-        "klarhet"
+        "drake",
+        "skallra"
       ],
-      "definition": "exakthet i sinnesintryck; intellektuell klarhet",
+      "definition": "en leksak som snurrar snabbt",
       "word_definitions": [
-        "noggrannhet, exakthet",
-        "egenskapen att vara klar och tydlig; insikt"
+        "en leksak som fungerar som ett slags segelflygplan",
+        "skramlande leksak för spädbarn"
       ]
     },
     {
-      "title": "KONCENTRERA UPMÄRKSAMHETEN",
+      "title": "DRIVSYSTEM",
       "words": [
-        "fokusera",
-        "koncentrera"
+        "dieselmotor",
+        "turbin"
       ],
-      "definition": "fokusera, koncentrera",
+      "definition": "utombordsmotor",
       "word_definitions": [
-        "koncentrerar uppmärksamheten",
-        "för samman till en punkt, samlar"
+        "motor som drivs med dieselolja",
+        "anordning som omvandlar energin från strömmande vatten eller gas till elektricitet"
       ]
     },
     {
-      "title": "GÖRA VASSARE",
+      "title": "SÄTTA I RÖRELSE",
       "words": [
-        "bryna",
-        "slipa"
+        "dreja",
+        "vispa"
       ],
-      "definition": "vässa, göra vassare",
+      "definition": "få något att rotera",
       "word_definitions": [
-        "gör vassare eller skarpare",
-        "gör (en egg) vass, vässar"
+        "formar lergods på roterande skiva",
+        "får att rotera eller virvla (med visp)"
       ]
     },
     {
-      "title": "BESTÄMD ATTITYD",
+      "title": "PRATA STRUNT",
       "words": [
-        "fasthet",
-        "beslutsamhet"
+        "svamla",
+        "yra"
       ],
-      "definition": "allvar, bestämdhet",
+      "definition": "prata strunt; trassla in sig i ett resonemang",
       "word_definitions": [
-        "egenskapen att vara bestämd, viljestyrka",
-        "det att vara beslutsam, att ha förmåga att fatta beslut"
+        "pratar strunt",
+        "pratar strunt"
       ]
     }
   ]

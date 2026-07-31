@@ -1,52 +1,52 @@
 {
-  "pivot": "blåsa",
+  "pivot": "bock",
   "categories": [
     {
-      "title": "KLÄDESPLAGG",
+      "title": "HANAR AV DJUR",
       "words": [
-        "dress",
-        "dräkt"
+        "bagge",
+        "galt"
       ],
-      "definition": "klänning",
+      "definition": "hane av get",
       "word_definitions": [
-        "dräkt",
-        "klädsel, kläder"
+        "hane av får",
+        "hane av gris"
       ]
     },
     {
-      "title": "ANDAS UT HÄFTIGT",
+      "title": "SEXUELLT AKTIVA MÄN",
       "words": [
-        "frusta",
-        "nysa"
+        "playboy",
+        "kvinnotjusare"
       ],
-      "definition": "skicka ut en kraftig luftström genom munnen med hjälp av lungorna; andas ut kraftigt",
+      "definition": "sexuellt (alltför) aktiv man",
       "word_definitions": [
-        "stöter ut luft genom nästan sluten mun",
-        "stöter ut luft häftigt genom näsa och mun (särskilt vid förkylning)"
+        "(rik) man som ägnar sig enbart åt nöjen (särskilt kärleksaffärer)",
+        "person som tjusar kvinnor"
       ]
     },
     {
-      "title": "RADERA DATA",
+      "title": "STÖDREDSKAP",
       "words": [
-        "formatera",
-        "tömma"
+        "ställ",
+        "stativ"
       ],
-      "definition": "radera allt som finns lagrat på hårddisken för att kunna ominstallera operativsystemet",
+      "definition": "stöd (med fyra ben) under t.ex. en bordsskiva",
       "word_definitions": [
-        "anpassar eller skapar system av filer på en hårddisk e.d. (varvid alla tidigare data raderas)",
-        "avlägsnar hela innehållet ur en behållare, gör tom"
+        "plats där man ställer något, stöd",
+        "ställ, ställning"
       ]
     },
     {
-      "title": "INRE ORGANBILDNINGAR",
+      "title": "GYMNASTIKREDSKAP",
       "words": [
-        "knöl",
-        "lunga"
+        "ribbstol",
+        "trapets"
       ],
-      "definition": "inre rundad bildning för vätska eller gas, som självständigt ord ofta om urinblåsan",
+      "definition": "ett gymnastikredskap",
       "word_definitions": [
-        "rund (ibland sjuklig) bildning",
-        "organ att andas med hos människan (och de högre djuren)"
+        "ett gymnastikredskap som liknar en stege",
+        "stång som hänger i två rep och som används för gymnastiska övningar och uppvisningar"
       ]
     }
   ]

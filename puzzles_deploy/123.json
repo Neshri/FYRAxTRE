@@ -1,52 +1,52 @@
 {
-  "pivot": "sitter",
+  "pivot": "skala",
   "categories": [
     {
-      "title": "KROPPENS POSITIONER",
+      "title": "MUSIKALISKA TONARTER",
       "words": [
-        "stå",
-        "huka"
+        "dur",
+        "moll"
       ],
-      "definition": "vilar på bakdelen med överkroppen upprätt (ofta på en stol)",
+      "definition": "ordnad följd av toner i viss tonart",
       "word_definitions": [
-        "vilar upprätt",
-        "hukar sig"
+        "en typ av tonart med helt tonsteg mellan andra och tredje tonen i skalan (uppfattas ofta som glad)",
+        "en grupp tonarter med ett litet tonsteg mellan andra och tredje tonen i skalan (som ofta uppfattas som sorgsna)"
       ]
     },
     {
-      "title": "UTÖVA VERKSAMHET",
+      "title": "MÄTINSTRUMENT",
       "words": [
-        "tjänstgöra",
-        "utöva"
+        "termometer",
+        "tumstock"
       ],
-      "definition": "fungerar som, håller på med en viss verksamhet",
+      "definition": "graderad anordning att mäta något med",
       "word_definitions": [
-        "fungerar (som)",
-        "bedriver verksamhet"
+        "ett instrument som mäter temperatur",
+        "ett mätverktyg som kan fällas ihop"
       ]
     },
     {
-      "title": "VARA PLACERAD",
+      "title": "AVLÄGSNA HÖLJE",
       "words": [
-        "ligga",
-        "hänga"
+        "skrapa",
+        "flå"
       ],
-      "definition": "är placerad; är säkert fäst",
+      "definition": "avlägsna skalet eller annat hölje från något (t.ex. potatis)",
       "word_definitions": [
-        "är i vågrätt läge, vilar; är placerad",
-        "är upphängd"
+        "tar bort ojämnheter (med ett vasst föremål); skaver, river",
+        "tar av skinnet på djur"
       ]
     },
     {
-      "title": "PASSA KROPPEN",
+      "title": "STORLEKSFÖRHÅLLANDE",
       "words": [
-        "klä",
-        "passa"
+        "proportion",
+        "kvot"
       ],
-      "definition": "har viss passform, passar (om kläder)",
+      "definition": "storleksförhållandet mellan en avbildning och det avbildade föremålet eller området, särskilt i kartsammanhang",
       "word_definitions": [
-        "ser bra ut; är klädsam för, passar",
-        "är lämplig"
+        "överensstämmelse mellan storlekarna på olika delar",
+        "resultat av en division"
       ]
     }
   ]

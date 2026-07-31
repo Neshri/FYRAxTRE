@@ -1,52 +1,52 @@
 {
-  "pivot": "tät",
+  "pivot": "vara",
   "categories": [
     {
-      "title": "KOMPAKT FORM",
+      "title": "KOMMERCIELLA PRODUKTER",
       "words": [
-        "koncentrerad",
-        "tjock"
+        "produkt",
+        "artikel"
       ],
-      "definition": "utan stora mellanrum; kompakt, koncentrerad",
+      "definition": "ting som köps och säljs",
       "word_definitions": [
-        "som inriktar all sin uppmärksamhet på något, fokuserad",
-        "kompakt; trögflytande"
+        "resultat av tillverkning",
+        "(typ av) vara"
       ]
     },
     {
-      "title": "LÄCKAGESÄKER",
+      "title": "EXISTERA / FINNAS",
       "words": [
-        "ogenomtränglig",
-        "hermetisk"
+        "finnas",
+        "föreligga"
       ],
-      "definition": "som inte släpper igenom luft eller vätska",
+      "definition": "existera/finnas (i tid eller rum)",
       "word_definitions": [
-        "omöjlig att tränga igenom",
-        "fullständigt lufttät"
+        "är, existerar, förekommer",
+        "finns, existerar"
       ]
     },
     {
-      "title": "VÄLSTÄLLD EKONOMI",
+      "title": "SPELA EN ROLL",
       "words": [
-        "förmögen",
-        "välbärgad"
+        "agera",
+        "spela"
       ],
-      "definition": "rik",
+      "definition": "ha eller spela en viss roll i en lek, t.ex. vara den som letar i kurragömma",
       "word_definitions": [
-        "rik",
-        "ganska rik"
+        "spelar (rollen av)",
+        "uppför en viss teaterpjäs, agerar i en teaterpjäs eller film"
       ]
     },
     {
-      "title": "TRUPPENS SPETS",
+      "title": "FORTSÄTTA / BESTÅ",
       "words": [
-        "spjutspets",
-        "förtrupp"
+        "fortsätta",
+        "förbli"
       ],
-      "definition": "främsta del av en trupp e.d.",
+      "definition": "fortsätta verka, hålla i sig",
       "word_definitions": [
-        "viktig del eller person",
-        "trupp som går före huvudstyrkan och skyddar den från anfall framifrån"
+        "håller på, håller igång",
+        "är fortfarande, fortsätter att vara"
       ]
     }
   ]

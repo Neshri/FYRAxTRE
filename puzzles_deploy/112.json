@@ -1,52 +1,52 @@
 {
-  "pivot": "rak",
+  "pivot": "resa",
   "categories": [
     {
-      "title": "RÄT LINJE",
+      "title": "SEMESTER OCH LEDIGHET",
       "words": [
-        "rät",
-        "linjär"
+        "semester",
+        "vistelse"
       ],
-      "definition": "rät",
+      "definition": "semester på annan ort",
       "word_definitions": [
-        "rak",
-        "som rör räta linjer"
+        "betald ledighet från arbetet",
+        "den tid man vistas någonstans, uppehåll"
       ]
     },
     {
-      "title": "DIREKT OCH ABSOLUT",
+      "title": "UPPFÖRA BYGGNAD",
       "words": [
-        "omedelbar",
-        "obetingad"
+        "bygga",
+        "anlägga"
       ],
-      "definition": "absolut, direkt",
+      "definition": "uppföra, bygga upp (staty, byggnad, altare); slå upp (tält)",
       "word_definitions": [
-        "direkt, ögonblicklig",
-        "ovillkorlig, absolut"
+        "konstruerar och uppför en byggnad e.d.",
+        "bygger, uppför"
       ]
     },
     {
-      "title": "TYDLIG KOMMUNIKATION",
+      "title": "NÅ EN POSITION",
       "words": [
-        "renhårig",
-        "otvetydig"
+        "stiga",
+        "avancera"
       ],
-      "definition": "ärlig, tydlig",
+      "definition": "lifta eller höja sig till en dominerande ställning",
       "word_definitions": [
-        "ärlig, rättvis",
-        "klar, tydlig"
+        "ökar, höjer sig",
+        "går framåt; blir befordrad"
       ]
     },
     {
-      "title": "I TURORDNING",
+      "title": "KOMMA ÅTER",
       "words": [
-        "sedan",
-        "varefter"
+        "tillfriskna",
+        "återhämta"
       ],
-      "definition": "i följd, efter varandra",
+      "definition": "komma på fötter igen",
       "word_definitions": [
-        "därefter, därpå",
-        "efter vilket, och därefter"
+        "blir frisk igen, frisknar till",
+        "vila upp sig efter något fysiskt eller psykologiskt ansträngande"
       ]
     }
   ]

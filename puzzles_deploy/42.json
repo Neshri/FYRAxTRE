@@ -1,52 +1,52 @@
 {
-  "pivot": "färg",
+  "pivot": "följer",
   "categories": [
     {
-      "title": "VISUELL NYANS",
+      "title": "TA ÖVER ROLL",
       "words": [
-        "nyans",
-        "kulör"
+        "ersätta",
+        "avlösa"
       ],
-      "definition": "ett slags synintryck (rött, grönt etc.); kulör, nyans",
+      "definition": "efterträder",
       "word_definitions": [
-        "färgton",
-        "färg"
+        "vikarierar för; efterträder",
+        "efterträder, ersätter, löser av"
       ]
     },
     {
-      "title": "ÅSIKTSMÄSSIG RIKTNING",
+      "title": "VARA SÄLLSKAP ÅT",
       "words": [
-        "strömning",
-        "ståndpunkt"
+        "ledsaga",
+        "sällskapa"
       ],
-      "definition": "åsiktsriktning",
+      "definition": "gör sällskap med",
       "word_definitions": [
-        "samling idéer, åsiktsriktning",
-        "ställningstagande, åsikt"
+        "följer med på vägen",
+        "är sällskap åt; är partner till"
       ]
     },
     {
-      "title": "SOCIAL STÄMNING",
+      "title": "LYDA INSTRUKTIONER",
       "words": [
-        "atmosfär",
-        "klimat"
+        "hörsamma",
+        "lyda"
       ],
-      "definition": "positiv stämning",
+      "definition": "rättar sig efter, lyder",
       "word_definitions": [
-        "stämning, anda",
-        "stämning, atmosfär"
+        "rättar sig efter, lyder",
+        "gör som man blir tillsagd"
       ]
     },
     {
-      "title": "KORTLEKENS FÄRGER",
+      "title": "LÄGGA MÄRKE TILL",
       "words": [
-        "hjärter",
-        "spader"
+        "iaktta",
+        "märka"
       ],
-      "definition": "en av serierna hjärter, spader, ruter och klöver i en kortlek",
+      "definition": "observerar, hänger med i",
       "word_definitions": [
-        "en av de fyra färgerna i en kortlek",
-        "(kort i) en av de fyra färgerna i kortspel"
+        "följer, visar, tar hänsyn till",
+        "får se, observerar"
       ]
     }
   ]

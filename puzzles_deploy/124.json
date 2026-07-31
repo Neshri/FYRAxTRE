@@ -1,52 +1,52 @@
 {
-  "pivot": "skada",
+  "pivot": "skala",
   "categories": [
     {
-      "title": "FYSISK SKADA",
+      "title": "MUSIKALISKA FÖLJDER",
       "words": [
-        "blessyr",
-        "fraktur"
+        "melodi",
+        "tongång"
       ],
-      "definition": "(ben)brott; sår",
+      "definition": "stegvis ordnad följd av toner (eller färger)",
       "word_definitions": [
-        "(lättare) sår",
-        "brott i skelettets ben, benbrott"
+        "ordnad följd av toner som bildar en musikalisk helhet",
+        "följd av toner, melodi"
       ]
     },
     {
-      "title": "FÖRSTÖRELSE AV EGENDOM",
+      "title": "VÄRDESKALA",
       "words": [
-        "destruktion",
-        "härjning"
+        "grad",
+        "nivå"
       ],
-      "definition": "åverkan",
+      "definition": "ordnad följd av värden i informella måttenheter",
       "word_definitions": [
-        "förstörelse, ödeläggelse",
-        "handlingen att härja"
+        "en måttenhet för vinklar",
+        "läge i höjdled"
       ]
     },
     {
-      "title": "NÅGOT BEKLAGLIGT",
+      "title": "RENSA BORT",
       "words": [
-        "tragedi",
-        "olycka"
+        "eliminera",
+        "slopa"
       ],
-      "definition": "förhållande som man beklagar, synd",
+      "definition": "ta bort något ytligt, onödigt eller oväsentligt",
       "word_definitions": [
-        "skådespel med allvarligt innehåll",
-        "plågsam eller tragisk händelse som inträffar utan mänskligt uppsåt"
+        "tar bort, avlägsnar",
+        "tar bort, avskaffar"
       ]
     },
     {
-      "title": "FEL PÅ VARA",
+      "title": "FÄRGSPEKTRUM",
       "words": [
-        "defekt",
-        "brist"
+        "spektrum",
+        "nyans"
       ],
-      "definition": "fel på något eller något som gått sönder eller blivit förstört (som orsakats vid ett särskilt tillfälle)",
+      "definition": "färgskala",
       "word_definitions": [
-        "fel, brist",
-        "för liten tillgång på något, underskott"
+        "ljusets färgskala",
+        "färgton"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "klubba",
+  "pivot": "komma",
   "categories": [
     {
-      "title": "OLIKA GODISBITAR",
+      "title": "SKILJETECKEN",
       "words": [
-        "karamell",
-        "polkagris"
+        "frågetecken",
+        "tankstreck"
       ],
-      "definition": "godsak i form av en pinne med en stor karamell- eller godisbit fäst på översta änden",
+      "definition": "skiljetecknet ,",
       "word_definitions": [
-        "liten bit godis, (hård) sötsak",
-        "en karamell (ibland i form av en stång) med röda och vita ränder och frisk smak"
+        "skiljetecknet ?",
+        "skiljetecknet – (som ofta markerar någon sorts kontrast)"
       ]
     },
     {
-      "title": "OLIKA NÄRSTRIDSVAPEN",
+      "title": "INTRÄFFA ELLER SKE",
       "words": [
-        "batong",
-        "spjut"
+        "ske",
+        "tillstöta"
       ],
-      "definition": "redskap i form av en kraftig påk avsett som närstridsvapen",
+      "definition": "kunna förutses inträffa eller råka i tillståndet (som framgår av sammanhanget)",
       "word_definitions": [
-        "en sorts stav (ofta av hårt gummi) som används som vapen (särskilt av polisen)",
-        "ett vapen eller idrottsredskap i form av en vass stång som stöts eller kastas"
+        "äger rum, händer, inträffar",
+        "inträffar (oväntat)"
       ]
     },
     {
-      "title": "FASTSTÄLLA BESLUT",
+      "title": "BLI FRISK",
       "words": [
-        "fastställa",
-        "utropa"
+        "tillfriskna",
+        "läka"
       ],
-      "definition": "genom slag med klubba förklara och fastslå (beslut) eller, vid auktion, utse en viss köpare",
+      "definition": "tillfriskna",
       "word_definitions": [
-        "bestämmer, föreskriver; konstaterar",
-        "bjuder ut till försäljning på auktion, ropar ut"
+        "blir frisk igen, frisknar till",
+        "blir bra (igen)"
       ]
     },
     {
-      "title": "ENKLA TRÄREDSKAP",
+      "title": "ORSAKSMÄSSIGT SAMMANHANG",
       "words": [
-        "kil",
-        "pinne"
+        "sammanhänga",
+        "föranleda"
       ],
-      "definition": "redskap (av trä) som är tjockare i ena ändan",
+      "definition": "ske; hänga samman orsaksmässigt",
       "word_definitions": [
-        "stycke (ofta av trä) som smalnar av i ena ändan",
-        "smalt och kort trästycke"
+        "har att göra med, hänger ihop, hänger samman",
+        "leder till, orsakar"
       ]
     }
   ]

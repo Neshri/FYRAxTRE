@@ -2,7 +2,7 @@
   "pivot": "bas",
   "categories": [
     {
-      "title": "MANLIGA SÅNGRÖSTER",
+      "title": "SÅNGRÖSTER",
       "words": [
         "baryton",
         "tenor"
@@ -14,7 +14,7 @@
       ]
     },
     {
-      "title": "PERSON I LEDNING",
+      "title": "LEDARROLLER",
       "words": [
         "direktör",
         "ledare"
@@ -26,7 +26,7 @@
       ]
     },
     {
-      "title": "MILITÄR ANLÄGGNING",
+      "title": "MILITÄRA ANLÄGGNINGAR",
       "words": [
         "garnison",
         "kasern"
@@ -38,7 +38,7 @@
       ]
     },
     {
-      "title": "KEMISKA BASER",
+      "title": "KEMISKA ÄMNEN",
       "words": [
         "soda",
         "kalk"

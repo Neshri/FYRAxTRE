@@ -1,52 +1,52 @@
 {
-  "pivot": "stämma",
+  "pivot": "står",
   "categories": [
     {
-      "title": "ARBETA I TRÄ",
+      "title": "KROPPENS POSITION",
       "words": [
-        "tälja",
-        "snida"
+        "sitta",
+        "ligga"
       ],
-      "definition": "använda stämjärn vid träarbete",
+      "definition": "vilar upprätt",
       "word_definitions": [
-        "skär i trä med kniv, snidar",
-        "skär eller skulpterar i trä"
+        "vilar på bakdelen med överkroppen upprätt (ofta på en stol)",
+        "är i vågrätt läge, vilar; är placerad"
       ]
     },
     {
-      "title": "RÄTTSLIG ÅTGÄRD",
+      "title": "SLUTA FUNGERA",
       "words": [
-        "åtala",
-        "processa"
+        "stanna",
+        "klicka"
       ],
-      "definition": "dra inför domstol, kalla inför rätta",
+      "definition": "rör sig inte, fungerar inte",
       "word_definitions": [
-        "anklagar inför domstol",
-        "driver en rättegång (mot någon)"
+        "slutar att förflytta sig; blir orörlig",
+        "fungerar inte"
       ]
     },
     {
-      "title": "JUSTERA INSTRUMENT",
+      "title": "FINNAS I TEXT",
       "words": [
-        "justera",
-        "kalibrera"
+        "finnas",
+        "lyda"
       ],
-      "definition": "ställa in tonerna /på ett instrument/",
+      "definition": "är skrivet; finns, är",
       "word_definitions": [
-        "avhjälper mindre fel hos, rättar till",
-        "justera eller ställa in efter specifikt mått, vanligtvis om maskin eller mätinstrument"
+        "är, existerar, förekommer",
+        "uppgår till, är"
       ]
     },
     {
-      "title": "AVGE RÖST",
+      "title": "VARA ANSVARIG",
       "words": [
-        "votera",
-        "rösta"
+        "ansvara",
+        "sköta"
       ],
-      "definition": "avge röst vid val",
+      "definition": "ansvarar (för ett handlande)",
       "word_definitions": [
-        "röstar",
-        "uttrycker sin mening i val"
+        "tar ansvar, har ansvaret",
+        "vårdar, ger tillsyn; ansvarar för, tar hand om"
       ]
     }
   ]

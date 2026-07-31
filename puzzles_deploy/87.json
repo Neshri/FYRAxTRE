@@ -1,52 +1,52 @@
 {
-  "pivot": "lätt",
+  "pivot": "med",
   "categories": [
     {
-      "title": "LÅG VIKT",
+      "title": "I SÄLLSKAP",
       "words": [
-        "luftig",
-        "viktlös"
+        "tillsammans",
+        "ihop"
       ],
-      "definition": "som har liten vikt",
+      "definition": "i samverkan, i sällskap",
       "word_definitions": [
-        "som har mycket rymd",
-        "som inte upplever någon gravitationskraft"
+        "i sällskap, ihop",
+        "tillsammans, samman"
       ]
     },
     {
-      "title": "BEKYMMERSLÖS",
+      "title": "YTTERLIGARE TILLÄGG",
       "words": [
-        "sorglös",
-        "avslappnad"
+        "även",
+        "också"
       ],
-      "definition": "obekymrad",
+      "definition": "också",
       "word_definitions": [
-        "bekymmerslös, glad",
-        "lugn, avspänd"
+        "också",
+        "även, dessutom"
       ]
     },
     {
-      "title": "INTE SVÅR",
+      "title": "MED HJÄLP AV",
       "words": [
-        "enkel",
-        "okomplicerad"
+        "medelst",
+        "genom"
       ],
-      "definition": "enkel, okomplicerad",
+      "definition": "genom att använda",
       "word_definitions": [
-        "lätt att förstå, okomplicerad",
-        "inte komplicerad, enkel"
+        "med hjälp av, genom",
+        "med hjälp av, med"
       ]
     },
     {
-      "title": "FREKVENT",
+      "title": "GLIDSKENA",
       "words": [
-        "gärna",
-        "vanligen"
+        "räls",
+        "skena"
       ],
-      "definition": "ofta; gärna",
+      "definition": "skena som en spark eller en kälke glider på",
       "word_definitions": [
-        "ofta, lätt",
-        "för det mesta, oftast, mestadels, vanligtvis"
+        "spår, skena",
+        "långt och smalt (metall)stycke som något glider på, räls"
       ]
     }
   ]

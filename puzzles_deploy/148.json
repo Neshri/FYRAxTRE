@@ -1,52 +1,52 @@
 {
-  "pivot": "stämma",
+  "pivot": "syn",
   "categories": [
     {
-      "title": "STOPPA FLÖDE",
+      "title": "UPPFATTNINGSFÖRMÅGA",
       "words": [
-        "hämma",
-        "hejda"
+        "sinne",
+        "förnuft"
       ],
-      "definition": "stoppa flöde",
+      "definition": "förmåga att se (eller tänka sig)",
       "word_definitions": [
-        "stoppar",
-        "stoppar, hindrar"
+        "förmåga att se, höra, känna, lukta eller smaka",
+        "förmåga att tänka, förstånd"
       ]
     },
     {
-      "title": "MÖTESPUNKTER",
+      "title": "VISUELL FÖRETEELSE",
       "words": [
-        "träff",
-        "sammanträde"
+        "vy",
+        "företeelse"
       ],
-      "definition": "möte",
+      "definition": "något som man ser",
       "word_definitions": [
-        "möte",
-        "möte där bestämda frågor diskuteras"
+        "utsikt, syn",
+        "något som finns"
       ]
     },
     {
-      "title": "VARA KORREKT",
+      "title": "PERSONLIG ÅSIKT",
       "words": [
-        "rimma",
-        "passa"
+        "mening",
+        "uppfattning"
       ],
-      "definition": "vara korrekt eller sann; överensstämma, gå ihop",
+      "definition": "uppfattning, åsikt",
       "word_definitions": [
-        "passar ihop, överensstämmer",
-        "är lämplig"
+        "åsikt, uppfattning",
+        "mening, åsikt"
       ]
     },
     {
-      "title": "SÅNGRÖSTSLÄGE",
+      "title": "MÄNSKLIGT ANSIKTE",
       "words": [
-        "baryton",
-        "tenor"
+        "nylle",
+        "anlete"
       ],
-      "definition": "del av eller röstläge i en kör eller del av orkester",
+      "definition": "ansikte",
       "word_definitions": [
-        "(man med) sångröst i läge mellan bas och tenor",
-        "(man med) stämma i högt tonläge"
+        "ansikte",
+        "ansikte"
       ]
     }
   ]

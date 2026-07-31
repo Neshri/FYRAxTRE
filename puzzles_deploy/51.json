@@ -1,52 +1,52 @@
 {
-  "pivot": "grov",
+  "pivot": "håller",
   "categories": [
     {
-      "title": "KRAFTIG OCH TJOCK",
+      "title": "TA TAG I",
       "words": [
-        "bastant",
-        "massiv"
+        "gripa",
+        "fatta"
       ],
-      "definition": "tjock, kraftig, bastant",
+      "definition": "har i handen, griper, fattar",
       "word_definitions": [
-        "kraftig, tjock",
-        "tung, kraftig"
+        "hugger tag i, tar, fattar",
+        "tar, griper"
       ]
     },
     {
-      "title": "OJÄMN YTA",
+      "title": "STOPPA RÖRELSE",
       "words": [
-        "skrovlig",
-        "ojämn"
+        "hejda",
+        "blockera"
       ],
-      "definition": "ojämn, skrovlig; inte bearbetad (i detalj)",
+      "definition": "hindrar från att röra sig",
       "word_definitions": [
-        "grov och ojämn",
-        "inte jämn eller slät (om yta)"
+        "stoppar, hindrar",
+        "spärrar av, hindrar"
       ]
     },
     {
-      "title": "OHYFSAT BETENDE",
+      "title": "TÅLA SLITAGE",
       "words": [
-        "plump",
-        "oborstad"
+        "tåla",
+        "bestå"
       ],
-      "definition": "ohyfsad, rå",
+      "definition": "blir inte förstörd, går inte sönder, är stark nog",
       "word_definitions": [
-        "rå och ohyfsad",
-        "ohyfsad"
+        "är inte känslig eller allergisk mot",
+        "står fast, är oförändrad"
       ]
     },
     {
-      "title": "ALLVARLIG GRAD",
+      "title": "GENOMFÖRA EVENT",
       "words": [
-        "grav",
-        "svårartad"
+        "arrangera",
+        "utföra"
       ],
-      "definition": "svår, allvarlig",
+      "definition": "utför; anordnar",
       "word_definitions": [
-        "allvarlig, svår",
-        "allvarlig"
+        "anordnar, ordnar, planerar",
+        "gör, genomför"
       ]
     }
   ]

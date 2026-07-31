@@ -1,52 +1,52 @@
 {
-  "pivot": "drift",
+  "pivot": "driva",
   "categories": [
     {
-      "title": "SKÖTSEL AV ANLÄGGNING",
+      "title": "VANDRA UTAN MÅL",
       "words": [
-        "underhåll",
-        "förvaltning"
+        "strosa",
+        "ströva"
       ],
-      "definition": "skötsel (t.ex. av en anläggning eller ett företag)",
+      "definition": "röra sig utan mål",
       "word_definitions": [
-        "skötsel; renovering",
-        "administration"
+        "vandrar omkring utan mål",
+        "vandrar omkring utan mål"
       ]
     },
     {
-      "title": "BIOLOGISKA BEHOV",
+      "title": "PUTTA FRAMÅT",
       "words": [
-        "hunger",
-        "törst"
+        "fösa",
+        "putta"
       ],
-      "definition": "instinkt, begär",
+      "definition": "föra; fösa",
       "word_definitions": [
-        "begär, längtan",
-        "stark längtan; starkt behov"
+        "driver framför sig",
+        "knuffar lätt"
       ]
     },
     {
-      "title": "FÖRLÖJLIGANDE OCH SKÄMT",
+      "title": "HÖGAR AV MATERIAL",
       "words": [
-        "hån",
-        "lustighet"
+        "sanddyn",
+        "vall"
       ],
-      "definition": "skämt, förlöjligande",
+      "definition": "hög av snö (eller sand)",
       "word_definitions": [
-        "elak kritik, förlöjligande",
-        "något lustigt, något som görs på skämt"
+        "kulle av sand",
+        "långsträckt upphöjning (ofta av jord eller sand)"
       ]
     },
     {
-      "title": "RÖRELSE UTAN MÅL",
+      "title": "STORA MÄNGDER",
       "words": [
-        "vandring",
-        "promenad"
+        "lass",
+        "kvantum"
       ],
-      "definition": "det att driva omkring",
+      "definition": "större ansamling av något, t.ex. snö",
       "word_definitions": [
-        "handlingen att vandra, promenad",
-        "handlingen att promenera för nöjes skull, spatsertur"
+        "last (på en kärra e.d.); stor mängd",
+        "åtskiljbar enhet av någonting"
       ]
     }
   ]

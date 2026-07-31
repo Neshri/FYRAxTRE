@@ -1,52 +1,52 @@
 {
-  "pivot": "dryg",
+  "pivot": "faller",
   "categories": [
     {
-      "title": "RIKLIGT MÅTT",
+      "title": "TAPPA BALANSEN",
       "words": [
-        "riklig",
-        "ymnig"
+        "ramla",
+        "trilla"
       ],
-      "definition": "riklig, rundlig (om tid, mått och vikt)",
+      "definition": "ramlar, trillar",
       "word_definitions": [
-        "stor, rik",
-        "överflödande, riklig"
+        "faller, trillar",
+        "ramlar, faller"
       ]
     },
     {
-      "title": "LÅNGVARIG",
+      "title": "SJUNKA NEDÅT",
       "words": [
-        "långvarig",
-        "ihållande"
+        "dala",
+        "digna"
       ],
-      "definition": "som räcker länge",
+      "definition": "dalar, sjunker",
       "word_definitions": [
-        "som varar länge",
-        "som håller på länge, långvarig"
+        "minskar",
+        "sjunker ner, sviktar"
       ]
     },
     {
-      "title": "BESVÄRLIG",
+      "title": "MISTA LIVET",
       "words": [
-        "jobbig",
-        "mödosam"
+        "dö",
+        "stupa"
       ],
-      "definition": "besvärlig, betungande",
+      "definition": "dör, stupar, omkommer",
       "word_definitions": [
-        "besvärlig",
-        "ansträngande, besvärlig"
+        "slutar att leva, mister livet, går bort",
+        "faller i strid, dör"
       ]
     },
     {
-      "title": "HÖGFÄRDIG",
+      "title": "HAMNA I TILLSTÅND",
       "words": [
-        "uppblåst",
-        "kaxig"
+        "hamna",
+        "landa"
       ],
-      "definition": "högfärdig, mallig",
+      "definition": "hamnar (i visst tillstånd)",
       "word_definitions": [
-        "högfärdig, mallig",
-        "som försöker hävda sig, mallig, tuff"
+        "kommer (händelsevis), blir placerad",
+        "tar mark, går ner på marken (om flygplan och fåglar)"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "styrka",
+  "pivot": "stämma",
   "categories": [
     {
-      "title": "FYSISK KRAFT",
+      "title": "RÖSTENS EGENSKAPER",
       "words": [
-        "vigör",
-        "must"
+        "klang",
+        "ton"
       ],
-      "definition": "fysisk eller psykisk kraft",
+      "definition": "röst",
       "word_definitions": [
-        "hälsa, kraft",
-        "kraft"
+        "ljud som klingar, ton",
+        "ljud av sångröst eller instrument i konstant läge på skalan"
       ]
     },
     {
-      "title": "GRAD AV INTENSITET",
+      "title": "MUSIKALISKA ELEMENT",
       "words": [
-        "grad",
-        "utsträckning"
+        "melodi",
+        "rytm"
       ],
-      "definition": "procenthalt, grad, intensitet",
+      "definition": "linje i en musikalisk sats",
       "word_definitions": [
-        "utsträckning, omfattning",
-        "omfattning, grad"
+        "ordnad följd av toner som bildar en musikalisk helhet",
+        "regelbunden rörelse i musik; takt"
       ]
     },
     {
-      "title": "SAMARBETANDE GRUPP",
+      "title": "FORMELLA SAMMANKOMSTER",
       "words": [
-        "team",
-        "lag"
+        "möte",
+        "kongress"
       ],
-      "definition": "grupp som arbetar tillsammans",
+      "definition": "(större) sammankomst",
       "word_definitions": [
-        "(arbets)lag, grupp",
-        "grupp personer som samarbetar (i arbete, idrott etc.)"
+        "sammanträffande (särskilt mellan bilar)",
+        "(större) sammankomst med valda ombud (t.ex. politiker)"
       ]
     },
     {
-      "title": "MILITÄR ENHET",
+      "title": "KOMMA ÖVERENS",
       "words": [
-        "division",
-        "pluton"
+        "överenskomma",
+        "fastställa"
       ],
-      "definition": "militär grupp",
+      "definition": "bestämma; avtala",
       "word_definitions": [
-        "större militär avdelning",
-        "grupp soldater på ca 30 till 50 man"
+        "bestämmer något tillsammans, kommer överens",
+        "bestämmer, föreskriver; konstaterar"
       ]
     }
   ]

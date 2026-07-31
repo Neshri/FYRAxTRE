@@ -1,52 +1,52 @@
 {
-  "pivot": "drar",
+  "pivot": "driva",
   "categories": [
     {
-      "title": "SLÄPA NÅGOT",
+      "title": "SKÄMTA OCH SKOJA",
       "words": [
-        "bogsera",
-        "hasa"
+        "skoja",
+        "raljera"
       ],
-      "definition": "släpar, bogserar",
+      "definition": "skoja, skämta (med)",
       "word_definitions": [
-        "drar, släpar",
-        "släpar"
+        "skämtar",
+        "skämtar på ett retsamt sätt"
       ]
     },
     {
-      "title": "LÄMNA EN PLATS",
+      "title": "SKÖTA OCH LEDA",
       "words": [
-        "sticka",
-        "lämna"
+        "sköta",
+        "förvalta"
       ],
-      "definition": "lämnar en lokal",
+      "definition": "sköta; ta hand om; leda",
       "word_definitions": [
-        "tillverkar av garn med hjälp av stickor",
-        "räcker, ger"
+        "vårdar, ger tillsyn; ansvarar för, tar hand om",
+        "sköter eller tar hand om någons egendom, administrerar"
       ]
     },
     {
-      "title": "UTVINNA MATERIAL",
+      "title": "RÖRA SIG PASSIVT",
       "words": [
-        "extrahera",
-        "bryta"
+        "flyta",
+        "glida"
       ],
-      "definition": "utvinner, extraherar",
+      "definition": "förflyttas långsamt med vind, vågor, vattenström eller dylikt",
       "word_definitions": [
-        "utvinner, drar",
-        "får att gå i bitar; utvinner"
+        "håller sig uppe på ytan av en vätska",
+        "rör sig jämnt (ofta på halt underlag); halkar, slinter"
       ]
     },
     {
-      "title": "FÖRBRUKA RESURSER",
+      "title": "STORA HÖGAR",
       "words": [
-        "konsumera",
-        "åtgå"
+        "stack",
+        "stapel"
       ],
-      "definition": "förbrukar, behöver",
+      "definition": "stor hög",
       "word_definitions": [
-        "använder, förbrukar",
-        "tar slut, förbrukas, går åt"
+        "större hög",
+        "hög av staplat material, trave"
       ]
     }
   ]

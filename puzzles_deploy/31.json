@@ -1,52 +1,52 @@
 {
-  "pivot": "fel",
+  "pivot": "fin",
   "categories": [
     {
-      "title": "FELAKTIG",
+      "title": "VACKER OCH SNYGG",
       "words": [
-        "oriktig",
-        "galen"
+        "tjusig",
+        "stilig"
       ],
-      "definition": "inte rätt, felaktig",
+      "definition": "snygg, vacker",
       "word_definitions": [
-        "felaktig",
-        "felaktig"
+        "vacker, elegant",
+        "som har stil, elegant, vacker"
       ]
     },
     {
-      "title": "MISSTAG",
+      "title": "MYCKET BRA",
       "words": [
-        "fadäs",
-        "blunder"
+        "förträfflig",
+        "briljant"
       ],
-      "definition": "handling som inte är korrekt, misstag",
+      "definition": "bra, utmärkt",
       "word_definitions": [
-        "dumhet, misstag",
-        "misstag, fel"
+        "mycket bra, utmärkt",
+        "lysande, utmärkt"
       ]
     },
     {
-      "title": "ANSVAR FÖR MISSTAG",
+      "title": "SMAL OCH TUNN",
       "words": [
-        "ansvar",
-        "skuld"
+        "slank",
+        "spenslig"
       ],
-      "definition": "ansvar för ett misstag, skuld",
+      "definition": "tunn, smal",
       "word_definitions": [
-        "skyldighet att ta på sig skulden (om något går fel)",
-        "ansvar för brott eller fel"
+        "smal, smärt",
+        "smal, tunn (om kroppsbyggnad eller person)"
       ]
     },
     {
-      "title": "TEKNISK BRIST",
+      "title": "DISKRET OCH DÄMPAD",
       "words": [
-        "defekt",
-        "skavank"
+        "sober",
+        "lågmäld"
       ],
-      "definition": "skada, brist, skavank",
+      "definition": "diskret, subtil",
       "word_definitions": [
-        "ofullständig, bristfällig",
-        "liten skada"
+        "smakfull; diskret",
+        "stillsam, försynt"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "tro",
+  "pivot": "täcker",
   "categories": [
     {
-      "title": "SÄTT ATT BEDÖMA",
+      "title": "TÄCKA NÅGOT",
       "words": [
-        "synpunkt",
-        "uppfattning"
+        "maskera",
+        "bekläda"
       ],
-      "definition": "bedömning (att något är sant)",
+      "definition": "lägger över (för att skydda eller dölja)",
       "word_definitions": [
-        "ståndpunkt, åsikt, bedömning",
-        "det att kunna uppfatta något"
+        "förser med förklädnad; kamouflerar, döljer",
+        "innehar"
       ]
     },
     {
-      "title": "RELIGIÖS LÄRA",
+      "title": "UTBREDA SIG",
       "words": [
-        "teologi",
-        "dogm"
+        "expandera",
+        "löpa"
       ],
-      "definition": "religiös övertygelse, lära, religion",
+      "definition": "breder ut sig över",
       "word_definitions": [
-        "vetenskapen om religioner (särskilt kristendomen)",
-        "påstående (inom en viss lära) som inte ifrågasätts"
+        "breder ut sig, utvidgas, växer",
+        "sträcker sig"
       ]
     },
     {
-      "title": "FÖRESTÄLLA SIG",
+      "title": "BETALA EN SUMMA",
       "words": [
-        "fantisera",
-        "inbilla"
+        "bestrida",
+        "pröjsa"
       ],
-      "definition": "inbilla sig, föreställa sig",
+      "definition": "betalar",
       "word_definitions": [
-        "inbillar sig, drömmer",
-        "intala, slå i"
+        "betalar",
+        "betalar"
       ]
     },
     {
-      "title": "EN GISSNING",
+      "title": "JOURNALISTISK BEVAKNING",
       "words": [
-        "gissning",
-        "antagande"
+        "bevaka",
+        "rapportera"
       ],
-      "definition": "det att hålla något sannolikt, förmodan",
+      "definition": "bevakar (som journalist)",
       "word_definitions": [
-        "antagande, förmodan",
-        "förmodan, gissning"
+        "vaktar; övervakar (och skildrar)",
+        "redogör för"
       ]
     }
   ]

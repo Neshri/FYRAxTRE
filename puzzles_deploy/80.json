@@ -1,52 +1,52 @@
 {
-  "pivot": "leder",
+  "pivot": "lur",
   "categories": [
     {
-      "title": "LEDA TILL NÅGOT",
+      "title": "BLÅSINSTRUMENT",
       "words": [
-        "hänföra",
-        "resultera"
+        "flöjt",
+        "horn"
       ],
-      "definition": "för (till ett mål)",
+      "definition": "ett blåsinstrument",
       "word_definitions": [
-        "räknar (till), för (till)",
-        "får som konsekvens"
+        "ett blåsinstrument",
+        "ett blåsinstrument"
       ]
     },
     {
-      "title": "ÖVERFÖRA NÅGOT",
+      "title": "KORT SÖMN",
       "words": [
-        "överföra",
-        "kanalisera"
+        "slummer",
+        "dvala"
       ],
-      "definition": "släpper fram, överför",
+      "definition": "en stunds sömn",
       "word_definitions": [
-        "flyttar från en punkt till en annan",
-        "leder i viss riktning"
+        "lätt (och kort) sömn, lur",
+        "slummer, sömn"
       ]
     },
     {
-      "title": "VARA CHEF FÖR",
+      "title": "TELEFONAPPARATER",
       "words": [
-        "styra",
-        "anföra"
+        "mobil",
+        "telefon"
       ],
-      "definition": "är ledare eller chef för; sköter, styr",
+      "definition": "mobiltelefon",
       "word_definitions": [
-        "påverkar, leder",
-        "går i spetsen för, leder"
+        "mobiltelefon",
+        "apparat för överföring av samtal över långa avstånd"
       ]
     },
     {
-      "title": "LIGGA I SPETSEN",
+      "title": "BEDRÄGERI ELLER SKÄMT",
       "words": [
-        "toppa",
-        "föregå"
+        "spratt",
+        "bluff"
       ],
-      "definition": "ligger främst",
+      "definition": "i uttrycket det är bara lur: att luras, skämta; lurendrejeri",
       "word_definitions": [
-        "ligger i toppen på, leder",
-        "kommer före i tiden"
+        "skämt för att lura någon",
+        "försök att luras, skoj, bedrägeri"
       ]
     }
   ]

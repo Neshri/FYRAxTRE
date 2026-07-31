@@ -1,52 +1,52 @@
 {
-  "pivot": "positiv",
+  "pivot": "program",
   "categories": [
     {
-      "title": "GYNNSAMMA FÖRHÅLLANDEN",
+      "title": "PLAN FÖR GENOMFÖRANDE",
       "words": [
-        "fördelaktig",
-        "förmånlig"
+        "strategi",
+        "handlingsplan"
       ],
-      "definition": "gynnsam",
+      "definition": "plan eller översikt över hur något ska genomföras",
       "word_definitions": [
-        "förmånlig, gynnsam",
-        "fördelaktig, bra, gynnsam"
+        "långsiktig plan för att genomföra något",
+        "plan för verksamhet (som finns till eller skapas för att man vill förändra något)"
       ]
     },
     {
-      "title": "POSITIV INSTÄLLNING",
+      "title": "TV- OCH RADIOPROGRAM",
       "words": [
-        "välvillig",
-        "människovänlig"
+        "magasin",
+        "feature"
       ],
-      "definition": "gynnsamt inställd",
+      "definition": "enskild sändning i radio eller tv",
       "word_definitions": [
-        "vänligt inställd",
-        "vänligt inställd till medmänniskorna, human"
+        "program i radio eller tv; tidskrift",
+        "radio- eller tv-program med inslag av dokumentärt och dramatiserat material; stort reportage i tidning"
       ]
     },
     {
-      "title": "BÖJNINGSFORMER",
+      "title": "DATORKOD",
       "words": [
-        "superlativ",
-        "komparativ"
+        "mjukvara",
+        "källkod"
       ],
-      "definition": "adjektivets grundform (t.ex. \"vacker\")",
+      "definition": "instruktion för en dator",
       "word_definitions": [
-        "den högsta graden hos adjektiv (t.ex. <i>störst, vackrast</i>)",
-        "jämförelsegrad, en böjning av ett adjektivs eller ett adverbs grundform"
+        "program till en dator, programvara",
+        "instruktioner i ett visst programspråk"
       ]
     },
     {
-      "title": "BÄRBARA INSTRUMENT",
+      "title": "UTBILDNINGSVAL",
       "words": [
-        "dragspel",
-        "blockflöjt"
+        "linje",
+        "profil"
       ],
-      "definition": "ett bärbart musikinstrument med vev",
+      "definition": "inriktning av utbildning (särskilt på gymnasiet och universitetet)",
       "word_definitions": [
-        "ett folkligt musikinstrument",
-        "ett blåsinstrument"
+        "kurs, inriktning",
+        "typiskt kännetecken, karaktär"
       ]
     }
   ]

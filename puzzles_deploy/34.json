@@ -1,52 +1,52 @@
 {
-  "pivot": "fin",
+  "pivot": "fälla",
   "categories": [
     {
-      "title": "ESTETISKT TILLTALANDE",
+      "title": "FÅ NÅGON ATT FALLA",
       "words": [
-        "tjusig",
-        "stilig"
+        "kullkasta",
+        "välta"
       ],
-      "definition": "snygg, vacker",
+      "definition": "få att falla genom att använda fysisk kraft",
       "word_definitions": [
-        "vacker, elegant",
-        "som har stil, elegant, vacker"
+        "vederlägger; omintetgör",
+        "gör så att något faller omkull; stjälper"
       ]
     },
     {
-      "title": "HÖG KVALITET",
+      "title": "SÄGA NÅGOT",
       "words": [
-        "förstklassig",
-        "briljant"
+        "säga",
+        "yttra"
       ],
-      "definition": "bra, utmärkt",
+      "definition": "(tillfälligtvis) yttra, uttala något",
       "word_definitions": [
-        "av bästa slag, prima, utmärkt",
-        "lysande, utmärkt"
+        "meddelar i ord, uttalar",
+        "säger, uttalar, framför"
       ]
     },
     {
-      "title": "SMAL KROPPSBYGGNAD",
+      "title": "MEKANISKA FÄLLOR",
       "words": [
-        "slank",
-        "smäcker"
+        "sax",
+        "flugsmälla"
       ],
-      "definition": "tunn, smal",
+      "definition": "fångsredskap ofta försett med lockbete för att locka och medelst fallucka eller annat som faller igen fånga eller innestänga ett djur",
       "word_definitions": [
-        "smal, smärt",
-        "smal och elegant"
+        "ett fångstredskap",
+        "ett redskap att döda flugor med"
       ]
     },
     {
-      "title": "SUBTIL OCH DISKRET",
+      "title": "BESEGRA NÅGON",
       "words": [
-        "sober",
-        "diplomatisk"
+        "övermanna",
+        "klå"
       ],
-      "definition": "diskret, subtil",
+      "definition": "besegra, kullkasta, avsätta",
       "word_definitions": [
-        "smakfull; diskret",
-        "smidig, försiktig"
+        "besegrar, tar tillfånga",
+        "slår; besegrar"
       ]
     }
   ]

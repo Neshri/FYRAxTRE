@@ -1,52 +1,52 @@
 {
-  "pivot": "hacka",
+  "pivot": "intresse",
   "categories": [
     {
-      "title": "OJÄMN MOTORGÅNG",
+      "title": "LUST OCH IVRIGHET",
       "words": [
-        "strutta",
-        "fuska"
+        "klåda",
+        "håg"
       ],
-      "definition": "ryckig och ojämn motordrift",
+      "definition": "lust att ägna något sin uppmärksamhet",
       "word_definitions": [
-        "går med ryckiga rörelser",
-        "använder otillåtna metoder för att vinna fördelar"
+        "lust att göra något",
+        "lust"
       ]
     },
     {
-      "title": "ANGRIPA MED NÄBB/FINGRAR",
+      "title": "FRITIDSSYSSLA",
       "words": [
-        "picka",
-        "knipa"
+        "sysselsättning",
+        "hobby"
       ],
-      "definition": "angripa varandra med näbben, nypas, trakassera",
+      "definition": "något man gärna sysslar med, hobby",
       "word_definitions": [
-        "plockar upp föda med näbben",
-        "klämmer, nyper"
+        "handlingen att sysselsätta sig med något, arbete",
+        "sysselsättning på fritiden"
       ]
     },
     {
-      "title": "KRITISERA HÅRDT",
+      "title": "ATTRAKTIONSKRAFT",
       "words": [
-        "mobba",
-        "dissa"
+        "lockelse",
+        "utstrålning"
       ],
-      "definition": "kritisera, mobba, trakassera",
+      "definition": "förmåga att fånga uppmärksamhet",
       "word_definitions": [
-        "ger sig på, trakasserar",
-        "kritiserar, nedvärderar"
+        "(något som har) förmåga att dra till sig intresse eller väcka begär",
+        "förmåga (hos en person) att göra ett starkt intryck, karisma"
       ]
     },
     {
-      "title": "BEARBETA MED VASST",
+      "title": "NYTTA OCH FÖRDEL",
       "words": [
-        "hugga",
-        "skära"
+        "nytta",
+        "fördel"
       ],
-      "definition": "använda sig av en hacka; bearbeta med ett vasst föremål för att sönderdela, göra hål e.d.",
+      "definition": "något som man kan ha fördel av, engagemang",
       "word_definitions": [
-        "slår med vasst föremål (för att sönderdela, skada m.m.)",
-        "bearbetar med kniv (för att dela upp eller skilja ifrån något)"
+        "något som har god effekt, fördel",
+        "det som gynnar någon, positiv egenskap"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "skjuter",
+  "pivot": "skola",
   "categories": [
     {
-      "title": "AVFYRA VAPEN",
+      "title": "SKOLBYGGNADER",
       "words": [
-        "avlossa",
-        "avfyra"
+        "institut",
+        "campus"
       ],
-      "definition": "avlossar skott (ibland så att någon dör)",
+      "definition": "byggnad avsedd att bedriva utbildning i",
       "word_definitions": [
-        "skjuter ett skott, avfyrar",
-        "avlossar, fyrar av"
+        "inrättning för forskning eller utbildning",
+        "skolområde eller skolbyggnader (särskilt rörande eftergymnasial utbildning), oftast inkluderande hela området och andra tillhörande byggnader"
       ]
     },
     {
-      "title": "FÖRFLYTTA FÖREMÅL",
+      "title": "STILRIKTNINGAR",
       "words": [
-        "dra",
-        "föra"
+        "barock",
+        "rokoko"
       ],
-      "definition": "förflyttar (utan att lyfta)",
+      "definition": "stilriktning inom konst, litteratur etc.",
       "word_definitions": [
-        "förflyttar sig",
-        "fraktar, förflyttar"
+        "en stil inom konst, musik och litteratur under 1600-talet och en del av 1700-talet",
+        "en stil (inom bl.a. konsten och arkitekturen) med rundade ornament och vanligen ljusa färger"
       ]
     },
     {
-      "title": "UPPSKJUTA HÄNDELSE",
+      "title": "PÅSTÅENDEVERB",
       "words": [
-        "förhala",
-        "försena"
+        "heta",
+        "hävda"
       ],
-      "definition": "senarelägger, uppskjuter",
+      "definition": "lär, vad som påstås",
       "word_definitions": [
-        "fördröjer, uppskjuter",
-        "gör sen, fördröjer, uppehåller"
+        "påstås",
+        "påstår"
       ]
     },
     {
-      "title": "RÖRA SIG SNABBT",
+      "title": "AVSIKTSVERB",
       "words": [
-        "susa",
-        "rusa"
+        "tänka",
+        "avse"
       ],
-      "definition": "rör sig snabbt",
+      "definition": "ämna, ha för avsikt att (ofta om förflyttning)",
       "word_definitions": [
-        "rör sig snabbt",
-        "springer mycket fort"
+        "planerar att, ämnar",
+        "tänker på, har som mål, ämnar"
       ]
     }
   ]

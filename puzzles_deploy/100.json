@@ -1,52 +1,52 @@
 {
-  "pivot": "pass",
+  "pivot": "pipa",
   "categories": [
     {
-      "title": "RESEDOKUMENT",
+      "title": "BLÅSINSTRUMENT",
       "words": [
-        "visum",
-        "boardingcard"
+        "flöjt",
+        "trumpet"
       ],
-      "definition": "dokument som man ibland måste visa upp när man reser utomlands",
+      "definition": "en typ av blåsinstrument",
       "word_definitions": [
-        "dokument som ger tillstånd att resa in i och vistas i ett visst land (när det inte räcker med pass)",
-        "kort som måste visas upp av flygpassagerare innan de stiger ombord"
+        "ett blåsinstrument",
+        "ett blåsinstrument i ganska högt tonläge"
       ]
     },
     {
-      "title": "BERGSFORMATIONER",
+      "title": "VAPENDELAR",
       "words": [
-        "ravin",
-        "skreva"
+        "kolv",
+        "avtryckare"
       ],
-      "definition": "trång väg mellan berg",
+      "definition": "avlångt, ihåligt föremål på ett mindre eldvapen genom vilket en projektil färdas",
       "word_definitions": [
-        "djup klyfta i berg",
-        "större spricka i berg"
+        "bakre del av handeldvapen",
+        "del av skjutvapen som man trycker på för att avlossa ett skott"
       ]
     },
     {
-      "title": "ARBETSPERIOD",
+      "title": "LUFTHÅLIGHETER",
       "words": [
-        "arbetsdag",
-        "skift"
+        "håla",
+        "bubbla"
       ],
-      "definition": "det antal timmar som någon arbetar vid visst tillfälle",
+      "definition": "hålighet bildad av gas under produktionen av hårdost",
       "word_definitions": [
-        "tiden man arbetar under en dag",
-        "arbetspass mellan två ombyten av arbetskraft"
+        "fördjupning, hålighet",
+        "liten mängd luft som (vanligen) omges av vatten"
       ]
     },
     {
-      "title": "SVAR VID BUDGIVNING",
+      "title": "PIPINDE LJUD",
       "words": [
-        "replik",
-        "bud"
+        "vina",
+        "gnissla"
       ],
-      "definition": "inget bud (i kortspel)",
+      "definition": "ge ifrån sig ett högfrekvent ljud",
       "word_definitions": [
-        "(kort) svar",
-        "befallning (särskilt i religiösa sammanhang)"
+        "ger ifrån sig ett starkt men pipigt ljud",
+        "ger ifrån sig ett skarpt och skärande ljud"
       ]
     }
   ]

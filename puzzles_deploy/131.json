@@ -1,52 +1,52 @@
 {
-  "pivot": "skola",
+  "pivot": "sky",
   "categories": [
     {
-      "title": "GE UTBILDNING",
+      "title": "MOLNFORMATIONER",
       "words": [
-        "träna",
-        "utbilda"
+        "puff",
+        "bank"
       ],
-      "definition": "utbilda, träna",
+      "definition": "moln",
       "word_definitions": [
-        "övar sig (i något)",
-        "ger utbildning åt"
+        "rökmoln",
+        "kompakt samling av moln"
       ]
     },
     {
-      "title": "STILPERIOD",
+      "title": "HIMMELSRUMMET",
       "words": [
-        "barock",
-        "rokoko"
+        "kosmos",
+        "zenit"
       ],
-      "definition": "stilriktning inom konst, litteratur etc.",
+      "definition": "himmel",
       "word_definitions": [
-        "en stil inom konst, musik och litteratur under 1600-talet och en del av 1700-talet",
-        "en stil (inom bl.a. konsten och arkitekturen) med rundade ornament och vanligen ljusa färger"
+        "universum",
+        "högsta punkten på himlen"
       ]
     },
     {
-      "title": "PÅSTÅ NÅGOT",
+      "title": "KÖTTSÅSER",
       "words": [
-        "heta",
-        "hävda"
+        "buljong",
+        "glace"
       ],
-      "definition": "lär, vad som påstås",
+      "definition": "saft ur kött som steks, sorts klar sås",
       "word_definitions": [
-        "påstås",
-        "påstår"
+        "soppa av klart köttspad, fiskspad eller grönsaksspad",
+        "En kraftigt reducerad och koncentrerad köttfond som kokats tills den blivit tjock och glansig, används för att ge smak och fyllighet åt såser."
       ]
     },
     {
-      "title": "HA AVSIKT",
+      "title": "UNDVIKA KONTAKT",
       "words": [
-        "ämna",
-        "avse"
+        "undvika",
+        "fly"
       ],
-      "definition": "ämna, ha för avsikt att (ofta om förflyttning)",
+      "definition": "undvika att möta eller komma i närheten av",
       "word_definitions": [
-        "har för avsikt att, avser, tänker",
-        "tänker på, har som mål, ämnar"
+        "håller sig borta från, avhåller sig från",
+        "rymmer, smiter"
       ]
     }
   ]

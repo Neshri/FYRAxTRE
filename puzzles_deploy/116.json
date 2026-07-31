@@ -1,52 +1,52 @@
 {
-  "pivot": "rätt",
+  "pivot": "röra",
   "categories": [
     {
-      "title": "MATPORTION",
+      "title": "TOTAL OORDNING",
       "words": [
-        "portion",
-        "matbit"
+        "kaos",
+        "virrvarr"
       ],
-      "definition": "portion med mat",
+      "definition": "oreda, oordning",
       "word_definitions": [
-        "mängd mat för en person",
-        "(ganska liten) portion mat"
+        "total förvirring, oreda",
+        "röra, oreda"
       ]
     },
     {
-      "title": "GRADAVVISANDE ORD",
+      "title": "FYSISK KONTAKT",
       "words": [
-        "tämligen",
-        "någorlunda"
+        "känna",
+        "snudda"
       ],
-      "definition": "ganska",
+      "definition": "ta i/på, vara eller befinna sig på eller i (fysisk) kontakt med",
       "word_definitions": [
-        "ganska",
-        "tämligen, ganska"
+        "tar (på), rör (vid)",
+        "berör lätt, vidrör, touchar"
       ]
     },
     {
-      "title": "RAKT OCH DIREKT",
+      "title": "PÅVERKA KÄNSLOMÄSSIGT",
       "words": [
-        "tvärs",
-        "direkt"
+        "gripa",
+        "påverka"
       ],
-      "definition": "utan vidare, rakt",
+      "definition": "(särskilt i particip) påverka känslomässigt",
       "word_definitions": [
-        "på tvären; mitt, rakt",
-        "utan omväg, rak, omedelbar"
+        "berör känslomässigt",
+        "utövar påverkan på"
       ]
     },
     {
-      "title": "KORREKT OCH SANN",
+      "title": "HANDLA OM",
       "words": [
-        "sann",
-        "verklig"
+        "sammanhänga",
+        "gälla"
       ],
-      "definition": "riktig, korrekt",
+      "definition": "handla eller vara fråga om, knyta an till, ha med att göra",
       "word_definitions": [
-        "riktig, äkta",
-        "sann, riktig"
+        "har att göra med, hänger ihop, hänger samman",
+        "handlar om, rör, angår"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "sänka",
+  "pivot": "tal",
   "categories": [
     {
-      "title": "GEOGRAFISK SÄNKA",
+      "title": "TALFÖRMÅGA",
       "words": [
-        "svacka",
-        "ravin"
+        "mål",
+        "retorik"
       ],
-      "definition": "dal, dalgång",
+      "definition": "det att tala; förmåga att tala",
       "word_definitions": [
-        "sänka i marken, fördjupning",
-        "djup klyfta i berg"
+        "förmåga att tala; språk",
+        "konsten att tala väl och övertyga andra"
       ]
     },
     {
-      "title": "MEDICINSKA PROV",
+      "title": "MUNTLIGT FRAMTRÄDANDE",
       "words": [
-        "blodprov",
-        "analys"
+        "föreläsning",
+        "presentation"
       ],
-      "definition": "ett slags blodprov",
+      "definition": "muntligt framträdande inför publik",
       "word_definitions": [
-        "prov av blod för medicinsk undersökning",
-        "noggrann undersökning"
+        "muntlig framställning över ett visst ämne, föredrag",
+        "handlingen att presentera någon eller något"
       ]
     },
     {
-      "title": "GÖRA MÅL",
+      "title": "MATEMATISKA SYMBOLER",
       "words": [
-        "träffa",
-        "skjuta"
+        "siffra",
+        "nummer"
       ],
-      "definition": "sätta (bollen) (ned i mål)",
+      "definition": "matematisk symbol som bl.a. betecknar antal",
       "word_definitions": [
-        "möter, råkar",
-        "avlossar skott (ibland så att någon dör)"
+        "antal, summa",
+        "siffra eller grupp av siffror (som t.ex. anger plats i ordningsföljd eller storlek)"
       ]
     },
     {
-      "title": "DRICKA UPP",
+      "title": "MATTEUPPGIFT",
       "words": [
-        "tömma",
-        "inta"
+        "övning",
+        "problem"
       ],
-      "definition": "dricka en hel grogg",
+      "definition": "matematisk uppgift",
       "word_definitions": [
-        "dricker upp",
-        "äter (eller dricker)"
+        "uppgift",
+        "något som kräver (logiskt) tänkande, gåta"
       ]
     }
   ]

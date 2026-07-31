@@ -1,52 +1,52 @@
 {
-  "pivot": "skiva",
+  "pivot": "skjuter",
   "categories": [
     {
-      "title": "TYP AV FEST",
+      "title": "AVFYRA VAPEN",
       "words": [
-        "partaj",
-        "samkväm"
+        "avlossa",
+        "fälla"
       ],
-      "definition": "fest",
+      "definition": "avlossar skott (ibland så att någon dör)",
       "word_definitions": [
-        "party",
-        "enklare fest"
+        "skjuter ett skott, avfyrar",
+        "dödar"
       ]
     },
     {
-      "title": "MUSIKSKIVA",
+      "title": "FÖRFLYTTA NÅGOT",
       "words": [
-        "platta",
-        "stenkaka"
+        "dra",
+        "föra"
       ],
-      "definition": "grammofonskiva eller cd-skiva",
+      "definition": "förflyttar (utan att lyfta)",
       "word_definitions": [
-        "(cd-)skiva",
-        "gammal grammofonskiva"
+        "förflyttar sig",
+        "fraktar, förflyttar"
       ]
     },
     {
-      "title": "KROPPENS BROSKPLATTOR",
+      "title": "DRÖJA MED NÅGOT",
       "words": [
-        "disk",
-        "menisk"
+        "förhala",
+        "senarelägga"
       ],
-      "definition": "platta av brosk mellan kotorna i ryggraden",
+      "definition": "senarelägger, uppskjuter",
       "word_definitions": [
-        "en sorts platta mellan ryggradens kotor",
-        "en sorts skiva av brosk i knäleden"
+        "fördröjer, uppskjuter",
+        "uppskjuter"
       ]
     },
     {
-      "title": "TUNN BIT",
+      "title": "RÖRA SIG SNABBT",
       "words": [
-        "flak",
-        "lamell"
+        "susa",
+        "rusa"
       ],
-      "definition": "del från ett större objekt som skurits av till en jämntjock och relativt tunn bit",
+      "definition": "rör sig snabbt",
       "word_definitions": [
-        "stor jämntjock skiva",
-        "tunn skiva (ofta av trä eller metall)"
+        "rör sig snabbt",
+        "springer mycket fort"
       ]
     }
   ]

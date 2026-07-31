@@ -1,52 +1,52 @@
 {
-  "pivot": "siktar",
+  "pivot": "skada",
   "categories": [
     {
-      "title": "RIKTA VAPEN",
+      "title": "KROPPSSKADA",
       "words": [
-        "rikta",
-        "måtta"
+        "blessyr",
+        "fraktur"
       ],
-      "definition": "riktar ett vapen e.d. mot ett mål, måttar",
+      "definition": "(ben)brott; sår",
       "word_definitions": [
-        "vänder åt visst håll; siktar",
-        "siktar"
+        "(lättare) sår",
+        "brott i skelettets ben, benbrott"
       ]
     },
     {
-      "title": "STRÄVA MOT MÅL",
+      "title": "MATERIELL ÅVERKAN",
       "words": [
-        "avse",
-        "sträva"
+        "vandalism",
+        "rasering"
       ],
-      "definition": "inriktar sig på, har som sitt mål",
+      "definition": "åverkan",
       "word_definitions": [
-        "tänker på, har som mål, ämnar",
-        "arbetar träget, anstränger sig för att uppnå"
+        "meningslös förstörelse",
+        "Handlingen att riva, förstöra eller jämna med marken en fysisk struktur eller byggnad."
       ]
     },
     {
-      "title": "FÅ SYN PÅ",
+      "title": "BEKLAGLIGT FÖRHÅLLANDE",
       "words": [
-        "upptäcka",
-        "märka"
+        "olycka",
+        "tragedi"
       ],
-      "definition": "får syn på",
+      "definition": "förhållande som man beklagar, synd",
       "word_definitions": [
-        "lägger märke till, observerar",
-        "får se, observerar"
+        "plågsam eller tragisk händelse som inträffar utan mänskligt uppsåt",
+        "sorglig händelse"
       ]
     },
     {
-      "title": "SILA GENOM",
+      "title": "TEKNISK BRIST",
       "words": [
-        "sila",
-        "filtrera"
+        "fel",
+        "defekt"
       ],
-      "definition": "låter passera genom en sikt",
+      "definition": "fel på något eller något som gått sönder eller blivit förstört (som orsakats vid ett särskilt tillfälle)",
       "word_definitions": [
-        "låter passera genom sil",
-        "häller genom filter; silar, renar"
+        "handling som inte är korrekt, misstag",
+        "fel, brist"
       ]
     }
   ]

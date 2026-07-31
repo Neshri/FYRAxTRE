@@ -1,52 +1,52 @@
 {
-  "pivot": "plan",
+  "pivot": "post",
   "categories": [
     {
-      "title": "ARBETSPLANERING",
+      "title": "KORRESPONDENS",
       "words": [
-        "program",
-        "instruktion"
+        "brev",
+        "mejl"
       ],
-      "definition": "anvisningar eller tankar om utformning av verksamhet",
+      "definition": "brev eller paket som sänds till en adressat",
       "word_definitions": [
-        "plan eller översikt över hur något ska genomföras",
-        "anvisning om hur man ska göra något"
+        "skrivet meddelande som läggs i kuvert och skickas med posten",
+        "meddelande som sänds med e-post"
       ]
     },
     {
-      "title": "OMRÅDESBILD",
+      "title": "BOKFÖRINGSTERM",
       "words": [
-        "karta",
-        "illustration"
+        "saldo",
+        "avgift"
       ],
-      "definition": "bild över ett område",
+      "definition": "belopp (i räkenskap e.d.)",
       "word_definitions": [
-        "starkt förminskad bild (med speciella symboler) av jordytan eller annat område",
-        "bild"
+        "behållning (eller underskott) på ett konto",
+        "ersättning (för en rättighet), betalning, pris"
       ]
     },
     {
-      "title": "HUSVÅNING",
+      "title": "DEL AV DÖRRKARM",
       "words": [
-        "lägenhet",
-        "etage"
+        "tröskel",
+        "gångjärn"
       ],
-      "definition": "våning",
+      "definition": "lodrät del av karm (till dörr eller fönster)",
       "word_definitions": [
-        "bostad (i större hus), våning",
-        "våning, plan"
+        "upphöjd bräda på golvet i dörröppning",
+        "anordning som en dörr eller ett fönster hänger på"
       ]
     },
     {
-      "title": "LUFTFARTYG",
+      "title": "YRKESROLL",
       "words": [
-        "flygmaskin",
-        "jumbojet"
+        "befattning",
+        "ämbete"
       ],
-      "definition": "flygplan",
+      "definition": "(högre) tjänst",
       "word_definitions": [
-        "flygplan",
-        "ett slags stort flygplan"
+        "sysselsättning, (högre) tjänst, arbete",
+        "(hög) statlig eller kyrklig tjänst"
       ]
     }
   ]

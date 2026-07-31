@@ -1,52 +1,52 @@
 {
-  "pivot": "resa",
+  "pivot": "rätt",
   "categories": [
     {
-      "title": "LEDIGHET PÅ RESA",
+      "title": "RIKTIGT OCH SANT",
       "words": [
-        "semester",
-        "utflykt"
+        "riktig",
+        "sann"
       ],
-      "definition": "semester på annan ort",
+      "definition": "riktig, korrekt",
       "word_definitions": [
-        "betald ledighet från arbetet",
-        "kort resa för nöjes skull"
+        "felfri, korrekt",
+        "riktig, äkta"
       ]
     },
     {
-      "title": "GÖRA UPPRÄTT",
+      "title": "MORALISKT KORREKT",
       "words": [
-        "ställa",
-        "lyfta"
+        "anständig",
+        "moralisk"
       ],
-      "definition": "höja upp (från ett liggande) till (mer) upprätt läge",
+      "definition": "moraliskt riktig",
       "word_definitions": [
-        "placerar upprätt eller stående; placerar",
-        "för till en högre nivå, för uppåt"
+        "(moraliskt) passande; korrekt, hederlig",
+        "som bygger på moral"
       ]
     },
     {
-      "title": "SKAPA HINDER",
+      "title": "FÖLJA LAGEN",
       "words": [
-        "hindra",
-        "motarbeta"
+        "efterlevnad",
+        "tillämpning"
       ],
-      "definition": "lägga hinder eller svårigheter i vägen",
+      "definition": "det att lagarna gäller och används",
       "word_definitions": [
-        "utgör hinder för",
-        "lägger hinder i vägen för, bekämpar"
+        "det att följa lagar och regler",
+        "(praktisk) användning av regler och föreskrifter"
       ]
     },
     {
-      "title": "STÄLLA KRAV",
+      "title": "EN DOMSTOL",
       "words": [
-        "yrka",
-        "begära"
+        "domstol",
+        "tribunal"
       ],
-      "definition": "framföra krav, anspråk e.d.",
+      "definition": "domstol",
       "word_definitions": [
-        "begär, kräver",
-        "ber om, fordrar, kräver"
+        "myndighet som dömer i rättsfall",
+        "(revolutions)domstol"
       ]
     }
   ]

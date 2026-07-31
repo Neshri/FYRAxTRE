@@ -1,52 +1,52 @@
 {
-  "pivot": "operation",
+  "pivot": "parti",
   "categories": [
     {
-      "title": "SÄTT ATT ARBETA",
+      "title": "DEL AV HELHET",
       "words": [
-        "metod",
-        "strategi"
+        "bit",
+        "segment"
       ],
-      "definition": "(komplicerad) procedur för att nå ett visst resultat",
+      "definition": "avgränsad del, stycke",
       "word_definitions": [
-        "(systematiskt) sätt att utföra något",
-        "långsiktig plan för att genomföra något"
+        "del, stycke, avsnitt",
+        "avgränsad del av något"
       ]
     },
     {
-      "title": "KIRURGISKA INGREPP",
+      "title": "POLITISK SAMMANSLUTNING",
       "words": [
-        "kejsarsnitt",
-        "ansiktslyftning"
+        "block",
+        "allians"
       ],
-      "definition": "kirurgiskt ingrepp",
+      "definition": "politisk sammanslutning (med viss ideologi)",
       "word_definitions": [
-        "förlossning genom ett kirurgiskt ingrepp",
-        "kirurgisk operation med avsikt att avlägsna rynkor"
+        "sammanslutning av organisationer eller partier",
+        "(politiskt) förbund"
       ]
     },
     {
-      "title": "MILITÄRA AKTIONER",
+      "title": "OMGÅNG I SPEL",
       "words": [
-        "marsch",
-        "framryckning"
+        "set",
+        "rond"
       ],
-      "definition": "militär handling för att uppnå ett visst syfte, t.ex. att förflytta en trupp soldater",
+      "definition": "omgång, spel",
       "word_definitions": [
-        "gång eller förflyttning i takt och i jämn fart (särskilt om truppförflyttning)",
-        "handlingen att rycka fram (särskilt militärt)"
+        "omgång (i tennis och andra racketspel)",
+        "period av boxningsmatch; omgång"
       ]
     },
     {
-      "title": "UPPGIFTER OCH ARBETEN",
+      "title": "MÄNGD AV VARA",
       "words": [
-        "mission",
-        "göromål"
+        "laddning",
+        "sändning"
       ],
-      "definition": "uppgift, arbete",
+      "definition": "mängd av en viss vara",
       "word_definitions": [
-        "uppgift",
-        "syssla, arbete"
+        "(stor) mängd av något",
+        "parti av varor som sänds"
       ]
     }
   ]

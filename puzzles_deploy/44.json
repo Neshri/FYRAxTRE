@@ -1,52 +1,52 @@
 {
-  "pivot": "få",
+  "pivot": "god",
   "categories": [
     {
-      "title": "LÅGT ANTAL",
+      "title": "KÄRLIGA KÄNSLOR",
       "words": [
-        "knapp",
-        "obegränsad"
+        "förälskad",
+        "förtjust"
       ],
-      "definition": "inte många men fler än två; bara några; ett litet antal",
+      "definition": "kär",
       "word_definitions": [
-        "otillräcklig, begränsad, liten",
-        "som saknar gräns; mycket riklig"
+        "kär",
+        "förälskad"
       ]
     },
     {
-      "title": "GÖRA SÅ ATT",
+      "title": "MORALISK KARAKTÄR",
       "words": [
-        "föranleda",
-        "låta"
+        "ädel",
+        "sedlig"
       ],
-      "definition": "orsaka; göra så att eller se till att någon utför en handling eller att något händer",
+      "definition": "moraliskt högtstående",
       "word_definitions": [
-        "leder till, orsakar",
-        "ser till att något blir gjort"
+        "moraliskt högtstående, ridderlig",
+        "moraliskt högtstående (i sexuellt avseende)"
       ]
     },
     {
-      "title": "FÅNGA BYTE",
+      "title": "SÖTA EGENSKAPER",
       "words": [
-        "gripa",
-        "snärja"
+        "gullig",
+        "älskvärd"
       ],
-      "definition": "fånga (fisk, byte, brottslingar)",
+      "definition": "tilltalande, söt",
       "word_definitions": [
-        "tar fast, fångar, häktar",
-        "fångar djur (i snara)"
+        "rar, söt",
+        "vänlig, charmerande"
       ]
     },
     {
-      "title": "HINNA MED",
+      "title": "VÄLSMAKANDE MAT",
       "words": [
-        "hinna",
-        "räcka"
+        "delikat",
+        "aptitlig"
       ],
-      "definition": "hinna med",
+      "definition": "välsmakande, läcker",
       "word_definitions": [
-        "kommer i tid, når fram",
-        "når"
+        "läcker, välsmakande",
+        "som smakar gott, välsmakande"
       ]
     }
   ]

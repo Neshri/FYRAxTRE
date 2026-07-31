@@ -1,52 +1,52 @@
 {
-  "pivot": "fall",
+  "pivot": "fel",
   "categories": [
     {
-      "title": "PLUTSLIGT FALL",
+      "title": "FELAKTIG",
       "words": [
-        "haveri",
-        "stöt"
+        "oriktig",
+        "falsk"
       ],
-      "definition": "handlingen att störta ner eller ramla",
+      "definition": "inte rätt, felaktig",
       "word_definitions": [
-        "det att ett fartyg går under eller ett flygplan störtar",
-        "slag, knuff; kortvarig elektrisk ström genom kroppen"
+        "felaktig",
+        "inte sann, oriktig"
       ]
     },
     {
-      "title": "TOTAL UNDERGÅNG",
+      "title": "EN MISSTAGSHANDLING",
       "words": [
-        "ruin",
-        "kollaps"
+        "fadäs",
+        "blunder"
       ],
-      "definition": "undergång, undergång",
+      "definition": "handling som inte är korrekt, misstag",
       "word_definitions": [
-        "(ekonomisk) undergång; bankrutt",
-        "plötsligt sammanbrott"
+        "dumhet, misstag",
+        "misstag, fel"
       ]
     },
     {
-      "title": "BRANT SLUTTNING",
+      "title": "ANSVAR FÖR FEL",
       "words": [
-        "stup",
-        "avgrund"
+        "skuld",
+        "ansvar"
       ],
-      "definition": "fors; stup",
+      "definition": "ansvar för ett misstag, skuld",
       "word_definitions": [
-        "något som stupar brant, djup",
-        "stor klyfta, stup"
+        "ansvar för brott eller fel",
+        "skyldighet att ta på sig skulden (om något går fel)"
       ]
     },
     {
-      "title": "HÄNDELSE",
+      "title": "EN BRIST",
       "words": [
-        "tilldragelse",
-        "begivenhet"
+        "defekt",
+        "skavank"
       ],
-      "definition": "händelse, tillfälle; exempel",
+      "definition": "skada, brist, skavank",
       "word_definitions": [
-        "händelse",
-        "stor händelse, evenemang"
+        "ofullständig, bristfällig",
+        "liten skada"
       ]
     }
   ]

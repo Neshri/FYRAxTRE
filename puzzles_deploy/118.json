@@ -1,52 +1,52 @@
 {
-  "pivot": "rör",
+  "pivot": "rörelse",
   "categories": [
     {
-      "title": "NUDDA VID",
+      "title": "KROPPSRÖRELSER",
       "words": [
-        "nudda",
-        "tangera"
+        "dans",
+        "motion"
       ],
-      "definition": "berör, nuddar",
+      "definition": "det att en kroppsdel rör sig, kroppsrörelse",
       "word_definitions": [
-        "berör lätt, snuddar",
-        "snuddar vid"
+        "rytmiska kroppsrörelser till musik",
+        "träning, kroppsrörelser (för hälsans skull)"
       ]
     },
     {
-      "title": "VISPA OCH BLANDA",
+      "title": "FÖRETAG",
       "words": [
-        "vispa",
-        "piska"
+        "firma",
+        "bolag"
       ],
-      "definition": "vispar",
+      "definition": "företag",
       "word_definitions": [
-        "får att rotera eller virvla (med visp)",
-        "slår med piska"
+        "företag, bolag",
+        "ekonomisk sammanslutning; företag"
       ]
     },
     {
-      "title": "VÄCKA KÄNSLOR",
+      "title": "SAMARBETSGRUPPER",
       "words": [
-        "gripa",
-        "frappera"
+        "kollektiv",
+        "team"
       ],
-      "definition": "berör känslomässigt, griper",
+      "definition": "grupp människor som samarbetar för ett (ideellt) mål",
       "word_definitions": [
-        "berör känslomässigt",
-        "gör starkt intryck på, förvånar"
+        "grupp människor som har gemensamma intressen (och som ibland bor och äter tillsammans)",
+        "(arbets)lag, grupp"
       ]
     },
     {
-      "title": "GÄLLA ELLER AVSE",
+      "title": "STARK KÄNSLA",
       "words": [
-        "omfatta",
-        "gälla"
+        "patos",
+        "gripenhet"
       ],
-      "definition": "handlar om, gäller",
+      "definition": "stark känsla av ömhet, gripenhet",
       "word_definitions": [
-        "gäller, avser",
-        "är giltig, är i kraft"
+        "stark känsla",
+        "egenskapen att vara gripen"
       ]
     }
   ]

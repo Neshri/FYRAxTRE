@@ -1,52 +1,52 @@
 {
-  "pivot": "stoppar",
+  "pivot": "stämma",
   "categories": [
     {
-      "title": "LAGA KLÄDER",
+      "title": "RÄTTSLIGA ÅTGÄRDER",
       "words": [
-        "laga",
-        "sy"
+        "åtala",
+        "processa"
       ],
-      "definition": "lagar hål i kläder",
+      "definition": "dra inför domstol, kalla inför rätta",
       "word_definitions": [
-        "tillreder, anrättar",
-        "arbetar med nål och tråd (för att fästa ihop något)"
+        "anklagar inför domstol",
+        "driver en rättegång (mot någon)"
       ]
     },
     {
-      "title": "FYLLA MED MATERIAL",
+      "title": "STOPPA FLÖDET",
       "words": [
-        "vaddera",
-        "fylla"
+        "blockera",
+        "hejda"
       ],
-      "definition": "fyller med mjukt material",
+      "definition": "stoppa flöde",
       "word_definitions": [
-        "fyller med vadd",
-        "gör full"
+        "spärrar av, hindrar",
+        "stoppar, hindrar"
       ]
     },
     {
-      "title": "SÄTTA IN NÅGOT",
+      "title": "ARBETA I TRÄ",
       "words": [
-        "trycka",
-        "skjuta"
+        "tälja",
+        "snida"
       ],
-      "definition": "sticker (in), för (in)",
+      "definition": "använda stämjärn vid träarbete",
       "word_definitions": [
-        "utövar tryck, pressar",
-        "avlossar skott (ibland så att någon dör)"
+        "skär i trä med kniv, snidar",
+        "skär eller skulpterar i trä"
       ]
     },
     {
-      "title": "HEJDA NÅGOT",
+      "title": "AVGE RÖST",
       "words": [
-        "hindra",
-        "bromsa"
+        "rösta",
+        "votera"
       ],
-      "definition": "bromsar, hejdar",
+      "definition": "avge röst vid val",
       "word_definitions": [
-        "hejdar",
-        "använder broms för att minska farten"
+        "uttrycker sin mening i val",
+        "röstar"
       ]
     }
   ]

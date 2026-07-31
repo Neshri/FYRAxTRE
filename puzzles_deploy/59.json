@@ -1,52 +1,52 @@
 {
-  "pivot": "inre",
+  "pivot": "klippa",
   "categories": [
     {
-      "title": "RELATIV POSITION",
+      "title": "STENFORMATIONER",
       "words": [
-        "bortre",
-        "hitre"
+        "berg",
+        "block"
       ],
-      "definition": "som ligger längre in (från kusten)",
+      "definition": "stort stycke av sten eller bergart; del av urberg som går upp i dagen; klipphäll",
       "word_definitions": [
-        "som finns längre bort",
-        "som ligger närmare oss"
+        "stor upphöjning av sten i jordytan, kulle; berggrund",
+        "sammanhängande helhet (av hårt material, t.ex. sten)"
       ]
     },
     {
-      "title": "SJÄLSLIGA EGENSKAPER",
+      "title": "VÅRDA HÅRET",
       "words": [
-        "psykisk",
-        "andlig"
+        "frisera",
+        "trimma"
       ],
-      "definition": "som finns inne i människan, invärtes; själslig",
+      "definition": "låta någon, såsom en frisör, klippa ens hår",
       "word_definitions": [
-        "själslig",
-        "själslig, icke-världslig, religiös"
+        "ordna hår på prydligt sätt genom att kamma, (låta) klippa eller permanenta hår",
+        "avlägsnar överflödigt hår från"
       ]
     },
     {
-      "title": "INTERN ORGANISATION",
+      "title": "FÖRSTÖRA DOKUMENT",
       "words": [
-        "intern",
-        "organisatorisk"
+        "makulera",
+        "förstöra"
       ],
-      "definition": "som finns inom en organisation, intern",
+      "definition": "förstöra ett kontokort eller dylikt på grund av att tillhörande tjänst avslutats, till exempel genom att med en sax dela kortet i flera små bitar",
       "word_definitions": [
-        "som finns inom en organisation; inre, inhemsk",
-        "som har att göra med organisation"
+        "kasserar eller förstör (papper)",
+        "gör oduglig, fördärvar"
       ]
     },
     {
-      "title": "INRE DELAR",
+      "title": "STARK PERSONLIGHET",
       "words": [
-        "innandöme",
-        "kärna"
+        "stöttepelare",
+        "kämpe"
       ],
-      "definition": "inre del av något",
+      "definition": "(överfört) tillförlitlig, orubblig person; person som lyckas trots motgångar",
       "word_definitions": [
-        "det inre av något",
-        "frö inuti en frukt, sten (i stenfrukt)"
+        "den viktigaste personen (t.ex. i ett lag)",
+        "person som kämpar"
       ]
     }
   ]

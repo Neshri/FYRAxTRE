@@ -1,52 +1,52 @@
 {
-  "pivot": "skrapa",
+  "pivot": "skärpa",
   "categories": [
     {
-      "title": "HANDVERKTYG",
+      "title": "BILDKVALITET",
       "words": [
-        "kniv",
-        "spackel"
+        "upplösning",
+        "kontrast"
       ],
-      "definition": "redskap att skrapa med",
+      "definition": "egenskapen att ha skarpa linjer; förmågan hos bilden att ge en skarp bild",
       "word_definitions": [
-        "ett redskap att skära med",
-        "redskap att spackla med"
+        "ett mått på bildkvaliteten hos bildskärm, kamera e.d.",
+        "tydlig olikhet, motsats"
       ]
     },
     {
-      "title": "TILLRÄTTAVISNINGAR",
+      "title": "GÖRA VASSARE",
       "words": [
-        "varning",
-        "reprimand"
+        "bryna",
+        "slipa"
       ],
-      "definition": "tillrättavisning",
+      "definition": "vässa, göra vassare",
       "word_definitions": [
-        "tillrättavisning",
-        "(officiell) tillrättavisning"
+        "gör vassare eller skarpare",
+        "gör (en egg) vass, vässar"
       ]
     },
     {
-      "title": "HÖGA BYGGNADER",
+      "title": "SKÄRPA STRAFFEN",
       "words": [
-        "höghus",
-        "torn"
+        "höja",
+        "förstärka"
       ],
-      "definition": "kortform för skyskrapa",
+      "definition": "ge strängare straff",
       "word_definitions": [
-        "hus med många våningar",
-        "hög och smal (del av) byggnad"
+        "gör högre (1, 2); ökar",
+        "gör starkare"
       ]
     },
     {
-      "title": "SAMLA IHOP",
+      "title": "BÄTTRA SIG",
       "words": [
-        "hopa",
-        "sammanföra"
+        "förbättra",
+        "disciplinera"
       ],
-      "definition": "samla ihop",
+      "definition": "bete sig bättre, på ett mer korrekt och kontrollerat sätt",
       "word_definitions": [
-        "samla i stor mängd, samla på hög, skaffa och spara",
-        "gör så att två eller fler personer träffas, för samman"
+        "gör bättre, hjälper upp",
+        "vänja vid tukt och ordning"
       ]
     }
   ]

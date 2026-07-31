@@ -1,52 +1,52 @@
 {
-  "pivot": "tunn",
+  "pivot": "utgår",
   "categories": [
     {
-      "title": "LITEN TJOCKLEK",
+      "title": "PÅBÖRJA NÅGOT",
       "words": [
-        "fin",
-        "spinkig"
+        "börja",
+        "inleda"
       ],
-      "definition": "som har liten tjocklek, smal",
+      "definition": "startar",
       "word_definitions": [
-        "tunn, smal",
-        "smal, mager (om person eller kroppsdel)"
+        "startar, inleder, sätter igång",
+        "påbörjar, startar"
       ]
     },
     {
-      "title": "GLEST FÖREKOMMANDE",
+      "title": "BASERA PÅ",
       "words": [
-        "utspridd",
-        "gles"
+        "grunda",
+        "anta"
       ],
-      "definition": "sparsamt förekommande, gles",
+      "definition": "har som utgångspunkt, förutsätter",
       "word_definitions": [
-        "inte samlad, gles",
-        "inte tät, utspridd"
+        "har som grund för, stöder",
+        "tänker sig, förmodar"
       ]
     },
     {
-      "title": "UTSPÄDD VÄTSKA",
+      "title": "BETALA PENGAR",
       "words": [
-        "urlakad",
-        "vattnig"
+        "erlägga",
+        "pröjsa"
       ],
-      "definition": "vattnig, utspädd",
+      "definition": "betalas ut",
       "word_definitions": [
-        "urvattnad",
-        "som liknar vatten, tunn"
+        "betalar",
+        "betalar"
       ]
     },
     {
-      "title": "SACKNAR INNEHÅLL",
+      "title": "UPPHÖRA MED",
       "words": [
-        "tom",
-        "poänglös"
+        "upphöra",
+        "sluta"
       ],
-      "definition": "som saknar substans",
+      "definition": "tar slut, upphör, går ut",
       "word_definitions": [
-        "som saknar innehåll",
-        "som saknar poäng (1, 2)"
+        "slutar, hör upp",
+        "tar slut, upphör"
       ]
     }
   ]

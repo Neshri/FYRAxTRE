@@ -1,52 +1,52 @@
 {
-  "pivot": "plats",
+  "pivot": "prick",
   "categories": [
     {
-      "title": "GEOGRAFISK POSITION",
+      "title": "HELT EXAKT",
       "words": [
-        "position",
-        "region"
+        "just",
+        "blankt"
       ],
-      "definition": "område med ett bestämt läge",
+      "definition": "precis, exakt",
       "word_definitions": [
-        "ställning, läge",
-        "geografiskt område"
+        "precis, exakt",
+        "precis, exakt"
       ]
     },
     {
-      "title": "LEDIGT UTRYMME",
+      "title": "LITET MÄRKE",
       "words": [
-        "rum",
-        "yta"
+        "spår",
+        "punkt"
       ],
-      "definition": "ledigt utrymme",
+      "definition": "punkt, märke",
       "word_definitions": [
-        "plats, utrymme",
-        "areal, area; utrymme"
+        "avtryck, märke",
+        "tecken för slutet på en mening (.)"
       ]
     },
     {
-      "title": "YRKESROLL",
+      "title": "TYP AV PERSON",
       "words": [
-        "tjänst",
-        "jobb"
+        "original",
+        "raring"
       ],
-      "definition": "anställning",
+      "definition": "person",
       "word_definitions": [
-        "anställning",
-        "anställning; arbetstillfälle"
+        "originell person",
+        "rar person"
       ]
     },
     {
-      "title": "TÄVLINGSPLACERING",
+      "title": "FLÄCK ELLER FEL",
       "words": [
-        "ställning",
-        "rangordning"
+        "plump",
+        "plätt"
       ],
-      "definition": "placering i tävling",
+      "definition": "anmärkning, fläck",
       "word_definitions": [
-        "läge i en tävling",
-        "placering efter rang"
+        "fläck",
+        "liten plats, fläck"
       ]
     }
   ]

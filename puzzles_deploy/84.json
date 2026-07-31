@@ -1,52 +1,52 @@
 {
-  "pivot": "lugn",
+  "pivot": "löser",
   "categories": [
     {
-      "title": "FRIDFULLA EGENSKAPER",
+      "title": "GÖRA FRI",
       "words": [
-        "stillsam",
-        "fredlig"
+        "befria",
+        "lossa"
       ],
-      "definition": "som rör sig mycket lite; fridfull",
+      "definition": "ger fri",
       "word_definitions": [
-        "stilla, fridsam, lugn (mest om person)",
-        "lugn, stillsam, fridsam"
+        "gör fri, räddar",
+        "löser, frigör"
       ]
     },
     {
-      "title": "BEHÄRSKADE PERSONLIGHETER",
+      "title": "FÅ MOT BETALNING",
       "words": [
-        "samlad",
-        "stoisk"
+        "köpa",
+        "förvärva"
       ],
-      "definition": "behärskad",
+      "definition": "får mot betalning",
       "word_definitions": [
-        "behärskad",
-        "lugn och behärskad"
+        "skaffar sig något genom att betala, handlar",
+        "lyckas skaffa sig"
       ]
     },
     {
-      "title": "TILLSTÅND AV STILLHET",
+      "title": "BLANDA SAMMAN",
       "words": [
-        "frid",
-        "ro"
+        "sammanblanda",
+        "späda"
       ],
-      "definition": "mycket lite rörelse; fridfullt tillstånd",
+      "definition": "blandar upp",
       "word_definitions": [
-        "lugn, ro, fred, stillhet",
-        "lugn och stillhet"
+        "förväxlar, blandar ihop, blandar samman",
+        "blandar med vatten, gör mer utspädd"
       ]
     },
     {
-      "title": "INRE BEHÄRSKNING",
+      "title": "KLARA AV",
       "words": [
-        "behärskning",
-        "besinning"
+        "avhjälpa",
+        "lyckas"
       ],
-      "definition": "behärskning av känslor",
+      "definition": "kommer tillrätta med, klarar",
       "word_definitions": [
-        "kontroll över egna känslor, lugn",
-        "eftertanke, självbehärskning"
+        "rättar till",
+        "har framgång; klarar av"
       ]
     }
   ]

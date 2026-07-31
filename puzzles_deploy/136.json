@@ -1,52 +1,52 @@
 {
-  "pivot": "skärpa",
+  "pivot": "spelar",
   "categories": [
     {
-      "title": "PRECISERA INFORMATION",
+      "title": "UTÖVA SPEL OCH SPORT",
       "words": [
-        "precisera",
-        "förtydliga"
+        "sporta",
+        "leka"
       ],
-      "definition": "göra skarpare; göra så att ett givet påstående innehåller mer information",
+      "definition": "ägnar sig åt spel",
       "word_definitions": [
-        "anger mer detaljerat, gör mera precis",
-        "gör tydligare, förklarar"
+        "ägnar sig åt sport",
+        "håller på med lek"
       ]
     },
     {
-      "title": "BILDKVALITET",
+      "title": "AGERA I PJÄS",
       "words": [
-        "upplösning",
-        "kontrast"
+        "uppföra",
+        "agera"
       ],
-      "definition": "egenskapen att ha skarpa linjer; förmågan hos bilden att ge en skarp bild",
+      "definition": "uppför en viss teaterpjäs, agerar i en teaterpjäs eller film",
       "word_definitions": [
-        "slut, avslutning",
-        "tydlig olikhet, motsats"
+        "spelar (teater), framför",
+        "spelar (rollen av)"
       ]
     },
     {
-      "title": "FÖRBÄTTRA BETTANDE",
+      "title": "LÅTSAS ELLER FAKA",
       "words": [
-        "förbättra",
-        "korrigera"
+        "låtsa",
+        "simulera"
       ],
-      "definition": "bete sig bättre, på ett mer korrekt och kontrollerat sätt",
+      "definition": "låtsas",
       "word_definitions": [
-        "gör bättre, hjälper upp",
-        "gör korrekt, rättar"
+        "låtsas",
+        "spelar, låtsar"
       ]
     },
     {
-      "title": "LOGISK FÖRMÅGA",
+      "title": "SPELA INSTRUMENT",
       "words": [
-        "intelligens",
-        "förstånd"
+        "musicera",
+        "traktera"
       ],
-      "definition": "förmågan att dra korrekta logiska slutsatser",
+      "definition": "framför musik på instrument, musicerar",
       "word_definitions": [
-        "förmåga till tänkande och analys, begåvning",
-        "förmåga att förstå"
+        "framför musik",
+        "spelar (musikinstrument)"
       ]
     }
   ]

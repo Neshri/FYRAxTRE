@@ -1,52 +1,52 @@
 {
-  "pivot": "lopp",
+  "pivot": "låter",
   "categories": [
     {
-      "title": "LÖPTÄVLINGAR",
+      "title": "GE IFRÅN SIG LJUD",
       "words": [
-        "stafett",
-        "heat"
+        "ljuda",
+        "klinga"
       ],
-      "definition": "enskild tävling i löpning e.d.",
+      "definition": "hörs, ljuder",
       "word_definitions": [
-        "en sorts lagtävling (i t.ex. löpning och simning) där de tävlande inom samma lag avlöser varandra",
-        "tidig omgång av löptävling eller simtävling (där de sämre slås ut)"
+        "hörs, låter",
+        "ger ifrån sig klara toner"
       ]
     },
     {
-      "title": "HÄNDELSEFÖLJD",
+      "title": "FÖREFALLA VARA",
       "words": [
-        "process",
-        "utveckling"
+        "tyckas",
+        "verka"
       ],
-      "definition": "(tidens) gång , förlopp",
+      "definition": "verkar vara, förefaller",
       "word_definitions": [
-        "förlopp, utveckling",
-        "handlingen att utveckla något; det att utvecklas, tillväxt"
+        "verkar, synes, förefaller",
+        "ser ut, tycks, förefaller"
       ]
     },
     {
-      "title": "GEVÄRSDELAR",
+      "title": "TILLLÅTA NÅGOT",
       "words": [
-        "rör",
-        "pipa"
+        "medge",
+        "sanktionera"
       ],
-      "definition": "insidan av gevärspipa",
+      "definition": "går med på, tillåter",
       "word_definitions": [
-        "lång ihålig cylinder, pipa",
-        "anordning med behållare för tobak som används vid rökning"
+        "ger möjlighet till, tillåter",
+        "tillåter, godtar"
       ]
     },
     {
-      "title": "VATTENSTRÄCKA",
+      "title": "SE TILL ATT",
       "words": [
-        "farled",
-        "sträcka"
+        "tillse",
+        "verkställa"
       ],
-      "definition": "utsträckning av vattendrag",
+      "definition": "ser till att något blir gjort",
       "word_definitions": [
-        "(mycket trafikerad) vattenväg",
-        "stycke väg, avstånd"
+        "tar på sig ansvaret för, ser till",
+        "ser till att ett beslut blir genomfört"
       ]
     }
   ]

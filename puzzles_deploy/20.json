@@ -1,52 +1,52 @@
 {
-  "pivot": "dragning",
+  "pivot": "drar",
   "categories": [
     {
-      "title": "SÄTT ATT LOTTA",
+      "title": "UTVINNA NÅGOT",
       "words": [
-        "tombola",
-        "lotteri"
+        "extrahera",
+        "bryta"
       ],
-      "definition": "ett sätt att få fram vinnaren i ett lotteri; lottning",
+      "definition": "utvinner, extraherar",
       "word_definitions": [
-        "ett lotteri med en roterande låda som man drar lotterna ur",
-        "en sorts spel där slumpen avgör vem som vinner"
+        "utvinner, drar",
+        "får att gå i bitar; utvinner"
       ]
     },
     {
-      "title": "BÖJELSE ELLER ATTRAKTION",
+      "title": "FÖRFLYTTA SIG",
       "words": [
-        "förkärlek",
-        "lockelse"
+        "vandra",
+        "åka"
       ],
-      "definition": "böjelse, attraktion",
+      "definition": "förflyttar sig",
       "word_definitions": [
-        "särskild böjelse eller smak",
-        "(något som har) förmåga att dra till sig intresse eller väcka begär"
+        "förflyttar sig",
+        "förflyttas, faller"
       ]
     },
     {
-      "title": "FÄRGNYANS",
+      "title": "DRA I NÅGOT",
       "words": [
-        "schattering",
-        "ton"
+        "rycka",
+        "slita"
       ],
-      "definition": "nyans, skiftning",
+      "definition": "för till sig med handen",
       "word_definitions": [
-        "färgskiftning",
-        "färgnyans"
+        "drar hastigt ur sitt läge",
+        "drar, rycker"
       ]
     },
     {
-      "title": "HOCKEYMANÖVER",
+      "title": "SLÄPA NÅGOT",
       "words": [
-        "dribbling",
-        "fint"
+        "bogsera",
+        "hasa"
       ],
-      "definition": "dribbling i ishockey",
+      "definition": "släpar, bogserar",
       "word_definitions": [
-        "handlingen att dribbla",
-        "knep, påhitt"
+        "drar, släpar",
+        "släpar"
       ]
     }
   ]

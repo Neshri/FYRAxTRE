@@ -1,52 +1,52 @@
 {
-  "pivot": "stark",
+  "pivot": "stoppar",
   "categories": [
     {
-      "title": "FYSISK STYRKA",
+      "title": "LAGA KLÄDER",
       "words": [
-        "kraftig",
-        "hårdför"
+        "laga",
+        "sy"
       ],
-      "definition": "som har stor styrka, kraftfull (om levande varelser)",
+      "definition": "lagar hål i kläder",
       "word_definitions": [
-        "som har (fysisk) kraft, stark",
-        "kraftfull, stark , hårdhänt"
+        "reparerar",
+        "arbetar med nål och tråd (för att fästa ihop något)"
       ]
     },
     {
-      "title": "MÄKTIG OCH BESTÄMD",
+      "title": "FYLLA MED MATERIAL",
       "words": [
-        "beslutsam",
-        "mäktig"
+        "fylla",
+        "vaddera"
       ],
-      "definition": "mäktig; handlingskraftig",
+      "definition": "fyller med mjukt material",
       "word_definitions": [
-        "resolut, bestämd, handlingskraftig",
-        "imponerande, kraftig"
+        "gör full",
+        "fyller med vadd"
       ]
     },
     {
-      "title": "SINNESINTRYCK",
+      "title": "SÄTTA IN NÅGOT",
       "words": [
-        "intensiv",
-        "skarp"
+        "sticka",
+        "trycka"
       ],
-      "definition": "som intensivt påverkar sinnena",
+      "definition": "sticker (in), för (in)",
       "word_definitions": [
-        "som håller på för fullt hela tiden",
-        "vass, spetsig"
+        "stoppar, för",
+        "utövar tryck, pressar"
       ]
     },
     {
-      "title": "HÅLLBARHET",
+      "title": "UPHÖRA ATT RÖRA SIG",
       "words": [
-        "tålig",
-        "hållfast"
+        "tvärstanna",
+        "sluta"
       ],
-      "definition": "slitstark, hållbar",
+      "definition": "slutar gå, stannar",
       "word_definitions": [
-        "motståndskraftig",
-        "som inte går sönder, stark, solid"
+        "stannar plötsligt",
+        "tar slut, upphör"
       ]
     }
   ]

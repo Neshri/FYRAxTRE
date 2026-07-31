@@ -1,52 +1,52 @@
 {
-  "pivot": "skola",
+  "pivot": "skrapa",
   "categories": [
     {
-      "title": "UTBILDNINGSBYGGNAD",
+      "title": "ENKLA REDSKAP",
       "words": [
-        "institut",
-        "byggnad"
+        "kniv",
+        "spade"
       ],
-      "definition": "byggnad avsedd att bedriva utbildning i",
+      "definition": "redskap att skrapa med",
       "word_definitions": [
-        "inrättning för forskning eller utbildning",
-        "stort hus"
+        "ett redskap att skära med",
+        "ett redskap att gräva med"
       ]
     },
     {
-      "title": "KONSTNÄRLIG RIKTNING",
+      "title": "STRÄNGA ORD",
       "words": [
-        "genre",
-        "realism"
+        "varning",
+        "reprimand"
       ],
-      "definition": "riktning inom konst, vetenskap etc.",
+      "definition": "tillrättavisning",
       "word_definitions": [
-        "typ av ämne som en författare, en konstnär e.d. behandlar",
-        "en konstnärlig och litterär riktning som beskriver verkligheten förhållandevis exakt"
+        "tillrättavisning",
+        "(officiell) tillrättavisning"
       ]
     },
     {
-      "title": "TVÅNGSBEHOV",
+      "title": "JÄMNA TILL YTOR",
       "words": [
-        "behöva",
-        "nödgas"
+        "finslipa",
+        "hyvla"
       ],
-      "definition": "vara tvungen att",
+      "definition": "(med vasst föremål) ta bort ojämnheter",
       "word_definitions": [
-        "är tvungen att",
-        "är tvungen"
+        "gör färdig genom att slipa av de sista ojämnheterna",
+        "jämnar till med hyvel"
       ]
     },
     {
-      "title": "VÄXTODLING",
+      "title": "SAMLA IHOP",
       "words": [
-        "plantera",
-        "ympa"
+        "samla",
+        "inhämta"
       ],
-      "definition": "plantera om växt, i synnerhet på plantskola",
+      "definition": "samla ihop",
       "word_definitions": [
-        "sätter växt (eller frö) i jorden",
-        "planterar in en del av en växt i en annan växt"
+        "för samman (viss typ av) saker i ett visst syfte",
+        "skaffar sig, tillägnar sig; ser till att få igen, hämtar in"
       ]
     }
   ]

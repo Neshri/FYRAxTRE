@@ -1,52 +1,52 @@
 {
-  "pivot": "skugga",
+  "pivot": "skärpa",
   "categories": [
     {
-      "title": "SKYDD MOT SOLEN",
+      "title": "ALLVAR OCH BESTÄMDHET",
       "words": [
-        "parasoll",
-        "solskyddsmedel"
+        "fasthet",
+        "allvar"
       ],
-      "definition": "mörkt område där (sol)ljuset hindras av något; skydd mot solen",
+      "definition": "allvar, bestämdhet",
       "word_definitions": [
-        "skärm som liknar ett paraply och som används som skydd mot solen",
-        "medel som skyddar mot solens farliga strålning"
+        "egenskapen att vara bestämd, viljestyrka",
+        "uppriktig mening"
       ]
     },
     {
-      "title": "SOCIAL STÄLLNING",
+      "title": "LOGISK FÖRMÅGA",
       "words": [
-        "rang",
-        "position"
+        "intelligens",
+        "förstånd"
       ],
-      "definition": "undanskymd ställning",
+      "definition": "förmågan att dra korrekta logiska slutsatser",
       "word_definitions": [
-        "(social) ställning i en grupp",
-        "ställning, läge"
+        "förmåga till tänkande och analys, begåvning",
+        "förmåga att förstå"
       ]
     },
     {
-      "title": "BLOCKERA LJUS",
+      "title": "GÖRA TYDLIGARE",
       "words": [
-        "mörklägga",
-        "skära"
+        "precisera",
+        "förtydliga"
       ],
-      "definition": "skapa skugga genom att stoppa och vara i vägen för ljus; göra skuggig",
+      "definition": "göra skarpare; göra så att ett givet påstående innehåller mer information",
       "word_definitions": [
-        "hindrar att något blir bekant, tystar ner, mörkar",
-        "bearbetar med kniv (för att dela upp eller skilja ifrån något)"
+        "anger mer detaljerat, gör mera precis",
+        "gör tydligare, förklarar"
       ]
     },
     {
-      "title": "FÖRFÖLJA NÅGON",
+      "title": "KONCENTRERA UPMÄRKSAMHETEN",
       "words": [
-        "stalka",
-        "jaga"
+        "fokusera",
+        "samla"
       ],
-      "definition": "förfölja, följa efter (någon)",
+      "definition": "fokusera, koncentrera",
       "word_definitions": [
-        "förföljer eller bevakar någon på ett obehagligt sätt",
-        "förföljer för att fånga eller döda (människa eller djur)"
+        "koncentrerar uppmärksamheten",
+        "för samman (viss typ av) saker i ett visst syfte"
       ]
     }
   ]

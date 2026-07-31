@@ -1,52 +1,52 @@
 {
-  "pivot": "vad",
+  "pivot": "vila",
   "categories": [
     {
-      "title": "FRÅGEORD",
+      "title": "TILLSTÅND AV LUGN",
       "words": [
-        "vem",
-        "var"
+        "frid",
+        "ro"
       ],
-      "definition": "Vilken sak eller företeelse?",
+      "definition": "tillstånd då någon eller något vilar, stillhet, avkoppling",
       "word_definitions": [
-        "vilken person?",
-        "varje"
+        "lugn, ro, fred, stillhet",
+        "lugn och stillhet"
       ]
     },
     {
-      "title": "RELATIVPRONOMEN",
+      "title": "VARA STATISK",
       "words": [
-        "vilken",
-        "som"
+        "stanna",
+        "dröja"
       ],
-      "definition": "det som, vilket",
+      "definition": "vara kvar i samma läge i förhållande till något annat",
       "word_definitions": [
-        "som; något som",
-        "(relativt pronomen) syftar tillbaka på ett korrelat (substantiv, pronomen eller sats)"
+        "blir kvar",
+        "avvaktar, väntar"
       ]
     },
     {
-      "title": "DELAR AV BENET",
+      "title": "SÖMN OCH ÅTERHÄMTNING",
       "words": [
-        "skenben",
-        "lår"
+        "sova",
+        "konvalescera"
       ],
-      "definition": "bakre delen av underbenet",
+      "definition": "vara (mer eller mindre) inaktiv i syfte att återhämta sig",
       "word_definitions": [
-        "underbenets främre och tjockare ben",
-        "benet ovanför knäet"
+        "är i ett tillstånd av sömn, slumrar",
+        "Att återhämta sig efter en sjukdom eller skada."
       ]
     },
     {
-      "title": "HASARDSPEL",
+      "title": "VARA STÖDD AV",
       "words": [
-        "lotteri",
-        "spel"
+        "ligga",
+        "luta"
       ],
-      "definition": "en sorts tävling där man satsar pengar på att en av flera möjliga händelser ska slå in",
+      "definition": "stödjas mot; hållas uppe av; bäras av",
       "word_definitions": [
-        "en sorts spel där slumpen avgör vem som vinner",
-        "sysselsättning (ofta i tävlingsform) för nöjes skull efter vissa regler"
+        "är i vågrätt läge, vilar; är placerad",
+        "står snett"
       ]
     }
   ]

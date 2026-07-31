@@ -1,52 +1,52 @@
 {
-  "pivot": "kort",
+  "pivot": "leda",
   "categories": [
     {
-      "title": "LITEN DIMENSION",
+      "title": "STARK MOTVILJA",
       "words": [
-        "låg",
-        "tunn"
+        "avsky",
+        "äckel"
       ],
-      "definition": "som har liten längd (i tid eller rum)",
+      "definition": "känsla av stark olust, motvilja eller uttråkning för att man har fått för mycket av något",
       "word_definitions": [
-        "som har liten höjd",
-        "som har liten tjocklek, smal"
+        "motvilja, avsmak, hat",
+        "(känsla av) illamående, avsky"
       ]
     },
     {
-      "title": "BIT AV PAPPER",
+      "title": "ANSVARA FÖR",
       "words": [
-        "lapp",
-        "kupong"
+        "förvalta",
+        "sköta"
       ],
-      "definition": "litet stycke papper eller plast med viss funktion",
+      "definition": "styra (andra människor, individuellt eller en grupp); ha bestämmande inflytande över; ansvara för",
       "word_definitions": [
-        "litet stycke papper",
-        "bit papper som har ett visst värde"
+        "sköter eller tar hand om någons egendom, administrerar",
+        "vårdar, ger tillsyn; ansvarar för, tar hand om"
       ]
     },
     {
-      "title": "HÖGA SPELKORT",
+      "title": "VISA VÄGEN",
       "words": [
-        "dam",
-        "kung"
+        "lotsa",
+        "hjälpa"
       ],
-      "definition": "spelkort",
+      "definition": "vägleda, visa vägen, hjälpa",
       "word_definitions": [
-        "ett högt spelkort",
-        "ett högt spelkort; den viktigaste pjäsen i schack"
+        "vägleder",
+        "ger hjälp, bistår"
       ]
     },
     {
-      "title": "BILDER",
+      "title": "ÖVERFÖRA ENERGI",
       "words": [
-        "foto",
-        "illustration"
+        "överföra",
+        "transportera"
       ],
-      "definition": "foto, bild",
+      "definition": "överföra, (ha förmåga att) vidarebefordra elektricitet eller värme",
       "word_definitions": [
-        "fotografi",
-        "bild"
+        "flyttar från en punkt till en annan",
+        "förflyttar gods eller passagerare"
       ]
     }
   ]

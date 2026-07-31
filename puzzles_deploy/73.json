@@ -1,52 +1,52 @@
 {
-  "pivot": "kors",
+  "pivot": "leda",
   "categories": [
     {
-      "title": "GEOMETRISKA FORMER",
+      "title": "KÄNSLA AV UTTRÅKNING",
       "words": [
-        "triangel",
-        "kvadrat"
+        "uttråkning",
+        "trötthet"
       ],
-      "definition": "geometrisk figur (form) bestående av två streck eller linjer som skär varandra vinkelrätt, den ena går horisontellt och den andra vertikalt",
+      "definition": "känsla av att vara uttråkad",
       "word_definitions": [
-        "geometrisk figur med tre sidor, trekant",
-        "en geometrisk figur med fyra lika långa sidor och räta vinklar"
+        "tillståndet att vara uttråkad",
+        "det att vara trött"
       ]
     },
     {
-      "title": "RELIGIÖSA SYMBOLER",
+      "title": "HA ÖVERTAGET",
       "words": [
-        "sinnebild",
-        "ikon"
+        "dominera",
+        "överträffa"
       ],
-      "definition": "kristen symbol för lidandet",
+      "definition": "ligga först; ha övertag",
       "word_definitions": [
-        "symbol",
-        "person eller företeelse som har stort värde som samlande symbol, idol"
+        "är starkt framträdande i visst sammanhang; behärskar",
+        "är bättre eller större än"
       ]
     },
     {
-      "title": "TORTYRREKVISITA",
+      "title": "LEDA FLÖDE",
       "words": [
-        "giljotin",
-        "stock"
+        "kanalisera",
+        "slussa"
       ],
-      "definition": "historiskt tortyrredskap i form av ett kors",
+      "definition": "föra (i viss riktning)",
       "word_definitions": [
-        "ett redskap som man förr halshögg dödsdömda personer med",
-        "stam av ett träd som fällts"
+        "leder i viss riktning",
+        "låter gå genom en sluss"
       ]
     },
     {
-      "title": "UTROP AV FÖRVÅNING",
+      "title": "BÖJA NÅGOT",
       "words": [
-        "oj",
-        "hoppsan"
+        "kröka",
+        "bocka"
       ],
-      "definition": "uttrycker förvåning",
+      "definition": "böja en led",
       "word_definitions": [
-        "uttrycker förvåning",
-        "uttrycker att något inte gick som planerat, även viss förvåning"
+        "gör krokig, böjer",
+        "böjer (t.ex. en metallstång)"
       ]
     }
   ]

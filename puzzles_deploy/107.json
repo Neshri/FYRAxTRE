@@ -1,52 +1,52 @@
 {
-  "pivot": "post",
+  "pivot": "punkt",
   "categories": [
     {
-      "title": "POSTFÖRSÄNDELSER",
+      "title": "SKILJETECKEN",
       "words": [
-        "brev",
-        "försändelse"
+        "komma",
+        "parentes"
       ],
-      "definition": "brev eller paket som sänds till en adressat",
+      "definition": "tecken för slutet på en mening (.)",
       "word_definitions": [
-        "skrivet meddelande som läggs i kuvert och skickas med posten",
-        "något som skickas (t.ex. med post)"
+        "ett skiljetecken (,)",
+        "tecknet ( ) eller det som står inom det"
       ]
     },
     {
-      "title": "EKONOMISKA BELOPP",
+      "title": "AVSLUTNING",
       "words": [
-        "saldo",
-        "avgift"
+        "ände",
+        "final"
       ],
-      "definition": "belopp (i räkenskap e.d.)",
+      "definition": "slut",
       "word_definitions": [
-        "behållning (eller underskott) på ett konto",
-        "ersättning (för en rättighet), betalning, pris"
+        "yttersta del, slut",
+        "avslutning"
       ]
     },
     {
-      "title": "LODRÄT KONSTRUKTION",
+      "title": "POSITION ELLER PLATS",
       "words": [
-        "regel",
-        "stam"
+        "position",
+        "placering"
       ],
-      "definition": "lodrät del av karm (till dörr eller fönster)",
+      "definition": "plats, läge (i rum eller tid)",
       "word_definitions": [
-        "vridbar anordning som stänger till en dörr",
-        "den lodräta delen av ett träd som grenarna utgår från"
+        "ställning, läge",
+        "plats (ofta i någon sorts rangordning)"
       ]
     },
     {
-      "title": "TJÄNSTEPOSITION",
+      "title": "DEL AV HELHET",
       "words": [
-        "befattning",
-        "ämbete"
+        "avsnitt",
+        "moment"
       ],
-      "definition": "(högre) tjänst",
+      "definition": "avsnitt, del, inslag",
       "word_definitions": [
-        "sysselsättning, (högre) tjänst, arbete",
-        "(hög) statlig eller kyrklig tjänst"
+        "del, avdelning, stycke",
+        "beståndsdel; avsnitt"
       ]
     }
   ]

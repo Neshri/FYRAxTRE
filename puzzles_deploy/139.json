@@ -1,52 +1,52 @@
 {
-  "pivot": "spelar",
+  "pivot": "sticka",
   "categories": [
     {
-      "title": "UTÖVA SPEL OCH SPORT",
+      "title": "LÄMNA SMYGANDE",
       "words": [
-        "idrotta",
-        "leka"
+        "slinka",
+        "smita"
       ],
-      "definition": "ägnar sig åt spel",
+      "definition": "dra; gå (iväg, bortåt); smita; ge sig iväg",
       "word_definitions": [
-        "ägnar sig åt idrott, sportar",
-        "håller på med lek"
+        "smiter; går",
+        "avlägsnar sig omärkligt, smyger iväg"
       ]
     },
     {
-      "title": "AGERA I TEATER/FILM",
+      "title": "HUDKÄNSLA",
       "words": [
-        "uppföra",
-        "agera"
+        "pirra",
+        "domna"
       ],
-      "definition": "uppför en viss teaterpjäs, agerar i en teaterpjäs eller film",
+      "definition": "ge upphov till en känsla som av ett stort antal spetsiga föremål trycks in; ge en stickande känsla",
       "word_definitions": [
-        "spelar (teater), framför",
-        "spelar (rollen av)"
+        "kittlar, sticker, kryper",
+        "förlorar känseln"
       ]
     },
     {
-      "title": "FÖRSTÄLLA SIG",
+      "title": "TRÄKLUBBOR",
       "words": [
-        "låtsa",
-        "simulera"
+        "hammare",
+        "kavle"
       ],
-      "definition": "låtsas",
+      "definition": "klubba",
       "word_definitions": [
-        "låtsas",
-        "spelar, låtsar"
+        "ett verktyg att slå i spikar med",
+        "äldre variant till kavel"
       ]
     },
     {
-      "title": "SPELA MUSIKINSTRUMENT",
+      "title": "TEXTILTEKNIKER",
       "words": [
-        "musicera",
-        "traktera"
+        "virka",
+        "väva"
       ],
-      "definition": "framför musik på instrument, musicerar",
+      "definition": "tillverka vävnad av garn för hand medelst en (rund-) eller flera stickor",
       "word_definitions": [
-        "framför musik",
-        "spelar (musikinstrument)"
+        "tillverkar av garn med hjälp av virknål",
+        "fogar samman trådar (eller garn) till ett helt tygstycke"
       ]
     }
   ]

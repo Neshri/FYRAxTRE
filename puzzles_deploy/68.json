@@ -1,52 +1,52 @@
 {
-  "pivot": "knäpper",
+  "pivot": "kort",
   "categories": [
     {
-      "title": "KORTA LJUD",
+      "title": "LITEN STORLEK",
       "words": [
-        "klicka",
-        "smälla"
+        "tunn",
+        "låg"
       ],
-      "definition": "ger ifrån sig ett knäpp",
+      "definition": "som har liten längd (i tid eller rum)",
       "word_definitions": [
-        "knäpper metalliskt",
-        "ger ifrån sig en hård knall"
+        "som har liten tjocklek, smal",
+        "som har liten höjd"
       ]
     },
     {
-      "title": "TA BILDER",
+      "title": "PAPPERSBITAR",
       "words": [
-        "fotografera",
-        "avbilda"
+        "lapp",
+        "kupong"
       ],
-      "definition": "trycker på knappen på kameran (för att ta ett foto)",
+      "definition": "litet stycke papper eller plast med viss funktion",
       "word_definitions": [
-        "tar bilder med kamera, fotar",
-        "gör en bild av, återger"
+        "litet stycke papper",
+        "bit papper som har ett visst värde"
       ]
     },
     {
-      "title": "SKJUTA NER",
+      "title": "KORTLEKENS FIGURER",
       "words": [
-        "panga",
-        "sänka"
+        "kung",
+        "dam"
       ],
-      "definition": "skjuter ner",
+      "definition": "spelkort",
       "word_definitions": [
-        "smäller, skjuter",
-        "förflyttar nedåt"
+        "ett högt spelkort; den viktigaste pjäsen i schack",
+        "ett högt spelkort"
       ]
     },
     {
-      "title": "FÄSTA IHOP",
+      "title": "BILDTYPER",
       "words": [
-        "knyta",
-        "binda"
+        "illustration",
+        "tavla"
       ],
-      "definition": "fäster ihop med en knapp; knyter samman",
+      "definition": "foto, bild",
       "word_definitions": [
-        "binder ihop med en knut, pressar samman",
-        "knyter, fäster, surrar"
+        "bild",
+        "bild, målning"
       ]
     }
   ]

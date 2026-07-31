@@ -1,52 +1,52 @@
 {
-  "pivot": "modell",
+  "pivot": "nära",
   "categories": [
     {
-      "title": "FÖREBILDER",
+      "title": "KORT AVSTÅND",
       "words": [
-        "ideal",
-        "idol"
+        "kort",
+        "tät"
       ],
-      "definition": "förebild, exempel",
+      "definition": "på litet avstånd (i tid eller rum)",
       "word_definitions": [
-        "perfekt exempel (att efterlikna), förebild",
-        "person som man ser upp till, förebild, ideal"
+        "som har liten längd (i tid eller rum)",
+        "utan stora mellanrum; kompakt, koncentrerad"
       ]
     },
     {
-      "title": "MINIATYRER",
+      "title": "NÄSTAN ELLER UNGEFÄR",
       "words": [
-        "avbild",
-        "miniatyr"
+        "nästan",
+        "bortåt"
       ],
-      "definition": "kopia i liten skala",
+      "definition": "så gott som, nästan",
       "word_definitions": [
-        "kopia",
-        "starkt förminskad modell av något"
+        "så gott som, närapå",
+        "så gott som, nästan"
       ]
     },
     {
-      "title": "PRODUKTVARIANTER",
+      "title": "EXAKT ELLER PRECIS",
       "words": [
-        "version",
-        "typ"
+        "precis",
+        "just"
       ],
-      "definition": "(vanligt) utförande av en viss vara (t.ex. bilar, maskiner, kläder)",
+      "definition": "(mer) exakt",
       "word_definitions": [
-        "(alternativt) utförande, variant",
-        "sort, kategori, slag"
+        "noggrann, exakt",
+        "precis, exakt"
       ]
     },
     {
-      "title": "POSERANDE PERSONER",
+      "title": "GE NÄRING",
       "words": [
-        "mannekäng",
-        "posör"
+        "berika",
+        "göda"
       ],
-      "definition": "person (särskilt kvinna) som poserar eller gör reklam för något",
+      "definition": "ge näring",
       "word_definitions": [
-        "person (särskilt kvinna) som är anställd för att bli fotograferad i nya kläder",
-        "den som gärna poserar, tillgjord människa"
+        "tillför näring",
+        "gör fet; tillför växter näringsämnen"
       ]
     }
   ]

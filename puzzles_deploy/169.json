@@ -1,52 +1,52 @@
 {
-  "pivot": "vapen",
+  "pivot": "volym",
   "categories": [
     {
-      "title": "STRIDSREDSKAP",
+      "title": "RUMSLIG STORLEK",
       "words": [
-        "spjut",
-        "svärd"
+        "vidd",
+        "mått"
       ],
-      "definition": "redskap för att skada eller döda (vid anfall eller försvar)",
+      "definition": "omfång i tre dimensioner, rymd",
       "word_definitions": [
-        "ett vapen eller idrottsredskap i form av en vass stång som stöts eller kastas",
-        "ett långsmalt vapen att hugga eller sticka med"
+        "omfång; utsträckning",
+        "storlek, dimension"
       ]
     },
     {
-      "title": "STRATEGISK FÖRDEL",
+      "title": "OMFATTNING",
       "words": [
-        "trumfkort",
-        "försteg"
+        "utsträckning",
+        "grad"
       ],
-      "definition": "tillgång (som ger stor fördel)",
+      "definition": "omfattning",
       "word_definitions": [
-        "mycket värdefull resurs eller tillgång",
-        "försprång; fördel"
+        "omfattning, grad",
+        "utsträckning, omfattning"
       ]
     },
     {
-      "title": "MILITÄR FÖRSVARSGREN",
+      "title": "LJUDSTYRKA",
       "words": [
-        "armé",
-        "flotta"
+        "decibel",
+        "intensitet"
       ],
-      "definition": "försvarsgren",
+      "definition": "tonstyrka",
       "word_definitions": [
-        "alla militära förband (i ett land) som strider på marken",
-        "ett lands stridskrafter till sjöss; en samling fartyg"
+        "en måttenhet för ljudstyrka",
+        "stor kraft eller styrka"
       ]
     },
     {
-      "title": "HERALDISK SYMBOL",
+      "title": "TRYCKT VERK",
       "words": [
-        "emblem",
-        "symbol"
+        "skrift",
+        "häfte"
       ],
-      "definition": "tecken (på sköld) för en släkt, stad eller stat",
+      "definition": "bok(band)",
       "word_definitions": [
-        "sinnebildligt märke",
-        "tecken med en särskild innebörd"
+        "publicerat arbete, bok",
+        "tunn bok"
       ]
     }
   ]

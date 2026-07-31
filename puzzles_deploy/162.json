@@ -1,52 +1,52 @@
 {
-  "pivot": "tryck",
+  "pivot": "tät",
   "categories": [
     {
-      "title": "FYSISK KRAFT",
+      "title": "HÖG KONCENTRATION",
       "words": [
-        "belastning",
-        "styrka"
+        "tjock",
+        "kompakt"
       ],
-      "definition": "kraft per ytenhet",
+      "definition": "utan stora mellanrum; kompakt, koncentrerad",
       "word_definitions": [
-        "påfrestning, tryck",
-        "fysisk eller psykisk kraft"
+        "kompakt; trögflytande",
+        "svår att tränga igenom, tät"
       ]
     },
     {
-      "title": "SOCIAL PÅVERKAN",
+      "title": "SLIPPER INTE IGENOM",
       "words": [
-        "lobby",
-        "inflytande"
+        "ogenomtränglig",
+        "sluten"
       ],
-      "definition": "påverkan, påtryckning",
+      "definition": "som inte släpper igenom luft eller vätska",
       "word_definitions": [
-        "påtryckningsgrupp",
-        "möjlighet att påverka"
+        "omöjlig att tränga igenom",
+        "stängd; privat"
       ]
     },
     {
-      "title": "TALETS BETONING",
+      "title": "EKONOMISKT VÄLSTÄLLD",
       "words": [
-        "accent",
-        "intonation"
+        "förmögen",
+        "välbärgad"
       ],
-      "definition": "betoning av ord, tonvikt",
+      "definition": "rik",
       "word_definitions": [
-        "betoning (av ett ord eller en del av ett ord), tonvikt, tryck",
-        "växling av tonhöjd vid tal"
+        "rik",
+        "ganska rik"
       ]
     },
     {
-      "title": "TRYCKTA SKRIFTER",
+      "title": "FÖRSTA LEDET",
       "words": [
-        "publikation",
-        "dokument"
+        "spjutspets",
+        "förtrupp"
       ],
-      "definition": "tryckning (t.ex. av böcker); tryckt skrift",
+      "definition": "främsta del av en trupp e.d.",
       "word_definitions": [
-        "tryckt skrift, bok, tidning",
-        "skrift, handling (ofta av juridisk eller historisk betydelse)"
+        "viktig del eller person",
+        "trupp som går före huvudstyrkan och skyddar den från anfall framifrån"
       ]
     }
   ]

@@ -1,52 +1,52 @@
 {
-  "pivot": "skiva",
+  "pivot": "skola",
   "categories": [
     {
-      "title": "VILD FEST",
+      "title": "SKOLTYPER",
       "words": [
-        "sjöslag",
-        "festlighet"
+        "gymnasium",
+        "daghem"
       ],
-      "definition": "fest, partaj",
+      "definition": "institution för utbildning, i synnerhet av barn, och i synnerhet om det samhällssystem för ofta obligatorisk utbildning av barnen i ett givet lands befolkning eller om en enskild lokal institution i detta system",
       "word_definitions": [
-        "vild fest",
-        "egenskapen att vara festlig"
+        "utbildning efter grundskolan med sikte på studentexamen",
+        "en form av kommunal förskola, dagis"
       ]
     },
     {
-      "title": "MUSIKALISK INSPELNING",
+      "title": "KONSTRIKTNINGAR",
       "words": [
-        "soundtrack",
-        "album"
+        "genre",
+        "realism"
       ],
-      "definition": "inspelning, till exempel av ett antal musikstycken, på ett gripbart föremål såsom en grammofonskiva eller CD-skiva, vanligtvis avsedd att säljas",
+      "definition": "riktning inom konst, vetenskap etc.",
       "word_definitions": [
-        "(skiva som innehåller) musiken till film eller dataspel",
-        "en sorts bok där man samlar något, t.ex. fotografier eller frimärken"
+        "typ av ämne som en författare, en konstnär e.d. behandlar",
+        "en konstnärlig och litterär riktning som beskriver verkligheten förhållandevis exakt"
       ]
     },
     {
-      "title": "STYCKE AV NÅGOT",
+      "title": "TVÅNGSVERB",
       "words": [
-        "sjok",
-        "bit"
+        "behöva",
+        "nödgas"
       ],
-      "definition": "jämntjockt (ganska smalt) stycke av något",
+      "definition": "vara tvungen att",
       "word_definitions": [
-        "stort (platt) stycke",
-        "del, stycke, avsnitt"
+        "är tvungen att",
+        "är tvungen"
       ]
     },
     {
-      "title": "RUNDA PLATTA SAKER",
+      "title": "PLANTERINGSVERB",
       "words": [
-        "ring",
-        "tallrik"
+        "ympa",
+        "sätta"
       ],
-      "definition": "platt föremål, eller föremål som förefaller platt, ofta cirkelformat och/eller roterande",
+      "definition": "plantera om växt, i synnerhet på plantskola",
       "word_definitions": [
-        "(föremål med) form som liknar en cirkel",
-        "(mindre) fat där maten till en person läggs upp, fat"
+        "planterar in en del av en växt i en annan växt",
+        "planterar"
       ]
     }
   ]

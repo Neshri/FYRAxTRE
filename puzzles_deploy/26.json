@@ -1,52 +1,52 @@
 {
-  "pivot": "driver",
+  "pivot": "fall",
   "categories": [
     {
-      "title": "TVINGA NÅGON",
+      "title": "SÄTT ATT STÖRTA",
       "words": [
-        "förplikta",
-        "nödga"
+        "haveri",
+        "ras"
       ],
-      "definition": "föser, tvingar",
+      "definition": "handlingen att störta ner eller ramla",
       "word_definitions": [
-        "ålägger, tvingar",
-        "tvingar, förmår"
+        "det att ett fartyg går under eller ett flygplan störtar",
+        "skred (särskilt av jord, snö eller sten)"
       ]
     },
     {
-      "title": "UTÖVA PÅVERKAN",
+      "title": "TOTAL UNDERGÅNG",
       "words": [
-        "influera",
-        "inverka"
+        "ruin",
+        "kollaps"
       ],
-      "definition": "påverkar",
+      "definition": "undergång, undergång",
       "word_definitions": [
-        "inverkar på, påverkar",
-        "påverkar"
+        "(ekonomisk) undergång; bankrutt",
+        "plötsligt sammanbrott"
       ]
     },
     {
-      "title": "BEDRIVA VERKSAMHET",
+      "title": "BRANT NEDGÅNG",
       "words": [
-        "utöva",
-        "idka"
+        "brant",
+        "avgrund"
       ],
-      "definition": "ägnar sig åt, bedriver",
+      "definition": "fors; stup",
       "word_definitions": [
-        "bedriver verksamhet",
-        "sysslar med, bedriver"
+        "brant sluttning, stup",
+        "stor klyfta, stup"
       ]
     },
     {
-      "title": "SKOJA OCH SKÄMTA",
+      "title": "HÄNDELSE",
       "words": [
-        "skoja",
-        "skämta"
+        "tilldragelse",
+        "begivenhet"
       ],
-      "definition": "skojar, skämtar",
+      "definition": "händelse, tillfälle; exempel",
       "word_definitions": [
-        "skämtar",
-        "säger lustigheter, skojar"
+        "händelse",
+        "stor händelse, evenemang"
       ]
     }
   ]

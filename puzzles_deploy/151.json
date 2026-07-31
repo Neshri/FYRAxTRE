@@ -1,52 +1,52 @@
 {
-  "pivot": "säker",
+  "pivot": "så",
   "categories": [
     {
-      "title": "UTOM FARA",
+      "title": "PLANTERA VÄXTER",
       "words": [
-        "riskfri",
-        "trygg"
+        "plantera",
+        "odla"
       ],
-      "definition": "utom fara, skyddad, trygg",
+      "definition": "sprida frön i jordmån för att de ska gro",
       "word_definitions": [
-        "som inte innebär någon risk, säker",
-        "säker (om människans omgivning)"
+        "sätter växt (eller frö) i jorden",
+        "producerar växter; brukar jorden"
       ]
     },
     {
-      "title": "ATT LITA PÅ",
+      "title": "DJURENS DRICKKÄRL",
       "words": [
-        "trovärdig",
-        "solid"
+        "tråg",
+        "kar"
       ],
-      "definition": "tillförlitlig",
+      "definition": "dryckeskärl för boskap",
       "word_definitions": [
-        "som man kan tro på, pålitlig, tillförlitlig",
-        "grundlig, pålitlig"
+        "ett avlångt, fyrkantigt kärl",
+        "stor öppen behållare för vatten (eller annan vätska)"
       ]
     },
     {
-      "title": "VARA ÖVERTYGAD",
+      "title": "GRAD AV NÅGOT",
       "words": [
-        "viss",
-        "övertygad"
+        "mycket",
+        "väldigt"
       ],
-      "definition": "övertygad, förvissad",
+      "definition": "till den grad, lika",
       "word_definitions": [
-        "säker, övertygad",
-        "som är säker på sin sak; om någon som anser sig veta vad som stämmer"
+        "i hög grad",
+        "mycket"
       ]
     },
     {
-      "title": "UTAN TVIVEL",
+      "title": "LOGISK FÖLJD",
       "words": [
-        "omisskännlig",
-        "självklar"
+        "alltså",
+        "därmed"
       ],
-      "definition": "otvivelaktig",
+      "definition": "följaktligen",
       "word_definitions": [
-        "otvetydig, uppenbar",
-        "naturlig, självfallen"
+        "således, följaktligen",
+        "Som en följd av det som just nämnts; därför eller på det sättet."
       ]
     }
   ]

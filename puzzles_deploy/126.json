@@ -1,52 +1,52 @@
 {
-  "pivot": "skala",
+  "pivot": "skiva",
   "categories": [
     {
-      "title": "MUSIKALISKA FÖLJDER",
+      "title": "FESTLIGHETER",
       "words": [
-        "melodi",
-        "tongång"
+        "festlighet",
+        "sjöslag"
       ],
-      "definition": "stegvis ordnad följd av toner (eller färger)",
+      "definition": "fest, partaj",
       "word_definitions": [
-        "ordnad följd av toner som bildar en musikalisk helhet",
-        "följd av toner, melodi"
+        "egenskapen att vara festlig",
+        "vild fest"
       ]
     },
     {
-      "title": "MÄTMARKERINGAR",
+      "title": "MUSIKINSPELNINGAR",
       "words": [
-        "markering",
-        "skåra"
+        "demo",
+        "soundtrack"
       ],
-      "definition": "ordnade markeringar på mätinstrument e.dyl. där avståndet mellan markeringarna motsvarar en viss måttenhet",
+      "definition": "inspelning, till exempel av ett antal musikstycken, på ett gripbart föremål såsom en grammofonskiva eller CD-skiva, vanligtvis avsedd att säljas",
       "word_definitions": [
-        "handlingen att markera något (eller någon)",
-        "repa, rispa, fåra"
+        "cd-skiva e.d. med provisorisk inspelning",
+        "(skiva som innehåller) musiken till film eller dataspel"
       ]
     },
     {
-      "title": "AVLÄGSNA YTSKIKT",
+      "title": "MATLAGNINGSVERB",
       "words": [
-        "flå",
-        "skrapa"
+        "snitta",
+        "tärna"
       ],
-      "definition": "avlägsna skalet eller annat hölje från något (t.ex. potatis)",
+      "definition": "skära i skivor",
       "word_definitions": [
-        "tar av skinnet på djur",
-        "tar bort ojämnheter (med ett vasst föremål); skaver, river"
+        "Att göra grunda snitt eller skåror i ytan på något, till exempel på ett bröd innan gräddning.",
+        "skär i tärningar"
       ]
     },
     {
-      "title": "STORLEKSFÖRHÅLLANDEN",
+      "title": "AVKAPPADE BITAR",
       "words": [
-        "proportion",
-        "kvot"
+        "flak",
+        "folie"
       ],
-      "definition": "storleksförhållandet mellan en avbildning och det avbildade föremålet eller området, särskilt i kartsammanhang",
+      "definition": "del från ett större objekt som skurits av till en jämntjock och relativt tunn bit",
       "word_definitions": [
-        "överensstämmelse mellan storlekarna på olika delar",
-        "resultat av en division"
+        "stor jämntjock skiva",
+        "mycket tunt skikt av metall eller plast"
       ]
     }
   ]
